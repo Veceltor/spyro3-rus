@@ -1,0 +1,66 @@
+Основной уровень 
+
+Zoe 
+Be sure to keep your friend Sparx the Dragonfly healthy Spyro. If his health is low, torch a little creature like this slug below me to release a butterfly. 
+Rocky 
+*Here, take this egg. They were giving them away at the Tiki Lodge last night. 
+Clay 
+Rhynocs are running rampant around here, but I can't get anyone out of the Tiki Lodge long enough to do anything about it. 
+*Well, it looks like it's just you and me. I'll keep a look out while you sort out the rhynocs. 
+Moneybags 
+Spyro, you're just in time! I saw two egg thieves run through this door! Well... actually, they paid me to guard their hideout, but that's irrelevant. I'll happily let you through the gate to chase them down... for, ahem, a small finder's fee... &Pay ^^^ gems to enter the thieves' den? &Ok, ok... &Get lost, loser! 
+Thank you, Spyro, and best of luck catching those dastardly egg thieves. 
+Very well, Spyro, it's up to you... Maybe if we both just hold hands and think happy thoughts, the thieves will decide to return the eggs themselves. 
+Well, Spyro, it's good to see you! This gate I'm guarding happens to be the secret entrance to an egg thief hideout... Of course, I can't let you enter with a clean conscience... At least not without paying a small fee. &[Entering thief hideout costs ^^^ gems. 
+I guess those egg thieves are going to get what's coming to them... it's too bad... I always sort of liked those guys. 
+Note: Sgt. Byrd is currently on an important mission... to the inside of a cage! Tough luck.\ -The Sorceress 
+Would love to visit, old chap, but I've got work to do back at the base. You can check in with me there. -Sgt. James Byrd 
+Step inside, old chum! -Sgt. James Byrd 
+
+Зоя 
+Не забывай следить за здоровьем своего друга Спаркса. Если оно низкое, подбей какое-нибудь маленькое существо вроде этого слизняка и получи лечащую бабочку. 
+Рокки 
+*Возьми это яйцо. Они выбросили его из Домика Тики прошлой ночью. 
+Клэй 
+Здесь повсюду бегают носороги, но я не могу ничего сделать, так как Домик Тики довольно далеко отсюда. 
+Манибэгс 
+Спайро, ты как раз вовремя! Два вора, укравших яйца, забежали за эту дверь. И да... они заплатили мне за охрану их убежища, но это неважно. Я с радостью пропущу тебя туда, чтоб ты их мог поймать... за небольшую плату... &Заплатить ^^^ кристаллов за проход в убежище воров? &Ага... &Сгинь, неудачник! 
+Спасибо, Спайро, удачи тебе в поимке воров. 
+Хорошо, Спайро, твое дело... Может быть если мы сядем здесь, возьмемся за руки и подумаем о хорошем... То воры решат вернуть яйца. 
+О, Спайро, я рад тебя видеть. Я сторожу эти ворота, ведущие в убежище пары воров... Конечно, я не могу с чистой совестью пустить тебя туда... Ну, или хотя бы, за небольшую плату... &[Вход в убежище воров стоит ^^^ кристаллов. 
+Я думаю,что этих воров яиц настигло правосудие... это очень плохо... Мне эти парни всегда нравились. 
+Объявление: Сержант Бёрд сейчас на очень важной миссии... в клетке! Как жаль.\ -Колдунья 
+Рад бы повидаться, старина, но я сейчас работаю на базе. Ты можешь навестить меня там. -Сержант Джеймс Бёрд 
+Заходи, старина! -Сержант Джеймс Бёрд 
+
+---------------------------------------------------- 
+Подуровень Сержанта Бёрда 
+
+Shale 
+I'm playing a game of hide and seek with my friends. If I can't find where they've hidden their heads they won't let me join the Tiki Lodge. Help me put them back together and I'll make you an honorary member. 
+When you find a head, land on top of it to pick it up. Then fly it over to an idol body to put them back together. 
+Take this egg as a sign of your honorary membership in the lodge. 
+When you've picked up a tiki head, fly over to any body and use the > button to drop the tiki head. 
+Well that's never happened before. I hope it's not a bad omen. 
+
+Шелли 
+Я играл в прятки с моими друзьями. Если я не смогу найти, где они спрятали свои головы, они не дадут мне вернуться в Домик Тики. Помоги мне найти их головы и установить их на место, я тебя отблагодарю. 
+Когда ты найдешь голову, сядь на нее сверху, чтоб подобрать, после чего лети сюда и соедини голову с туловищем. 
+Возьми это яйцо в качестве награды. 
+Когда ты подберешь голову, лети обратно и ставь ее на любое тело, нажав кнопку > для сброса головы. 
+Такого раньше никогда не было. Надеюсь, это не плохая примета. 
+
+---------------------------------------------------- 
+Подуровень в котором гонять воров по беговой дорожке 
+
+Stoney 
+Are you the dragon looking for all those eggs? Because I saw a shifty looking character with one over there. 
+Hey, there goes another one. He was really fast...maybe if I activate the supercharge you'll be able to catch him. 
+You should catch that thief before he steals something valuable. 
+*Those guys ought to be locked up. 
+
+Стонни 
+Ты тот дракон, ищущий все эти яйца? Я видел там чудика с одним таким яйцом. 
+Эй, вон идет еще один. Он очень быстрый.. может быть если я включу для тебя супербег, ты сможешь поймать его. 
+Ты должен поймать этого вора, укравшего кое-что ценное. 
+Эти парни должны быть под замком.
