@@ -1,0 +1,503 @@
+This rhynoc is too big to charge. You'll have to flame him using the { button.
+
+Hi Spyro! Each time a fairy zaps you, like this...
+
+That means your progress is saved. If you get into trouble you'll return to the last place you got zapped.
+
+Councillor George
+
+Oh my! Oh my! Can you help us? Hordes of ferocious rhynocs have overrun our town and kidnapped the mayor.
+
+Are you a dragon? I never believed you really existed.
+
+Would you like a chicken sandwich? They're very good.
+
+Those pesky rhynocs are back again, but I'm sure you'll soon sort them out.
+
+Citizen Paulus
+
+Let me catch my breath and I'll kick that other guy's butt.
+
+We showed those two bullies. If they hadn't outnumbered me two to one, I'd have finished them off ages ago.
+
+Have you seen any giant chickens around here?
+
+Thank you for rescuing my town. As mayor I award you with one of our famous giant chicken eggs.
+
+I'm sorry, that was the ugliest chicken I've ever seen.
+
+Citizen Horace
+
+Whoo I'm dizzy.
+
+Thanks for the help, but I think I would have worn him down in a minute.
+
+Have you seen any of our giant chickens? The rhynocs have been trying to eat them all.
+
+Look, a chicken turned up. I hope it's not the only one left.
+
+To Whom it May Concern: Sheila the Kangaroo is currently otherwise detained -- by me. Please return in a few years.\      -The Sorceress
+
+Spyro, thanks for dropping by, but I'm currently busy in my home world. Come visit me there.\          -Sheila
+
+Come on in!\     -Sheila
+
+xmJ@xmJrww
+
+VGIB,oRW, 
+
+double-jump:
+
+jump, land + <
+
+What! Marco sent you here? I've got a restraining order against him.
+
+If you see Marco please tell him I've moved out.
+
+Hey Spyro, there are rhynocs everywhere. Maybe I can find some peace and quiet at the top of the tower...
+
+Alas, I have lost my love, guarded by evil rhynocs at the top of yonder tower. Can you rescue her for me?
+
+Attention dragon: if you ever want to see your mangy cat friend again, you had better leave here at once!\     -The Sorceress
+
+Gnasty Gnorc
+
+Half-pipe Leap
+
+Triple Towers
+
+Quint Front Flip
+
+Quint Roll Left
+
+Quint Back Flip
+
+Quint Roll Right
+
+Orange Crush
+
+Single Front Flip
+
+Double Front Flip
+
+Triple Front Flip
+
+Quad Front Flip
+
+Single Roll Left
+
+Double Roll Left
+
+Triple Roll Left
+
+Single Spin Left
+
+Double Spin Left
+
+Triple Spin Left
+
+Single Back Flip
+
+Double Back Flip
+
+Triple Back Flip
+
+Quad Back Flip
+
+Single Roll Right
+
+Double Roll Right
+
+Triple Roll Right
+
+Toasty Twist
+
+Single Spin Right
+
+Double Spin Right
+
+Triple Spin Right
+
+Twisted Lemon
+
+Twisted Lemon x 2
+
+Twisted Lemon x 3
+
+Thrash Master
+
+Twisted Lime
+
+Double Twisted Lime
+
+Triple Twisted Lime
+
+Super Thrash Master
+
+Raging Ripto
+
+Truffe de Gnorc
+
+Demi-tonneau
+
+Triples Tours
+
+5x flip avant
+
+5x demi-tour a@g gauche
+
+5x tour a@g gauche
+
+5x flip arrie@gre
+
+5x demi-tour a@g droite
+
+5x tour a@g droite
+
+Flip avant simple
+
+Double flip avant
+
+Triple flip avant
+
+4x flip avant
+
+1x demi-tour a@g gauche
+
+2x demi-tour a@g gauche
+
+3x demi-tour a@g gauche
+
+4x demi-tour a@g gauche
+
+Tour simple gauche
+
+Double tour gauche
+
+Triple tour gauche
+
+4x tour gauche
+
+Flip arrie@gre simple
+
+Double flip arrie@gre
+
+Triple flip arrie@gre
+
+4x flip arrie@gre
+
+1x demi-tour a@g droite
+
+2x demi-tour a@g droite
+
+3x demi-tour a@g droite
+
+4x demi-tour a@g droite
+
+Tour simple droite
+
+Double tour droite
+
+Triple tour droite
+
+4x tour droite
+
+Citron presse@a
+
+2x Citron presse@a
+
+3x Citron presse@a
+
+Mai@jtre Supre@ime
+
+Lime presse@ae
+
+Double Lime presse@ae
+
+Triple Lime presse@ae
+
+SuperMai@jtre Supre@ime
+
+Ripto la Terreur
+
+Gnasty Gnorc
+
+Half-Pipe-Sprung
+
+Dreifach-Tu@urme
+
+5x Flip vorwa@urts
+
+5x Rolle links
+
+5x Spin links
+
+5x Flip ru@uckwa@urts
+
+5x Rolle rechts
+
+5x Spin rechts
+
+1x Flip vorwa@urts
+
+2x Flip vorwa@urts
+
+3x Flip vorwa@urts
+
+4x Flip vorwa@urts
+
+1x Rolle links
+
+2x Rolle links
+
+3x Rolle links
+
+4x Rolle links
+
+1x Spin links
+
+2x Spin links
+
+3x Spin links
+
+4x Spin links
+
+1x Flip ru@uckwa@urts
+
+2x Flip ru@uckwa@urts
+
+3x Flip ru@uckwa@urts
+
+4x Flip ru@uckwa@urts
+
+1x Rolle rechts
+
+2x Rolle rechts
+
+3x Rolle rechts
+
+4x Rolle rechts
+
+1x Spin rechts
+
+2x Spin rechts
+
+3x Spin rechts
+
+4x Spin rechts
+
+Gepresste Zitrone
+
+2x gepr. Zitrone
+
+3x gepr. Zitrone
+
+Thrash Master
+
+Gedrehte Limone
+
+2x gedrehte Limone
+
+3x gedrehte Limone
+
+Super Thrash Master
+
+Tobender Ripto
+
+Gnasty Gnorc
+
+Salto de medio tubo
+
+Torres triples
+
+Voltereta izda. x5
+
+Pirueta izda. x5
+
+Giro izquierdo x5
+
+Voltereta atra@as x5
+
+Pirueta derecha x5
+
+Giro derecho x5
+
+Volt. adelante x1
+
+Volt. adelante x2
+
+Volt. adelante x3
+
+Volt. adelante x4
+
+Pirueta izda. x1
+
+Pirueta izda. x2
+
+Pirueta izda. x3
+
+Pirueta izda. x4
+
+Giro izquierdo x1
+
+Giro izquierdo x2
+
+Giro izquierdo x3
+
+Giro izquierdo x4
+
+Voltereta atra@as x1
+
+Voltereta atra@as x2
+
+Voltereta atra@as x3
+
+Voltereta atra@as x4
+
+Pirueta derecha x1
+
+Pirueta derecha x2
+
+Pirueta derecha x3
+
+Pirueta derecha x4
+
+Giro derecho x1
+
+Giro derecho x2
+
+Giro derecho x3
+
+Giro derecho x4
+
+Limo@an exprimido
+
+Limo@an exprimido x2
+
+Limo@an exprimido x3
+
+Contorsio@an maestra
+
+Lima exprimida
+
+Lima exprimida x2
+
+Lima exprimida x3
+
+Cont. su@apermaestra
+
+Furia de Ripto
+
+Gnasty Gnorc
+
+Salto Half-pipe
+
+X5 Flip Frontale
+
+X5 Roll A Sinistra
+
+X5 Spin A Sinistra
+
+X5 Flip Indietro
+
+X5 Roll A Destra
+
+X5 Spin A Destra
+
+Flip X1 Frontale
+
+X2 Flip Frontale
+
+X3 Flip Frontale
+
+X4 Flip Frontale
+
+Roll X1 A Sinistra
+
+X2 Roll A Sinistra
+
+X3 Roll A Sinistra
+
+X4 Roll A Sinistra
+
+Spin X1 A Sinistra
+
+X2 Spin A Sinistra
+
+X3 Spin A Sinistra
+
+X4 Spin A Sinistra
+
+Flip X1 Indietro
+
+X2 Flip Indietro
+
+X3 Flip Indietro
+
+X4 Flip Indietro
+
+Roll X1 A Destra
+
+X2 Roll A Destra
+
+X3 Roll A Destra
+
+X4 Roll A Destra
+
+Spin X1 A Destra
+
+X2 Spin A Destra
+
+X3 Spin A Destra
+
+X4 Spin A Destra
+
+Twisted Lemon
+
+X2 Twisted Lemon
+
+X3 Twisted Lemon
+
+Thrash Master
+
+Twisted Lime
+
+X2 Twisted Lime
+
+X3 Twisted Lime
+
+Super Thrash Master
+
+Raging Ripto
+
+Hi Spyro. I found this gladiator training arena and it makes a pretty cool skate park! Care for a test of your boarding skills? &Start boarding challenge now? &Yes. &No.
+
+Are you ready for a challenge now? &Start boarding challenge now? &Yes. &No.
+
+I bet you can't catch all fifteen of the lizards running around here... Just come back if you want some boarding tips from the master. &[Catch the lizards.
+
+Yeah, maybe you'd better practice a bit first... Just come back here when you're up for a challenge.
+
+Having trouble? If you use the < button to jump off the ramps you'll get extra height and distance.
+
+Caught all the lizards yet? If you're having trouble catching them, don't be afraid to use your flame breath while on the skateboard.
+
+Hey that was great! And while you were boarding, I found this in a lizard burrow.
+
+Now that you've mastered the basics, let's see you do some stunts! Try using the < or } button to jump off ramps and turn in the air...
+
+This is the most fun I've had since we chased King Flippy on the manta ray.
+
+Alright, if you can catch all the lizards without wiping out and before time runs out, I  might be able to scrounge up another egg. It's not gonna be easy, though... &Start difficult boarding challenge now? &Yes. &No.
+
+If you want to try to catch those lizards, I'll start the clock now. &Start difficult boarding challenge now? &Yes. &No.
+
+Go get 'em, Spyro!
+
+Well whenever you're ready, come and talk to me.
+
+Awww, too bad... maybe you'll do better this time. &Try difficult boarding challenge again? &Yes. &No.
+
+Whoa, that was sweet! And look, there was another egg in the lizard burrow.
+
+You can go for the course record now, if you want. Whenever you hop on a skateboard, a timer will start. Score as many points as you can until the timer expires or you wipe out. Good luck!
