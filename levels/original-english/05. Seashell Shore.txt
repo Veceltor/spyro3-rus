@@ -1,0 +1,87 @@
+You can Hover to get more distance when gliding. Just press the } button at the end of your glide. &[Press } button at the end of your glide to get more distance.
+
+If you want a quick summary of your progress in a world, you can press the @4SELECT@0 button to open the Atlas page for the world you are in. &[Press @0SELECT@4 button to view Atlas.
+
+Sebastian the Seal
+
+While I was gone, my friends borrowed the rhynocs' submarine... then they took it for a joy ride... and then they smashed it into a big pile of rocks. Oddly enough, the rhynocs failed to see the humor in the story and stuffed my friends in the jail behind you.
+
+The rhynocs have boarded up a lot of our doors, but I bet you're strong enough to smash them down. &[Use charge to smash boards.
+
+Stanley the Seal
+
+My plan worked! That dumb octopus dropped the jail key while he was shaking me! Now I can free my friends...
+
+Oh, I forgot to tell you... one of the rhynocs had this egg in his lunch box...
+
+Dear Dragon: If you're looking for that kangaroo, I'm afraid she's not available... EVER!\      -The Sorceress
+
+I'm still back in my home world with my goat friends. Come on over if you like.\          -Sheila
+
+Come on in!\     -Sheila
+
+Sigmund the Seal
+
+I can't wait until the rhynocs build a new submarine! Next time it's my turn to drive!
+
+Sal the Seal
+
+Driving that submarine was a blast! Next time we're going to borrow the rhynocs' speed boat!
+
+Stu the Seal
+
+We never would have crashed that submarine if Sal hadn't tried that hand-brake u-turn during an inverted barrel roll.
+
+jump, land + <
+
+Snappy the Seal
+
+Hi, Sheila! The rhynocs have built a fortress on our beach and we're going to blow it to smithereens! We just need you to take out all the turrets for us. We're lighting the bomb now, just make sure to stomp all those turrets before the fuse runs out, OK?
+
+Wow! I can't believe I survived that blast! It's a good thing I kept this egg nice and safe in my pocket.
+
+Ready to try stomping the turrets again? &Try again? &Yes &No
+
+Yippee! I'll light the fuse on the next bomb! &[Stomp all turrets before bomb explodes.
+
+No problem. We'll be playing hot potato with this bomb until you come back.
+
+Owww... That really smarts... No problem though, we've got more bombs!!!
+
+Sandy the Seal
+
+Our beach is your beach.
+
+Slappy the Seal
+
+Stay and get a tan, if you like.
+
+Oh, hi, Spyro! Some of my seal friends are trying to take down a rhynoc fortress! I'm about to go and lend a foot... I love the smell of singed rhynoc in the morning!
+
+Smelt the Seal
+
+Bluto the rhynoc has challenged us to a naval battle. Our speed boat versus his nuclear shark submarine. If we win, we get the dragon egg he's guarding. If we lose, we have to spend a month in K.P.
+
+Whaddya say, do you want to take on Bluto? &Fight the nuclear shark sub? &Yeehah! &You gotta be kidding.
+
+OK, good luck! Just remember, stay away from the sharp end! &[Press the < button to speed up. &[Press the { Button to fire a missile. &[Pick up crates to get more missiles.
+
+I don't blame you. I already owe seven years of kitchen duty, and I'm not about to risk getting another month!
+
+Wow! That's the first time Bluto has ever lost! You've got a lot of talent for someone so purple... I hope this egg was worth all the trouble.
+
+Sebastian the Seal
+
+While I was gone, my friends borrowed the rhynocs' submarine... then they took it for a joy ride... and then they smashed it into a big pile of rocks. Oddly enough, the rhynocs failed to see the humor in the story and stuffed my friends in the jail behind you.
+
+The rhynocs have boarded up a lot of our doors, but I bet you're strong enough to smash them down. &[Use charge to smash boards.
+
+Sandy the Seal
+
+We had a dragon egg for you, but we used it to test our ultra-high-speed-super-fluidity tunnel. The good news is that it made it to the end of the tunnel without a scratch! The bad news is that there's no way to get it back out now.
+
+The tunnel is chock full of rhynocs and floating mines. The only way to retrieve that egg is to defeat every single rhynoc in the tunnel.
+
+This egg has surprisingly good fluid dynamic characteristics. From now on, all of our submarines will be egg-shaped.
+
+You'll have to defeat every single rhynoc in the tunnel before you can recapture the egg.
