@@ -1,0 +1,477 @@
+Be careful, roun' dese parts, li'l dragon! Dere be more ghosts in dis here shipyard den I kin shake me pick at! Durned shame, too, 'cause I was mighty close tuh findin' me treasure.
+
+I reckon me treasure be thisaway... But we'll hafta blast through this bloomin' ship tuh git to it!
+
+'Nother dad burned ship in the way o' me treasure... Wouldja mind blastin' this one too?
+
+Wouldja lookit that! Some fool hid a dang gum egg in me treasure.
+
+Dese here waters used to be my favorite divin' spot, but I can't get any loot with dese subs patrollin' around. Think you kin pilot dis here sub I bought for scrap? &Ride the sub? &Yes. &No.
+
+Alrighty then. Press the < button to speed on up, and when you get a sub in your sights, the torpedo will start to lock on. If you get a good lock-on, fire away with the { button. &[Press < to speed up. &[Wait for red circles to lock on. &[Fire with { button!
+
+Ah, dad gum, I gis I'll hafta git it workin' muhself.
+
+Well, I'll be durned! You've got some mean sub-drivin' skills. Why don't you 'ave dis here egg as a re-ward.
+
+Hoooohoooo, at last, the acid lake is safe fer swimmin' agin'! I wish I could re-ward ya better, but all I gots left is dis 'ere other egg. Maybe dere'll be something better in dis one.
+
+Well, I hate t' ask yer help again, but dere be even more subs that durn come outta nowheres. If you could blast 'em, I could use dis acid lake as muh swimmin' hole again. &Blast some more subs? &Yes. &No.
+
+Darn tootin'! Git on little dragon! &[Press < to speed up. &[Wait for red circles to lock on. &[Fire with { button!
+
+Well, come back whenevers y' like.
+
+Ya kin ride the sub just for fun, if ya like. &Ride the sub for cheap thrills? &Yes. &No.
+
+Okey Dokey, take good care of 'er, y' here?
+
+Well, come back whenevers y' like.
+
+Awwwww, poor wittle dragon... did your friend go bye-bye? Now, now, don't worry... you'll soon be JOINING HIM!     -The Sorceress
+
+Spyro, you're just in time! A rhynoc skateboard gang has challenged us to a race. They said you're slower than a Molten Crater fire slug. I stuck up for you, though! I told them I've seen some pretty fast fire slugs.
+
+So, are you ready to race these guys? They bet us an egg that you won't win! &Race the rhynocs? &Bring 'em on! &Some other time...
+
+Right on! You can use my special racing board. Every time you do a trick, it builds up turbo charge. You can use your turbos at any time by pressing the > button. Good luck! &[Do tricks to get turbos. &[Use turbos by pressing the > button. &[Beat all rhynocs in 3 lap race.
+
+Awww, shucks... I thought you'd want to race 'em. Well, just come talk to me if you change your mind.
+
+Sheesh, what happened? I could beat these guys with my tail tied behind my back! I hope you do better this time, or we'll never live it down... &Race the rhynocs? &Bring 'em on! &Some other time...
+
+Alright! Let 'em have it! &[Do tricks to get turbos. &[Use turbos by pressing the > button. &[Beat all rhynocs in 3 lap race.
+
+Awww, shucks... I thought you'd want to race 'em. Well, just come talk to me if you change your mind.
+
+Yeeesss!! You schooled 'em like a bunch of dizzy, one-toed sand gnorcs! ... Oh yeah, I guess we won this egg, too.
+
+Now that the rhynocs are gone, do you want to try a real challenge? I know you're fast, but I bet you can't defeat all the crabs on the course and still beat me in a race! Want to give it a shot? &Accept Hunter's challenge? &You're on, pal! &No dice...
+
+Alright! Eat my skate-dust, sucker! &[Defeat all crabs on the course &[Beat Hunter in 3 lap race
+
+Heh heh, what's the matter, getting chicken on me? Bwaaak bwaaak bwaaaaaak! Bwak bwaak bwak bwak bwaaaaaaaaaak!
+
+So, are you ready to take my challenge? &Accept Hunter's challenge? &You're on, pal! &No dice...
+
+Alright! Eat my skate-dust, sucker! &[Defeat all crabs on the course &[Beat Hunter in 3 lap race
+
+Heh heh, you're just chicken aren't you? Bwaaak bwaaak bwaaaaaak! Bwak bwaak bwak bwak bwaaaaaaaaaak!
+
+OK, you beat me Spyro, but you didn't get all the crabs. A dragon of your pedigree should really be able to do both!
+
+Woooohooo! I'm still the speed king of the world!
+
+Sheesh, I can't believe you beat me! You must have been practicing the whole time I thought you were looking for eggs... Hey, speaking of which, one of those crabs was guarding this one...
+
+You might be able to beat me at skateboarding, but I still get all the chicks.
+
+Gnasty Gnorc
+
+Half-pipe Leap
+
+Triple Towers
+
+Quint Front Flip
+
+Quint Roll Left
+
+Quint Back Flip
+
+Quint Roll Right
+
+Orange Crush
+
+Single Front Flip
+
+Double Front Flip
+
+Triple Front Flip
+
+Quad Front Flip
+
+Single Roll Left
+
+Double Roll Left
+
+Triple Roll Left
+
+Single Spin Left
+
+Double Spin Left
+
+Triple Spin Left
+
+Single Back Flip
+
+Double Back Flip
+
+Triple Back Flip
+
+Quad Back Flip
+
+Single Roll Right
+
+Double Roll Right
+
+Triple Roll Right
+
+Toasty Twist
+
+Single Spin Right
+
+Double Spin Right
+
+Triple Spin Right
+
+Twisted Lemon
+
+Twisted Lemon x 2
+
+Twisted Lemon x 3
+
+Thrash Master
+
+Twisted Lime
+
+Double Twisted Lime
+
+Triple Twisted Lime
+
+Super Thrash Master
+
+Raging Ripto
+
+Truffe de Gnorc
+
+Demi-tonneau
+
+Triples Tours
+
+5x flip avant
+
+5x demi-tour a@g gauche
+
+5x tour a@g gauche
+
+5x flip arrie@gre
+
+5x demi-tour a@g droite
+
+5x tour a@g droite
+
+Flip avant simple
+
+Double flip avant
+
+Triple flip avant
+
+4x flip avant
+
+1x demi-tour a@g gauche
+
+2x demi-tour a@g gauche
+
+3x demi-tour a@g gauche
+
+4x demi-tour a@g gauche
+
+Tour simple gauche
+
+Double tour gauche
+
+Triple tour gauche
+
+4x tour gauche
+
+Flip arrie@gre simple
+
+Double flip arrie@gre
+
+Triple flip arrie@gre
+
+4x flip arrie@gre
+
+1x demi-tour a@g droite
+
+2x demi-tour a@g droite
+
+3x demi-tour a@g droite
+
+4x demi-tour a@g droite
+
+Tour simple droite
+
+Double tour droite
+
+Triple tour droite
+
+4x tour droite
+
+Citron presse@a
+
+2x Citron presse@a
+
+3x Citron presse@a
+
+Mai@jtre Supre@ime
+
+Lime presse@ae
+
+Double Lime presse@ae
+
+Triple Lime presse@ae
+
+SuperMai@jtre Supre@ime
+
+Ripto la Terreur
+
+Gnasty Gnorc
+
+Half-Pipe-Sprung
+
+Dreifach-Tu@urme
+
+5x Flip vorwa@urts
+
+5x Rolle links
+
+5x Spin links
+
+5x Flip ru@uckwa@urts
+
+5x Rolle rechts
+
+5x Spin rechts
+
+1x Flip vorwa@urts
+
+2x Flip vorwa@urts
+
+3x Flip vorwa@urts
+
+4x Flip vorwa@urts
+
+1x Rolle links
+
+2x Rolle links
+
+3x Rolle links
+
+4x Rolle links
+
+1x Spin links
+
+2x Spin links
+
+3x Spin links
+
+4x Spin links
+
+1x Flip ru@uckwa@urts
+
+2x Flip ru@uckwa@urts
+
+3x Flip ru@uckwa@urts
+
+4x Flip ru@uckwa@urts
+
+1x Rolle rechts
+
+2x Rolle rechts
+
+3x Rolle rechts
+
+4x Rolle rechts
+
+1x Spin rechts
+
+2x Spin rechts
+
+3x Spin rechts
+
+4x Spin rechts
+
+Gepresste Zitrone
+
+2x gepr. Zitrone
+
+3x gepr. Zitrone
+
+Thrash Master
+
+Gedrehte Limone
+
+2x gedrehte Limone
+
+3x gedrehte Limone
+
+Super Thrash Master
+
+Tobender Ripto
+
+Gnasty Gnorc
+
+Salto de medio tubo
+
+Torres triples
+
+Voltereta izda. x5
+
+Pirueta izda. x5
+
+Giro izquierdo x5
+
+Voltereta atra@as x5
+
+Pirueta derecha x5
+
+Giro derecho x5
+
+Volt. adelante x1
+
+Volt. adelante x2
+
+Volt. adelante x3
+
+Volt. adelante x4
+
+Pirueta izda. x1
+
+Pirueta izda. x2
+
+Pirueta izda. x3
+
+Pirueta izda. x4
+
+Giro izquierdo x1
+
+Giro izquierdo x2
+
+Giro izquierdo x3
+
+Giro izquierdo x4
+
+Voltereta atra@as x1
+
+Voltereta atra@as x2
+
+Voltereta atra@as x3
+
+Voltereta atra@as x4
+
+Pirueta derecha x1
+
+Pirueta derecha x2
+
+Pirueta derecha x3
+
+Pirueta derecha x4
+
+Giro derecho x1
+
+Giro derecho x2
+
+Giro derecho x3
+
+Giro derecho x4
+
+Limo@an exprimido
+
+Limo@an exprimido x2
+
+Limo@an exprimido x3
+
+Contorsio@an maestra
+
+Lima exprimida
+
+Lima exprimida x2
+
+Lima exprimida x3
+
+Cont. su@apermaestra
+
+Furia de Ripto
+
+Gnasty Gnorc
+
+Salto Half-pipe
+
+X5 Flip Frontale
+
+X5 Roll A Sinistra
+
+X5 Spin A Sinistra
+
+X5 Flip Indietro
+
+X5 Roll A Destra
+
+X5 Spin A Destra
+
+Flip X1 Frontale
+
+X2 Flip Frontale
+
+X3 Flip Frontale
+
+X4 Flip Frontale
+
+Roll X1 A Sinistra
+
+X2 Roll A Sinistra
+
+X3 Roll A Sinistra
+
+X4 Roll A Sinistra
+
+Spin X1 A Sinistra
+
+X2 Spin A Sinistra
+
+X3 Spin A Sinistra
+
+X4 Spin A Sinistra
+
+Flip X1 Indietro
+
+X2 Flip Indietro
+
+X3 Flip Indietro
+
+X4 Flip Indietro
+
+Roll X1 A Destra
+
+X2 Roll A Destra
+
+X3 Roll A Destra
+
+X4 Roll A Destra
+
+Spin X1 A Destra
+
+X2 Spin A Destra
+
+X3 Spin A Destra
+
+X4 Spin A Destra
+
+Twisted Lemon
+
+X2 Twisted Lemon
+
+X3 Twisted Lemon
+
+Thrash Master
+
+Twisted Lime
+
+X2 Twisted Lime
+
+X3 Twisted Lime
+
+Super Thrash Master
+
+Raging Ripto
