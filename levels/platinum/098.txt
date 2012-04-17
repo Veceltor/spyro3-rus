@@ -1,0 +1,397 @@
+098: Sunrise Spring Home
+
+Zoe
+Zoe@a
+Zoe
+Zoe
+Zoe
+
+Spyro, I've found an egg, but only Sparx will be able to reach it. There's a small hole that leads to a crawdad farm. I can take him there if he's ready. &Enter Crawdad Farm bonus world? &Yes. &No.
+Spyro, j'ai trouve@a un =euf, mais seul Sparx peut l'atteindre. Il y a un petit trou qui me@gne a@g l'Elevage des langoustes. S'il est pre@it, je peux l'emmener la@g-bas. &Entrer dans le monde bonus de l'Elevage des langoustes ? &Oui. &Non.
+Spyro, ich habe ein Ei gefunden, aber nur Sparx kann da rankommen. Da ist ein kleines Loch, das zur Krabbenfarm fu@uhrt. Ich kann ihn dorthin mitnehmen, wenn er bereit ist. & Krabbenfarm-Bonuswelt betreten? &Ja &Nein
+Spyro, he encontrado un huevo pero so@alo Sparx puede llegar hasta e@al. Hay un agujero pequen@to que lleva a un criadero de cigalas. Puedo llevarlo si esta@a preparado. &@?Quieres entrar en el mundo de bonificacio@an Criadero de Cigalas? &Si@b. &No.
+Spyro, ho trovato un uovo ma solo Sparx e@g in grado di raggiungerlo. C'e@g un piccolo buco che conduce ad un allevamento di gamberi. Posso accompagnarlo li@h se e@g pronto. &Entri nel mondo bonus dell'allevamento di gamberi? &Si@h. &No. 
+
+Sparx has already recovered the egg from the crawdad farm, but he can go back if he wants to practice. &Return to Crawdad Farm bonus world? &Yes. &No.
+Sparx a de@aja@g re@acupe@are@a l'=euf a@g l'Elevage des langoustes. Mais il peut y retourner s'il veut s'entrai@jner. &Retourner dans le monde bonus de l'Elevage des langoustes ? &Oui. &Non.
+Sparx hat das Ei von der Krabbenfarm bereits geholt. Er kann aber dorthin zuru@uckgehen, wenn er u@uben will. &Zuru@uck zur Krabbenfarm -Bonuswelt? &Ja &Nein
+Sparx ya ha recuperado el huevo del criadero de cigalas pero, si quiere practicar, puede volver. &@?Quieres volver al mundo de bonificacio@an Criadero de Cigalas? &Si@b. &No.
+Sparx ha gia@g recuperato l'uovo dall'allevamento di gamberi ma, se vuole allenarsi, puo@g ritornarci. &Torni nel mondo bonus dell'allevamento di gamberi? &Si@h. &No. 
+
+Nice work Sparx! You've beaten the Crawdad King and found the lost egg. Not only that but some of the dragon magic seems to have rubbed off on you. Now you can pick up gems when they're even further away from Spyro.
+Bon boulot Sparx ! Tu as battu le Roi des Langoustes et trouve@a l'=euf perdu. Et en plus, une partie de la magie du dragon a de@ateint sur toi. Tu peux maintenant re@acupe@arer des joyaux, me@ime s'ils sont a@g une bonne distance de Spyro.
+Gut gemacht, Sparx! Du hast den Krabbenko@unig besiegt und das verlorene Ei gefunden. Und nicht nur das. Die Drachenmagie scheint etwas auf Dich abgefa@urbt zu haben. Jetzt kannst Du Edelsteine aufheben, die noch weiter von Spyro weg sind.
+@!Bien hecho, Sparx! Has vencido al Rey de las cigalas y has encontrado el huevo perdido. Adema@as, parece que se te ha transmitido la magia. Ahora tu@a tambie@an puedes coger joyas cuando este@an lejos de Spyro.
+Ben fatto Sparx! Hai battuto il Re dei Gamberi e trovato l'uovo perduto. Sembra inoltre che un po' della magia del drago si sia posata su di te. Ora puoi prendere le gemme anche quando non sono vicine a Spyro. 
+
+Yes.
+Oui.
+Ja.
+Si@b.
+Si@h.
+
+No.
+Non.
+Nein.
+No.
+No.
+
+Zoe
+Zoe@a
+Zoe
+Zoe
+Zoe
+
+Your game camera is currently in 'Passive' mode. This mode requires you to control the camera yourself, and moves more slowly.
+La came@ara est en mode ' Passif '. C'est toi qui contro@ile la came@ara et ses mouvements sont plus lents.
+Deine Spielkamera ist zur Zeit im Passiv-Modus. In diesem Modus mu@St Du die Kamera selbst steuern, und sie ist auch langsamer.
+La ca@amara del juego esta@a en modo 'Pasivo'. En este modo es necesario que tu@a mismo controles la ca@amara y e@asta se mueve ma@as despacio.
+La tua telecamera di gioco si trova nella modalita@g 'Passiva': la telecamera si muove piu@g lentamente e sei tu a controllarla.
+
+If you like, I can change the game camera to 'Active' mode. In 'Active' mode, the camera moves much faster. &Change game camera to 'Active' mode?&No.&Yes.
+Si tu veux, je peux faire passer la came@ara en mode ' Actif '. Ce mode acce@ale@gre ses mouvements. &Changer la came@ara en mode ' Actif ' ?&Non&Oui
+Wenn Du mo@uchtest, kann ich die Kamera in den Aktiv-Modus setzen. Im Aktiv-Modus bewegt sich die Kamera viel schneller. &Spielkamera auf 'Aktiv' stellen?&Nein&Ja
+Si quieres, puedo cambiar la ca@amara al modo 'Activo'. En el modo 'Activo', la ca@amara se mueve mucho ma@as ra@apido. &@?Quieres cambiar la ca@amara al modo 'Activo'? &No. &Si@b.
+Se vuoi, posso cambiare la telecamera di gioco in modalita@g Attiva . In modalita@g Attiva , la telecamera si muove piu@g velocemente. &Imposti la telecamera di gioco sulla modalita@g Attiva ?&No&Si@h
+
+OK, I won't change it.
+D'accord, je ne change rien.
+OK, ich werde es nicht a@undern.
+Vale, no la voy a cambiar.
+OK, non la cambiero@g.
+
+Your camera is now in 'Active' mode, and will move faster. If you don't like it, come back and see me, or change it yourself by using the Options Menu.
+La came@ara est en mode ' Actif ' et ses mouvements sont plus rapides. Si c@ca ne te plai@jt pas, reviens me voir. Tu peux aussi changer toi-me@ime le mode dans le menu Options.
+Deine Kamera ist jetzt im Aktiv-Modus und bewegt sich schneller. Wenn Dir das nicht gefa@ullt, komm zu mir zuru@uck, oder a@undere es im Menu@u 'Optionen' selbst.
+Ahora la ca@amara esta@a en el modo 'Activo', asi@b que se movera@a ma@as ra@apido. Si no te gusta asi@b, ven a verme o ca@ambiala tu@a mismo utilizando el menu@a Opciones.
+La telecamera si muovera@g piu@g velocemente ora. Se non ti piace, vieni da me o cambiala tu stesso usando il menu Opzioni.
+
+Do you like the 'Active' camera mode? If not, I can set it back to the 'Passive' mode. &Change game camera to 'Passive' mode?&No.&Yes.
+Est-ce que la came@ara en mode ' Actif ' te convient ? Si non, je peux la remettre en mode ' Passif '. &Changer la came@ara en mode ' Passif ' ?&Non&Oui
+Gefa@ullt Dir der Aktiv-Modus der Kamera? Wenn nicht, kann ich wieder den Passiv-Modus einstellen. &Spielkamera auf 'Passiv' stellen?&Nein&Ja
+@?Que@a te parece el modo de ca@amara 'Activo'? Si no te gusta, puedo ponerlo de nuevo en el modo 'Pasivo'. &@?Quieres cambiar la ca@amara al modo 'Pasivo'? &No. &Si@b.
+Ti piace la modalita@g telecamera 'Attiva'? Se no, posso riportarla in modalita@g 'Passiva'. &Imposti la telecamera di gioco sulla modalita@g 'Passiva'?&No&Si@h
+
+OK, I won't change it. Remember, you can change the camera mode yourself by using the Options Menu.
+D'accord, je ne change rien. N'oublie pas , tu peux aussi changer toi-me@ime le mode dans le menu Options.
+OK, ich werde es nicht a@undern. Vergi@S nicht, da@S Du den Kameramodus im Menu@u 'Optionen' selbst a@undern kannst.
+Vale, no la voy a cambiar. Pero recuerda, puedes cambiar el modo de ca@amara tu@a mismo en el menu@a Opciones.
+OK, non la cambiero@g. Ricorda, puoi cambiare la modalita@g della telecamera tu stesso tramite il menu Opzioni.
+
+The game camera is now in 'Passive' mode. If you want me to change it again, just ask!
+La came@ara est en mode ' Passif '. Si tu veux que je rechange le mode, tu n'as qu'a@g demander !
+Die Spielkamera ist jetzt im Passiv-Modus. Wenn ich es wieder a@undern soll, sag einfach Bescheid!
+Ahora la ca@amara del juego esta@a en el modo 'Pasivo'. Si quieres cambiarla de nuevo, so@alo tienes que pedirlo.
+La telecamera e@g ora in modalita@g Passiva . Se vuoi cambiare di nuovo, basta che me lo chiedi!
+
+Zoe
+Zoe@a
+Zoe
+Zoe
+Zoe
+
+I'm sorry, Spyro, but you seem to be playing a hacked version of this game. This may be an illegal copy. Since this copy has been modified, you may experience problems that would not occur on a legal copy.
+De@asole@ae Spyro, mais la version de ton jeu semble e@itre pirate@ae. C'est peut-e@itre une copie ille@agale. Comme cette copie a e@ate@a modifie@ae, tu risques de rencontrer des proble@gmes qui ne surviendraient pas sur une copie le@agale.
+Tut mir leid, Spyro, aber anscheinend spielst Du mit einer Raubkopie dieses Spiels. Das ist eine illegale Kopie. Da diese Version vera@undert wurde, treten u. U. Probleme auf, die bei einer legalen Kopie nicht bestehen wu@urden.
+Lo siento, Spyro, pero parece que esta@as jugando con una versio@an pirata del juego. Debe de tratarse de una copia ilegal. Al haber sido modificada, te causara@a problemas que no sucederi@ban con una copia legal.
+Mi dispiace Spyro, sembra che tu stia giocando ad una versione sprotetta del gioco. Potrebbe trattarsi di una copia illegale. Poiche@a questa copia e@g stata modificata, potresti riscontrare problemi che non si verificano in copie legali del gioco.
+
+Zoe
+Zoe@a
+Zoe
+Zoe
+Zoe
+
+Hi Spyro. To look left or right, press the @4L2@0 or @4R2@0 buttons. To quickly center the camera behind you, press the @4L1@0 or @4R1@0 button. You can look all around by holding the } button down. &[Use @0L2@4 and @0R2@4 buttons to rotate camera. &[Press @0L1@4 or @0R1@4 to center the camera. &[Hold } to look around.
+Salut Spyro ! Pour regarder a@g gauche ou a@g droite, appuie sur @4L2@0 ou @4R2@0. Pour centrer rapidement la came@ara derrie@gre toi, appuie sur @4L1@0 ou @4R1@0. Pour avoir une vue panoramique, maintiens la touche } enfonce@ae &[Utilise les touches @0L2@4 et @0R2@4 pour faire tourner la came@ara. &[Appuie sur @0L1@4 ou @0R1@4 pour centrer la came@ara. &[Pour avoir une vue panoramique, maintiens la touche } enfonce@ae.
+Um nach links oder rechts zu gucken, dru@uck die @4L2@0- oder @4R2@0-Tasten. Um die Kamera schnell hinter Dir zu zentrieren, dru@uck die @4L1@0- oder die @4R1@0-Taste. Einen Rundumblick bekommst Du, wenn Du die }-Taste gedru@uckt ha@ultst. &[Verwende die @0L2@4- und @0R2@4-Tasten, um die Kamera zu drehen. &[Dru@uck die @0L1@4- oder @0R1@4-Taste, um die Kamera zu zentrieren. &[Halt die }-Taste gedru@uckt, um Dich umzusehen.
+ para mirar hacia la derecha, pulsa el boto@an @4R2@0. Para centrar ra@apidamente la ca@amara que hay detra@as de ti, pulsa el boto@an @4L1@0 o @4R1@0. Puedes echar un vistazo a tu alrededor si mantienes pulsado el boto@an }. &[Utiliza los botones @0L2@4 y @0R2@4 para que la ca@amara gire. &[Pulsa @0L1@4 o @0R1@4 para centrar la ca@amara. &[Mante@an pulsado el boto@an } para mirar alrededor.
+Ciao Spyro, per guardare a sinistra o a destra, premi il tasto @4L2 @0o @4R2@0. Per centrare velocemente la telecamera alle tue spalle, premi il tasto @4L1@0 o @4R1@0. Per guardarti attorno, tieni premuto il tasto }. &[Usa i tasti @0L2@4 e @0R2@4 per ruotare la telecamera. &[Premi @0L1@4 o @0R1@4 per centrare la telecamera. &[Tieni premuto il tasto } per guardarti attorno.
+
+Zoe
+Zoe@a
+Zoe
+Zoe
+Zoe
+
+This is a superfly powerup Spyro. Whenever you walk through any powerup that looks like this one, it will allow you to fly for a while...
+C'est une recharge supervol, Spyro. A chaque fois que tu passeras a@g travers une recharge qui ressemble a@g celle-ci, tu pourras voler...
+Dies ist ein Superflug-Powerpunkt, Spyro. Immer wenn Du durch einen Powerpunkt wie diesen la@uufst, kannst Du fu@ur eine kurze Zeit fliegen...
+E@Asta es la Potencia de Supervuelo. Cada vez que pases por una potencia como e@asta, podra@as volar durante un rato. 
+Questo e@g un potenziamento Supervolo. Ogniqualvolta passerai per un potenziamento come questo, potrai volare per un po'...
+
+Snappy the Seal
+Fe@alix le Phoque
+Snappy der Seehund
+Federico la foca
+Snappy la foca
+
+I want to repay you for saving me from that octopus. We can help you use this hot air balloon, if you just bring back someone from each of the other worlds.
+Je veux te re@acompenser de m'avoir sauve@a de cette pieuvre. On peut t'aider a@g utiliser ce ballon, mais tu dois ramener une personne de chacun des autres mondes.
+Ich mo@uchte mich dafu@ur erkenntlich zeigen, da@S Du mich vor dem Tintenfisch gerettet hast. Wir ko@unnen Dir helfen, diesen Hei@Sluftballon zu benutzen, wenn Du nur eine Person aus jeder Welt zuru@uckbringst.
+Quiero recompensarte por haberme salvado de los tenta@aculos de aquel pulpo. Te podremos ayudar a utilizar este globo de aire caliente si nos traes a alguien de cada uno de los dema@as mundos. 
+Voglio ringraziarti per avermi salvato da quella piovra. Possiamo aiutarti ad usare la mongolfiera. Basta che tu riporti indietro qualcuno da ognuno degli altri mondi.
+
+Let's head on over to the balloon!
+Filons au ballon !
+Los, la@S uns zum Ballon gehen!
+@!Vamos a subirnos al globo!
+Andiamo alla mongolfiera!
+
+The balloon's all ready, sir! Just jump on!
+Le ballon est fin pre@it, monsieur ! Vous pouvez monter !
+Der Ballon ist startklar, Sir! Spring einfach auf!
+El globo esta@a preparado, sen@tor @!Vamos, arriba!
+La mongolfiera e@g pronta, signore! Forza, salga!
+
+Here I was, about to go for a nice swim at Shell Beach, and my portal just disappeared right in front of me. If you go find some more of those dragon eggs, I bet this portal would turn on again. &[^^ eggs needed to open portal.
+Je m'appre@itais a@g aller nager a@g la Plage des Coquillages, lorsque mon portail a disparu en face de moi. Si tu trouves d'autres =eufs de dragon, je suis su@ir que ce portail pourra de nouveau s'ouvrir. &[^^ =eufs ne@acessaires pour ouvrir le portail.
+Ich war gerade auf dem Weg zum Muschelstrand, und mein Tor ist einfach vor meinen Augen verschwunden. Wenn Du noch ein paar Dracheneier finden wu@urdest, funktioniert das Tor bestimmt wieder. &[^^ Eier no@utig, um Tor zu o@uffnen.
+Estaba a punto de irme a nadar a la Playa de las Conchas cuando, de repente, ha desaparecido mi portal delante de mis narices. Si vas a buscar ma@as huevos de drago@an, estoy seguro de que el portal volvera@a a aparecer. &[Necesitas ^^ huevos para abrir el portal.
+Ero qui, stavo per andare alla Spiaggia della Conchiglia per farmi una bella nuotata quando il mio portale e@g scomparso proprio davanti a me. Se troverai qualche altro uovo di drago, scommetto che il portale si attivera@g di nuovo. &[^^ uova per aprire il portale.
+
+Yay, my portal is working! I'll see you at the beach!
+Ouais, mon portail fonctionne ! On se revoit a@g la plage !
+Juchhu, mein Tor funktioniert wieder! Bis spa@uter am Strand!
+@!Viva, mi portal vuelve a funcionar! Nos vemos en la playa.
+Urra@g, il mio portale funziona! Ci vediamo alla spiaggia!
+
+I think something is draining the magic out of the world. They say things have been going downhill ever since the dragons left here a thousand years ago.
+J'ai l'impression que la magie s'e@achappe de ce monde. Il parai@jt que tout a commence@a a@g aller mal apre@gs le de@apart des dragons il y a mille ans.
+Ich glaube, irgendetwas saugt die Magie aus dieser Welt. Man sagt, da@S es bergab geht, seit die Drachen vor tausend Jahren von hier verschwanden.
+Creo que algo esta@a provocando que se agote la magia de este mundo. Dicen que las cosas han ido de mal en peor desde que se fueron los dragones hace unos mil an@tos. 
+Credo che qualcosa stia risucchiando la magia dal mondo. In giro si dice che le cose abbiano iniziato ad andare male da quando i draghi se ne sono andati un migliaio di anni fa.
+
+Hunter
+Chasseur
+Ja@uger
+Cazador
+Hunter
+
+I see an egg at the bottom of this lake. I would go get it, but I don't want to get my fur all wet. Maybe you could get it. You can dive underwater by pressing the > button when you're on the surface, and charge underwater by holding down the > button. &[Press > button to dive underwater &[Press < button to swim &[Hold down > button to charge underwater
+Je vois un =euf au fond de ce lac. J'irais bien le chercher mais je ne veux pas mouiller ma fourrure. Tu peux peut-e@itre le re@acupe@arer. Plonge en appuyant sur la touche > quand tu es a@g la surface, puis maintiens la touche > enfonce@ae pour filer a@g toute vitesse sous l'eau. &[Appuie sur la touche > pour plonger &[Appuie sur la touche < pour nager &[Maintiens la touche > enfonce@ae pour filer a@g toute vitesse sous l'eau.
+Ich sehe ein Ei auf dem Grund des Sees. Ich wu@urde es ja holen, aber ich will mein Fell nicht na@S machen. Vielleicht ko@unntest Du es holen. Du kannst untertauchen, indem Du die >-Taste dru@uckst, wenn Du an der Oberfla@uche bist. Schneller schwimmen kannst Du, indem Du die >-Taste gedru@uckt ha@ultst. &[Dru@uck die >-Taste, um unterzutauchen &[Dru@uck die <-Taste zum Schwimmen &[Halt die >-Taste gedru@uckt, um schneller zu schwimmen.
+Puedo ver un huevo en el fondo de este lago. Iri@ba a buscarlo, pero no quiero mojarme el pelaje. Quiza@a podri@bas ir tu@a. Puedes sumergirte si pulsas el boto@an > cuando este@as en la superficie y puedes utilizar tu embestida bajo el agua si mantienes pulsado el boto@an >. &[Pulsa el boto@an > para sumergirte &[Pulsa el boto@an < para nadar. &[Mante@an pulsado el boto@an > para utilizar la embestida bajo el agua.
+Mi pare di vedere un uovo in fondo al lago. Andrei a prenderlo io stesso ma non mi voglio bagnare la pelliccia. Forse potresti farlo tu. Per immergerti premi il tasto > quando sei in superficie, per caricare sott'acqua tieni premuto il tasto >.&[Premi il tasto > per immergerti &[Premi il tasto < per nuotare &[Tieni premuto il tasto > per caricare sott'acqua
+
+Remember, press the > button to dive underwater. Then, when you are under the surface, hold down the > button to charge. &[Press > button to dive underwater &[Press < button to swim &[Hold down > button to charge underwater
+N'oublie pas, appuie sur la touche > pour plonger sous l'eau. Une fois sous l'eau, maintiens la touche > enfonce@ae pour filer a@g toute vitesse. &[Appuie sur la touche > pour plonger &[Appuie sur la touche < pour nager &[Maintiens la touche > enfonce@ae pour filer a@g toute vitesse sous l'eau.
+Vergi@S nicht, die >-Taste zu dru@ucken, um unterzutauchen. Wenn Du dann unter Wasser bist, halt die >-Taste gedru@uckt, um schneller zu schwimmen. &[Dru@uck die >-Taste, um unterzutauchen. &[Dru@uck die <-Taste zum Schwimmen. &[Halt die >-Taste gedru@uckt, um um schneller zu schwimmen.
+Recuerda, pulsa el boto@an > para sumergirte en el agua. Mante@an pulsado el boto@an > cuando este@as debajo del agua para embestir. &[Pulsa el boto@an > para sumergirte en el agua. &[Pulsa el boto@an < para nadar. &[Mante@an pulsado el boto@an > para utilizar tu embestida bajo el agua.
+Ricorda, premi il tasto > per immergerti, quindi, quando sei sott'acqua, tieni premuto il tasto > per caricare. &[Premi il tasto > per immergerti &[Premi il tasto < per nuotare &[Tieni premuto il tasto > per caricare sott'acqua
+
+Rocky
+Rocky
+Rocky
+Rocky
+Rocky
+
+If you can bring back one person from each of our five worlds, we can help you use the balloon.
+Si tu peux ramener une personne de chacun des cinq mondes, on peut t'aider a@g te servir du ballon.
+Wenn Du aus jeder unserer fu@unf Welten eine Person zuru@uckbringst, ko@unnen wir Dir helfen, den Ballon zu benutzen.
+Si consigues traer a una persona de cada uno de nuestros cinco mundos, podremos ayudarte a usar el globo. 
+Puoi portare una persona da ognuno dei cinque mondi, possiamo aiutarti ad usare la mongolfiera.
+
+Let's head on over to the balloon.
+Filons au ballon.
+Los, la@S uns zum Ballon gehen.
+Vamos a subirnos al globo.
+Andiamo alla mongolfiera.
+
+This balloon will take you to the great Tiki Lodge in the sky! Just jump on when you're ready.
+Ce ballon t'emme@gnera a@g la Loge Tiki, dans le ciel ! Tu n'as qu'a@g sauter quand tu te sens pre@it.
+Mit diesem Ballon gelangst Du zur gro@Sen Tiki-Lodge im Himmel! Spring einfach auf, wenn Du bereit bist.
+Este globo te llevara@a al gran Hotel Tiki del cielo. So@alo tienes que saltar cuando este@as listo.
+Questa mongolfiera ti portera@g alla grande Casa Tiki, su nel cielo! Basta saltarci sopra quando sei pronto.
+
+I'm late for a dinner party at the Tiki Lodge, and the portal to my home just stopped working. Maybe the portal will reactivate after a few more dragons hatch. &[^^ eggs needed to open portal.
+Je suis en retard pour aller a@g un di@jner a@g la Loge Tiki, et le portail pour se rendre chez moi ne fonctionne plus. Le portail se re@aactivera peut-e@itre apre@gs l'e@aclosion d'=eufs de dragon supple@amentaires. &[^^ =eufs ne@acessaires pour ouvrir le portail.
+Ich bin spa@ut dran fu@ur eine Dinner-Party in der Tiki-Lodge, und das Tor zu meinem Zuhause funktioniert nicht mehr. Vielleicht geht es wieder, wenn noch ein paar Drachen schlu@upfen. &[^^ Eier no@utig, um Tor zu o@uffnen.
+Llego tarde a una cena en el Hotel Tiki y el portal de mi mundo ha dejado de funcionar. A lo mejor si consigues algunos huevos de drago@an ma@as, el portal se reactivara@a. &[Necesitas ^^ huevos para abrir el portal.
+Devo andare ad una festa alla Casa Tiki ma sono in ritardo e il portale per casa mia non funziona piu@g. Forse il portale verra@g riattivato se recuperiamo qualche uovo ancora. &[^^ uova per aprire il portale.
+
+At last, my portal is working again! Come visit me at the Tiki Lodge!
+Enfin, mon portail fonctionne de nouveau ! Viens me rendre visite a@g la Loge Tiki !
+Endlich funktioniert mein Tor wieder! Komm mich mal in der Tiki-Lodge besuchen!
+@!Por fin vuelve a funcionar mi portal! Ven a verme al hotel Tiki.
+Finalmente, il portale funziona di nuovo! Venite a trovarmi alla Casa Tiki!
+
+Cumulus
+Cumulus
+Kumulus
+Cumulus
+Cumulus
+
+This is a balloon that will take you to a new land, but we can't use it until you bring back one person from each of the five worlds.
+Ce ballon te transportera dans un nouveau pays, mais on ne peut pas s'en servir tant que tu n'as pas ramene@a une personne de chacun des cinq mondes.
+Dies ist ein Ballon, der Dich in ein neues Land bringt. Doch wir ko@unnen ihn erst benutzen, wenn Du eine Person aus jeder der fu@unf Welten zuru@uckbringst.
+Este globo te llevara@a a otra tierra, pero no podremos utilizarlo hasta que traigas una persona de cada uno de los cinco mundos. 
+Questa mongolfiera vi portera@g in una nuova terra, ma noi non possiamo usarla fino a quando non riporterai indietro una persona da ognuno dei cinque mondi.
+
+Let's head on over to the balloon!
+Filons au ballon !
+Los, la@S uns zum Ballon gehen!
+@!Vamos a subirnos al globo!
+Andiamo alla mongolfiera!
+
+Hop in the balloon whenever you want, Spyro!
+Spyro, saute dans le ballon quand tu veux!
+Du kannst jederzeit in den Ballon einsteigen, Spyro!
+@!Spyro, sube al globo cuando quieras!
+Salta nella mongolfiera quando vuoi, Spyro!
+
+Mayor Leo
+Maire Le@ao
+Bu@urgermeister Leo
+Alcalde Leo
+Sindaco Leo
+
+I don't know how this balloon works, but I think we can get it working for you if you bring back someone from each of the other worlds.
+Je ne sais pas comment faire fonctionner ce ballon, mais je crois qu'on peut y arriver si tu rame@gnes une personne de chacun des autres mondes.
+Ich wei@S nicht, wie dieser Ballon funktioniert, aber ich denke, wenn Du eine Person aus jeder der anderen Welten zuru@uckbringst, ko@unnen wir ihn zum Fliegen bringen.
+No se@a co@amo funciona este globo, pero creo que podri@bamos hacerlo volar si traes a alguien de cada uno de los otros mundos. 
+Non so come funzioni questa mongolfiera, ma credo di poterla far partire se riporterai indietro una persona da ognuno degli altri mondi.
+
+Let's head on over to the balloon!
+Filons au ballon !
+Los, la@S uns zum Ballon gehen!
+@!Vamos a subirnos al globo!
+Andiamo alla mongolfiera!
+
+I guess you just hop in the balloon, now... Don't ask me how it works, I just showed up for the punch and cookies, a ha ha ha.
+A mon avis, il suffit de monter a@g bord... mais ne me demande pas comment c@ca marche. En fait, je ne suis venu ici que pour le punch et les biscuits.
+Ich denke, Du mu@St jetzt einfach in den Ballon springen... Frag mich nicht, wie er funktioniert. Ich habe na@umlich keinen Plan!
+Creo que so@alo tienes que subir al globo y... no me preguntes co@amo funciona, so@alo he venido por el refresco y las galletas. 
+Credo che tu debba saltare nella mongolfiera adesso... Non chiedermi come funziona, sono venuto qui solo per il punch e i biscotti.
+
+Bianca
+Bianca
+Bianca
+Bianca
+Bianca
+
+So... you're the one in charge of rescuing the eggs, huh? Heh heh heh... How sad... Look here, dragon, if you know what's good for you, you'll turn around and crawl back up that hole you came through. Those eggs belong to us now, and I've hidden them in places you'll never find in a thousand years! Besides, even if you could find an egg, our expertly trained armies will dispose of you and take it back. Do I make myself clear? If I find you here again, I am going to be verrrrry angry... and you won't like me when I'm angry...
+Alors c'est toi qui as e@ate@a charge@a de re@acupe@arer les =eufs, hein? He@a he@a he@a... Comme c'est triste... Ecoute, dragon, si tu ne veux pas avoir de proble@gmes, tu ferais mieux de faire demi-tour et de retourner dans le trou, par ou@g tu es arrive@a. De@asormais, ces =eufs nous appartiennent. Je les ai si bien cache@as que tu devras te lever de bonne heure pour les trouver. Et me@ime si tu trouves un =euf, nos troupes super entrai@jne@aes s'occuperont de toi et rame@gneront l'=euf. Ai-je bien e@ate@a claire ? Si je te trouve encore dans les parages, c@ca va vraiment me mettre en cole@gre et tu ne vas pas aimer c@ca...
+So... Du bist also derjenige, der die Eier retten soll, hm? Ha ha ha... Wie traurig... Ho@ur mal zu, Drache, wenn Du wei@St, was gut fu@ur Dich ist, drehst Du Dich um und verschwindest wieder in dem Loch, aus dem Du gekrochen bist. Diese Eier geho@uren jetzt uns, und ich habe sie so gut versteckt, da@S Du sie nicht mal in tausend Jahren findest! Und selbst wenn Du eins finden solltest, werden sich unsere hervorragend ausgebildeten Armeen Deiner annehmen und es Dir wieder abnehmen. Habe ich mich klar genug ausgedru@uckt? Wenn ich Dich hier noch mal erwische, werde ich seeehr bo@use... und das wird Dir gar nicht gefallen, wenn ich bo@use bin...
+Asi@b que...  tu@a eres  quien debe recuperar los huevos, @?no? Ja, ja, ja... @!Que@a pena!...  Escu@achame bien, dragoncito, por tu propio bien ma@as vale que des la vuelta y te vayas por ese agujero por el que has venido. Los huevos ahora son nuestros. Y, adema@as, los he escondido donde jama@as podra@as encontrarlos, ni en mil an@tos. Adema@as, aunque encontrases un huevo, nuestro eje@arcito profesional se encargari@ba de ti y recuperari@ba el huevo. @?Me explico con claridad? Si te vuelvo a ver por aqui@b, me enfadare@a muuuuuuucho... y no creo que te gustase verme enfadada. 
+Quindi... Sei TU quello che deve salvare le uova, eh? Eh eh eh... peccato... se ci tieni alla pelle, drago, faresti meglio a girare i tacchi e strisciare indietro per il buco da cui sei venuto. Ora queste uova appartengono a noi e io le ho nascoste cosi@h bene che non le troverai neanche se le cercassi per mille anni! E comunque, anche se riuscissi a trovare un uovo, i nostri soldati perfettamente addestrati si sbarazzeranno di te e lo riprenderanno. Sono stata chiara? Se ti ripesco qui, saro@g mooooolto arrabbiata...e la cosa non ti piacera@g per nulla... 
+
+Spyro, I've got a special task for Sparx. Meet me back here later!           -Zoe
+Spyro, j'ai une mission spe@aciale a@g confier a@g Sparx. Rejoins-moi ici dans un moment !           -Zoe@a
+Spyro, ich habe einen Spezialauftrag fu@ur Sparx. Komm spa@uter hierher zuru@uck!           -Zoe
+Spyro, tengo un encargo especial para Sparx. Nos vemos aqui@b ma@as tarde.           -Zoe.
+Spyro, ho un incarico speciale per Sparx, vediamoci dopo!           -Zoe
+
+Moneybags
+Gros-Sous
+Geldsack
+Ricacho@an
+Moneybags
+
+I'm getting paid a fortune to keep Sheila the Kangaroo locked up... heh heh... the pesky animal must have been causing a lot of trouble for that poor Sorceress... I suppose I could accidentally let the kangaroo escape... if you were to pay me, say...a small fee. &Pay ^^^ gems to free Sheila? &Sure. &No thanks.
+On me paye une fortune pour enfermer Sheila le Kangourou... he@a he@a... le sacre@a animal a du@i en faire voir de toutes les couleurs a@g cette pauvre sorcie@gre... Je peux e@aventuellement laisser e@achapper le kangourou... moyennant... une petite participation financie@gre. &Payer ^^^ joyaux pour libe@arer Sheila ? &OK &Non merci
+Ich kriege ein Vermo@ugen dafu@ur, Sheila das Ka@unguruh unter Verschlu@S zu halten... ha ha... Dieses nervige Tier mu@S der armen Zauberin ganz scho@un viel A@Urger gemacht haben... Nun, ich ko@unnte das Ka@unguruh aus Versehen entkommen lassen... wenn Du mir... sagen wir mal... eine kleine Gebu@uhr bezahlst. &^^^ Edelsteine zahlen, um Sheila zu befreien? &Sicher &Nein danke
+ ja, ja... El latoso animal debe de haber causado muchos problemas a la pobre Bruja. A lo mejor podri@ba dejar escapar a la canguro accidentalmente... si me pagas por ello, digamos,... una mo@adica cantidad. &@?Quieres pagar ^^^ joyas para liberar a Sheila? &Claro. &No, gracias.
+Mi pagano una fortuna per tenere in gabbia Sheila il canguro...eh eh...questa combinaguai deve aver causato un sacco di problemi alla povera maga... Se pero@g mi pagassi un piccolo...contributo...potrei involontariamente lasciarla fuggire. &Paghi ^^^ gemme per liberare Sheila? &Si@h &No, grazie
+
+Ahhh, Spyro, I love your sweet naivete... Your kind-hearted nature might be your downfall someday, but for the time being it's making me rich!
+Ahhh, Spyro, j'adore ta douce nai@vvete@a... Ton bon c=eur te perdra un jour mais pour l'instant, c@ca fait mon affaire !
+Ahhh, Spyro, wie herrlich naiv Du bist... Deine Gutherzigkeit ko@unnte Dich eines Tages noch den Kopf kosten, doch im Moment macht es mich nur reich!
+@!Ah, Spyro!... Me encanta tu ingenuidad. Tu cara@acter bondadoso sera@a tu perdicio@an un di@ba de estos, pero mientras tanto, me esta@a haciendo rico.
+Ahhh, Spyro, adoro la tua dolce ingenuita@g... Il tuo animo gentile potrebbe essere la tua rovina un giorno, ma per il momento mi sta rendendo ricco! 
+
+Well, don't worry, Spyro. Sheila won't stay in jail forever... The Sorceress is thinking about having her executed next Thursday.
+Mais ne t'inquie@gte pas, Spyro. Sheila ne restera pas en prison toute sa vie... La sorcie@gre envisage de la faire exe@acuter jeudi prochain.
+Keine Sorge, Spyro. Sheila wird nicht fu@ur immer im Gefa@ungnis bleiben... Die Zauberin wird sie wohl na@uchsten Donnerstag hinrichten lassen.
+Bueno, Spyro, no te preocupes. Sheila no va a estar encerrada para siempre... La Bruja esta@a pensando ejecutarla el pro@aximo jueves.
+Beh, non ti preoccupare Spyro. Sheila non stara@g in prigione per sempre... La maga dovrebbe farla giustiziare giovedi@h prossimo.
+
+The Sorceress has asked me to guard Sheila the Kangaroo. I suppose, if you had a bit more money, I'd be willing to let her escape. Then you could keep her for a pet or something. &[^^^ gems needed to free Sheila.
+La sorcie@gre m'a demande@a de garder Sheila le Kangourou. Si tu avais un peu plus d'argent, je pourrais m'arranger pour la faire libe@arer. Tu pourrais alors prendre grand soin d'elle. &[^^^ joyaux ne@acessaires pour libe@arer Sheila.
+Die Zauberin hat mich gebeten, Sheila das Ka@unguruh zu bewachen. Wenn Du etwas mehr Geld ha@uttest, ko@unnte ich sie wohl entkommen lassen. Dann ko@unntest Du sie als Haustier halten oder so. &[^^^ Edelsteine no@utig, um Sheila zu befreien.
+La Bruja me ha pedido que vigile a Sheila la canguro. Pero si me ofrecieras algo ma@as de dinero, la dejari@ba escapar encantado. Asi@b, la podri@bas tener como animal de compan@ti@ba, por ejemplo. &[Necesitas ^^^ joyas para liberar a Sheila.
+La maga mi ha chiesto di sorvegliare Sheila il canguro. Credo che, se tu avessi un po' di soldi, potrei lasciarla fuggire. Sarebbe un ottimo  animale da compagnia.  &[^^^ gemme per liberare Sheila. 
+
+...
+...
+...
+...
+...
+
+Spyro! My my, how funny to see you here! Why, I haven't seen you since we defeated Ripto in Avalar... heh heh... Well, my business went into a slump after you left, so I came here and struck up a nice deal with the local Sorceress. Lovely woman, she is. Seems to be very fond of dragons, too...
+Spyro ! Tiens, tiens, comme c'est dro@ile de te voir ici ! Eh bien , je ne t'ai pas vu depuis qu'on a battu Ripto a@g Avalar... he@a he@a... Et puis, les affaires ont commence@a a@g marcher moins bien apre@gs ton de@apart. J'suis donc venu ici et j'ai passe@a un marche@a inte@aressant avec la sorcie@gre du coin. Une jolie femme. Elle a l'air d'adorer les dragons, elle aussi...
+Spyro! Na, das ist ja eine U@Uberraschung! Mensch, ich habe Dich nicht mehr gesehen, seit wir Ripto in Avalar besiegt haben... ha ha... Nun, mein Gescha@uft hat etwas nachgelassen, seit Du weg bist, deshalb kam ich hierher und habe ein nettes Abkommen mit der o@urtlichen Zauberin geschlossen. Eine wirklich reizende Dame ist das. Und sie scheint auch Drachen sehr gern zu haben...
+@!Caramba, Spyro, que@a raro verte por aqui@b! No te habi@ba vuelto a ver desde que vencimos a Ripto en Avalar... Je, je... Cuando te fuiste, mi negocio cayo@a en picado, asi@b que tuve que venir aqui@b y llegar a un buen acuerdo con la Bruja. Es una mujer encantadora. Adema@as, parece que le tiene mucho carin@to a los dragones. 
+Spyro! Cielo! Che sorpresa vederti qui! E@G da quando abbiamo sconfitto Ripto ad Avalar che non c'incontravamo... eh eh... Beh, gli affari hanno iniziato ad andare male da quando sei partito, quindi mi sono trasferito qui e sono entrato in affari con la maga locale. Donna adorabile, sembra che ami molto i draghi....
+
+Hunter
+Chasseur
+Ja@uger
+Cazador
+Hunter
+
+Yo, Spyro! I just found one of those portal thingamajigs that leads to a different world, but you'll have to glide to get across to it. Press the < button to jump, then press the < button again while you're in the air to glide! Just follow me... &[Press < button to jump. &[Press < button in mid-air to glide.
+He@a, Spyro Je viens de trouver un de ces portails machin truc pour aller dans un monde diffe@arent mais pour le traverser, tu dois te laisser glisser dans les airs. Appuie d'abord sur la touche < pour sauter. Et une fois en l'air, appuie de nouveau sur la touche < pour planer ! Suis-moi... &[Appuie sur < pour sauter. &[Une fois en l'air, appuie sur < pour planer.
+He, Spyro! Ich habe gerade eins von diesen komischen Toren gefunden, die zu einer anderen Welt fu@uhren, aber Du mu@St gleiten, um da ru@uber zu kommen. Dru@uck die <-Taste zum Springen, und dru@uck dann noch mal die <-Taste, wenn Du in der Luft bist, um zu gleiten! Folge mir einfach... &[Dru@uck die <-Taste zum Springen. &[Dru@uck die <-Taste in der Luft zum Gleiten.
+@!Hola, Spyro! Acabo de encontrar uno de esos portales ma@agicos que llevan a otros mundos, pero para atravesarlo tendra@as que volar. Pulsa el boto@an < para saltar, pu@alsalo de nuevo cuando este@as en el aire para volar. Ven, si@bgueme. &[Pulsa el boto@an < para saltar. &[Pulsa el boto@an < cuando este@as en el aire para volar.
+Ciao Spyro! Ho appena trovato uno di quei portali magici che conducono in un altro mondo. E@G proprio qui, dovrai volare per attraversarlo. Premi il tasto < per saltare e ancora < mentre sei in aria per volare! Seguimi...&[Premi il tasto < per saltare. &[Premi il tasto < mentre sei in aria per volare.
+
+To get the best glide, press the < button at the very top of your jump.
+Pour super bien planer, appuie sur la touche < au sommet de ton saut.
+Wenn Du am ho@uchsten bist, dru@uck die <-Taste. Dann gleitest Du am weitesten.
+Para planear mejor, pulsa el boto@an < cuando este@as en lo ma@as alto del salto.
+Per volare il piu@g a lungo possibile, premi il tasto < quando sei al culmine del salto.
+
+I saw something shiny in that cave over there...let's go check it out! You can get there by hovering. To hover, just press the } button at the end of your glide! &[Press the } button at the end of your glide to hover. &[Hovering will give you extra height and distance.
+J'ai aperc@cu une chose brillante dans la grotte la@g-bas... Allons jeter un coup d'=eil ! Tu peux t'y rendre en la survolant. Pour cela, appuie sur la touche } a@g la fin de ton vol plane@a ! &[Appuie sur la touche } a@g la fin de ton vol plane@a pour faire un vol stationnaire. &[En faisant un vol stationnaire, tu gagnes de la hauteur et de la distance.
+Ich habe in der Ho@uhle da dru@uben etwas Gla@unzendes gesehen... La@S uns mal nachsehen, was es ist! Du gelangst dorthin, indem Du schwebst. Dafu@ur mu@St Du nur am Ende Deines Gleitflugs die }-Taste dru@ucken! &[Dru@uck die }-Taste am Ende Deines Gleitflugs, um zu schweben. &[Durch Schweben gewinnst Du an Ho@uhe und kommst auch weiter.
+He visto algo brillante en esa cueva de alli@b... @!Vamos a inspeccionarla! Puedes llegar hasta alli@b si te mantienes en el aire. Para eso, pulsa el boto@an } al final del vuelo. &[Pulsa el boto@an } al final del vuelo para mantenerte en el aire. &[Si te mantienes en el aire alcanzara@as mayor altura y llegara@as ma@as lejos.
+Ho visto luccicare qualcosa in quella grotta laggiu@g... andiamo a vedere! Puoi arrivarci librandoti. Per librarti, premi il tasto } al termine della planata! &[Premi il tasto } al termine della planata per librarti. &[Librandoti potrai andare sempre piu@g lontano e distante.
+
+To get the best glide distance, press the < button while walking forward, then press it again at the top of your jump. Finally, press the } button just before you get to the landing to hover. &[Pressing the } button gives you extra glide distance!
+Pour planer le plus loin possible, appuie sur la touche < pendant que tu prends de l'e@alan, puis une autre fois quand tu es au sommet de ton saut. Enfin, appuie sur la touche } avant d'atterrir pour faire un survol. &[Tu pourras planer encore plus loin !
+Damit Du am weitesten gleitest, dru@uck die <-Taste, wa@uhrend Du vorwa@urts gehst, und dann noch mal, wenn Du am ho@uchsten in der Luft bist. Dru@uck die }-Taste, kurz bevor Du landest, um zu gleiten. &[Wenn Du die }-Taste dru@uckst, kannst Du weiter gleiten!
+Para planear lo ma@as lejos posible, pulsa el boto@an < al mismo tiempo que avanzas y pu@alsalo de nuevo cuando este@as en lo ma@as alto del salto. Por u@altimo, pulsa el boto@an } justo antes de tocar el suelo si quieres mantenerte en el aire. &[Si pulsas el boto@an } volara@as ma@as lejos.
+Per raggiungere la maggiore distanza di volo, premi il tasto < mentre cammini, quindi premilo ancora al culmine del salto. Infine, per librarti, premi il tasto } appena prima di atterrare. &[Premendo il tasto } potrai volare piu@g a lungo!
+
+Oh, I almost forgot, I found this egg!
+Oh, j'allais oublier. J'ai trouve@a cet =euf !
+Oh, jetzt ha@utte ich's fast vergessen: Ich habe dieses Ei hier gefunden!
+@!Ah, se me olvidaba! He encontrado este huevo.
+Oh, quasi dimenticavo, ho trovato quest'uovo!
+
+There's definitely something shiny at the bottom of this hole. I was about to jump down there, but I think I hear running water and I hate to get wet. It's a cat thing.
+J'en suis su@ir. Y a quelque chose de brillant au fond de ce trou. J'allais sauter mais j'ai entendu comme de l'eau couler. Et j'ai horreur de me faire mouiller. J'suis pire qu'un chat.
+Da ist eindeutig etwas Gla@unzendes in diesem Loch. Ich wollte schon runterspringen, aber ich glaube, ich kann rauschendes Wasser ho@uren da unten, und ich werde so ungern na@S. Das ist 'ne Katzenmacke.
+Estoy seguro de que hay algo que brilla en el fondo de este agujero. He estado a punto de bajar, pero se oye como si hubiera agua alli@b abajo y odio mojarme. Ya sabes co@amo somos los gatos. 
+Qualcosa brilla in fondo a questo buco. Stavo per saltarci dentro, ma credo di aver sentito il rumore dell'acqua corrente e io odio bagnarmi. E@G una cosa da gatti.
+
+Sheila the Kangaroo
+Sheila le Kangourou
+Sheila das Ka@unguruh
+Sheila la canguro
+Sheila il canguro
+
+Hi, Spyro. If you bring someone back from each of the five worlds, we'll have enough weight to pull down this balloon for you.
+Salut, Spyro. Si tu rame@gnes une personne de chacun des cinq mondes, on aura assez de force pour faire descendre ce ballon pour toi.
+Hi, Spyro. Wenn Du eine Person aus jeder der fu@unf Welten zuru@uckbringst, werden wir stark genug sein, diesen Ballon fu@ur Dich runterzuholen.
+Hola, Spyro. Si traes a alguien de cada uno de los cinco mundos, conseguiremos el peso suficiente para bajar el globo. 
+Ciao Spyro. Se riporti qualcuno da ognuno dei cinque mondi avremo abbastanza zavorra per tirare giu@g la mongolfiera per te.
+
+Let's head on over to the balloon!
+Filons au ballon !
+Los, la@S uns zum Ballon gehen!
+@!Vamos a subirnos al globo!
+Andiamo alla mongolfiera!
+
+This balloon will take you to a land closer to the Sorceress, Spyro. You can also use it to come back here whenever you want to.
+Spyro, ce ballon te transportera dans un endroit proche de la sorcie@gre. Tu pourras aussi l'utiliser pour revenir ici quand tu veux.
+Mit diesem Ballon gelangst Du zu einem Land, das in der Na@uhe der Zauberin liegt, Spyro. Au@Serdem kannst Du damit jederzeit wieder hierher zuru@uckkommen.
+Spyro, este globo te llevara@a a unas tierras pro@aximas a las de la Bruja. Tambie@an podra@as utilizarlo para volver siempre que quieras.
+Questa mongolfiera ti portera@g in un luogo piu@g vicino alla maga, Spyro. Puoi anche usarla per tornare qui quando vuoi.
+
+Thanks for freeing me. Why don't you come visit me in my home world?
+Merci de m'avoir libe@are@ae. Pourquoi ne viendrais-tu pas me rendre visite un jour dans mon monde ?
+Danke, da@S Du mich befreit hast. Warum besuchst Du mich nicht mal in meiner Welt?
+Gracias por liberarme. @?Por que@a no vienes a visitarme a mi mundo? 
+Grazie per avermi liberata. Perche@a non vieni a trovarmi nel mio mondo qualche volta?

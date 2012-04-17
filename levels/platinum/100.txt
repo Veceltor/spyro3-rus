@@ -1,0 +1,529 @@
+100: Sunny Villa
+
+Zoe
+Zoe@a
+Zoe
+Zoe
+Zoe
+
+This rhynoc is too big to charge. You'll have to flame him using the { button.
+Ce rhino est trop gros pour charger. Tu dois le flamber a@g l'aide de la touche {.
+Dieser Rhinox ist zu gro@S, um ihn umzurennen. Du mu@St ihn abfackeln, indem Du die {-Taste dru@uckst.
+Este rinoc es demasiado grande para embestir. Utiliza la llama pulsando el boto@an {.
+Questo rinoc e@g troppo grosso per essere caricato. Dovrai arrostirlo con il tasto {.
+
+Zoe
+Zoe@a
+Zoe
+Zoe
+Zoe
+
+Hi Spyro! Each time a fairy zaps you, like this...
+Salut Spyro ! Chaque fois qu'une fe@ae t'illumine de cette fac@con...
+Hi, Spyro! Jedesmal, wenn Dich eine Elfe beru@uhrt, und zwar so...
+@!Hola, Spyro! Cada vez que un hada te toque con su varita asi@b...
+Ciao Spyro! Ogni volta che una fata ti fulmina in questo modo...
+
+That means your progress is saved. If you get into trouble you'll return to the last place you got zapped.
+...cela signifie que ta progression a e@ate@a sauvegarde@ae. Si tu as des ennuis, tu seras ramene@a au dernier endroit ou@g tu as e@ate@a illumine@a.
+Das bedeutet, da@S Dein Fortschritt gespeichert wird. Wenn Du in Schwierigkeiten gera@utst, bringe ich Dich an den Ort zuru@uck, an dem Du zuletzt beru@uhrt wurdest.
+Significa que tu progreso esta@a a salvo. Si tienes problemas, retrocedera@as so@alo hasta el lugar donde te encontraste al hada.
+Significa che la tua partita e@g stata salvata. Se finisci nei guai, tornerai nell'ultimo posto in cui ti hanno fulminato.
+
+Councillor George
+Conseiller Georges
+Stadtrat Georg
+Edil George
+Assessore George
+
+Oh my! Oh my! Can you help us? Hordes of ferocious rhynocs have overrun our town and kidnapped the mayor.
+Mon dieu ! Mon dieu ! Peux-tu nous aider? Des hordes de rhinos fe@aroces ont envahi la ville et ont kidnappe@a le maire.
+Oh Gott! Oh Gott! Kannst Du uns helfen? Eine Horde wilder Rhinoxe ist in unsere Stadt eingefallen und hat den Bu@urgermeister entfu@uhrt.
+@!Por favor! @?Podri@bas ayudarnos? Una manada de rinocs ha invadido nuestra ciudad y ha secuestrado al alcalde. 
+Oh no! Oh no! Puoi aiutarci? Orde di feroci rinoc si sono impadronite della nostra citta@g e hanno rapito il sindaco.
+
+Are you a dragon? I never believed you really existed.
+Es-tu un dragon ? Je ne pensais pas que vous existiez vraiment .
+Bist Du ein Drache? Ich habe nie geglaubt, da@S es die wirklich gibt.
+@?Eres un drago@an? Nunca crei@b que existierais de verdad.
+Sei un drago? Non credevo che esistessero veramente.
+
+Would you like a chicken sandwich? They're very good.
+C@Ca te dit, un sandwich au poulet ? Ils sont tre@gs bons.
+Mo@uchtest Du eine Scheibe Brot mit Hu@uhnchenbrust? Die ist sehr lecker.
+@?Te apetece un bocadillo de pollo? Esta@an bueni@bsimos.
+Vuoi un panino con il pollo? Sono buonissimi.
+
+Those pesky rhynocs are back again, but I'm sure you'll soon sort them out.
+Ces satane@as rhinos sont de retour, mais je suis su@ir que tu pourras nous en de@abarrasser.
+Diese nervigen Rhinoxe sind wieder da, doch ich bin sicher, da@S Du schon mit ihnen fertig wirst.
+Esos fastidiosos rinocs han vuelto, pero estoy seguro de que te encargara@as de ellos.
+Quei maledetti rinoc sono tornati, ma sono sicuro che li sistemerai presto.
+
+Citizen Paulus
+Citoyen Paulus
+Bu@urger Paulus
+Ciudadano Paulus
+Cittadino Paulus
+
+Let me catch my breath and I'll kick that other guy's butt.
+Laisse-moi reprendre mon souffle et je vais lui botter le derrie@gre.
+La@S mich nur kurz Luft schnappen, und dann werde ich dem anderen Typen Feuer unter dem Hintern machen.
+De@ajame que recupere el aliento y le dare@a una buena patada en el trasero a ese. 
+Fammi riprendere fiato, e lo sistemero@g io quello li@h.
+
+We showed those two bullies. If they hadn't outnumbered me two to one, I'd have finished them off ages ago.
+Ces deux brutes ne sont pas pre@ites d'oublier. Si je n'avais pas e@ate@a tout seul, j'en aurais fini avec eux en un rien de temps.
+Diesen beiden Ru@upeln haben wir es aber gezeigt. Wenn sie mir nicht zahlenma@u@Sig u@uberlegen gewesen wa@uren, ha@utte ich sie la@ungst fertiggemacht.
+Ya se lo hemos demostrado a esos matones. Porque e@aramos dos contra uno que si no, ya habri@ba acabado con ellos hace mucho tiempo. 
+Gliel'abbiamo fatta vedere a quei due sbruffoni. Se non si fossero messi in 2 contro 1, li avrei sconfitti secoli fa.
+
+Have you seen any giant chickens around here?
+As-tu vu des poulets ge@aants dans les parages ?
+Hast Du hier Riesenhu@uhner rumlaufen sehen?
+@?Has visto algu@an pollo gigante por aqui@b?
+Hai per caso visto dei polli giganti nelle vicinanze?
+
+Mayor Leo
+Maire Le@ao
+Bu@urgermeister Leo
+Alcalde Leo
+Sindaco Leo
+
+Thank you for rescuing my town. As mayor I award you with one of our famous giant chicken eggs.
+Merci d'avoir sauve@a ma ville. En tant que maire, je vous fais cadeau d'un de nos ce@ale@gbres =eufs de poulet ge@aants.
+Danke, da@S Du meine Stadt gerettet hast. Als Bu@urgermeister will ich Dich mit einem unserer riesigen Hu@uhnereier belohnen.
+Gracias por salvar mi ciudad. Como alcalde te entrego uno de nuestros famosos huevos de pollo gigantes.
+Grazie per aver salvato la mia citta@g. Come sindaco vi dono una delle nostre rinomate uova di polli giganti.
+
+I'm sorry, that was the ugliest chicken I've ever seen.
+De@asole@a, c'est le poulet le plus moche que j'ai jamais vu.
+Also das war das ha@u@Slichste Huhn, das ich je gesehen habe.
+Lo siento, es el pollo ma@as feo que he visto en mi vida.
+Mi dispiace, ma quello e@g il pollo piu@g brutto che abbia mai visto.
+
+Citizen Horace
+Citoyen Horace
+Bu@urger Horatius
+Ciudadano Horacio
+Cittadino Orazio
+
+Whoo I'm dizzy.
+Oh, j'ai la te@ite qui tourne.
+Ooh, ist mir schwindlig.
+@!Huy, que@a mareo!
+Uff, mi gira la testa.
+
+Thanks for the help, but I think I would have worn him down in a minute.
+Merci pour l'aide, mais a@g mon avis j'en aurais eu tre@gs vite raison.
+Danke fu@ur die Hilfe, aber ich denke, ich ha@utte ihn auch gleich geschafft.
+Gracias por ayudarme, pero creo que habre@a acabado con e@al en un minuto. 
+Grazie per l'aiuto, ma credo che ce l'avrei comunque fatta in un minuto.
+
+Have you seen any of our giant chickens? The rhynocs have been trying to eat them all.
+As-tu vu un de nos poulets ge@aants ? Les rhinos ont essaye@a de tous les manger.
+Hast Du unsere Riesenhu@uhner gesehen? Die Rhinoxe wollten sie alle auffressen.
+@?Has visto alguno de nuestros pollos gigantes? Los rinocs han intentado come@arselos todos.
+Hai visto uno dei nostri polli giganti? I rinoc hanno cercato di mangiarli tutti.
+
+Look, a chicken turned up. I hope it's not the only one left.
+Regarde, un poulet est arrive@a. J'espe@gre que ce n'est pas le dernier.
+Guck mal, da ist ein Huhn. Ich hoffe, es ist nicht das einzige.
+Mira, ahi@b viene uno. Espero que no sea el u@anico que queda.
+Guarda, un pollo! Spero che non sia l'ultimo rimasto.
+
+To Whom it May Concern: Sheila the Kangaroo is currently otherwise detained -- by me. Please return in a few years.\      -The Sorceress
+A qui de droit : Sheila le Kangourou est absente pour cause d'emprisonnement (par moi). Revenez dans quelques anne@aes.\      -La Sorcie@gre
+Wichtig: Sheila das Ka@unguruh wird derzeit woanders aufgehalten (und zwar von mir). Komm bitte in ein paar Jahren zuru@uck.\      -Die Zauberin
+A quien pueda interesar: Sheila no se encuentra aqui@b en este momento, esta@a retenida (por mi@b). Por favor, vuelva dentro de unos di@bas.\      -La Bruja.
+Avviso: Sheila il canguro e@g attualmente tenuta prigioniera (da me). Siete pregati di ritornare tra un paio d'anni.\    -La maga
+
+Spyro, thanks for dropping by, but I'm currently busy in my home world. Come visit me there.\          -Sheila
+Spyro, c'est gentil d'e@itre passe@a mais je suis occupe@ae dans mon monde en ce moment. Passe me voir ici.\       -Sheila
+Spyro, danke, da@S Du vorbeigekommen bist, aber im Moment bin ich in meiner Heimatwelt schwer bescha@uftigt. Komm mich dort besuchen.\          -Sheila
+Spyro, gracias por pasar por aqui@b, pero ahora mismo estoy muy ocupada en mi mundo. Ven a visitarme alli@b.\          -Sheila.
+Grazie per essere passato Spyro, ma al momento sto curando delle faccende importanti nel mio mondo. Incontriamoci li@h.\     -Sheila
+
+Come on in!\     -Sheila
+Entre donc !\     -Sheila
+Komm rein!\     -Sheila
+@!Vamos, ven!\     -Sheila.
+Avanti!\     -Sheila
+
+
+=====
+
+
+Rapunzel
+Rapunzel
+Rapunzel
+Rapunzel
+Raperonzolo
+
+What! Marco sent you here? I've got a restraining order against him.
+Quoi! Marco t'a envoye@a ici ? Mais je lui ai formellement interdit d'intervenir.
+Was! Marco hat Dich geschickt? Ich habe eine gerichtliche Verfu@ugung gegen ihn.
+@!Que@a! @?Marco te pidio@a que vinieras? Tengo una orden judicial contra e@al. 
+Cosa! Ti ha mandato Marco? Ho un ordine di restrizione contro di lui.
+
+If you see Marco please tell him I've moved out.
+Si tu vois Marco, s'il te plai@jt, dis-lui que je suis partie.
+Wenn Du Marco siehst, sag ihm bitte, da@S ich ausgezogen bin.
+Si ves a Marco, dile que me he mudado, por favor.
+Se vedi Marco digli che mi sono trasferita.
+
+Sheila
+Sheila le Kangourou
+Sheila
+Sheila
+Sheila
+
+Hey Spyro, there are rhynocs everywhere. Maybe I can find some peace and quiet at the top of the tower...
+He@a Spyro, il y a des rhinos partout. Je serai peut-e@itre plus tranquille en haut de la tour...
+He, Spyro, hier wimmelt es von Rhinoxen. Vielleicht kann ich auf der Spitze des Turms ein wenig Ruhe finden...
+Eh, Spyro, hay rinocs por todas partes. Quiza@as pueda encontrar algo de tranquilidad en lo alto de la torre. 
+Ehi Spyro, ci sono rinoc ovunque. Forse posso trovare un po' di calma e tranquillita@g in cima alla torre...
+
+Marco
+Conseiller Georges
+Marco
+Marco
+Marco
+
+Alas, I have lost my love, guarded by evil rhynocs at the top of yonder tower. Can you rescue her for me?
+He@alas, j'ai perdu mon amour. Elle est garde@ae par les vilains rhinos, en haut de cette tour la@g-bas. Peux-tu la sauver pour moi ?
+Oh Jammer, ich habe meine Liebste verloren. Sie wird in jenem Turm dort dru@uben von bo@usen Rhinoxen bewacht. Kannst Du sie fu@ur mich retten?
+Desgraciadamente, los rinocs han secuestrado a mi amada y la tienen encerrada en lo alto de aquella torre. @?Podri@bas rescatarla? 
+Ho perduto la mia amata, prigioniera dei rinoc in cima a quella torre. Puoi salvarla per me?
+
+
+=====
+
+
+Attention dragon: if you ever want to see your mangy cat friend again, you had better leave here at once!\     -The Sorceress
+Dragon : si tu veux revoir ton copain le chat miteux, tu ferais mieux de partir d'ici tout de suite !\     -La Sorcie@gre
+Au@Sgepa@St, Drache: Wenn Du Deinen ra@uudigen Katzenfreund je wiedersehen willst, solltest Du besser sofort von hier verschwinden!\      -Die Zauberin
+Ten cuidado, drago@an: Si quieres volver a ver con vida a tu amiguito el gato sarnoso, ma@as vale que te vayas de aqui@b inmediatamente.\     -La Bruja.
+Attento drago:  se vuoi rivedere il tuo pulcioso amico gatto e@g meglio che te ne vada subito!\    -La maga
+
+NONE
+Gnasty Gnorc
+Half-pipe Leap
+Triple Towers
+Quint Front Flip
+Quint Roll Left
+Big Gulp
+Quint Back Flip
+Quint Roll Right
+Orange Crush
+Single Front Flip
+Double Front Flip
+Triple Front Flip
+Quad Front Flip
+Single Roll Left
+Double Roll Left
+Triple Roll Left
+Dr. Shemp
+Single Spin Left
+Double Spin Left
+Triple Spin Left
+Gulp
+Single Back Flip
+Double Back Flip
+Triple Back Flip
+Quad Back Flip
+Single Roll Right
+Double Roll Right
+Triple Roll Right
+Toasty Twist
+Single Spin Right
+Double Spin Right
+Triple Spin Right
+Crush
+Twisted Lemon
+Twisted Lemon x 2
+Twisted Lemon x 3
+Thrash Master
+Twisted Lime
+Double Twisted Lime
+Triple Twisted Lime
+Super Thrash Master
+Raging Ripto
+
+AUCUN
+Truffe de Gnorc
+Demi-tonneau
+Triples Tours
+5x flip avant
+5x demi-tour a@g gauche
+5x tour a@g gauche
+5x flip arrie@gre
+5x demi-tour a@g droite
+5x tour a@g droite
+Flip avant simple
+Double flip avant
+Triple flip avant
+4x flip avant
+1x demi-tour a@g gauche
+2x demi-tour a@g gauche
+3x demi-tour a@g gauche
+4x demi-tour a@g gauche
+Tour simple gauche
+Double tour gauche
+Triple tour gauche
+4x tour gauche
+Flip arrie@gre simple
+Double flip arrie@gre
+Triple flip arrie@gre
+4x flip arrie@gre
+1x demi-tour a@g droite
+2x demi-tour a@g droite
+3x demi-tour a@g droite
+4x demi-tour a@g droite
+Tour simple droite
+Double tour droite
+Triple tour droite
+4x tour droite
+Citron presse@a
+2x Citron presse@a
+3x Citron presse@a
+Mai@jtre Supre@ime
+Lime presse@ae
+Double Lime presse@ae
+Triple Lime presse@ae
+SuperMai@jtre Supre@ime
+Ripto la Terreur
+
+NICHTS
+Gnasty Gnorc
+Half-Pipe-Sprung
+Dreifach-Tu@urme
+5x Flip vorwa@urts
+5x Rolle links
+5x Spin links
+5x Flip ru@uckwa@urts
+5x Rolle rechts
+5x Spin rechts
+1x Flip vorwa@urts
+2x Flip vorwa@urts
+3x Flip vorwa@urts
+4x Flip vorwa@urts
+1x Rolle links
+2x Rolle links
+3x Rolle links
+4x Rolle links
+1x Spin links
+2x Spin links
+3x Spin links
+4x Spin links
+1x Flip ru@uckwa@urts
+2x Flip ru@uckwa@urts
+3x Flip ru@uckwa@urts
+4x Flip ru@uckwa@urts
+1x Rolle rechts
+2x Rolle rechts
+3x Rolle rechts
+4x Rolle rechts
+1x Spin rechts
+2x Spin rechts
+3x Spin rechts
+4x Spin rechts
+Gepresste Zitrone
+2x gepr. Zitrone
+3x gepr. Zitrone
+Thrash Master
+Gedrehte Limone
+2x gedrehte Limone
+3x gedrehte Limone
+Super Thrash Master
+Tobender Ripto
+
+NINGUNO
+Gnasty Gnorc
+Salto de medio tubo
+Torres triples
+Voltereta izda. x5
+Pirueta izda. x5
+Giro izquierdo x5
+Voltereta atra@as x5
+Pirueta derecha x5
+Giro derecho x5
+Volt. adelante x1
+Volt. adelante x2
+Volt. adelante x3
+Volt. adelante x4
+Pirueta izda. x1
+Pirueta izda. x2
+Pirueta izda. x3
+Pirueta izda. x4
+Giro izquierdo x1
+Giro izquierdo x2
+Giro izquierdo x3
+Giro izquierdo x4
+Voltereta atra@as x1
+Voltereta atra@as x2
+Voltereta atra@as x3
+Voltereta atra@as x4
+Pirueta derecha x1
+Pirueta derecha x2
+Pirueta derecha x3
+Pirueta derecha x4
+Giro derecho x1
+Giro derecho x2
+Giro derecho x3
+Giro derecho x4
+Limo@an exprimido
+Limo@an exprimido x2
+Limo@an exprimido x3
+Contorsio@an maestra
+Lima exprimida
+Lima exprimida x2
+Lima exprimida x3
+Cont. su@apermaestra
+Furia de Ripto
+
+NESSUNO
+Gnasty Gnorc
+Salto Half-pipe
+X3 Towers
+X5 Flip Frontale
+X5 Roll A Sinistra
+X5 Spin A Sinistra
+X5 Flip Indietro
+X5 Roll A Destra
+X5 Spin A Destra
+Flip X1 Frontale
+X2 Flip Frontale
+X3 Flip Frontale
+X4 Flip Frontale
+Roll X1 A Sinistra
+X2 Roll A Sinistra
+X3 Roll A Sinistra
+X4 Roll A Sinistra
+Spin X1 A Sinistra
+X2 Spin A Sinistra
+X3 Spin A Sinistra
+X4 Spin A Sinistra
+Flip X1 Indietro
+X2 Flip Indietro
+X3 Flip Indietro
+X4 Flip Indietro
+Roll X1 A Destra
+X2 Roll A Destra
+X3 Roll A Destra
+X4 Roll A Destra
+Spin X1 A Destra
+X2 Spin A Destra
+X3 Spin A Destra
+X4 Spin A Destra
+Twisted Lemon
+X2 Twisted Lemon
+X3 Twisted Lemon
+Thrash Master
+Twisted Lime
+X2 Twisted Lime
+X3 Twisted Lime
+Super Thrash Master
+Raging Ripto
+
+Hunter
+Chasseur
+Ja@uger
+Cazador
+Hunter
+
+Hi Spyro. I found this gladiator training arena and it makes a pretty cool skate park! Care for a test of your boarding skills? &Start boarding challenge now? &Yes. &No.
+Salut Spyro ! J'ai trouve@a cette are@gne d'entrai@jnement de gladiateurs et en plus tu peux y faire du skate, cool ! C@Ca te dit de tester ta technique en skateboard ? &Commencer le de@afi skateboard ? &Oui &Non
+Hi, Spyro. Ich habe diese U@Ubungsarena fu@ur Gladiatoren gefunden. Aus der ko@unnte man eine prima Skate-Bahn machen! Hast Du Lust, Deine Skateboard-Ku@unste zu testen? &Skateboard-Herausforderung jetzt starten? &Ja &Nein
+Hola, Spyro. He encontrado este estadio de gladiadores y parece una buena pista de patinaje. @?Que@a te parece si ponemos a prueba tu destreza patinando? &@?Quieres empezar ahora el reto del patinaje? &Si@b. &No.
+Ciao Spyro, ho trovato quest'arena di allenamento per gladiatori, va benissimo per andare sullo skate-board! Ti va di allenarti con lo skate? &Inizi la sfida su skate ora? &Si@h &No
+
+Are you ready for a challenge now? &Start boarding challenge now? &Yes. &No.
+Es-tu pre@it a@g relever le de@afi ? &Commencer le de@afi skateboard ? &Oui &Non
+Bist Du bereit fu@ur eine Herausforderung? &Skateboard-Herausforderung jetzt starten? &Ja &Nein
+@?Esta@as listo para un reto? &@?Quieres empezar ahora el reto del patinaje? &Si@b. &No.
+Sei pronto per una sfida? &Inizi la sfida su skate ora? &Si@h &No
+
+I bet you can't catch all fifteen of the lizards running around here... Just come back if you want some boarding tips from the master. &[Catch the lizards.
+Je parie que t'es pas capable d'attraper les quinze le@azards en train de courir... Reviens voir le roi de la planche si tu veux des conseils pour mieux skater.
+Ich wette, da@S Du nicht alle fu@unfzehn Eidechsen, die hier herumlaufen, fangen kannst... Komm einfach zuru@uck, wenn Du ein paar Board-Tips vom Meister haben willst.
+Apuesto a que no puedes cazar a los 15 lagartos que hay por aqui@b. Vuelve si quieres algunos consejos del experto. 
+Scommetto che non riuscirai mai a catturare le 15 lucertole che ci sono qui... Se vuoi delle dritte, torna dal maestro.
+
+Yeah, maybe you'd better practice a bit first... Just come back here when you're up for a challenge.
+Ouais, c@ca serait peut-e@itre pas plus mal que tu t'entrai@jnes un peu avant... Repasse me voir quand tu veux relever le de@afi.
+Ja, Du solltest besser erst ein bi@Schen u@uben... Komm einfach zuru@uck, wenn Du bereit bist fu@ur die Herausforderung.
+Bueno, quiza@a deberi@bas practicar un poco antes. Vuelve cuando este@as listo para un reto.
+Certo, forse prima vuoi allenarti un po'... Torna quando sei pronto ad affrontare la sfida.
+
+Having trouble? If you use the < button to jump off the ramps you'll get extra height and distance.
+Des proble@gmes ? Si tu appuies sur la touche < pour sauter de la rampe, tu gagneras de la hauteur et de la distance.
+Probleme? Wenn Du beim Absprung von den Rampen die <-Taste dru@uckst, springst Du ho@uher und weiter.
+@?Tienes problemas? Si pulsas el boto@an < para saltar de las rampas, alcanzara@as mayor altura y llegara@as ma@as lejos. 
+Problemi? Se usi il tasto < potrai saltare dalle rampe ad una distanza e ad un'altezza superiori.
+
+Caught all the lizards yet? If you're having trouble catching them, don't be afraid to use your flame breath while on the skateboard.
+Alors, t'as attrape@a tous les le@azards ? S'ils te donnent du fil a@g retordre, ne te ge@ine pas pour cracher des flammes quand t'es sur ton skate.
+Hast Du schon alle Eidechsen gefangen? Wenn Du dabei Probleme hast, trau Dich ruhig, Deinen Flammenatem zu benutzen, wa@uhrend Du auf dem Skateboard bist.
+@?Au@an no has cazado a los lagartos? Si tienes problemas para cazarlos, no dudes en utilizar las llamas mientras este@as en el monopati@bn.
+Stai ancora cercando di catturare le lucertole? Se hai dei problemi, non aver paura di usare il tuo soffio infuocato mentre sei sullo skate-board.
+
+Hey that was great! And while you were boarding, I found this in a lizard burrow.
+He@a, pas mal du tout ! Pendant que tu skatais j'ai trouve@a c@ca dans un trou de le@azard.
+He, das war super! Und wa@uhrend Du geskatet bist, habe ich das hier in einer Eidechsenho@uhle gefunden.
+@!Eso ha estado muy bien! Por cierto, mientras patinabas, he encontrado esto en una madriguera. 
+Ehi, sei stato grande! E mentre stavi skateando ho trovato questo nella tana di una lucertola.
+
+Now that you've mastered the basics, let's see you do some stunts! Try using the < or } button to jump off ramps and turn in the air...
+Maintenant que tu mai@jtrises les bases, voyons comment tu t'en sors co@ite@a cascades ! Appuie sur la touche < ou sur la touche } pour sauter de la rampe et pour tourner en l'air...
+Nun da Du die Grundlagen beherrschst, fu@uhr mal ein paar Tricks vor! Versuch, beim Absprung von Rampen die <- oder }-Taste zu dru@ucken und Dich in der Luft zu drehen...
+Ahora que dominas lo ba@asico, @!a ver que@a tal se te dan las piruetas! Prueba utilizando el boto@an < o el boto@an } para saltar de las rampas y girar en el aire.
+Ora che hai imparato i fondamentali, facciamo un po' di acrobazie! Prova ad usare il tasto < o } per saltare dalle rampe o girarti in aria...
+
+This is the most fun I've had since we chased King Flippy on the manta ray.
+Je ne me suis jamais autant amuse@a depuis notre poursuite du Roi Flippy sur la raie.
+Soviel Spa@S hatte ich nicht mehr, seit wir Ko@unig Flippy auf dem Rochen verfolgt haben.
+No me lo pasaba tan bien desde que capturamos al Rey Flippy con la manta.
+Non mi divertivo cosi@h tanto da quando abbiamo inseguito Re Flippy sulla manta.
+
+Alright, if you can catch all the lizards without wiping out and before time runs out, I  might be able to scrounge up another egg. It's not gonna be easy, though... &Start difficult boarding challenge now? &Yes. &No.
+Bon, si tu attrapes tous les le@azards vivants et pendant le temps imparti, je pourrais peut-e@itre re@acupe@arer un autre =euf. C@Ca va pas e@itre facile, mais bon... &Commencer le de@afi skateboard difficile ? &Oui &Non
+OK, wenn Du alle Eidechsen fangen kannst, ohne dabei draufzugehen und bevor die Zeit abla@uuft, ko@unnte ich vielleicht noch ein Ei rausru@ucken. Es wird aber nicht einfach...
+Bien, si consigues cazar todos los lagartos sin que te eliminen y antes de que se acabe el tiempo, quiza@a pueda conseguir otro huevo. Aunque no va a ser fa@acil. &@?Quieres empezar el complicado reto del patinaje ahora? &Si@b. &No.
+Bene, se riesci a prendere tutte le lucertole senza cadere e prima della fine del tempo, potrei rimediarti un altro uovo. Comunque non sara@g facile... &Inizi la sfida difficile sullo skate-board? &Si@h &No
+
+If you want to try to catch those lizards, I'll start the clock now. &Start difficult boarding challenge now? &Yes. &No.
+Si tu es pre@it a@g attraper ces le@azards, je de@aclenche le chrono. &Commencer le de@afi skateboard difficile ? &Oui &Non
+Wenn Du versuchen willst, diese Eidechsen zu fangen, starte ich jetzt die Uhr.
+Si quieres intentar cazar esos lagartos, empiezo a contar el tiempo ya. &@?Quieres empezar el complicado reto del patinaje ahora? &Si@b. &No.
+Se vuoi provare a prendere quelle lucertole faro@g partire il tempo ora. &Vuoi iniziare la sfida difficile sullo skate-board ora? &Si@h &No
+
+Go get 'em, Spyro!
+Attrape-les tous, Spyro !
+Hol sie Dir, Spyro!
+@!A por ellos, Spyro!
+Vai a prenderle, Spyro!
+
+Well whenever you're ready, come and talk to me.
+De@gs que tu es pre@it, passe me voir.
+Wenn Du bereit bist, kannst Du zu mir kommen und mit mir reden.
+Bueno, cuando este@as listo, ven a verme.
+Beh, quando sei pronto vieni e parlami.
+
+Awww, too bad... maybe you'll do better this time. &Try difficult boarding challenge again? &Yes. &No.
+Ahhh, dommage... tu feras mieux la prochaine fois. &Re@aessayer le de@afi skateboard difficile ? &Oui &Non
+Oooh, wie schade... vielleicht klappt es na@uchstes Mal besser. &Schwierige Board-Herausforderung noch mal probieren? &Ja &Nein
+@!Ohh, que@a lastima! Quiza@a esta vez te salga mejor. &@?Quieres volver a intentar el complicado reto del patinaje? &Si@b. &No.
+Mmmmh, peccato... forse farai meglio la prossima volta. &Vuoi riprovare la sfida difficile sullo skate-board ora? &Si@h &No
+
+Whoa, that was sweet! And look, there was another egg in the lizard burrow.
+Ouah, vraiment bien ! Regarde, il y avait un autre =euf dans le trou de le@azard.
+Wow, das war cool! Und sieh nur, da ist tatsa@uchlich noch ein Ei in der Eidechsenho@uhle.
+@!Guau, muy bien! Mira, he encontrado otro huevo en la madriguera de los lagartos. 
+Wow, ben fatto! E guarda, c'era un altro uovo nella tana della lucertola.
+
+You can go for the course record now, if you want. Whenever you hop on a skateboard, a timer will start. Score as many points as you can until the timer expires or you wipe out. Good luck!
+Tu peux essayer de battre le record de vitesse maintenant, si tu veux. De@gs que tu sautes sur une planche, un chrono se de@aclenchera. Pendant le temps imparti, marque autant de points que possible ou tu seras e@alimine@a. Bonne chance !
+Jetzt kannst Du versuchen, den Streckenrekord zu brechen. Immer, wenn Du auf ein Skateboard steigst, wird eine Stoppuhr gestartet. Hol so viele Punkte wie mo@uglich, bevor die Zeit um ist oder Du stu@urzt. Viel Glu@uck!
+Ahora, puedes ir a por el re@acord, si quieres. El tiempo empezara@a a correr cuando te subas a un monopati@bn. Consigue todos los puntos que puedas antes de que se acabe el tiempo o te caigas. @!Buena suerte!
+Ora puoi tentare di battere il record della pista. Quando salti su uno skate parte il cronometro. Segna piu@g punti possibili entro lo scadere del tempo a disposizione o fino a che non cadi. Buona fortuna!

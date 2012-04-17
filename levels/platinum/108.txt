@@ -1,0 +1,109 @@
+108: Mushroom Speedway
+
+Attention dragon: if you ever want to see your mangy cat friend again, you had better leave here at once!\     -The Sorceress
+Dragon : si tu veux revoir ton copain le chat miteux, tu ferais mieux de partir d'ici tout de suite !\     -La Sorcie@gre
+Au@Sgepa@St, Drache: Wenn Du Deinen ra@uudigen Katzenfreund je wiedersehen willst, solltest Du besser sofort von hier verschwinden!\      -Die Zauberin
+Ten cuidado, drago@an: Si quieres volver a ver con vida a tu amiguito el gato sarnoso, ma@as vale que te vayas de aqui@b inmediatamente.\     -La Bruja.
+Attento drago:  se vuoi rivedere il tuo pulcioso amico gatto e@g meglio che te ne vada subito!\    -La maga
+
+Hunter
+Chasseur
+Ja@uger
+Cazador
+Hunter
+
+Whoooa! A bunch of sheep in flying saucers just came out of nowhere and started blasting up the race course!
+Woaw ! Une bande de moutons en soucoupes volantes est sortie de nulle part et a commence@a a@g semer la panique dans la course !
+Wow! Ein Trupp Schafe in fliegenden Untertassen ist wie aus dem Nichts aufgetaucht und stellt die Rennstrecke auf den Kopf!
+@!Guau! Ha aparecido una manada de ovejas en platillos volantes de la nada y han empezado a fastidiarnos la carrera.   
+Whoooa! Un gruppo di pecore su dischi volanti sono apparse dal nulla e hanno iniziato a distruggere la pista! 
+
+Looks like I'll have to hop in my plane and teach 'em some manners! &Shoot down sheep UFOs? &Go for it! &Looks too dangerous...
+On dirait qu'il va falloir que je saute dans mon avion et que je leur donne une bonne lec@con ! &Corriger les moutons extraterrestres ? &On y va ! &C@Ca a l'air dangereux...
+Ich mu@S wohl in mein Flugzeug steigen und denen mal Manieren beibringen! &Schaf-UFOs abschie@Sen? &Los geht's! &Sieht zu gefa@uhrlich aus...
+Parece que tendre@a que subirme a mi avio@an y ensen@tarles buenos modales. &@?Quieres derribar los ovnis de las ovejas? &@!A por ellos! &Tiene pinta de ser peligroso.
+Sembra che dovro@g saltare sul mio aereo e insegnargli un po' di buona educazione! &Abbatti gli ufo pecorini? &All'attacco! &Troppo pericoloso... 
+
+Look out sheep, here I come! &[{ button to fire. &[< or > button for turbo.
+Prenez garde, les moutons, j'arrive !
+Aufgepa@St, Schafe, hier komme ich! &[{-Taste zum Schie@Sen. &[<- oder >-Taste fu@ur Turbo.
+@!Alla@a voy! Cuidado ovejitas.&[Pulsa el boto@an { para disparar. &[Pulsa el boto@an < o > para utilizar el turbo. 
+Attente pecore! Arrivo io! &[ Tasto { per sparare. &[< o tasto > per il turbo.
+
+Yeah, when sheep go hi-tech, you gotta watch out!
+Ouais, revenons pluto@it a@g nos moutons !
+Wenn Schafe mit Hi-Tech anfangen, mu@S man aufpassen!
+@!Hay que tener cuidado con las ovejas y su alta tecnologi@ba!
+Wow! Quando le pecore giocano duro e@g meglio stare attenti!
+
+Wooohooooo! Check it out, the squad leader had abducted this egg!
+Wooohooooo ! Vise un peu c@ca : le chef de la bande avait vole@a cet =euf !
+Hoho! Guck Dir das an, der Truppenfu@uhrer hatte dieses Ei entfu@uhrt!
+@!Yujuuuu! Mira lo que tenemos aqui@b, el jefe de la brigada ha secuestrado este huevo.
+Wooohooooo! Guarda qui, il capo pecora aveva rapito quest'uovo !
+
+Sparx
+Sparx
+Sparx
+Sparx
+Sparx
+
+Which challenge would you like to play? &Choose a challenge: &Time Attack &Race the Butterflies &Exit level
+Quel de@afi voudrais-tu relever ? &Se@alectionner un de@afi: &Course contre la montre &Course contre les papillons &Quitter le niveau
+Welche Herausforderung mo@uchtest Du spielen? &Wa@uhle eine Herausforderung. &Zeitspiel &Rennen gegen die Schmetterlinge &Level beenden
+@?Que@a reto quieres afrontar? &Elige un reto: &Carrera contrarreloj &Carrera con las mariposas &Salir del nivel
+In quale modalita@g vuoi giocare? &Scegli una modalita@g: &Prova a cronometro &Sfida le farfalle &Esci
+
+Here's a hint. Try completing each challenge in order. Start with the rings, then get all the dandelions, the spiders, and save the butterflies for last. It's not the fastest way, but it is the easiest.
+Astuce : essaie de relever chaque de@afi dans l'ordre. Commence par les anneaux, continue avec les pissenlits, les araigne@aes et garde les papillons pour la fin. Ce n'est pas le plus rapide, mais c'est le plus facile.
+Hier ist ein Tip. Versuch, die Herausforderungen nacheinander zu absolvieren. Fang mit den Ringen an, hol dann die Lo@uwenzahnblumen, die Spinnen, und heb die Schmetterlinge fu@ur den Schlu@S auf. Das ist nicht der schnellste Weg, aber der einfachste.
+Aqui@b tienes una pista. Trata de conseguir los retos por orden. Empieza con los anillos, despue@as los tractores, las vacas y, por u@altimo, salva los aviones. No es la forma ma@as ra@apida, pero si@b la ma@as fa@acil. 
+Ecco un indizio. Prova a completare ogni prova in sequenza. Inizia con gli anelli, poi prendi tutti i denti di leone, i ragni ed infine le farfalle. Non e@g il modo piu@g veloce, ma e@g il piu@g facile.
+
+Ok, you're going to race the butterflies. You have to fly through ALL of the green checkpoint rings in order. The red dots will lead the way. &[Fly through all green rings &[Use the red dots to guide you.
+Tu as choisi de relever le de@afi des papillons. D'accord ! Tu dois voler a@g travers TOUS les anneaux de contro@ile verts, dans l'ordre. Les pointille@as rouges de@alimitent la piste. &[Vole a@g travers tous les anneaux verts &[Guide-toi a@g l'aide des pointille@as rouges.
+OK, Du machst ein Rennen gegen die Schmetterlinge. Du mu@St der Reihe nach durch ALLE gru@unen Kontrollringe fliegen. Die roten Punkte markieren den Kurs. &[Flieg durch alle gru@unen Ringe. &[Folge den roten Punkten.
+Bien, ahora vas a echar una carrera contra las mariposas. Tendra@as que volar a trave@as de TODOS los anillos de control verdes. Los puntos rojos marcan el camino. &[Vuela a trave@as de todos los anillos verdes. &[Gui@bate por los puntos rojos.
+Ok, affronterai le farfalle. Devi volare attraverso TUTTI gli anelli verdi. I punti rossi delimitano la pista. &[Vola attraverso tutti gli anelli verdi &[Usa i punti rossi come guida.
+
+Alright, we'll try again later.
+Entendu, on essaiera plus tard.
+In Ordnung, wir versuchen es spa@uter noch mal.
+Vale, volveremos a intentarlo ma@as tarde.
+Ok, riproveremo piu@g tardi.
+
+The insects were so impressed with your flying skills they awarded you this egg.
+Pour re@acompenser tes talents de pilote, les insectes t'offrent cet =euf.
+Die Insekten waren so beeindruckt von Deinen Flugku@unsten, da@S sie Dir dieses Ei verleihen.
+Tu vuelo ha dejado tan impresionados a los insectos que te han premiado con este huevo.
+Gli insetti sono rimasti cosi@h stupiti dalla tua bravura nel volo che hanno deciso di consegnarti quest'uovo in premio.
+
+Wow! You won first prize.
+Bravo ! Tu as gagne@a le premier prix !
+Wow! Du hast den ersten Preis gewonnen.
+@!Guau, has ganado el primer premio!
+Wow! Hai vinto il primo premio.
+
+Now that you've completed the challenge, you could go for your best time. Try cutting corners and charging for extra speed. Also, remember that completing the challenge in order may not be the fastest way, try experimenting.
+Maintenant que tu as releve@a le de@afi, tu pourrais essayer de battre ton propre record. Essaie d'atteindre ta vitesse maximale et de virer court. Et n'oublie pas : relever le de@afi dans l'ordre n'est peut-e@itre pas le moyen le plus rapide. Essaie de nouvelles techniques.
+Da Du diese Herausforderung nun bestanden hast, kannst Du versuchen, Deine Zeit zu verbessern. Versuch, Abku@urzungen zu nehmen und durch Sprinten schneller zu werden. Bedenke au@Serdem, da@S es nicht der schnellste Weg ist, den Kurs der Reihenfolge nach zu erledigen. Sei experimentierfreudig.
+Ahora que has conseguido el reto, podri@bas intentar hacerlo en mejor tiempo. Prueba a recortar en las esquinas y a utilizar la embestida para conseguir mayor velocidad. Adema@as, recuerda que conseguir el reto por orden puede que no sea la forma ma@as ra@apida, prueba otras. 
+Ora che hai completato la gara puoi provare a fare il tuo record su pista. Prova a tagliare gli angoli e a caricare in modo da andare piu@g veloce. Inoltre, ricorda che completare la gara in ordine potrebbe non essere il metodo piu@g veloce, prova ad adottare diverse strategie.
+
+You won't win the race without using the blue turbo stars. Try to use as many as possible, even if it means leaving the red dots, but remember to fly though the rings or you'll be disqualified. &[Use the blue turbo stars. &[Fly through all green rings
+Tu ne gagneras pas la course si tu n'utilises pas les e@atoiles turbo bleues. Essaie d'en utiliser le plus possible, me@ime si tu dois sortir de la piste. Mais n'oublie pas de voler a@g travers les anneaux, sinon tu seras disqualifie@a. &[Utilise les e@atoiles turbo bleues. &[Vole a@g travers tous les anneaux verts.
+Du wirst das Rennen nicht ohne die blauen Turbosterne gewinnen. Versuch, so viele wie mo@uglich zu benutzen, auch wenn das bedeutet, von den roten Punkten abzuweichen. Aber vergi@S nicht, durch die Ringe zu fliegen, denn sonst wirst Du disqualifiziert. &[Benutze die blauen Turbosterne. &[Flieg durch alle gru@unen Ringe.
+No conseguira@as ganar la carrera a menos que utilices las turboestrellas azules. Intenta utilizar todas las que puedas, aunque tengas que alejarte de los puntos rojos. Eso si@b, no olvides volar a trave@as de los anillos o te descalificara@an. &[Utiliza las turboestrellas azules. &[Vuela a trave@as de los anillos. 
+Non sarai in grado di vincere la corsa senza l'ausilio delle stelle turbo di color blu. Cerca di utilizzarne il piu@g possibile, anche se cosi@h facendo sarai costretto a lasciare i punti rossi. Ricorda tuttavia di volare attraverso gli anelli o verrai squalificato. &[Usa le stelle blu turbo. &[Vola attraverso tutti gli anelli verdi.
+
+Hey Spyro, you don't have to follow the red dots exactly... you can take short cuts between rings. Heres an extra hint, if you fly lower you'll get a little more speed. &[Cut corners between the green rings. &[Flying lower gives you extra speed.
+He@a, Spyro ! Tu n'es pas oblige@a de suivre les pointille@as rouges... tu peux prendre des raccourcis entre les anneaux. Je te donne une autre astuce : si tu voles plus bas, tu gagneras de la vitesse. &[Prends des raccourcis entre les anneaux verts. &[En volant plus bas, tu gagnes de la vitesse.
+He, Spyro, Du mu@St den roten Punkten nicht haargenau folgen... Du kannst Abku@urzungen nehmen zwischen den Ringen. Hier ist noch ein Tip: Wenn Du tiefer fliegst, wirst Du etwas schneller. &[Nimm Abku@urzungen zwischen den gru@unen Ringen. &[Tieffliegen macht Dich schneller.
+Eh, Spyro, no tienes que seguir obligatoriamente los puntos rojos, puedes coger atajos entre los anillos. Te doy otra pista; si vuelas bajo conseguira@as un poco ma@as de velocidad. &[Recorta en las esquinas que hay entre los anillos verdes. &[Si vuelas bajo conseguira@as mayor velocidad. 
+Ehi Spyro, non devi seguire i punti rossi alla perfezione... puoi tagliare un po' tra gli anelli. Ecco un ulteriore consiglio: se voli piu@g basso andrai un po' piu@g veloce. &[Taglia gli angoli tra gli anelli verdi. &[Volando piu@g basso vai piu@g veloce.
+
+Hi Spyro! There are 2 flying challenges available here in Mushroom Speedway. You can either try Time Attack or Race the Butterflies.
+Salut Spyro ! Tu peux relever 2 de@afis ici, au Circuit des Champignons : la Course contre la montre ou la Course contre les papillons.
+Hi, Spyro! Es gibt zwei Flugherausforderungen hier auf der Pilz-Rennbahn. Du kannst entweder ein Zeitspiel machen oder gegen die Schmetterlinge antreten.
+@!Hola, Spyro! Puedes intentar dos retos de vuelo aqui@b en la Autopista de los champin@tones. Elige entre la carrera contrarreloj o la carrera con las mariposas. 
+Ciao Spyro, ci sono due gare di volo qui al Circuito dei Funghi. Puoi sfidare le farfalle o cimentarti nella prova a cronometro. 

@@ -1,0 +1,109 @@
+144: Honey Speedway
+
+Attention dragon: if you ever want to see your mangy cat friend again, you had better leave here at once!\     -The Sorceress
+Dragon : si tu veux revoir ton copain le chat miteux, tu ferais mieux de partir d'ici tout de suite !\     -La Sorcie@gre
+Au@Sgepa@St, Drache: Wenn Du Deinen ra@uudigen Katzenfreund je wiedersehen willst, solltest Du besser sofort von hier verschwinden!\      -Die Zauberin
+Ten cuidado, drago@an: Si quieres volver a ver con vida a tu amiguito el gato sarnoso, ma@as vale que te vayas de aqui@b inmediatamente.\     -La Bruja.
+Attento drago:  se vuoi rivedere il tuo pulcioso amico gatto e@g meglio che te ne vada subito!\    -La maga
+
+Sparx
+Sparx
+Sparx
+Sparx
+Sparx
+
+Which challenge would you like to play? &Choose a challenge: &Time Attack &Race the Bumblebees &Exit Level
+Quel de@afi voudrais-tu relever ? &Se@alectionner un de@afi: &Course contre la montre &Course contre les bourdons &Quitter le niveau
+Welche Herausforderung mo@uchtest Du spielen? &Wa@uhle eine Herausforderung. &Zeitspiel &Rennen gegen die Hummeln &Level beenden
+@?Que@a reto quieres afrontar? &Elige un reto: &Carrera contrarreloj &Carrera con los abejorros &Salir del nivel
+In quale modalita@g vuoi giocare? &Scegli una modalita@g &Prova a cronometro &Sfida i calabroni &Esci
+
+The easiest way to complete this time attack is to fly through all the honeycombs first, then pass through the bee-hives, then defeat the bees, and save the boat riding bears for last. Once you've solved it that way, you can always find ways to solve it faster.
+La fac@con la plus facile de faire cette course contre la montre consiste a@g voler a@g travers les alve@aoles, d'enflammer d'abord les ruches, de combattre les bourdons et de garder les ours sur bateau pour la fin. Quand tu y parviendras de cette fac@con, tu pourras trouver d'autres moyens plus rapides .
+Diese Aufgabe erledigst Du am einfachsten, indem Du erst durch alle Waben fliegst, dann die Bienenko@urbe abfackelst, danach die Bienen schla@ugst und die bootfahrenden Ba@uren fu@ur zuletzt aufhebst. Wenn Du es einmal so geschafft hast, kannst Du nach Wegen suchen, das alles schneller zu lo@usen.
+El modo ma@as sencillo para terminar la carrera contrarreloj es; primero, volar a trave@as de todos los panales de miel; despue@as, quemar las colmenas y derrotar a las abejas; y por u@altimo, salvar a los osos conductores de barcos. Cuando lo hayas conseguido en este orden, podra@as intentarlo en un orden distinto para ir ma@as ra@apido. 
+Il modo piu@g semplice per completare questa prova a cronometro e@g volare prima attraverso tutti i nidi d'ape, poi bruciare gli alveari, quindi sconfiggere le api e, infine, salvare gli orsi barcaioli. Una volta che avrai completato la prova in questo modo, potrai provare altre tecniche per finirla piu@g velocemente.
+
+You're opponents are a gang of giant bumblebees this time! The red dots will mark the course. Make sure to fly through each of the green rings. &[Fly through all green rings &[Use the red dots to guide you.
+Tes adversaires sont maintenant un groupe de bourdons ge@aants ! Les pointille@as rouges de@alimitent la piste. N'oublie pas de voler a@g travers chaque anneau vert. &[Vole a@g travers tous les anneaux verts &[Guide-toi a@g l'aide des pointille@as rouges.
+Diesmal sind Deine Gegner ein Schwarm Riesenhummeln! Die roten Punkte markieren den Kurs. Pa@S auf, da@S Du durch alle gru@unen Ringe fliegst. &[Flieg durch alle gru@unen Ringe. &[Folge den roten Punkten.
+@!Esta vez tus oponentes son un monto@an de abejorros gigantes! Recuerda, debes volar a trave@as de todos los anillos verdes o te descalificara@an. 
+Questa volta i tuoi avversari sono una gang di calabroni giganti! I punti rossi contrassegnano il percorso. Ricorda, devi volare attraverso tutti gli anelli verdi. &[Vola attraverso i cerchi verdi &[Segui i punti rossi. 
+
+Are you done already? Too bad, I was having fun watching...
+T'as de@aja@g termine@a ? Dommage, je m'amusais comme un petit fou a@g te regarder...
+Bist Du schon fertig? Schade, das Zugucken hat Spa@S gemacht...
+@?Ya has acabado? @!Que@a la@astima! Me lo estaba pasando bomba vie@andote.
+Hai gia@g finito? Peccato, mi stavo divertendo a guardarti...
+
+Yippee! We won another egg for defeating the time trial!
+Youpi ! On a gagne@a un autre =euf apre@gs avoir emporte@a la course contre la montre !
+Jippieh! Wir haben noch ein Ei gewonnen, weil wir das Zeitspiel geschafft haben!
+@!Viva! Hemos ganado otro huevo por haber conseguido la prueba en un tiempo re@acord. 
+Yippee! Abbiamo vinto un altro uovo per aver completato la prova a cronometro!
+
+We won an egg for first prize! Those dumblebees should have known better than to challenge a dragon to a flying race.
+On a gagne@a un =euf comme premier prix ! Ces bourdons auraient du@i savoir qu'on ne de@afie pas un dragon a@g une course volante.
+Als ersten Preis haben wir ein Ei gewonnen! Diese dummen Hummeln ha@utten es besser wissen sollen, als einen Drachen zu einem Flugrennen herauszufordern.
+@!Hemos ganado un huevo como primer premio! Esos abejorros se lo podi@ban haber pensado mejor antes de retar a un drago@an a una carrera de vuelo.
+Abbiamo vinto un uovo come primo premio! Come hanno mai potuto pensare questi stupibroni di sfidare un drago in una gara di volo.
+
+Going for the speed record, huh? Good luck!
+On essaie de battre des records, hein? Bonne chance !
+Bist wohl auf den Geschwindigkeitsrekord aus, was? Viel Glu@uck!
+@?Te atreves a intentar el re@acord de velocidad?
+Vuoi battere il record di velocita@g, eh?
+
+Remember to go for every blue turbo star that you can, even if it means straying from the course. Just don't miss any rings, or you'll be disqualified. &[Use the blue turbo stars. &[Fly through all green rings
+N'oublie pas de re@acupe@arer chaque e@atoile turbo bleue, me@ime si tu dois sortir de la piste de course pour cela. Le plus important est de n'oublier aucun anneau, sinon tu seras disqualifie@a. &[Utilise les e@atoiles turbo bleues. &[Vole a@g travers tous les anneaux verts
+Versuch, so viele blaue Turbosterne wie mo@uglich zu benutzen, auch wenn das bedeutet, vom Kurs abzuweichen. La@S nur keine Ringe aus, denn sonst wirst Du disqualifiziert. &[Benutze die blauen Turbosterne. &[Flieg durch alle gru@unen Ringe.
+Recuerda que tienes que ir a por todas las turboestrellas azules que puedas, aunque tengas que desviarte de la carrera. Pero no te pases ningu@an anillo o te descalificara@an. &[Utiliza las turboestrellas azules. &[Vuela a trave@as de todos los anillos verdes.
+Ricorda di prendere tutte le stelle turbo blu che trovi, anche se devi allontanarti dalla pista. L'importante e@g che tu non salti gli anelli, altrimenti verrai squalificato. &[Usa le stelle turbo blu &[Vola attraverso gli anelli verdi. 
+
+Remember, you don't have to follow the red dots exactly. Try to take short cuts between rings when you can. Also, for the fastest speed, always try to fly as low as you can. &[Cut corners between the green rings. &[Flying lower gives you extra speed.
+N'oublie pas, tu n'es pas oblige@a de suivre les pointille@as rouges. Essaie autant que possible de prendre des raccourcis entre les anneaux. Et puis, pour gagner de la vitesse, essaie toujours de voler le plus bas possible. &[Prends des raccourcis entre les anneaux verts. &[En volant plus bas, tu gagnes de la vitesse.
+Denk dran, da@S Du den roten Punkten nicht haargenau folgen mu@St. Versuch, Abku@urzungen zwischen den Ringen zu nehmen, wenn Du kannst. Versuch au@Serdem, immer so tief wie mo@uglich zu fliegen, um die schnellste Geschwindigkeit zu erreichen. &[Nimm Abku@urzungen zwischen den gru@unen Ringen. &[Tieffliegen macht Dich schneller.
+Recuerda que no tienes que seguir obligatoriamente los puntos rojos. Intenta coger atajos entre los anillos. Si quieres ir ma@as ra@apido, tendra@as que volar lo ma@as bajo posible. &[Recorta en las esquinas que hay entre los anillos verdes. &[Si vuelas bajo conseguira@as mayor velocidad.
+Ricorda, non devi seguire i punti rossi alla perfezione... puoi tagliare un po' tra gli anelli. Ecco un ulteriore consiglio: se voli piu@g basso andrai un po' piu@g veloce. &[Taglia gli angoli tra gli anelli verdi. &[Volando piu@g basso vai piu@g veloce.
+
+Honeycomb Speedway is home to the fastest racing bees in the world. It's also one of the only speedways that operates at night!
+Le Circuit du Miel est la piste d'entrai@jnement des abeilles les plus rapides du monde. C'est e@agalement l'un des seuls circuits ouverts la nuit !
+Auf dem Honigwaben-Ring sind die schnellsten Rennbienen der Welt zu Hause. Es ist auch eine der wenigen Rennstrecken, auf der Nachtrennen stattfinden!
+En la Autopista panal viven las abejas de carreras ma@as ra@apidas del mundo. @!Adema@as, es una de las pocas autopistas que esta@an abiertas de noche!
+Il Circuito delle Api e@g la patria delle api piu@g veloci del mondo. E@G anche una delle poche piste aperte di notte!
+
+Hunter
+Chasseur
+Ja@uger
+Cazador
+Hunter
+
+Look out, Spyro, there's a really big sheep UFO around here, and it's trying to get me! I snatched up a dragon egg it was trying to abduct, and now it wants revenge!
+Attention, Spyro ! Il y a un mouton dans une gigantesque soucoupe volante qui essaie de m'attraper ! Je lui ai pique@a un =euf de dragon qu'il essayait de voler, et maintenant il veut se venger !
+Pa@S auf, Spyro, da ist ein echt gro@Ses Schaf-UFO, und es ist hinter mir her! Ich habe ein Drachenei ergattert, das es entfu@uhren wollte, und nun sinnt es auf Rache!
+Ten cuidado, Spyro, hay ovejas en un platillo volante enorme por aqui@b y quieren capturarme. Cogi@b un huevo de drago@an que intentaban secuestrar y ahora se quieren vengar. 
+Attento Spyro, c'e@g un UFO caprino veramente grosso nelle vicinanze e sta cercando di catturarmi! Ho afferrato un uovo che stava cercando di rapire e ora vuole vendicarsi!
+
+You wait here, I'll lure the UFO down the river of honey! &Should Hunter go for it? &Go ahead, I'll cover you! &Nah, it's no big deal.
+Attends-moi ici pendant que j'attire l'OVNI vers la rivie@gre de miel ! &Chasseur devrait-il continuer ? &Fonce, je te couvre !&Bof, pas la peine.
+Warte hier, ich locke das UFO zum Honigflu@S! &Soll Ja@uger es versuchen? &Ja, los, ich gebe Dir Deckung! &Nee, das ist keine gro@Se Sache.
+Espe@arame aqui@b. Voy a ver si consigo llevar el ovni hacia el ri@bo de miel. &@?Quieres que Cazador lo haga? &@!Adelante, yo te cubro! &No, no merece la pena.
+Attendi qui, attirero@g l'UFO giu@g nel fiume di miele! &Credi che Hunter dovrebbe andare? &Vai pure, ti copro! &No, non e@g importante.
+
+OK, here I go!
+D'accord, j'y vais !
+OK, hier komme ich!
+@!Muy bien, alla@a voy!
+OK!
+
+I don't know, Spyro, I've never seen a sheep UFO this mad before...
+Je ne sais pas, Spyro, je n'ai jamais vu de mouton extraterrestre dans cet e@atat...
+Ich wei@S nicht, Spyro, ich habe noch nie ein so wu@utendes Schaf-UFO gesehen...
+No se@a, Spyro, nunca habi@ba visto a una oveja tan majara conduciendo un ovni. 
+Non so Spyro, non ho mai visto prima un ufo caprino cosi@h arrabbiato...
+
+Ha ha! Did you see that? Nobody outraces a cheetah! And look, I didn't even drop the egg!
+Ha ha ! T'as vu c@ca ? Personne ne peut battre une hye@gne ! Et regarde, j'ai me@ime pas laisse@a tomber l'=euf !
+Ha ha! Hast Du das gesehen? Niemand ist schneller als ein Gepard! Und guck, ich habe nicht mal dieses Ei fallenlassen!
+@!Ja, ja! @?Has visto eso? Nadie puede ganar a un guepardo. Mira, ni siquiera se me ha caido el huevo. 
+Ha ha! L'hai visto? Nessuno puo@g sconfiggere un giaguaro! E guarda che non ho nemmeno perso l'uovo!

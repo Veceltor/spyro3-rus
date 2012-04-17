@@ -1,0 +1,133 @@
+146: Bentley's Outpost
+
+Bentley
+Bentley
+Bentley
+Bentley
+Bentley
+
+I will gladly help you on your quest, Spyro, but first I must attend to my young sibling. I'm afraid he may have gotten himself into trouble during my absence.
+Je t'aiderais volontiers a@g ta que@ite, Spyro. Mais d'abord, je dois m'occuper de mon petit frangin. J'ai bien peur qu'il se soit mis dans de sales draps pendant mon absence.
+Ich helfe Dir gern bei Deiner Mission, Spyro, aber erst mu@S ich mich um meinen kleinen Bruder ku@ummern. Ich fu@urchte, er ist wa@uhrend meiner Abwesenheit in Schwierigkeiten geraten.
+Te echari@ba una mano con tu bu@asqueda encantado, Spyro, pero primero debo ocuparme de mi hermano pequen@to. Temo que se haya metido en problemas mientras he estado fuera.   
+Saro@g felice di aiutarti nella tua missione, Spyro, ma prima devo occuparmi del mio giovane consanguineo. Temo che si sia messo nei guai durante la mia assenza.
+
+It's good to know that Bartholomew is out of harm's way. &Leave the level? &Yes. &No.
+Quel soulagement de savoir que Bartholome@a est a@g l'abri du danger. &Quitter le niveau ? &Oui &Non
+Beruhigend zu wissen, da@S Bartholoma@uus au@Ser Gefahr ist. &Level verlassen? &Ja &Nein
+Me alegro de saber que Bartolomeo esta@a sano y salvo. &@?Quieres salir del nivel? &Si@b. &No. 
+E@G bello sapere che Bartolomeo e@g al sicuro. &Lasci il livello? &Si@h &No
+
+I will sojourn amongst the worlds and if I find any eggs I'll do my utmost to recover them for you.
+Je se@ajournerai dans les mondes et si je trouve des =eufs, je ferai mon possible pour les re@acupe@arer pour toi.
+Ich werde zwischen den Welten wandeln, und wenn ich Eier finde, werde ich mein mo@uglichstes tun, sie fu@ur Dich zu ergattern.
+Voy a pasar una temporada viajando por otros mundos, asi@b que si me encuentro algu@an huevo, hare@a todo lo posible por recuperarlo.
+Mi tratterro@g tra i mondi e se trovo delle uova faro@g del mio meglio per recuperarle per te.
+
+Ah well, I must return to my humble abode, for the time being.
+Tre@gs bien, je dois de@asormais me rendre dans mon humble demeure.
+Ah, ja, ich mu@S nun erst mal zu meiner bescheidenen Unterkunft zuru@uckkehren.
+En fin, debo volver a mi humilde morada, de momento.
+Ah bene, ora devo tornare alla mia umile dimora.
+
+I'm afraid I still have to attend to the safety of young Bartholomew. &Level not finished... &Do you really want to leave? &Yes. &No.
+Je suis de@asole@a, mais je dois assurer la se@acurite@a du petit Bartholome@a. &Niveau non termine@a... &Veux-tu vraiment quitter le niveau ? &Oui &Non
+Ich fu@urchte, ich mu@S mich immer noch um das Wohlergehen des kleinen Bartholoma@uus ku@ummern. &Level nicht beendet... &Mo@uchtest Du wirklich gehen? &Ja &Nein
+Me temo que todavi@ba debo encargarme de la seguridad de Bartolomeo. &Nivel no completado &@?De verdad quieres salir? &Si@b. &No.
+Mi dispiace ma devo ancora occuparmi del giovane Bartolomeo. &Livello non completato... &Sei sicuro di voler uscire? &Si@h &No
+
+Well I'd love to leave with you but I still have to look after Bartholomew.
+J'aimerais tant partir avec toi mais je dois encore m'occuper de Bartholome@a.
+Ich wu@urde gern mit Dir kommen, aber ich mu@S mich immer noch um Bartholoma@uus ku@ummern.
+Me encantari@ba irme contigo, pero tengo que seguir cuidando de Bartolomeo.
+Beh, mi piacerebbe molto andarmene con te ma devo ancora badare a Bartolomeo.
+
+I'm afraid my home is still infested with rhynocs, I'll return when they are dealt with.
+J'ai bien peur que ma maison soit infecte@ae de rhinos, je reviendrai quand on se sera occupe@a de leur cas.
+Ich fu@urchte, meine Heimat wird immer noch von Rhinoxen geplagt. Ich kehre zuru@uck, wenn das Problem gelo@ust ist.
+Me temo que mi casa sigue atestada de rinocs, volvere@a cuando alguien acabe con ellos.
+Ho paura che la mia casa sia ancora piena di rinoc, tornero@g quando le cose saranno sistemate.
+
+Bartholomew
+Bartholome@a
+Bartholoma@uus
+Bartolomeo
+Bartolomeo
+
+Hey bro! It'd be really cool if you smashed that boulder. A swift smack should do the trick.
+He@a frangin ! C@Ca serait vraiment cool si tu pouvais pulve@ariser ce bloc de pierre. Une bonne frappe devrait faire l'affaire.
+He, Kumpel! Wa@ure echt cool, wenn Du diesen Felsbrocken zertru@ummern ko@unntest. Ein schneller Schlag sollte helfen.
+Estari@ba guay que rompieras esta roca. Un golpe ra@apido y vera@as co@amo funciona. 
+Ehi fratello! Sarebbe veramente fantastico se distruggessi quel macigno. Un bel colpo secco dovrebbe essere sufficiente.
+
+C'mon, c'mon just press the { button to swing your club. I wanna see it break into a million pieces.
+Allez, allez, t'as juste a@g appuyer sur la touche { pour faire balancer ta crosse. J'ai envie de le voir se faire pulve@ariser en miettes.
+Komm schon, komm schon, dru@uck die {-Taste, um Deine Keule zu schwingen. Ich mo@uchte ihn in tausend Stu@ucke zerspringen sehen.
+Vamos, so@alo tienes que pulsar el boto@an { para dar el golpe. Quiero ver esa roca saltar en mil pedazos. 
+Su, su, premi il tasto { per usare la mazza. Voglio vederlo frantumarsi in un milione di pezzi.
+
+I heard those big bullies calling you a wuss. You're not going to let them get away with that are you?
+J'ai entendu ces brutes te traiter de mauviette. Tu ne vas pas les laisser s'en tirer comme c@ca, hein?
+Ich habe geho@urt, wie diese gro@Sen Ru@upel Dich einen Waschlappen genannt haben. Du la@u@St sie nicht damit davonkommen, oder?
+He oi@bdo co@amo esos matones te llamaban pavo. @?No vas a dejar que digan eso de ti, verdad?
+Ho sentito che quei fanfaroni ti chiamavano idiota. Non gliela farai passare liscia, vero?
+
+If you use your spin move to deflect the snowball into the gong I bet we can make the roof cave in.
+Si tu effectues un mouvement de rotation pour faire de@avier la boule de neige dans le gong, je parie que tu peux faire effondrer le mur. 
+Wenn Du den Schneeball mit Deinem Wirbel gegen den Gong ablenken kannst, ko@unnen wir bestimmt das Dach zum Einstu@urzen bringen.
+Si utilizas tu movimiento de giro para mandar la bola de nieve al gong, seguro que podremos hundir el techo.   
+Se usi la rotazione per far deviare la palla di neve sul gong, scommetto che potremo far crollare il tetto.
+
+We have to get the timing just right. Press the > button to spin your club when I throw a snowball.
+La synchronisation doit e@itre parfaite. Appuie sur la touche > pour faire balancer ta crosse quand je te lance une boule de neige.
+Wir mu@ussen das zeitlich genau abstimmen. Dru@uck die >-Taste, um Deine Keule zu wirbeln, wenn ich einen Schneeball werfe.
+Tenemos que calcular el tiempo con precisio@an. Pulsa el boto@an > para dar el golpe justo cuando yo lance la bola de nieve. 
+Dobbiamo prendere il tempo giusto. Premi il tasto > per ruotare la mazza quando lancio una palla di neve. 
+
+It took me forever to train those seals to throw snowballs. Now they've gone and turned on me!
+C@Ca m'a pris je ne sais combien de temps pour entrai@jner ces phoques a@g lancer des boules de neige. Mais ils sont partis et ils m'ont trahi !
+Es hat ewig gedauert, diesen Seehunden beizubringen, Schneeba@ulle zu werfen. Und jetzt zielen sie auf mich!
+He necesitado siglos para adiestrar a esas focas en el lanzamiento de bolas de nieve y ahora van y me apuntan a mi@b. 
+Ci ho messo una vita ad allenare quelle foche a tirare le palle di neve. Ora si sono ribellate e se ne sono andate!
+
+Oh no, another seal, and this one looks really mean.
+Oh non, un autre phoque, celui-ci n'a pas l'air sympa du tout.
+Oh nein, noch ein Seehund, und der sieht echt gemein aus.
+Oh no, otra foca. E@Asta, adema@as, tiene pinta de ser bastante cruel.
+Oh no, un'altra foca, questa sembra veramente cattiva.
+
+Another gong, great. I bet we can cause an avalanche with this one!
+Un autre gong, ge@anial. Je parie qu'on peut de@aclencher une avalanche avec!
+Noch ein Gong, super. Ich bin sicher, mit dem hier ko@unnen wir eine Lawine auslo@usen!
+Genial, otro gong. Estoy seguro de que esta vez podemos conseguir una avalancha. 
+Un altro gong, benissimo. Scommetto che con questo possiamo provocare una valanga!
+
+A stinkin' rhynoc has blocked the way with this box. It shouldn't be any problem for you to push it out of the way though.
+Un sale rhino a bloque@a le passage avec cette caisse. Tu devrais pouvoir la pousser ailleurs sans trop de proble@gmes.
+Ein verfluchter Rhinox hat den Weg mit dieser Kiste versperrt. Du mu@u@Stest sie jedoch leicht aus dem Weg schieben ko@unnen.
+Un rinoc apestoso ha bloqueado el paso con esta caja. Aunque, no creo que sea muy difi@bcil para ti apartarla del camino.
+Un dannato rinoc ha bloccato la strada con questa scatola. Per te non dovrebbe essere un problema spingerla via.
+
+Pushing that block is easy for a big guy like you. Just stand next to the block and push forward on the directional button.
+Un mec costaud comme toi ne devrait pas avoir de proble@gme pour pousser ce bloc de pierre. Mets-toi a@g co@ite@a de la pierre et pousse-la a@g l'aide des touches directionnelles.
+Diesen Block zu verschieben, ist einfach fu@ur einen gro@Sen Burschen wie Dich. Stell Dich einfach neben den Block, und dru@uck nach vorn mit den Richtungstasten.
+Es muy fa@acil para un tipo fuerte como tu@a apartar ese bloque. Tienes que colocarte junto a e@al y empujarlo hacia delante con el boto@an de direccio@an.
+Spingere quel blocco e@g un lavoretto da poco per un ragazzone come te. Posizionati davanti al blocco e spingi il tasto direzionale in avanti.
+
+Hey brainiac, you're supposed to be smart. Why don't you try pushing those blocks around to bridge that gap?
+He@a l'intello, t'es cense@a e@itre malin. Pourquoi tu ne pousses pas ces blocs de pierre pour boucher ce trou ?
+He, Hirni, ich dachte, Du wa@urst clever. Warum versuchst Du nicht, diese Blo@ucke zu verschieben, um die Spalte da zu u@uberbru@ucken.
+Oye, cerebrito, se supone que eres inteligente. A ver si puedes empujar esos bloques y construir un puente para unir ambos lados.
+Ehi, cervellone, dovresti essere furbo. Perche@a non provi a spingere quei blocchi in modo da chiudere il buco?
+
+Thanks bro! Here's a little something for your rock collection.
+Merci frangin ! Tiens, prends c@ca pour ta collection de pierre.
+Danke, Kumpel! Hier ist eine Kleinigkeit fu@ur Deine Steinesammlung.
+@!Gracias, amigo! Aqui@b tienes un regalito para tu coleccio@an de rocas.
+Grazie fratello! Ecco un regalino per la tua collezione di pietre.
+
+Hey you're in the way. Move it!
+He@a, t'es sur mon chemin. De@agage !
+He, Du bist im Weg. Hau ab!
+Oye, esta@as en medio. @!Apa@artate!
+Ehi, togliti dai piedi!

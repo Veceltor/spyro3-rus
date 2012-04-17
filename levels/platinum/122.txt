@@ -1,0 +1,242 @@
+122: Spooky Swamp
+
+Homer the Firefly
+Homer la Libellule
+Homer die Feuerfliege
+Homer la libe@alula
+Homer la lucciola
+
+\           That gator was mean.\          I thought I was a goner.\           Thanks for saving me.
+Ce croco est vil.\ Je croyais e@itre fichu.\ J'ai e@ate@a sauve@a.
+Der Alligator war fies.\Ich dachte, ich wa@ure erledigt.\Danke, da@S Du mich gerettet hast.
+Cocodrilo vil.\ A punto he estado de morir.\ Gracias mil.
+Il coccodrillo era feroce.\ Mi credevo spacciato.\ Grazie per avermi salvato.
+
+          Our tea lamps are dark.\         Perhaps your hot dragon breath\           could set them aglow.
+Nos lampes sont e@ateintes.\ Tes puissantes flammes de dragon\ les rallumeront.
+Unsere Teelampen sind aus.\Vielleicht ko@unnte Dein hei@Ser Drachenatem\sie wieder zum Leuchten bringen.
+Con tanta oscuridad,\ la llama del drago@an podri@bamos usar\ para iluminar este lugar.
+Le lampade da te@g sono buie.\ Forse con il tuo soffio di drago\ Potresti illuminarle di buongrado.
+
+          No happier sight\         Have I seen, than a tea lamp\           lit by Dragonflame.
+Rien de plus joli\ qu'une lampe a@g the@a allume@ae\ au feu de dragon.
+Nie sah ich etwa Scho@uneres\als eine Teelampe\von einer Drachenflamme entfacht.
+Mucho mejor que el carbo@an\ es encender mi la@ampara\ con la llama de un drago@an.
+Alla vista di una lampada da te@g\ Accesa dalla fiamma di un drago\Gioiscono gli occhi dallo svago.
+
+\           Beware the water.\         Snapping jaws of piranha\           claim many victims.
+Attention a@g l'eau. \ Les ma@ichoires de piranha\ ont fait des victimes.
+Hu@ute dich vor dem Wasser.\Schnappende Piranha-Ma@uuler\fordern viele Opfer.
+Cuidado con esas aguas,\ piran@tas con mucha san@ta \ esperan como aliman@tas.
+Attento all'acqua.\ Le fauci dei piranha \ Rivendicano morti per tutta la landa.
+
+Shiny the Firefly
+Shiny la Libellule
+Gla@unzi die Feuerfliege
+Shiny la libe@alula
+Shiny la lucciola
+
+\           You are brave, dragon.\         Much braver than I, by far.\          Here, take this darn egg.
+Quel courage, dragon.\ Bien plus courageux que moi.\ Prends ce fichu =euf.
+Du bist tapfer, Drache.\Viel tapferer als ich.\Hier, nimm das blo@ude Ei.
+Toma este huevo de aqui@b \ como premio a tu valenti@ba\ que es mucho mayor que la mi@ba.
+Sei coraggioso dragone.\ Quest'uovo ti regalo come apprezzamento\ Del tuo alto ardimento.
+
+Come on in.\        -Sheila
+Entre donc !\     -Sheila
+Komm rein!\     -Sheila
+@!Vamos, ven!\     -Sheila.
+Fatti avanti!\     -Sheila
+
+Bubba the Firefly
+Bubba la Libellule
+Bubba die Feuerfliege
+Bubba la libe@alula
+Bubba la lucciola
+
+\           When all lamps are lit\          there is a secret in here\            that I will show you.
+En pleine lumie@gre\ on peut trouver un secret\ que seul je connais.
+Wenn alle Lampen leuchten,\gibt es ein Geheimnis hier,\das ich Dir zeigen werde.
+Con las la@amparas encendidas\ un secreto podre@a desvelar\ que se encuentra justo en este lugar.
+Ti rivelero@g il segreto\ qui custodito con affanno\ Quando tutte le lampade arderanno.
+
+\           The tea lamps are lit!\         Now I'll tell you the secret\           of what's in this house!
+Toutes les  lampes brillent !\ Je peux te dire le secret\ de cette maison !
+Die Teelampen leuchten!\Jetzt verrate ich Dir das Geheimnis,\was sich in diesem Haus verbirgt!
+@!Ya podemos alumbrar\ para poderte revelar\ el gran secreto escondido en este lugar!
+Le lampade da te@g sono accese! Il segreto ora saprai\ Qui custodito da tanto tempo ormai!
+
+\           A creepy wizard\    lives inside, but hates the light.\           He has awoken.
+Elle est habite@ae \ par un sinistre magicien\ qui hait la lumie@gre.
+Ein unheimlicher Zauberer\lebt dort, aber ha@St das Licht.\Er ist erwacht.
+Aqui@b dentro hay que andar con precaucio@an\ de no despertar a un brujo de horror\ pues a la luz le tiene pavor.
+Il mago maligno\ Che li@h vive la luce rifuggendo.\ Si e@g destato ora ancor piu@g orrendo.
+
+\           He swore to destroy\        whoever lights the tea lamps.\           Better you than me. &[Use Wizard's bombs against him. &[Avoid Gators.
+Il en de@acoudra\ avec quiconque allume\ les lampes a@g the@a. &[Utilise les bombes du magicien contre lui &[Evite les alligators
+Er schwor, zu zersto@uren den,\der die Lampen anzu@undet.\Besser Du als ich. &[Verwende die Bomben des Zauberers gegen ihn. &[Weich den Alligatoren aus.
+Tu@a y yo prometemos\ que al brujo destruiremos \ aunque lo hara@as tu@a, me temo. &[Utiliza las bombas del brujo para atacarle. &[Esquiva los caimanes.
+Ha giurato di annientare\ Chi le lampade prova ad illuminare\ Mors tua vita mea. 
+
+Moneybags
+Gros-Sous
+Geldsack
+Ricacho@an
+Moneybags
+
+\           This door is jammed shut.\            Only the power of gems\             Can hope to move it. &Pay ^^^ gems to open the door? &Sure, just shut up. &No, your haiku poetry stinks.
+Cette porte est bloque@ae.\ Seul le pouvoir des joyaux\ peut la faire ouvrir. &Payer ^^^ joyaux pour ouvrir la porte ? &Ouais, mais la ferme. &Non, car ta poe@asie hai@vku  est plus que nulle.
+Die Tu@ur ist fest verriegelt.\Nur die Kraft der Edelsteine\kann hoffen, sie zu verschieben. &^^^ Edelsteine zahlen, um die Tu@ur zu o@uffnen? &Sicher, aber halt blo@S den Mund. &Nein, Deine Poesie nervt.
+Necesitamos joyas ya\ o la puerta no se abrira@a\ ni de aqui@b a una eternidad. &@?Quieres pagar ^^^ joyas para abrir la puerta? &Claro, pero ca@allate. &No, no aguanto tus poemas.
+Una porta testarda.\ Solo con il potere delle gemme\ Si aprira@g lemme lemme. &Paghi ^^^ gemme? &Si@h &No
+
+\           You've made a wise choice...\        It will mean more eggs for you...\              And more gems for me. \           Best of all, Spyro...\        I can stop speaking Haiku.\           What a sweet relief!
+C'est sage de ta part...\ On va gagner deux autres =eufs...\ Pour moi, des joyaux. \ Bon courage, Spyro...\ Je ne parle plus hai@vku.\ Quel soulagement !
+Welch weise Wahl...\Das bedeutet mehr Eier fu@ur Dich...\Und mehr Edelsteine fu@ur mich.\Das beste von allem, Spyro...\Ich mu@S nicht mehr in Versen sprechen.\Welch gro@Se Erleichterung!
+Tras tu sabia decisio@an\ te mereces unos huevos de drago@an,\ gracias por tu estupenda donacio@an. \ Spyro, mucha suerte de verdad,\ yo me voy a retirar\ porque deberi@ba descansar.
+Scelta saggia la tua...\ Altre uova per te novelle...\ E altre gemme per me belle. \ Ma la vera gioia, caro Spyro...\ E@G poter smettere di comporre versi.\ Un sollievo, in tutti i sensi!
+
+\           Dad gummit, dragon.\      Just cough up those stinking gems.\           And I can go home.
+Au diable, dragon.\ File-moi ces fichus joyaux.\ Il faut que je rentre.
+Verdammt noch mal, Drache.\Spuck schon die blo@uden Edelsteine aus.\Damit ich gehen kann nach Haus.
+    Drago@an, @?que@a te pasa?,\ date prisa con esas joyas\ porque yo me quiero ir a casa.
+Acciderba drago.\ Si generoso con quelle gemme.\ Cosi@h a casa potro@g tornare finalmente.
+
+\           I can't let you through.\       You're too poor to pass this door.\           Come back with more cash. &[^^^ gems needed to open door
+Tu peux pas rentrer.\ Tu es trop pauvre pour entrer.\ Il faut plus d'argent. &[^^^ joyaux ne@acessaires pour ouvrir la porte
+Ich kann Dich nicht durchlassen.\Du bist zu arm, um diese Tu@ur zu passieren.\Komm zuru@uck mit mehr Bargeld. &[^^^ Edelsteine no@utig, um Tu@ur zu o@uffnen.
+No te voy a dejar pasar,\ ma@as dinero vas a necesitar\ si esta puerta de aqui@b deseas atravesar. &[Necesitas ^^^ joyas para abrir la puerta.
+Non ti posso lasciare andare.\ Sei troppo povero per passar da questa porta.\ Ritorna con piu@g denari nella sporta. 
+
+\           Stop talking to me.\         I hate speaking in Haiku.\           Just go find some gems...
+Je veux plus t'entendre.\ Je hais parler en hai@vku.\ Je veux des joyaux...
+Sprich nicht mit mir.\Ich hasse es, in Versen zu sprechen.\Geh und suche mehr Edelsteine..
+No pierdas el tiempo aqui@b,\ vas a necesitar conseguir\ muchas ma@as joyas para pasar por aqui@b.
+Arresta la favella.\ Odio il poetare.\ Piuttosto le gemme va a cercare...
+
+
+=====
+
+
+=====
+
+
+Sheila
+Sheila le Kangourou
+Sheila
+Sheila
+Sheila
+
+\           This swamp smells so sweet.\        The springtime trees are fragrant.\            I'm off to kick butt.
+J'aime ce marais\ et les arbres parfume@as.\ Faut que j'aille cogner.
+Der Sumpf duftet so su@u@S.\Die Ba@uume im Fru@uhling sind wohlriechend.\Ich bin auf der Suche nach Action.
+Debo salir a la lucha\ y no podre@a disfrutar de la dulce primavera\ aunque ganas tengo muchas.
+Il dolce odore della cera.\ Il fragore degli alberi di primavera.\ Vado a menar mazzate fino a sera.
+
+Basho the Firefly
+Basho la Libellule
+Bascho die Feuerfliege
+Basho la libe@alula
+Basho la lucciola
+
+\           We have the bombs here.\         We must destroy the egg cage.\             But we just go boom.\ \           Kangaroo can help!\        You can clear the path for us!\           Will Sheila help us? &Help the firefly bombers? &Yes, I love your freestyle Haiku. &Sorry, just passing through.
+Nous avons  les bombes.\ On doit de@atruire la cage d'=eufs.\ Mais on fait que boum.\ \ Kangourou aide-nous!\ Nettoie le chemin pour nous!\ Sheila nous aidera ? &Aider les libellules bombardiers ? &Oui, j'adore ton freestyle hai@vku . &De@asole@a, je fais que passer.
+Wir haben die Bomben hier.\Wir mu@ussen den Eierka@ufig zersto@uren.\Aber sie zerplatzen sinnlos.\Ka@unguruh kann helfen!\Du kannst den Weg ra@uumen fu@ur uns!\Wird Sheila uns helfen? &Feuerfliegen-Bombern helfen? &Ja, ich liebe Eure Freestyle-Poesie. &Tut mir leid, bin nur auf der Durchreise.
+Con las bombas que ves aqui@b\ una jaula de huevo debemos destruir\ con cuidado de no morir.\ \Tu ayuda necesitamos, canguro\ @?podemos contar con tu apoyo,\ para que construyas un camino seguro? &@?Quieres ayudar a las lucie@arnagas? &Si@b, me encantan sus poemas. &No, lo siento.
+Le bombe qui abbiamo\ La gabbia delle uova distruggere dobbiamo.\ Una bella esplosione vogliamo.\ \ Con l'aiuto del canguro!\ La strada non sara@g piu@g un muro!\Sheila ci assistera@g? 
+
+\          If you clear my path\       I can blow up the egg cage.\         Poor, poor captive eggs. &Help the twin? &Yes, of course. &No more Haiku... please!
+Si tu le nettoies\ Je ferai pe@ater la cage d'=eufs.\ Pauvres =eufs prisonniers. &Aider les jumeaux ? &Oui, bien su@ir. &Assez de hai@vku ... s'il te plai@jt !
+Wenn Du mir den Weg ra@uumst,\kann ich den Eierka@ufig sprengen.\Arme, arme gefangene Eier. &Zwilling helfen? &Ja, natu@urlich. &Nein, keine Poesie mehr... bitte!
+Si consigo pasar\ la jaula de ese huevo prometo volar\ y asi@b las cri@bas dejara@an de llorar. &@?Quieres ayudar a los gemelos? &Por supuesto. &No aguanto ma@as esta poesi@ba.
+Se la via mi aprirai\ La gabbia distruggero@g\ e le povere uova liberero@g. 
+
+\           The eggs are all free!\          Two dragons are born today!\              Sheila's my hero.
+Les =eufs sont tous libres!\ Deux dragons viennent de nai@jtre !\ Gra@ice a@g toi Sheila.
+Alle Eier sind frei!\Zwei Drachen erblickten heute das Licht der Welt!\Sheila ist meine Heldin.
+Gracias a la canguro\ a estas dos cri@bas les espera un gran futuro,\ me figuro.
+Le uova sono libere!\ Due draghi sono nati stamattina!\ Sheila, sei la mia eroina.
+
+\           Yes! It's bombing time!\         Here I come, my little eggs,\           To free you at last!!
+On peut bombarder !\ Tenez bon les petits =eufs.\ On va arriver !!
+Ja! Es ist Bombenzeit!\Hier komme ich, liebe Eierchen,\Euch endlich zu befreien!
+@!Si@b, ha llegado el momento de bombardear!\ A estos pequen@tos huevos\  he venido a ayudar.
+Si@h, e@g l'ora del bombardamento!\ Ovetti miei, arrivo velocemente\ a liberarvi, finalmente!!
+
+\           We will be waiting.\        When you return to help us,\           We shall bomb again!
+Nous allons  t'attendre.\ Quand tu viendras nous aider,\ c@ca va bombarder !
+Wir werden warten.\Wenn Du zuru@uckkehrst, um uns zu helfen,\werden wir wieder Bomben schmei@Sen!
+Esperaremos\ y cuando a nuestro auxilio acudas,\ bombardearemos.
+Attenderemo.\ Quando tornerai in soccorso.\ Al bombardamento daremo corso!
+
+\           One egg cage remains.\        Will you now help my brother\           to free the last egg? &Will you help my brother now? &Yes.&No.
+Il reste une cage d'=euf.\ Veux-tu bien aider mon fre@gre\ a@g libe@arer l'=euf ? &Aider mon fre@gre maintenant ? &Oui&Non.
+Ein Eierka@ufig verbleibt.\Wirst Du jetzt meinem Bruder helfen,\das letzte Ei zu befreien? &Wirst Du jetzt meinem Bruder helfen? &Ja &Nein
+Au@an queda un huevo ma@as\ y si a mi hermano quisieras ayudar\ lo podri@bais liberar. &@?Quieres ayudar a mi hermano ahora? &Si@b. &No.
+Una gabbia ancora.\ Aiuterai mio fratello\ A liberare l'ultimo uovo bello? 
+
+                 OW...\           I went boom again.\    Big rocks can be kicked, they say,\        Mushrooms must be stomped. &Help the twin? &Yes.&No.
+OW.\ J'ai encore fait boum.\ Tous les champignons s'e@acrasent,\ les rochers se brisent. &Aider les jumeaux ? &Oui&Non.
+Au.\Wieder eine Fehlzu@undung.\Gro@Se Felsen kann man treten, hei@St es,\Pilze kann man zertreten. &Zwilling helfen? &Ja &Nein
+Vuelta a bombardear.\ Las rocas grandes podemos empujar\ y los champin@tones pisotear. &@?Quieres ayudar a los gemelos? &Si@b. &No.
+OW.\ Ancora ho sbagliato.\ Le roccie si possono calciare,\ I funghi di testa falciare. 
+
+\           Yes! It's bombing time!\         Here I come, my little eggs,\           To free you at last!! &[Kick rocks out of the way. &[Stomp on mushrooms.
+On peut bombarder !\ Tenez bon les petits =eufs.\ On va arriver !! &[Donne des coups de pied dans les rochers. &[Ecrase les champignons.
+Ja! Es ist Bombenzeit!\Hier komme ich, liebe Eierchen,\Euch endlich zu befreien! &[Felsen aus dem Weg treten. &[Pilze zertreten.
+@!Si@b, ha llegado el momento de bombardear!\ A estos pequen@tos huevos\  he venido a ayudar. &[Aparta las rocas del camino. &[Pisotea los champin@tones.
+Si@h! E@G l'ora del bombardamento!\ Ovetti miei, arrivo velocemente\ a liberarvi, finalmente!! 
+
+Buson the Firefly
+Buson la Libellule
+Sause die Feuerfliege
+Buson la libe@alula
+Buson la lucciola
+
+\           We have the bombs here.\         We must destroy the egg cage.\             But we just go boom.\ \           Kangaroo can help!\        You can clear the path for us!\           Will Sheila help us? &Help the firefly bombers? &Yes, I love your freestyle Haiku. &Sorry, just passing through.
+Nous avons  les bombes.\ On doit de@atruire la cage d'=eufs.\ Mais on fait que boum.\ \ Kangourou aide-nous!\ Nettoie le chemin pour nous!\ Sheila nous aidera ? &Aider les libellules bombardiers ? &Oui, j'adore ton freestyle hai@vku. &De@asole@a, je fais que passer.
+Wir haben die Bomben hier.\Wir mu@ussen den Eierka@ufig zersto@uren.\Aber sie zerplatzen sinnlos.\Ka@unguruh kann helfen!\Du kannst den Weg ra@uumen fu@ur uns!\Wird Sheila uns helfen? &Feuerfliegen-Bombern helfen? &Ja, ich liebe Eure Freestyle-Poesie. &Tut mir leid, bin nur auf der Durchreise.
+Con las bombas que ves aqui@b\ una jaula de huevo debemos destruir\ con cuidado de no morir.\ \Tu ayuda necesitamos, canguro\ @?podemos contar con tu apoyo,\ para que construyas un camino seguro? &@?Quieres ayudar a las lucie@arnagas? &Si@b, me encantan sus poemas. &No, lo siento.
+Le bombe qui abbiamo\ La gabbia delle uova distruggere dobbiamo.\ Una bella esplosione vogliamo.\ \ Con l'aiuto del canguro!\ La strada non sara@g piu@g un muro!\Sheila ci assistera@g? 
+
+\           If you clear my path\        I can blow up the egg cage.\          Poor, poor captive eggs. &Help the twin? &Yes, of course. &No more Haiku... please!
+Si tu le nettoies\ Je ferai pe@ater la cage d'=eufs.\ Pauvres =eufs prisonniers. &Aider les jumeaux ? &Oui, bien su@ir. &Assez de hai@vku... s'il te plai@jt !
+Wenn Du mir den Weg ra@uumst,\kann ich den Eierka@ufig sprengen.\Arme, arme gefangene Eier. &Zwilling helfen? &Ja, natu@urlich. &Nein, keine Poesie mehr... bitte!
+Si consigo pasar\ la jaula de ese huevo prometo volar\ y asi@b las cri@bas dejara@an de llorar. &@?Quieres ayudar a los gemelos? &Por supuesto. &No aguanto ma@as esta poesi@ba.
+Se mi sgomberi la via\ La gabbia saltera@g.\ E le povere non saranno piu@g in cattivita@g. 
+
+\           The eggs are all free!\          Two dragons are born today!\            Sheila's my hero.
+Les =eufs sont tous libres!\ Deux dragons viennent de nai@jtre !\ Gra@ice a@g toi Sheila.
+Alle Eier sind frei!\Zwei Drachen erblickten heute das Licht der Welt!\Sheila ist meine Heldin.
+Gracias a la canguro\ a estas dos cri@bas les espera un gran futuro,\ me figuro.
+Le uova sono libere!\ Due draghi sono nati poco fa!\ Sheila e@g il mio eroe finche@a il mondo non scomparira@g.
+
+\           Yes! It's bombing time!\         Here I come, my little eggs,\           To free you at last!!
+On peut bombarder !\ Tenez bon les petits =eufs.\ On va arriver !!
+Ja! Es ist Bombenzeit!\Hier komme ich, liebe Eierchen,\Euch endlich zu befreien!
+@!Si@b, ha llegado el momento de bombardear!\ A estos pequen@tos huevos\  he venido a ayudar.
+Si@h! E@G l'ora del bombardamento!\ Ovetti miei, arrivo velocemente\ A liberarvi, finalmente!! 
+
+\           We will be waiting.\        When you return to help us.\           We shall bomb again!
+Nous allons t'attendre.\ Quand tu viendras nous aider,\ c@ca va bombarder !
+Wir werden warten.\Wenn Du zuru@uckkehrst, um uns zu helfen,\werden wir wieder Bomben schmei@Sen!
+Esperaremos\ y cuando a nuestro auxilio acudas,\ bombardearemos.
+Attenderemo.\ Quando tornerai in soccorso.\ Al bombardamento daremo corso!
+
+\           One egg cage remains.\        Will you now help my brother\           to free the last egg. &Will you help my brother now? &Yes.&No
+Il reste une cage d'=euf.\ Veux-tu bien aider mon fre@gre\ a@g libe@arer l'=euf ? &Aider mon fre@gre maintenant ? &Oui&Non.
+Ein Eierka@ufig verbleibt.\Wirst Du jetzt meinem Bruder helfen,\das letzte Ei zu befreien? &Wirst Du jetzt meinem Bruder helfen? &Ja &Nein
+Au@an queda un huevo ma@as\ y si a mi hermano quisieras ayudar\ lo podri@bais liberar. &@?Quieres ayudar a mi hermano ahora? &Si@b. &No.
+Una gabbia ancora.\ Aiuterai mio fratello\ A liberare l'ultimo uovo bello? 
+
+                 OW...\           I went boom again.\    Big rocks can be kicked, they say,\        Mushrooms must be stomped. &Help the twin? &Yes.&No.
+OW.\ J'ai encore fait boum.\ Tous les champignons s'e@acrasent,\ les rochers se brisent. &Aider les jumeaux ? &Oui&Non.
+Au.\Wieder eine Fehlzu@undung.\Gro@Se Felsen kann man treten, hei@St es,\Pilze kann man zertreten. &Zwilling helfen? &Ja &Nein
+Vuelta a bombardear.\ Las rocas grandes podemos empujar\ y los champin@tones pisotear. &@?Quieres ayudar a los gemelos? &Si@b. &No.
+OW.\ Ancora ho sbagliato.\ Le roccie si possono calciare,\ I funghi di testa falciare. 
+
+\           Yes! It's bombing time!\          Here I come, my little eggs,\            to free you at last!! &[Kick rocks out of the way. &[Stomp on mushrooms.
+On peut bombarder !\ Tenez bon les petits =eufs.\ On va arriver !! &[Donne des coups de pied dans les rochers. &[Ecrase les champignons.
+Ja! Es ist Bombenzeit!\Hier komme ich, liebe Eierchen,\Euch endlich zu befreien! &[Felsen aus dem Weg treten. &[Pilze zertreten.
+@!Si@b, ha llegado el momento de bombardear!\ A estos pequen@tos huevos\  he venido a ayudar. &[Aparta las rocas del camino. &[Pisotea los champin@tones.
+Si@h! E@G l'ora del bombardamento!\ Ovetti miei, arrivo velocemente\ a liberarvi, finalmente!! 
