@@ -1,0 +1,211 @@
+134: Evening Lake Home
+
+Zoe
+Zoe@a
+Zoe
+Zoe
+Zoe
+
+Princess Ami showed me a place called Starfish Reef. She says there's an egg hidden in there. I think Sparx should check it out. &Enter Starfish Reef bonus world? &Yes. &No.
+La princesse Ami m'a montre@ae un endroit qui s'appelle le Rivage des Etoiles de Mer. Selon elle, il y a un =euf cache@a la@g-bas. Je pense que Sparx devrait y jeter un coup d'=eil. &Entrer le monde bonus du rivage des Etoiles de Mer ? &Oui. &Non.
+Prinzessin Ami hat mir einen Ort namens Seesternriff gezeigt. Sie sagte, dort sei ein Ei versteckt. Ich finde, Sparx sollte sich das mal ansehen. &Seesternriff-Bonuswelt betreten? &Ja &Nein
+La Princesa Ami me ha ensen@tado un lugar llamado Arrecife de Estrellas de Mar. Dice que hay un huevo escondido alli@b. Creo que Sparx deberi@ba ir a comprobarlo. &@?Quieres entrar en el mundo de bonificacio@an Arrecife de Estrellas de Mar? &Si@b. &No. 
+La principessa Amy mi ha mostrato un luogo chiamato Scogliera delle stelle marine. Dice che li@h e@g nascosto un uovo. Credo che Sparx debba dare un'occhiata. &Entra nel mondo bonus della Scogliera delle Stelle Marine? &Si@h. &No. 
+
+Sparx has already found the lost egg in Starfish Reef, but if he wants to go back for a swim, I can lead the way. &Return to Starfish Reef bonus world? &Yes. &No.
+Sparx a de@aja@g trouve@a l'=euf perdu au Rivage des Etoiles de Mer, mais s'il veut y retourner pour nager, je peux lui montrer le chemin. &Retourner au monde bonus du rivage des Etoiles de Mer ? &Oui. &Non.
+Sparx hat das verlorene Ei im Seesternriff schon gefunden, aber wenn er da mal wieder schwimmen gehen will, kann ich ihm den Weg zeigen. &Zuru@uck zur Seesternriff-Bonuswelt? &Ja &Nein
+Sparx ya ha encontrado el huevo perdido en el Arrecife de Estrellas de Mar, pero si quiere volver para darse un chapuzo@an, puedo llevarle. &@?Quieres volver al mundo de bonificacio@an Arrecife de Estrellas de Mar?  &Si@b. &No.
+Sparx ha gia@g trovato l'uovo perduto nella Scogliera delle Stelle Marine, ma se vuole ritornarci per una nuotata, posso condurcelo. &Torni nel mondo bonus della Scogliera delle Stelle Marine? &Si@h. &No.
+
+When I saw that giant stingray I thought you were a goner, Sparx, but you sure showed him. Now the magic from the egg has made you even stronger, so you can take one more hit for Spyro.
+Quand j'ai vu cette raie ge@aante, j'ai cru que t'e@atais fichu, Sparx. Mais tu lui as fait voir du pays. La magie de l'=euf t'a rendu encore plus fort. Tu peux encore encaisser un coup pour Spyro.
+Als ich diesen riesigen Stachelrochen sah, dachte ich, es wa@ure um Dich geschehen, Sparx, aber Du hast es ihm gezeigt. Die Magie des Eis hat Dich sogar noch sta@urker gemacht, so da@S Du noch einen weiteren Schlag fu@ur Spyro abfangen kannst.
+Al ver aquella raya gigante pense@a que estabas muerto, Sparx, pero seguro que le has dado su merecido. Ahora la magia del huevo te ha hecho au@an ma@as fuerte, asi@b que puedes seguir cosechando e@axitos para Spyro.
+Quando ho visto quella manta gigante, ho pensato di essere spacciata, Sparx, ma tu gliel'hai fatta vedere. Ora la magia delle uova ti ha reso ancora piu@g forte, cosi@h ora puoi incassare un colpo in piu@g per Spyro.
+
+Yes.
+Oui.
+Ja.
+Si@b.
+Si@h.
+
+No.
+Non.
+Nein.
+No.
+No.
+
+Zoe
+Zoe@a
+Zoe
+Zoe
+Zoe
+
+Hi again, Spyro. This powerup can make you invincible, but only for a short while. Use it to get by these flame spitters... you'll find an egg when you get past them.
+Resalut, Spyro. Cette recharge peut te rendre invincible, mais seulement pendant un temps limite@a. Utilise-la pour esquiver ces cracheurs de flammes... Tu trouveras un =euf quand tu passeras a@g co@ite@a d'eux.
+Hallo, Spyro. Dieser Powerpunkt kann Dich unbesiegbar machen, allerdings nur fu@ur kurze Zeit. Verwende ihn, um an diesen Feuerspuckern vorbeizukommen... Du findest ein Ei, wenn Du an ihnen vorbeikommst.
+Hola de nuevo, Spyro. Esta potencia te puede hacer invencible, pero dura poco tiempo. Utili@bzala para pasar por esos lanzallamas. Cuando consigas atravesarlos, te encontrara@as con un huevo. 
+Ciao Spyro. Questo potenziamento ti rende invincibile, ma solo per alcuni secondi. Usalo per superare questi sputafuoco... oltrepassati loro troverai un uovo.
+
+Spyro, I've got a special task for Sparx. Meet me back here later!           -Zoe
+Spyro, j'ai une mission spe@aciale a@g confier a@g Sparx. Rejoins-moi ici plus tard !          -Zoe@a
+Spyro, ich habe einen Spezialauftrag fu@ur Sparx. Komm spa@uter hierher zuru@uck!           -Zoe
+Spyro, tengo un encargo especial para Sparx. Nos vemos aqui@b ma@as tarde.           -Zoe
+Spyro, ho una missione speciale per Sparx. Rivediamoci qui piu@g tardi!           -Zoe
+
+Bianca
+Bianca
+Bianca
+Bianca
+Bianca
+
+Listen to me, dragon... Spyro... this is serious now. The Sorceress is planning a trap for you, and if she catches you... believe me, you don't want to know what she's going to do... Look, I promise to take good care of the rest of the eggs. I mean it. Just take Hunter and go back home before... before... I can't say it, just go!
+Ecoute-moi, dragon... Spyro... je suis tre@gs se@arieuse. La sorcie@gre va te poser un pie@gge, et si elle t'attrape... crois-moi, tu ne sais pas ce qui t'attend... Ecoute, je te promets de prendre grand soin du reste des =eufs. Je te le jure. Ame@gne Chasseur et retourne chez toi... avant que... je ne peux pas te le dire, va-t-en !
+Ho@ur mir zu, Drache... Spyro... das ist jetzt ernst. Die Zauberin will Dir eine Falle stellen, und wenn sie Dich fa@ungt... glaub mir, Du willst gar nicht wissen, was sie dann vorhat... Schau, ich verspreche, da@S ich gut auf die restlichen Eier aufpassen werde, ehrlich. Aber schnapp Dir Ja@uger, und geh nach Hause, bevor... bevor... Ich kann's nicht sagen, geh einfach!
+Escu@achame, drago@an... Spyro... esto va en serio. La Bruja esta@a planeando tenderte una trampa y si te pilla... cre@aeme, no quieres saber lo que va a hacer. Mira, prometo que cuidare@a del resto de los huevos. En serio. Coge a Cazador y volved a casa antes de que...  no puedo decir ma@as, pero marchaos ya. 
+Ascoltami drago... Spyro... ora sono seria. La maga ti vuole tendere un tranello e se ti prende... credimi, e@g meglio che tu non sappia quali sono le sue intenzioni... Guarda, prometto di prendermi cura delle uova restanti, veramente. Ma tu prendi Hunter e tornatene a casa prima che... prima... non riesco a dirlo, vai e basta!
+
+Bentley
+Bentley
+Bentley
+Bentley
+Bentley
+
+Thanks for freeing me. Why don't you come visit me in my home world.
+Merci de m'avoir libe@are@a. Pourquoi ne viens-tu pas me rendre visite dans mon monde ?
+Danke, da@S Du mich befreit hast. Besuch mich doch mal in meiner Heimatwelt.
+Gracias por liberarme. @?Por que@a no vienes a visitarme a mi mundo?
+Grazie per avermi liberato. Perche@a non vieni a trovarmi nel mio mondo?
+
+Moneybags
+Gros-Sous
+Geldsack
+Ricacho@an
+Moneybags
+
+Heh heh, the Sorceress has a real prize on her hands here... it took two dozen rhynocs to capture this dimwitted furball, so you'd better believe he's not going to get out cheap... &Pay ^^^^ gems to free the creature? &OK. &No deal, dirtbag.
+He@a he@a, la sorcie@gre a un vrai prix dans les mains... Une vingtaine de rhinos a e@ate@a ne@acessaire pour capturer cette boule de poils de@abile. Pas la peine de te dire que c@ca va te cou@iter cher pour la re@acupe@arer... &Payer ^^^ joyaux pour libe@arer la cre@aature &D'accord. &Pas question, vaurien.
+Ha ha, die Zauberin hat einen wahren Trumpf in der Hand hier... Zwei Dutzend Rhinoxe waren no@utig, diesen schwachsinnigen Fellball zu fangen. Du kannst mir also glauben, da@S er hier nicht billig wieder rauskommt... &^^^ Edelsteine zahlen, um die Kreatur zu befreien? &OK &Vergi@S es, Ekelpaket.
+Ja, ja, la Bruja tiene un premio gordo aqui@b. Se necesitaron una veintena de rinocs para capturar a este estu@apido amasijo de pelo, asi@b que no hace falta que te diga que te va a costar caro...&@?Quieres pagar ^^^ joyas para liberar a la criatura? &Vale. &Ni hablar, bola de sebo.  
+Eh Eh, la strega ha un vero tesoro qui... ci sono volute due dozzine di rinoc per catturare quest'ottusa palla di pelo, quindi sappi che liberarlo ti costera@g molto caro... &Paghi ^^^ gemme per liberare la creatura. &OK. &Non se ne parla.
+
+Where are you getting all this money, Spyro? ... heh heh... It's not just lying around on the ground, is it? ...err... is it? Ahh, what do I care, it's mine now!
+Ou@g est-ce que tu vas chercher tout cet argent, Spyro ? ... he@a he@a... Ce n'est pas en se la coulant douce par terre, hein? ...euh... non ? Ahh, c'est pas mes oignons, il est a@g moi maintenant !
+Wo bekommst Du das ganze Geld her, Spyro? ... Ha ha.. Es wa@uchst ja nicht auf Ba@uumen, oder? ... a@uh ... oder? Ach, was interessiert es mich, jetzt ist es meins!
+@?De do@ande has sacado tanto dinero, Spyro? Ja, ja,... no lo habra@as encontrado en el suelo, supongo... hum, no creo. Bueno, me da igual, @!ahora es mi@bo!
+Dove trovi tutti questi soldi, Spyro? ... Eh eh... non crescono mica sugli alberi? ...Err... non e@g vero? Ahh, che mi frega, ora sono miei!
+
+Very well then, I was having a rather good time poking him with a stick, anyway.
+Tre@gs bien. De toute manie@gre, je passais un bon moment a@g lui donner des coups...
+Na gut, es hat trotzdem viel Spa@S gemacht, ihn mit dem Stock zu piesacken.
+Muy bien, aunque me lo estaba pasando bomba pega@andole con un palo.
+Molto bene, mi stavo divertendo a punzecchiarlo con un bastone, comunque.
+
+Good grief, dragon, what happened to all your money? How am I supposed to swindle... err.. heh heh... help you, if you can't even find any gems! &[^^^^ gems needed to free creature.
+Mon Dieu ! Qu'est-il arrive@a a@g ton argent, dragon ? Comment suis-je cense@a te rouler... euh.. he@a he@a... t'aider, si tu ne peux trouver aucun joyau ! &[^^^ joyaux ne@acessaires pour libe@arer la cre@aature
+Meine Gu@ute, Drache, was ist mit Deinem ganzen Geld passiert? Wie soll ich Dich beschwindeln... a@uh... he he... Dir helfen, wenn Du nicht mal ein paar Edelsteine finden kannst! &[^^^ Edelsteine no@utig, um die Kreatur zu befreien.
+@!Dios mi@bo, drago@an! @?Que@a le ha pasado a todo tu dinero? @!Co@amo voy a poder estafarte...eh, je, je, digo... ayudarte si no eres capaz de encontrar ma@as joyas! &[Necesitas ^^^ joyas para liberar a la criatura. 
+Che peccato, drago, cos'e@g successo a tutto il tuo denaro? Come posso truffar... err.. eh eh... aiutarti, se non riesci a trovare neanche una gemma?! &[^^^ gemme per liberare la creatura
+
+...
+...
+...
+...
+...
+
+Eugene
+Euge@gne
+Eugen
+Eugene
+Eugenio
+
+Why don't you ask around the other worlds to see if you can get me some help to build this rocket.
+Pourquoi ne demandes-tu pas dans les autres mondes qu'on t'aide a@g construire cette fuse@ae ?
+Warum ho@urst Du Dich nicht mal in den anderen Welten um, ob Du mir Hilfe fu@ur den Bau der Rakete besorgen kannst.
+@?Por que@a no echas un vistazo por los dema@as mundos a ver si me consigues un poco de ayuda para construir el cohete?
+Perche@a non vai per i mondi a cercare qualcuno che possa aiutarmi a costruire questo missile?
+
+The rocket's fueled up and ready to go Spyro.
+J'ai alimente@a la fuse@ae en combustible. Elle est pre@ite a@g de@acoller, Spyro.
+Die Rakete ist aufgetankt und bereit zum Start, Spyro.
+El cohete tiene los depo@asitos llenos y esta@a listo para el lanzamiento, Spyro. 
+Il missile e@g pronto alla partenza Spyro.
+
+Crazy Ed
+Ed le Fou
+Verru@uckter Eddy
+Ed el exce@antrico
+Ed il pazzo
+
+I reckon I'm here tuh help ya wit' yer mission, but I don't know nuthin' bout rocket scientry... I'm jest here tuh supply the scrap metal... Ya had better git some more folk tuh help out.
+J'pense pouvoir t'aider pour ta mission, mais j'y connais rien en fuse@ae... J'suis juste venu pour la ferrailIe... On aura besoin d'autres bras pour nous aider.
+Ich bin anscheinend hier, um Dir bei Deiner Mission zu helfen, aber ich hab' keinen Schimmer von Raketentechnik... Ich bin nur hier, um das Blech vom Schrottplatz abzuliefern... Du solltest Dich besser noch nach mehr Leuten umsehen, die Dir helfen ko@unnen.
+Creo que estoy aqui@b para ayudarte con tu misio@an, pero no tengo ni idea de ciencia aeroespacial. He venido so@alo para traeros la chatarra. Deberi@bas traer a otros colegas para que te ayuden.   
+Beh, so' qui pe' aiutarte con la missione ma n'ce capisco niente de missili... So' venuto pe' porta@g er metallo riciclato... E@G mejo che trovi qualcun'altro che t'aiuti. 
+
+I guess this hunk a junk is sposed tuh fly... Sure glad I ain't the one gittin' on.
+On dirait que ce gros tas de ferraille, c'est fait pour voler... Heureusement, c'est pas moi qui irai dedans.
+Ich nehme an dieser Schrotthaufen soll fliegen ko@unnen... Bin froh, da@S ich nicht derjenige bin, der da rein mu@S.
+Se supone que este monto@an de chatarra esta@a hecho para volar. Jo, me alegro de no ser yo quien se va a montar ahi@b.
+E sta carretta dovrebbe vola@g?... So' contento de non dovella guida@g io.
+
+Princess Ami
+Princesse Ami
+Prinzessin Ami
+Princesa Ami
+Principessa Ami
+
+I've always been really good with machinery. In fact, if you get me a little more help, I could whip up a rocketship in no time. But hurry, OK? I want to get back to my honeymoon!
+J'ai toujours eu la main pour la me@acanique. Pour dire vrai, si tu me donnes un petit coup de main, je pourrais construire une fuse@ae en un rien de temps. Mais il faut faire vite, d'accord? Il faut que je reparte en lune de miel !
+Ich hatte schon immer ein Ha@undchen fu@ur Maschinen. Wenn Du mir etwas Hilfe besorgen ko@unntest, ko@unnte ich Dir in Null Komma Nichts eine Rakete hinzaubern. Aber beeil Dich, OK? Ich will zuru@uck zu meinen Flitterwochen!
+Siempre se me han dado muy bien las ma@aquinas. De hecho, con un poco de ayuda podri@ba montar una nave espacial en muy poco tiempo. Pero date prisa, @?vale? Quiero volver para mi luna de miel. 
+Sono sempre stata brava con le macchine. Se mi trovi degli aiutanti, potrei mettere insieme un'astronave in men che non si dica. Ma sbrigati, OK? Voglio tornare alla mia luna di miele!
+
+Hop on, Spyro! Don't worry, fairy engineering has never failed.
+Monte, Spyro ! Ne t'inquie@gte pas, la me@acanique de fe@ae ne te laisse jamais tomber.
+Spring auf, Spyro! Keine Sorge, Elfentechnik hat noch nie versagt.
+@!Sube, Spyro! No te preocupes, las obras de ingenieri@ba de las hadas nunca han fallado. 
+Salta su, Spyro! E non preoccuparti, le fate non sbagliano mai.
+
+Bentley
+Bentley
+Bentley
+Bentley
+Bentley
+
+I believe the denizens of this land plan to create a rocket propulsion device of some kind in order to help you with your journey. I'll try to be of some assistance, but I'm afraid you'll still need a representative from each world in order to complete the device.
+Je crois que les habitants de ce pays projettent de cre@aer un syste@gme de propulsion pour fuse@ae pour t'aider lors de tes pe@ariples. J'essaierai de t'aider, mais je crains que tu aies besoin d'un repre@asentant de chaque monde pour mettre au point le syste@gme.
+Ich glaube, die Bewohner dieses Landes planen, ein Gefa@uhrt mit einem Raketenantrieb zu entwickeln, um Dir bei Deiner Reise zu helfen. Ich versuche zu helfen, aber ich fu@urchte, Du brauchst immer noch einen Vertreter aus jeder Welt, um das Gera@ut fertigstellen zu ko@unnen.
+Creo que los habitantes de esta tierra esta@an planeando crear una especie de aparato de propulsio@an de cohetes para ayudarte con tu viaje. Hare@a todo lo que pueda, aunque me temo que au@an es necesario que encuentres a un representante de cada mundo para poder terminar el aparato. 
+Credo che gli abitanti di questo luogo vogliano creare un propulsore a razzi per aiutarti nella tua missione. Cerchero@g di collaborare, ma avrai tuttavia bisogno di un rappresentante di ogni mondo per completare il dispositivo.
+
+Hop aboard, Spyro, and boldly go where no dragon has gone before! Well, at least not in a thousand years, at any rate...
+Monte a@g bord, Spyro, tel un vaillant pionnier a@g la conque@ite de nouvelles contre@aes ou@g aucun autre dragon ne s'est aventure@a. Disons pas avant le prochain mille@anaire...
+Spring auf, Spyro, mache mutig Deinen Weg dorthin, wo noch kein Drache je gewesen ist! Wenigstens nicht in tausend Jahren...
+@!Sube a bordo, Spyro, y prepa@arate para ir adonde ningu@an drago@an ha ido antes! Bueno, al menos, no en los u@altimos mil an@tos. 
+Salta a bordo, Spyro, e vai la@g, dove nessun drago e@g mai giunto finora! Beh, almeno non nell'ultimo migliaio di anni, in ogni caso...
+
+Thanks for freeing me. Why don't you come visit me in my home world?
+Merci de m'avoir libe@are@a. Pourquoi ne viens-tu pas me rendre visite dans mon monde ?
+Danke, da@S Du mich befreit hast. Komm mich doch mal in meiner Heimatwelt besuchen.
+Gracias por liberarme. @?Por que@a no vienes a visitarme a mi mundo?
+Grazie per avermi liberato. Perche@a non venite a trovarmi nel mio mondo?
+
+Greta
+Greta
+Gretel
+Greta
+Greta
+
+Now that I've wescued the secwet plans we can finish building the wocket. If only I had a little more help.
+Comme tu as sauve@a les plans secrets, nous pouvons terminer la fuse@ae. Si seulement j'avais un peu plus d'aide.
+Nachdem ich die geheimen Pla@une gerettet habe, ko@unnen wir endlich die Rakete bauen. Wenn ich nur ein wenig Hilfe ha@utte...
+Ahora que hemoz recuperado loz planez zecretoz, ya podemoz terminar de conztruir el cohete. Aunque necezitari@ba un poco de ayuda. 
+Ova che ho vecupevato i piani secveti possiamo tevminare il missile. Se solo avessi un po' piu@g di aiuto.
+
+The wocket is weady for waunch, Spywo. Hop aboard whenever you want.
+La fuse@ae est pre@ite a@g e@itre lance@ae, Spyro. Monte a@g bord quand tu veux.
+Die Rakete ist bereit zum Start, Spyro. Spring auf, wann immer Du willst.
+El cohete ezta@a lizto para el lanzamiento, Zpyro. Zube a bordo cuando quieraz.
+Il missile e@g pvonto al lancio, Spyvo. Salta a bovdo quando vuoi.

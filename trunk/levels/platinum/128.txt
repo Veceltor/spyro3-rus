@@ -1,0 +1,247 @@
+128: Sgt. Byrd's Base
+
+Cpl. Gabrielle
+Caporal Gabrielle
+Cpl. Gabrielle
+Cabo Gabrielle
+C.le Gabrielle
+
+Sir! The situation is this, yesterday at 1845 hours the rhynocs invaded. We defended as best we could, sir, but without your leadership we didn't put up an effective resistance. By 1900 hours the rest of the squad was captured and the rhynocs had complete control of the base.
+Chef, voila@g mon rapport ! Hier a@g 18h45, les rhinos nous ont envahies. Nous nous sommes de@afendues du mieux qu'on a pu, chef, mais sans vos instructions, nous n'avons pu mettre en place une ve@aritable re@asistance. A 19h00, le reste du groupe a e@ate@a capture@a et les rhinos avaient le contro@ile total de la base.
+Sir! So ist die Lage: Gestern um 1845 Stunden sind die Rhinoxe eingefallen. Wir haben uns so gut verteidigt, wie wir konnten, Sir, aber ohne Ihre Fu@uhrung konnten wir keinen effektiven Widerstand leisten. Um 1900 Stunden wurde der Rest unserer Truppe gefangengenommen, und die Rhinoxe haben vollsta@undige Kontrolle u@uber die Basis erlangt.
+@!Sen@tor! La situacio@an es la siguiente: ayer a las 18.45 horas nos invadieron los rinocs. Nos defendimos lo mejor que pudimos, sen@tor, pero sin su liderazgo no pudimos desarrollar una defensa eficaz. Hacia las 19.00 horas el resto del peloto@an fue capturado y los rinocs consiguieron el control absoluto de la base.
+Signore! Questa e@g la situazione: ieri alle ore 18.45 i rinoc ci hanno invaso. Abbiamo difeso come meglio potevamo, signore, ma senza la sua guida non siamo stati in grado di opporre una resistenza efficace. Entro le ore 19.00 il resto della squadra e@g stato catturato e i rinoc hanno conseguito il completo controllo della base.
+
+Recommend you take the enemy out with your rockets by pressing the { button, sir!
+Chef, je vous recommande d'appuyer sur la touche { pour vous de@abarrasser de l'ennemi avec vos fuse@aes !
+Ich empfehle, die Feinde mit Ihren Raketen auszuschalten, indem Sie die {-Taste dru@ucken, Sir!
+Le recomiendo que se deshaga del enemigo con sus cohetes pulsando el boto@an {, sen@tor.
+Le consiglio di abbattere il nemico con i missili premendo il tasto {, signore!
+
+One carefully placed rocket blast should take this door down, sir.
+Chef, si cette fuse@ae est bien lance@ae, elle peut faire sauter cette porte.
+Ein wohl plazierter Raketensto@S sollte diese Tu@ur umpusten, Sir.
+Un cohete lanzado con punteri@ba deberi@ba poder derribar esta puerta, sen@tor.
+Un missile ben piazzato dovrebbe abbattere questa porta, signore.
+
+Sir! I've captured the enemy rations. They won't march far on an empty stomach.
+Chef! J'ai saisi les rations ennemies. Ils n'iront pas loin avec l'estomac vide.
+Sir! Ich habe die Rationen der Feinde erbeutet. Die werden nicht weit marschieren mit leerem Magen.
+@!Sen@tor! He confiscado la comida de los rinocs. No ira@an muy lejos con el esto@amago vaci@bo. 
+Signore! Ho catturato le razioni nemiche. Non andranno lontani con la pancia vuota.
+
+Sir! The rhynocs have blocked the way out of this next cave with a security door, and I don't think you'll be able to blast your way through this one. Recommend you land on the weights and carry them to the pressure sensitive security switches either side of the door. When in position press the > button to drop the weight. Press the } button once to look down, press it again to look up, sir! &[Land on item to pick it up. &[The > button drops item. &[Use the } button to change views.
+Chef! Les rhinos ont bloque@a l'entre@ae de l'autre grotte avec une porte de se@acurite@a, et je ne pense pas que vous pourrez faire sauter cette porte. Je vous recommande de vous positionner sur les masses avant d'aller les placer sur les leviers de se@acurite@a sensibles au poids, des deux co@ite@as de la porte. Une fois en position, il faut appuyer sur la touche > pour placer la masse. Appuyez sur la touche } pour regarder en bas, appuyez une autre fois pour regarder en haut ! &[Place-toi sur l'objet pour le re@acupe@arer. &[Sur la touche > pour placer l'objet. &[Sur la touche } pour changer de vue.
+Sir! Die Rhinoxe blockieren den Ausgang der na@uchsten Ho@uhle mit einer Sicherheitstu@ur, und ich glaube nicht, da@S Sie sich den Weg dadurch frei sprengen ko@unnen. Empfehle, auf den Gewichten zu landen und sie zu den druckempfindlichen Sicherheitsschaltern auf beiden Seiten der Tu@ur zu tragen. Wenn Sie in Position sind, dru@ucken Sie die >-Taste, um die Gewichte fallenzulassen. Dru@ucken Sie einmal die }-Taste, um nach unten zu schauen, und noch einmal, um nach oben zu schauen, Sir! &[Auf Objekt landen, um es aufzuheben. &[Mit der >-Taste Objekt ablegen. &[Benutze die }-Taste, um die Sicht zu a@undern.
+@!Sen@tor! Los rinocs han bloqueado la salida de la pro@axima cueva con una puerta de seguridad y no creo que pueda volarla. Le recomiendo que se ponga sobre los pesos para cogerlos y los lleve hasta esos dispositivos de seguridad sensibles a la presio@an, que hay a ambos lados de la puerta. Una vez en posicio@an, pulse el boto@an > para soltar los pesos. Pulse el boto@an } para mirar hacia abajo y vue@alvalo a pulsar para mirar hacia arriba. 
+Signore! I rinoc hanno bloccato l'uscita di questa caverna con una porta di sicurezza e non credo che lei possa abbatterla. Consiglio di prendere i pesi e portarli agli interruttori di sicurezza sensibili alla pressione posti su entrambi i lati della porta.Una volta posizionati, premere il tasto > per rilasciare il peso. Prema una volta il tasto } per guardare in basso, premerlo di nuovo per guardare in alto, signore! &[Salti sull'oggetto per raccoglierlo. &[Il tasto > rilascia l'oggetto. &[Usa il tasto } per cambiare la visuale. 
+
+Keep fighting the good fight sir! We're almost there, and I'm, uh, right behind you...
+Continuez comme c@ca chef ! On y est presque arrive@aes, et je suis, euh, juste derrie@gre vous...
+Ka@umpfen Sie weiter den gerechten Kampf, Sir! Wir haben's fast geschafft, und ich bin... a@uh...direkt hinter Ihnen...
+@!Siga asi@b, sen@tor! Casi lo tenemos y no se preocupe, yo estoy, eh, justo detra@as.
+Continui a combattere cosi@h signore! Ci siamo quasi e io sono proprio dietro di lei...
+
+Mission accomplished. It's great to have you back, sir.
+Mission accomplie. C'est un plaisir de vous revoir, chef.
+Mission erfu@ullt. Gut, da@S Sie wieder da sind, Sir.
+Misio@an cumplida. Me alegro de que haya vuelto, sen@tor.
+Missione compiuta. E@G bello rivederla signore.
+
+Sir! We need to rescue the rest of the squad before we can launch a raid on the Sorceress's castle.
+Chef! Nous devons sauver le reste du groupe avant de partir en raid au cha@iteau de la sorcie@gre.
+Sir! Wir mu@ussen den Rest der Truppe befreien, bevor wir die Burg der Zauberin angreifen ko@unnen.
+@!Sen@tor! Tenemos que rescatar al resto de la brigada antes de que podamos lanzar nuestro ataque contra el castillo de la Bruja. 
+Signore! Dobbiamo recuperare il resto della squadra prima di poter lanciare un attacco al castello della maga.
+
+Awaiting orders, sir.
+J'attends vos ordres, chef.
+Erwarten Befehle, Sir.
+En espera de nueva orden, sen@tor.
+Attendo ordini, signore.
+
+Sgt. Byrd
+Sgt. Byrd
+Wachtmeister Byrd
+Sgt. Byrd
+Serg. Byrd
+
+I have to train the hummingbirds. They must be in peak physical condition if we're going to take on the Sorceress.
+Je dois entrai@jner les Colibris . Ils doivent e@itre au maximum de leur condition physique si nous voulons affronter la sorcie@gre.
+Ich mu@S die Kolibris trainieren. Sie mu@ussen ko@urperlich in bester Verfassung sein, wenn wir die Zauberin herausfordern.
+Tengo que entrenar a los colibri@bes, deben estar en plenas condiciones fi@bsicas si vamos a enfrentarnos a la Bruja.
+Devo addestrare i colibri@h. Devono essere al massimo della loro condizione fisica se vogliamo sfidare la maga.
+
+Don't worry I'll have the hummingbirds whipped into shape in no time. &Leave the level? &Yes &No
+Il ne faut pas s'inquie@ater, je vais faire en sorte que les Colibris  deviennent vite fait des be@ites de guerre. &Quitter le niveau ? &Oui &Non
+Keine Sorge, ich bringe die Kolibris in Null Komma Nichts in Form. &Level verlassen? &Ja &Nein
+No te preocupes, pondre@a a estos colibri@bes en plena forma enseguida. &@?Quieres abandonar el nivel? &Si@b. &No.
+Non c'e@g problema. I colibri@h saranno in forma in men che non si dica. &Lasci il livello? &Si@h &No
+
+Tally ho, Spyro, I'm sure I'll see you around!
+Tai@vaut, Spyro. Je suis su@ire qu'on se reverra un jour !
+Halali, Spyro, wir sehen uns bestimmt wieder!
+Chao, Spyro, seguro que te vere@a pronto.
+A presto Spyro, sono sicuro che ci rivedremo!
+
+Any time you wanna leave just say so.
+Si tu veux partir, tu n'as qu'a@g le demander.
+Wenn Du weg willst, sag einfach Bescheid.
+Si quieres irte, no tienes ma@as que decirlo.
+Quando te vuoi andartene, basta che lo dici.
+
+Don't worry I'll have the hummingbirds whipped into shape in no time. &Level not finished... &Do you really want to leave? &Yes &No
+Quand j'aurai repris mon souffle, j'exterminerai le reste des rhinos. &Niveau non termine@a... &Veux-tu vraiment quitter le niveau ? &Oui &Non
+Wenn ich wieder bei Atem bin, mache ich die restlichen Rhinoxe fertig. &Level nicht beendet... &Willst Du wirklich gehen? &Ja &Nein
+Cuando recupere la respiracio@an, terminare@a con el resto de los rinocs. &Nivel no completado. &@?Quieres irte de verdad? &Si@b. &No.
+Quando mi saro@g ripreso, daro@g una lezione ai rinoc rimasti. &Livello non completato... &Sei sicuro di voler uscire? &Si@h &No
+
+Pvt. Claire
+Soldat Claire
+Pvt. Claire
+Soldado Claire
+Sol. Claire
+
+Thank you, sir. &[Free ^ other hummingbird soldiers.
+Merci, chef. &[Libe@arez ^ d'autres soldats Colibris .
+Danke scho@un, Sir. &[Befreie ^ weitere Kolibri-Soldaten.
+Gracias, sen@tor. &[Libera a ^ soldados colibri@b ma@as.
+La ringrazio, signore. &[Libera ancora ^ soldati colibri@h.
+
+Before I was captured, I recovered this egg from the enemy, sir!
+Avant d'e@itre capture@ae, j'ai re@acupe@are@a cet =euf chez l'ennemi, chef !
+Bevor ich gefangengenommen wurde, konnte ich dem Feind dieses Ei abnehmen, Sir!
+Sen@tor, antes de ser capturada, recupere@a este huevo que teni@ban los enemigos. 
+Prima di venire catturato ho recuperato quest'uovo dal nemico, signore!
+
+Thank you, sir. &[Free 1 other hummingbird soldier.
+Merci, chef. &[Libe@arez 1 autre soldat Colibri .
+Danke scho@un, Sir. &[Befreie 1 weiteren Kolibri-Soldaten.
+Gracias, sen@tor. &[Libera a 1 soldado colibri@b ma@as.
+La ringrazio, signore. &[Libera ancora 1 soldato colibri@h.
+
+Thank you, sir.
+Merci, chef.
+Danke scho@un, Sir.
+Gracias, sen@tor.
+La ringrazio, signore.
+
+Pvt. Nikita
+Soldat Nikita
+Pvt. Nikita
+Soldado Nikita
+Sol. Nikita
+
+I'm ready to be debriefed, sir. &[Free ^ other hummingbird soldiers.
+Pre@ite pour les instructions, chef. &[Libe@arez ^ d'autres soldats Colibris .
+Bereit, Bericht zu erstatten, Sir. &[Befreie ^ weitere Kolibri-Soldaten.
+Preparada para recibir o@ardenes, sen@tor. &[Libera a ^ soldados colibri@b ma@as.
+Sono pronto al rapporto, signore. &[Libera ancora ^ soldati colibri@h.
+
+Before I was captured, I recovered this egg from the enemy, sir!
+Avant d'e@itre capture@ae, j'ai re@acupe@are@a cet =euf chez l'ennemi, chef !
+Bevor ich gefangengenommen wurde, konnte ich dem Feind dieses Ei abnehmen, Sir!
+Sen@tor, antes de ser capturada, recupere@a este huevo que teni@ban los enemigos. 
+Prima di venire catturato ho recuperato quest'uovo dal nemico, signore!
+
+I'm ready to be debriefed, sir. &[Free 1 other hummingbird soldier.
+Pre@ite pour le rapport, chef ! &[Libe@arez 1 autre soldat Colibri .
+Bereit, Bericht zu erstatten, Sir. &[Befreie 1 weiteren Kolibri-Soldaten.
+Preparada para recibir o@ardenes, sen@tor. &[Libera a 1 soldado colibri@b ma@as.
+Sono pronto al rapporto, signore. &[Libera ancora 1 soldato colibri@h.
+
+I'm ready to be debriefed, sir.
+Pre@ite pour le rapport, chef !
+Bereit, Bericht zu erstatten, Sir.
+Preparada para recibir o@ardenes, sen@tor.
+Sono pronto al rapporto, signore.
+
+Pvt. Chloe
+Soldat Chloe@a
+Pvt. Chloe
+Soldado Chloe
+Sol. Cloe
+
+Reporting for duty, sir! &[Free ^ other hummingbird soldiers.
+Pre@ite pour le rapport, chef ! &[Libe@arez ^ d'autres soldats Colibri .
+Melde mich zum Dienst, Sir! &[Befreie ^ weitere Kolibri-Soldaten.
+@!A sus o@ardenes, sen@tor! &[Libera a ^ soldados colibri@b ma@as.
+A rapporto, signore! &[Libera ancora ^ soldati colibri@h.
+
+Before I was captured, I recovered this egg from the enemy, sir!
+Avant d'e@itre capture@ae, j'ai re@acupe@are@a cet =euf chez l'ennemi, chef !
+Bevor ich gefangengenommen wurde, konnte ich dem Feind dieses Ei abnehmen, Sir!
+Sen@tor, antes de ser capturada, recupere@a este huevo que teni@ban los enemigos. 
+Prima di venire catturato ho recuperato quest'uovo dal nemico, signore!
+
+Reporting for duty, sir! &[Free 1 other hummingbird soldier.
+Pre@ite pour le rapport, chef ! &[Libe@arez 1 autre soldat Colibri .
+Melde mich zum Dienst, Sir! &[Befreie 1 weiteren Kolibri-Soldaten.
+A sus o@ardenes, sen@tor. &[Libera a 1 soldado colibri@b ma@as.
+A rapporto, signore! &[Libera ancora 1 soldato colibri@h.
+
+Reporting for duty, sir!
+Pre@ite pour le  rapport, chef !
+Melde mich zum Dienst, Sir!
+@!A sus o@ardenes, sen@tor!
+A rapporto, signore!
+
+Pvt. Eloise
+Soldat Eloi@vse
+Pvt. Eloise
+Soldado Eloise
+Sol. Eloise
+
+Request permission to cheer, sir... Hip Hip Hooray! &[Free ^ other hummingbird soldiers.
+Demande permission pour cri de guerre, chef... Hip ! Hip ! Hip ! Hourra ! &[Libe@arez ^ d'autres soldats Colibri .
+Erbitte Erlaubnis zu jubeln, Sir... Hip hip hurra! &[Befreie ^ weitere Kolibri-Soldaten.
+Solicito su permiso para gritar, sen@tor... @!Hip, hip, hurra! &[Libera a ^ soldados colibri@b ma@as.
+Chiedo il permesso di festeggiare, signore... Hip Hip Hurra@g! &[Libera ancora ^ soldati colibri@h.
+
+Before I was captured, I recovered this egg from the enemy, sir!
+Avant d'e@itre capture@ae, j'ai re@acupe@are@a cet =euf chez l'ennemi, chef !
+Bevor ich gefangengenommen wurde, konnte ich dem Feind dieses Ei abnehmen, Sir!
+Sen@tor, antes de ser capturada, recupere@a este huevo que teni@ban los enemigos. 
+Prima di venire catturato ho recuperato quest'uovo dal nemico, signore!
+
+Request permission to cheer, sir... Hip Hip Hooray! &[Free 1 other hummingbird soldier.
+Demande permission pour cri de guerre, chef... Hip ! Hip ! Hip ! Hourra ! &[Libe@arez 1 autre soldat Colibri .
+Erbitte Erlaubnis zu jubeln, Sir... Hip hip hurra! &[Befreie 1 weiteren Kolibri-Soldaten.
+Solicito su permiso para gritar, sen@tor... @!Hip, hip, hurra! &[Libera a 1 soldado colibri@b ma@as.
+Chiedo il permesso di festeggiare, signore... Hip Hip Hurra@g! &[Libera ancora 1 soldato colibri@h.
+
+Request permission to cheer, sir... Hip Hip Hooray!
+Demande permission pour cri de guerre, chef... Hip ! Hip ! Hip ! Hourra !
+Erbitte Erlaubnis zu jubeln, Sir... Hip hip hurra!
+Solicito su permiso para gritar, sen@tor... @!Hip, hip, hurra!
+Chiedo il permesso di festeggiare, signore... Hip Hip Hurra@g!
+
+Pvt. Helene
+Soldat He@ale@gne
+Pvt. Helene
+Soldado Helene
+Sol. Helene
+
+What are your orders, sir? &[Free ^ other hummingbird soldiers.
+Quels sont les ordres, chef? &[Libe@arez ^ d'autres soldats Colibri.
+Wie lauten Ihre Befehle, Sir? &[Befreie ^ weitere Kolibri-Soldaten.
+@?Cua@ales son las o@ardenes, sen@tor? &[Libera a ^ soldados colibri@b ma@as.
+Quali sono i suoi ordini, signore? &[Libera ancora ^ soldati colibri@h.
+
+Before I was captured, I recovered this egg from the enemy, sir!
+Avant d'e@itre capture@ae, j'ai re@acupe@are@a cet =euf chez l'ennemi, chef !
+Bevor ich gefangengenommen wurde, konnte ich dem Feind dieses Ei abnehmen, Sir!
+Sen@tor, antes de ser capturada, recupere@a este huevo que teni@ban los enemigos. 
+Prima di venire catturato ho recuperato quest'uovo dal nemico, signore!
+
+What are your orders, sir? &[Free 1 other hummingbird soldier.
+Quels sont les ordres, chef? &[Libe@arez 1 autre soldat Colibri .
+Wie lauten Ihre Befehle, Sir? &[Befreie 1 weiteren Kolibri-Soldaten.
+@?Cua@ales son las o@ardenes, sen@tor? &[Libera a 1 soldado colibri@b ma@as.
+Quali sono i suoi ordini, signore? &[Libera ancora 1 soldato colibri@h.
+
+What are your orders, sir?
+Quels sont les ordres, chef?
+Wie lauten Ihre Befehle, Sir?
+@?Cua@ales son las o@ardenes, sen@tor?
+Quali sono i suoi ordini, signore?

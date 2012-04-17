@@ -1,0 +1,103 @@
+162: Harbor Speedway
+
+Sparx
+Sparx
+Sparx
+Sparx
+Sparx
+
+Which challenge would you like to play? &Choose a challenge: &Time Attack &Race the Blue-Footed Boobies &Exit Level
+Quel de@afi voudrais-tu relever ? &Se@alectionner un de@afi : &Course contre la montre &Course contre les Nigauds aux pieds bleus &Quitter le niveau
+Welche Herausforderung mo@uchtest Du spielen? &Wa@uhle eine Herausforderung. &Zeitspiel &Rennen gegen die blaufu@u@Sigen To@ulpel &Level beenden
+@?Que@a reto quieres afrontar? &Elige un reto: &Carrera contrarreloj. &Carrera con los pa@ajaros de pies azules. &Salir del nivel.
+In quale modalita@g vuoi giocare? &Scegli una modalita@g &Prova a cronometro &Sfida i volatili dai piedi blu &Esci
+
+The easiest way to beat this time trial is to do it in the following order: seagulls, arches, lobsters, fish. Complete each one before moving on to the next.
+Le moyen le plus facile d'obtenir un bon temps a@g la course contre la montre est de suivre l'ordre suivant : mouettes, arches, homards, poissons. Termine chaque course avant de passer a@g la suivante.
+Am einfachsten schaffst Du dieses Zeitrennen, wenn Du es in der folgenden Reihenfolge machst: Mo@uwen, Bo@ugen, Hummer, Fische. Beende erst eine Aufgabe, bevor Du zur na@uchsten gehst.
+ El modo ma@as sencillo de superar esta prueba contrarreloj es seguir este orden: gaviotas, arcos, langostas y peces. Tienes que completar cada parte antes de pasar a la siguiente. 
+Prova a completare ogni prova in sequenza: inizia con i gabbiani, poi gli archi, quindi le aragoste e, infine, il pesce. Completane uno prima di passare al prossimo. 
+
+The red dots mark the race course, and you have to fly through ALL of the green checkpoint rings. The blue stars will give you a speed boost so fly through as many of them as you can. &[Fly through all green rings &[Fly through blue stars for a speed boost
+Les pointille@as rouges de@alimitent la piste, et tu dois voler a@g travers TOUS les anneaux de contro@ile verts. Les e@atoiles bleues te feront gagner de la vitesse. Essaie donc d'en de@acrocher le plus possible. &[Vole a@g travers tous les anneaux verts &[De@acroche les e@atoiles bleues en volant pour gagner de la vitesse
+Die roten Punkte markieren den Rennkurs, und Du mu@St durch ALLE gru@unen Kontrollringe fliegen. Die blauen Sterne geben Dir Extraantrieb. Flieg also durch so viele wie mo@uglich hindurch. &[Flieg durch alle gru@unen Ringe. &[Flieg durch blaue Sterne fu@ur einen Extraantrieb.
+Los puntos rojos sen@talan la pista de carreras. Tendra@as que volar a trave@as de TODOS los anillos de control verdes. Las estrellas azules te dara@an mayor velocidad, asi@b que trata de volar por todas las que puedas. &[Vuela a trave@as de todos los anillos verdes. &[Vuela a trave@as de las estrellas azules para alcanzar mayor velocidad.
+I punti rossi delimitano la pista. Devi volare attraverso TUTTI gli anelli verdi. Le stelle blu aumentano la tua velocita@g, quindi cerca di passarci attraverso. &[Vola attraverso tutti i cerchi verdi &[Prendi le stelle blu per aumentare la velocita@g.
+
+I hope we come back soon. I love Harbor Speedway.
+J'espe@gre qu'on reviendra biento@it. J'adore le Circuit du Port.
+Hoffentlich kommen wir bald wieder. Ich liebe die Hafen-Rennstrecke.
+Espero que volvamos pronto. Me encanta la Autopista portuaria.
+Spero di tornare presto, adoro il Circuito Marino.
+
+Wow, you just beat the Harbor Speedway time trial! Only a handful of racers in the world have ever done that! I can't wait to tell the other dragons back home...
+Woaw ! Tu viens d'e@atablir un nouveau record de vitesse jamais vu dans l'histoire du Circuit du Port. Seule une poigne@ae de coureurs au monde est capable d'aller aussi vite ! J'ai ha@ite de raconter c@ca aux autres dragons...
+Wow, Du hast gerade das Zeitrennen auf der Hafen-Rennstrecke gewonnen! Nur wenige Rennchampions auf der Welt haben das je geschafft! Ich kann es kaum erwarten, den anderen Drachen davon zu erza@uhlen...
+@!Guau! Acabas de superar la prueba contrarreloj de la Autopista portuaria. So@alo un pun@tado de corredores en todo el mundo lo han conseguido. Me muero de ganas de conta@arselo a los dema@as dragones cuando volvamos a casa.  
+Wow, hai appena superato la gara a cronometro del Circuito Marino! Pochi piloti al mondo sono stati in grado di farlo! Non vedo l'ora di dirlo agli altri draghi quando torniamo a casa...
+
+The birds said they didn't feel too bad losing to a dragon. After all, people say dragons used to own all the speed records here, a thousand years ago.
+Les oiseaux ne t'en veulent pas de les avoir battus a@g la course. Apre@gs tout, les dragons de@atenaient tous les records de vitesse, il y a mille ans de cela.
+Die Vo@ugel haben die Niederlage gegen einen Drachen ganz gut verkraftet. Schlie@Slich sollen Drachen vor tausend Jahren hier alle Geschwindigkeitsrekorde gebrochen haben.
+Los pa@ajaros dicen que no les ha sentado muy mal que les ganase un drago@an. Despue@as de todo, se dice que hace unos mil an@tos todos los re@acords de velocidad los posei@ban los dragones.
+Gli uccelli dicono che non e@g troppo brutto perdere contro un dragone. Dopotutto, si dice che i draghi detenevano tutti i record di velocita@g qui, un migliaio di anni fa. 
+
+Good luck getting the course record!
+Bonne chance pour ton record de vitesse !
+Viel Glu@uck beim Aufstellen des Streckenrekords!
+@!Suerte con el re@acord!
+Ti auguro di battere il record della pista!
+
+Go through every single blue turbo star that you can, even if it means straying from the course. Just remember not to miss any rings, or you'll be disqualified. &[Use the blue turbo stars. &[Fly through all green rings
+De@acroche autant d'e@atoiles turbo bleues que tu peux, me@ime si tu dois quitter la piste pour cela. N'oublie surtout pas de passer a@g travers tous les anneaux, sinon tu seras disqualifie@a. &[Utilise les e@atoiles turbo bleues. &[Vole a@g travers tous les anneaux verts
+Flieg durch jeden blauen Turbostern, wenn Du kannst, auch wenn Du dadurch vom Kurs abweichen mu@St. Denk nur daran, keine Ringe auszulassen, denn sonst wirst Du disqualifiziert. &[Benutze die blauen Turbosterne. &[Flieg durch alle gru@unen Ringe.
+Pasa por todas las turboestrellas azules que puedas, aunque tengas que desviarte de la carrera. Pero no olvides pasar por todos los anillos o te descalificara@an. &[Utiliza las turboestrellas azules. &[Vuela a trave@as de todos los anillos verdes.
+Attraversa tutte le stelle blu turbo, anche se questo significa uscire dalla pista. Solo non dimenticare di passare attraverso gli anelli o sarai squalificato. &[Usa le stelle turbo blu. &[Vola attraverso gli anelli verdi.
+
+Remember, you don't have to follow the red dots exactly. Try to take short cuts between rings when you can. Also, for the fastest speed, always try to fly as low as you can. &[Cut corners between the green rings. &[Flying lower gives you extra speed.
+N'oublie pas, tu n'es pas oblige@a de suivre les pointille@as rouges. Essaie de prendre des raccourcis entre les anneaux autant que possible. Et puis, pour gagner de la vitesse, vole aussi bas que tu peux. &[ Prends des raccourcis entre les anneaux verts. &[En volant plus bas, tu gagnes de la vitesse.
+Denk dran, da@S Du den roten Punkten nicht haargenau folgen mu@St. Versuch, Abku@urzungen zwischen den Ringen zu nehmen, wenn Du kannst. Versuch au@Serdem, immer so tief wie mo@uglich zu fliegen, um die schnellste Geschwindigkeit zu erreichen. &[Nimm Abku@urzungen zwischen den gru@unen Ringen. &[Tieffliegen macht Dich schneller.
+Recuerda que no tienes que seguir obligatoriamente los puntos rojos. Intenta coger atajos entre los anillos. Si quieres ir ma@as ra@apido, tendra@as que volar lo ma@as bajo posible. &[Recorta en las esquinas pasando por los anillos verdes. &[Si vuelas bajo conseguira@as mayor velocidad.
+Non devi seguire i punti rossi alla perfezione. Prova a tagliare tra gli anelli quando puoi. Inoltre, per andare piu@g veloce,  vola sempre il piu@g basso che puoi. &[Taglia gli angoli tra gli anelli verdi. &[Volare basso ti conferisce velocita@g extra.
+
+This is the world-famous Harbor Speedway, the most elite of all race courses! Only the world's top racers are allowed to compete here. The local champions are a group of blue-footed boobies who have never lost a race before.
+Voici le ce@ale@gbre Circuit du Port, la plus e@alitiste de toutes les courses ! Seuls les champions du monde ont le droit d'y courir. Les champions locaux sont une bande de nigauds aux pieds bleus qui n'ont jamais perdu une seule course.
+Dies ist die weltberu@uhmte Hafen-Rennstrecke, die beste von allen! Hier du@urfen nur die besten Rennchampions starten. Die einheimischen Meister sind eine Gruppe blaufu@u@Siger To@ulpel, die noch nie ein Rennen verloren haben.
+E@Asta es la famosi@bsima Autopista portuaria, la pista de carreras de la elite. So@alo pueden competir en ella los mejores corredores del mundo. Los campeones locales son un grupo de pa@ajaros de pies azules que, hasta ahora, nunca han perdido una carrera.  
+Questo e@g il famoso Circuito Marino, la pista piu@g prestigiosa del mondo! Solo i migliori piloti in circolazione possono gareggiare qui. I campioni locali sono un gruppo di volatili dai piedi blu che non sono mai stati sconfitti prima.
+
+Hunter
+Chasseur
+Ja@uger
+Cazador
+Hunter
+
+Where do these flying sheep saucers keep coming from? I just saw another one grab an egg and fly off! This one's super fast, but his saucer is damaged and it's leaving smoke rings... I think I can keep up with him as long as I can make it through the rings...
+D'ou@g viennent tous ces moutons en soucoupe volante ? Je viens d'en voir un autre voler un =euf et s'en aller ! Il allait super vite, mais sa soucoupe a e@ate@a touche@ae et elle la@iche de la fume@ae... Je pense que je peux le poursuivre si j'arrive a@g passer entre les anneaux...
+Wo kommen blo@S immer diese Fliegenden Schaf-Untertassen her? Gerade hat sich wieder eine ein Ei geschnappt und ist damit abgeschwirrt! Dies hier ist superschnell, aber die Untertasse ist bescha@udigt und zieht Rauchringe hinter sich her... Ich glaube, ich kann mit ihm Schritt halten, solange ich es durch die Ringe schaffe...
+@?De do@ande siguen saliendo esas ovejas y sus platillos volantes? Acabo de ver a una que cogi@ba un huevo y sali@ba volando. Esta oveja es muy ra@apida, pero su platillo volante esta@a averiado y echa anillos de humo. Creo que si consigo pasar a trave@as de los anillos, podre@a seguirlo. 
+Da dov'e@g che continuano ad arrivare questi dischi volanti pecorini? Ne ho appena visto uno afferrare un uovo e volar via! Questo e@g super veloce ma il suo disco e@g danneggiato e sta uscendo del fumo... Credo di potergli tenere testa se riesco a passare attraverso gli anelli...
+
+I'm gonna chase him down! &Should Hunter chase the sheep UFO? &Hurry up, already! &Nah, it's only an egg.
+Je vais le poursuivre ! &Chasseur devrait-il poursuivre le mouton extraterrestre ? & File vite a@g ses trousses ! &Bof, c'est juste un =euf apre@gs tout.
+Ich bleibe an ihm dran! &Soll Ja@uger das Schaf-UFO verfolgen? &Beeil Dich! &Nee, es ist doch blo@S ein Ei.
+@!Voy a acabar con e@al! &@?Quieres que Cazador capture el platillo? &@!Vamos, deprisa! &No, so@alo es un huevo.
+Lo inseguiro@g! &Hunter deve inseguire l'ufo pecorino? &Svelto! &No, e@g solo un uovo.
+
+I'll be right back!
+Je reviens de suite !
+Ich bin gleich zuru@uck!
+@!Enseguida vuelvo!
+Torno subito!
+
+WHAT? You're kidding! We gotta hurry, he's getting away!
+QUOI ? Tu plaisantes, hein ? On ferait mieux de se magner si on ne veut pas le perdre !
+WAS? Du machst Witze! Wir mu@ussen uns beeilen. Er entkommt!
+@?CO@AMO? @?No lo dira@as en serio? @!Vamos, hay que darse prisa, se esta@a alejando!
+Cosa? Stai scherzando, diamoci una mossa, sta scappando!
+
+YES!!! That was close! The egg popped out just before the saucer crash landed!
+OUI !!! C'e@atait moins une ! L'=euf a e@ate@a e@ajecte@a juste avant que la soucoupe ne s'e@acrase !
+JA!!! Das war knapp! Das Ei fiel raus, kurz bevor die Untertasse eine Bruchlandung gemacht hat!
+@!BIEN! @!Casi! El huevo ha salido despedido del platillo justo antes de que se estrellara.
+Si@h!!! C'e@g mancato poco! L'uovo e@g caduto proprio prima che il disco volante si schiantasse!

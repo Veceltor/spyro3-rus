@@ -1,0 +1,145 @@
+164: Agent 9's Lab
+
+Professor
+Professeur
+Professor
+Profesor
+Professore
+
+Ahh, Agent 9, my favorite pupil... welcome back to my island laboratory! I'm afraid rhynocs have taken over the whole island... perhaps you could stop them before they destroy all my research.
+Ahh, Agent 9, mon e@ale@gve pre@afe@are@a... bon retour a@g mon i@jle laboratoire ! J'ai bien peur que les rhinos aient envahi toute l'i@jle... tu peux peut-e@itre les arre@iter avant qu'ils de@atruisent toutes mes recherches.
+Ahh, Agent 9, mein Lieblingsschu@uler... Willkommen in meinem Insellabor! Ich fu@urchte, Rhinoxe haben die ganze Insel in ihre Gewalt gebracht... Vielleicht ko@unntest Du sie aufhalten, bevor sie alle meine Forschungsergebnisse zersto@uren.
+@!Hombre, Agente 9, mi alumno favorito! Bienvenido a mi isla laboratorio. Me temo que los rinocs han tomado la isla... a lo mejor podri@bas pararles los pies antes de que destruyan todo mi trabajo de investigacio@an.
+Ahh, Agente 9, il mio pupillo... bentornato sulla mia isola laboratorio! Temo che i rinoc si siano impadroniti di tutta l'isola... forse puoi fermarli prima che distruggano tutte le mie ricerche.
+
+Ah, it'll be just like old times! Try shooting these dummies to get warmed up, but... err, be careful, I think a rhynoc might be hiding among them... &[Shoot all dummies, and the occasional rhynoc...
+Ah, c@ca sera comme le bon vieux temps ! Essaie de viser ces de@abiles pour t'e@achauffer, mais... euh, fais gaffe, je crois qu'il y a un rhino dissimule@a parmi eux... &[Tire sur tous les idiots et sur l'e@aventuel rhino...
+Ah, es wird wie in alten Zeiten sein! Versuch, auf diese Puppen zu schie@Sen, um Dich aufzuwa@urmen, aber... a@uh, sei vorsichtig, ich glaube, da@S sich ein Rhinox zwischen ihnen versteckt... &[Schie@S auf alle Puppen und den einen oder anderen Rhinox...
+@!Oh, como en los viejos tiempos! Dispara a esos mun@tecos para calentar. Pero con cuidado, puede que algu@an rinoc este@a escondido entre ellos. &[Dispara a los mun@tecos y a los rinocs que encuentres.
+Ah, proprio come ai bei vecchi tempi! Prova a sparare a questi bersagli per scaldarti, ma... mhh, stai attento, temo che tra di essi si nasconda un rinoc...&[Spara a tutti i bersagli e al rinoc...
+
+A vast number of rhynocs are waiting to ambush us as soon as I lower this force field. I expect they'll keep coming until you shoot the red panic button next to the door where they come out. &[Shoot the red panic button to lock the rhynocs in.
+Un grand nombre de rhinos attend que je baisse le champ magne@atique pour faire une embuscade. J'espe@gre qu'ils avanceront suffisamment pour que tu puisses appuyer sur le bouton rouge du signal d'alarme. &[Appuie sur le bouton rouge du signal d'alarme pour enfermer les rhinos.
+Ganz viele Rhinoxe warten im Hinterhalt darauf, uns zu u@uberfallen, sobald ich dieses Kraftfeld abbaue. Ich denke, sie kommen weiter, bis Du den roten Panikknopf neben der Tu@ur triffst, aus der sie rauskommen. &[Schie@S auf den roten Panikknopf, um die Rhinoxe einzusperren.
+Hay un monto@an de rinocs esperando a que bajemos el campo de fuerza para tendernos una emboscada. No parara@an de venir hasta que dispares al boto@an de alarma rojo que hay junto a la puerta de la que salen. &[Dispara al boto@an de alarma rojo para encerrar a los rinocs. 
+Ci sono molti rinoc che aspettano solo che io abbassi questo campo di forza per attaccarci. Credo che continueranno ad arrivare fino a quando non colpirai l'interruttore di emergenza rosso accanto alla porta dalla quale escono. &[Colpisci l'interruttore di emergenza rosso per chiudere dentro i rinoc.
+
+There's another door at the end of this beach, and rhynocs will keep coming out until you shoot the red panic button. Work your way up the beach by dodging and using the natural cover on the right side. &[Use @0L1@4 and @0R1@4 to dodge left and right. &[Shoot the rhynocs to reach the door and retake the beach!
+Il y a une autre porte au bout de cette plage. Les rhinos continueront a@g sortir tant que tu n'appuieras pas sur le bouton rouge du signal d'alarme. Va jusqu'a@g la plage en te faufilant et assure ta couverture en restant sur la droite. &[Appuie sur @0L1@4 et @0R1@4 pour te faufiler a@g droite ou a@g gauche. &[Tire sur les rhinos pour atteindre la porte et reprendre la plage !
+Am Ende des Strands ist noch eine Tu@ur, und da kommen Rhinoxe raus, bis Du den roten Panikknopf triffst. Arbeite Dich den Strand entlang, indem Du ausweichst und auf der rechten Seite Deckung suchst. &[Benutze die @0L1@4- und die @0R1@4-Taste, um nach links und rechts auszuweichen. &[Schie@S die Rhinoxe ab, um die Tu@ur zu erreichen und den Strand zuru@uckzuerobern!
+Hay otra puerta al final de la playa y no parara@an de salir rinocs de ella hasta que dispares al boto@an de alarma rojo. Avanza por la playa esquiva@andolos y escondie@andote tras los arbustos que hay en el lado derecho. &[Utiliza los botones @0L1@4 y @0R1@4 para desplazarte hacia la derecha y hacia la izquierda. &[Dispara a los rinocs para poder llegar a la puerta y reconquistar la playa.  
+C'e@g un'altra porta alla fine di questa spiaggia e i rinoc continueranno ad uscire fino a quando non colpirai l'interruttore di emergenza rosso. Avanza sulla spiaggia schivando i colpi e usando i ripari naturali sul lato destro. &[Usa @0L1@4 e @0R1@4 per spostarti a sinistra e a destra. &[Spara ai rinoc per raggiungere la porta e riprendere la spiaggia!
+
+You'll need to take out all the rhynocs to secure the beach... and don't forget to dodge! &[Shoot the red panic button &[Eliminate all rhynocs &[Use @0L1@4 and @0R1@4 to dodge
+Tu dois te de@abarrasser de tous les rhinos pour rendre la plage su@ire... et n'oublie pas de te faufiler ! &[Appuie sur le bouton rouge de signal d'alarme &[Elimine tous les rhinos &[Appuie sur @0L1@4 et @0R1@4 pour te faufiler
+Du mu@St alle Rhinoxe vernichten, um den Strand zuru@uckzuerobern... und vergi@S nicht, auszuweichen! &[Schie@S auf den roten Panikknopf. &[Schalte alle Rhinoxe aus. &[ Benutze die @0L1@4- und die @0R1@4-Taste zum Ausweichen.
+Para que la playa este@a a salvo, tendra@as que deshacerte de todos los rinocs... y no te olvides de esquivar. &[Dispara al boto@an de alarma rojo. &[Elimina a todos los rinocs. &[Utiliza los botones L1 y R1 para esquivar. 
+Dovrai eliminare tutti i rinoc per liberare la spiaggia... e non dimenticarti di schivare i colpi!&[Colpisci l'interruttore di emergenza rosso &[Elimina tutti i rinoc &[Usa @0L1@4 e @0R1@4 per schivare i colpi 
+
+&These indicators show that a bunch of rhynocs are hiding behind the display screen. I'll switch on the view pedestal, and you shoot them as they attack! I recommend using your sniper mode. &[Shoot the rhynocs as they appear in front of the screen. &[Press the } button to enter sniper mode.
+&Ces indicateurs montrent qu'un groupe de rhinos se cache derrie@gre l'e@acran d'affichage. Quand j'activerai la vue pie@adestal, tire sur eux pendant qu'ils attaquent ! Je te conseille d'activer le mode tireur embusque@a. &[Tire sur les rhinos alors qu'ils apparaissent en face de l'e@acran. &[Appuie sur la touche } pour activer le mode tireur embusque@a.
+&Diese Anzeigen zeigen, da@S sich ein Haufen Rhinoxe hinter dem Bildschirm versteckt. Ich schalte den Aussichtssockel ein, und Du schie@St, wenn sie angreifen! Ich rate Dir, den Scharfschu@utzenmodus zu verwenden. &[Schie@S auf die Rhinoxe, wenn sie vorn im Bildschirm erscheinen. &[Dru@uck die }-Taste fu@ur den Scharfschu@utzenmodus.
+&Estos indicadores muestran que hay un monto@an de rinocs escondidos tras la pantalla de visualizacio@an. Activare@a la vista de pedestal para que dispares a los rinocs que te ataquen. Te recomiendo que utilices tu modo de francotirador. &[Dispara a los rinocs a medida que aparezcan delante de la pantalla. &[Pulsa el boto@an } para activar el modo de francotirador.  
+&Questi indicatori mostrano che un gruppo di rinoc si sta nascondendo dietro lo schermo. Accendero@g il piedistallo e tu potrai sparargli mentre attaccano! Ti consiglio di usare la modalita@g cecchino. &[Spara ai rinoc quando appaiono di fronte allo schermo. &[Premi il tasto } per attivare la modalita@g cecchino. 
+
+Try not to fall off the pedestal. I recommend using sniper mode to take out these targets. &[Press the } button to enter sniper mode.
+Essaie de ne pas tomber du pie@adestal. Je te conseille d'activer le mode tireur embusque@a pour e@aliminer les cibles. &[Appuie sur la touche Triangle pour activer le mode tireur embusque@a.
+Fall nicht vom Sockel. Ich rate Dir, den Scharfschu@utzenmodus zu verwenden, um diese Ziele zu treffen. &[Dru@uck die }-Taste fu@ur den Scharfschu@utzenmodus.
+Intenta no caerte del pedestal. Te recomiendo que utilices el modo de francotirador para deshacerte de esos objetivos. &[Pulsa el boto@an } para activar el modo de francotirador. 
+Cerca di non cadere dal piedistallo. Ti consiglio di usare la modalita@g cecchino per sbarazzarti di questi bersagli. &[Premi il tasto } per attivare la modalita@g cecchino. 
+
+You cleared them out! Let's see what kind of shape the machine room is in... I have a feeling the rhynocs haven't been keeping it too clean.
+Tu les as toutes e@alimine@aes ! Allons voir dans quel e@atat est la salle des machines... J'ai l'impression que les rhinos n'ont pas fait le me@anage tous les jours.
+Du hast sie erledigt! Mal gucken, in welchem Zustand sich der Maschinenraum befindet... Ich habe das Gefu@uhl, da@S die Rhinoxe nicht zu pfleglich damit umgegangen sind.
+@!Los has liquidado a todos! Vamos a ver en que@a condiciones esta@a la sala de ma@aquinas. Me da la impresio@an de que los rinocs no la habra@an dejado muy limpia.
+Li hai eliminati tutti! Vediamo in che condizioni e@g la sala macchine... Ho la sensazione che i rinoc non l'abbiano tenuta in ordine.
+
+Just as I thought, the machine room is overrun with birds. To target the birds in their nests, you'll want to use sniper mode, then zoom in for pinpoint accuracy. &[Press the } button to enter sniper mode. &[Use @0L1@4 and @0R1@4 to zoom in and out while in sniper mode.
+Comme je pensais, la salle des machines est pleine d'oiseaux. Pour viser les oiseaux dans les nids, utilise le mode tireur embusque@a, puis fais un zoom avant pour une pre@acision maximale. &[Appuie sur la touche } pour activer le mode tireur embusque@a. &[Utilise @0L1@4 et @0R1@4 pour agrandir ou re@aduire le champ de vision, en mode tireur embusque@a.
+Wie ich gedacht hatte, der Maschinenraum wimmelt von Vo@ugeln. Um die Vo@ugel in ihren Nestern zu treffen, solltest Du den Scharfschu@utzenmodus verwenden und dann einzoomen fu@ur haargenaue Treffer. &[Dru@uck die }-Taste fu@ur den Scharfschu@utzenmodus. &[Benutze die @0L1@4- und die @0R1@4-Taste zum Ein- und Auszoomen, wa@uhrend Du im Scharfschu@utzenmodus bist.
+Como me imaginaba, la sala de ma@aquinas esta@a repleta de pa@ajaros. Para alcanzar a los pa@ajaros en los nidos sera@a mejor que utilices el modo de francotirador y que te acerques para apuntar con precisio@an. &[Pulsa el boto@an } para activar el modo de francotirador. &[Utiliza @0L1@4 y @0R1@4 para acercarte y alejarte mientras utilizas el modo de francotirador.
+Proprio come pensavo, la sala macchine e@g piena di uccelli. Per colpire gli uccelli nei loro nidi ti consiglio di usare la modalita@g cecchino e poi di zoomare in avanti per mirare con la massima precisione. &[Premi il tasto } per attivare la modalita@g cecchino. &[Usa @0L1@4 e @0R1@4 per zoomare in avanti e indietro nella modalita@g cecchino.
+
+Nice work, Agent 9! Err, I'm not sure if this is a bird egg or dragon egg... what do you think?
+Bon boulot, Agent 9 ! Euh, je ne suis pas su@ir si c'est un =euf d'oiseau ou un =euf de dragon... Qu'est-ce que t'en penses ?
+Gute Arbeit, Agent 9! A@Uh, ich bin nicht sicher, ob das hier ein Vogelei oder ein Drachenei ist... Was meinst Du?
+@!Bien hecho, Agente 9! Eh... la verdad es que no se@a si este huevo es de pa@ajaro o de drago@an. @?Tu@a que@a crees?
+Ottimo lavoro, Agente 9! Ehm, non sono sicuro se questo sia un uovo di uccello o di drago... cosa ne pensi?
+
+The lab's clear, and it smells better in here already! Follow me outside, where I expect we'll find some rhynocs wearing armor. You'll need a more powerful weapon to defeat them.
+Le labo est nickel et c@ca sent de@aja@g beaucoup mieux ! Suis-moi dehors. Il faut s'attendre a@g trouver des rhinos en armure. Il te faut une arme beaucoup plus puissante pour les battre.
+Das Labor ist gera@uumt, und es riecht auch schon besser! Komm mit nach drau@Sen, wo wir bestimmt auf einige Rhinoxe in Ru@ustungen treffen. Du brauchst eine sta@urkere Waffe, um sie zu schlagen.
+@!El laboratorio esta@a reluciente y ya huele mucho mejor! Sal conmigo, creo que encontraremos algunos rinocs con armaduras. Necesitara@as un arma ma@as potente para vencerlos. 
+Il laboratorio e@g pulito e c'e@g gia@g un'odore migliore! Vieni fuori con me, credo che troveremo dei rinoc con l'armatura. Avrai bisogno di un'arma piu@g potente per sconfiggerli.
+
+By my calculations, the bombs in this handy vending machine should be highly effective against armor. Give it a shot. &[Press the > button to throw bombs. &[To carefully aim your throw, press and hold down the > button.
+D'apre@gs mes calculs, les bombes de ce distributeur tre@gs commode devraient e@itre tre@gs efficaces contre leur armure. Fais de ton mieux. &[Appuie sur la touche > pour balancer les bombes. &[Pour lancer au bon endroit, appuie et maintiens enfonce@ae la touche >.
+Nach meinen Berechnungen mu@u@Sten die Bomben in diesem praktischen Automaten ho@uchst effektiv gegen Ru@ustungen sein. Probier's mal aus. &[Dru@uck die >-Taste, um Bomben zu werfen. &[Um genau zu zielen, dru@uck die >-Taste und halt sie gedru@uckt.
+Segu@an mis ca@alculos, las bombas de este co@amodo distribuidor automa@atico deberi@ban ser altamente eficaces contra las armaduras. Prue@abalas. &[Pulsa el boto@an > para lanzar bombas. &[Para calcular tu lanzamiento con exactitud, mante@an pulsado el boto@an >.  
+Secondo i miei calcoli, le bombe in questo distributore dovrebbero essere molto efficaci contro le armature. Perche@a non le provi? &[Premi il tasto > per lanciare le bombe. &[Per mirare con precisione, premi e tieni premuto il tasto >. 
+
+Just a few more enemies left! You can do it!
+Plus que quelques ennemis ! Tu peux le faire !
+Es sind nur noch ein paar Feinde u@ubrig! Du kannst es schaffen!
+@!Vamos, so@alo te quedan unos pocos enemigos! Puedes hacerlo.
+Rimangono ancora solo pochi nemici! Puoi farcela!
+
+Thank you very much for saving my laboratory. Now I can resume thinking...
+Merci beaucoup pour avoir sauve@a mon laboratoire. Je peux reprendre les recherches...
+Vielen Dank, da@S Du mein Labor gerettet hast. Jetzt kann ich wieder in Ruhe nachdenken...
+Muchas gracias por salvar mi laboratorio. Ahora puedo reanudar mi trabajo. 
+Grazie mille per aver salvato il mio laboratorio. Ora posso ricominciare a pensare...
+
+Now I can switch the gravitonometric generator back on. I hope no birds got in there...
+Je peux maintenant re@aenclencher le ge@ane@arateur gravime@atrique. J'espe@gre qu'aucun oiseau n'est rentre@a ici...
+Jetzt kann ich den gravitonometrischen Generator wieder einschalten. Ich hoffe, da sind keine Vo@ugel reingekommen...
+Ya puedo volver a encender el generador gravitome@atrico. Espero que no se colase ningu@an pa@ajaro. 
+Ora posso riaccendere il generatore gravitonometrico. Spero che non ci sia entrato nessun uccello...
+
+Agent 9
+Agent 9 
+Agent 9 
+Agente 9 
+Agente 9 
+
+What was that? Did you see a rhynoc? I thought I saw a rhynoc! Oooooh, take it from me, Spyro, never spend a week in a cage.  Uh, huh, next thing you know your whole island will be knee deep in rhynocs. Well, gotta go, Mr. Laser Blaster and I have a whole lotta work to do.
+C'e@atait quoi? Est-ce que t'as vu un rhino? Je crois avoir vu un rhino! Oooooh, fais-le partir, Spyro, ne passe jamais une semaine dans une cage. Uh, huh, autre chose, ton i@jle entie@gre sera envahie de rhinos. Bon, faut que j'y aille, M. Laser du Tonnerre et moi avons beaucoup de pain sur la planche.
+Was war das? Hast Du einen Rhinox gesehen? Ich glaube, ich habe einen Rhinox gesehen! Oooh, glaub es mir, Spyro, verbring nie eine Woche in einem Ka@ufig. A@Uh, als na@uchstes wimmelt es auf Deiner Insel von Rhinoxen. Aber ich mu@S jetzt gehen, Herr Lasergewehr und ich haben noch einen Haufen Arbeit.
+@?Que@a ha sido eso? @?Has visto algu@an rinoc? Me ha parecido ver uno. Oh, Spyro, sa@acalo de aqui@b. Nunca pases una semana en una jaula o lo pro@aximo que te dira@an es que toda tu isla esta@a repleta de rinocs. Tengo que irme, La@aser Blaster y yo tenemos mucho trabajo que hacer. 
+Cos'e@gra quello? Hai visto un rinoc? Credo di aver visto un rinoc! Oooooh, dammi ascolto, Spyro, non passare mai una settimana in gabbia. Uh, uh, tra l'altro lo sai che la tua isola sara@g piena zeppa di rinoc. Beh, devo andare signor Super Laser, ho un sacco di lavoro da fare.
+
+Ooooooh weeee, I love the sizzle of a high energy laser on the back end of a rhynoc. Too bad the Sorceress didn't send more of 'em, I was really getting into the zone. Well, now that my island is safe again I guess I'll have to go rhynoc hunting elsewhere... Are you headed out? &Leave the level? &Yes &No
+Ooooooh ouiii, j'adore le gre@asillement d'un faisceau laser a@g haute e@anergie dans le bas du dos d'un rhino. Dommage que la sorcie@gre n'ait pas envoye@a d'autres rhinos, je commenc@cais vraiment a@g y prendre gou@it. Bon, maintenant que l'i@jle est de nouveau su@ire, je pense aller a@g la chasse au rhino ailleurs... Est-ce que tu sors ? &Quitter le niveau ? &Oui &Non
+Juchhu, ich liebe das Knistern eines Hochenergielasers auf dem Hinterteil eines Rhinox. Schade, da@S die Zauberin nicht mehr von ihnen geschickt hat. Ich komme richtig in Stimmung. Aber da meine Insel nun wieder sicher ist, mu@S ich wohl woanders Rhinoxe jagen... Gehst Du? &Level verlassen? &Ja &Nein
+Oooh, me encanta el chisporroteo de un la@aser de gran potencia atravesando el cuerpo de un rinoc. Es una pena que la Bruja no haya enviado ma@as, me estaba empezando a gustar. Bueno, ahora que mi isla vuelve a estar a salvo, supongo que me tendre@a que ir a cazar rinocs a otra parte. @?Te vienes? &@?Quieres salir del nivel? &Si@b. &No. 
+Ooooooh weeee, adoro lo sfrigolio di un laser ad alta energia sulla schiena di un rinoc. Peccato che la maga non ne abbia mandati di piu@g, la cosa mi stava prendendo veramente bene. Beh, ora che la mia isola e@g di nuovo al sicuro credo che dovro@g andare a caccia di rinoc da qualche altra parte... Te ne stai andando? &Lasci il livello? &Si@h &No  
+
+See ya later, alligator!
+A la revoyure !
+Man sieht sich, Kumpel!
+@!Luego te veo, cara feo!
+Ci vediamo dopo, alligatore!
+
+I'm just going to patrol the island one last time...
+Je vais encore patrouiller dans l'i@jle une dernie@gre fois...
+Ich mache nur noch eine letzte Runde u@uber die Insel...
+Voy a dar una u@altima vuelta de inspeccio@an por la isla.
+Vado solo a pattugliare l'isola un'ultima volta...
+
+Hiya, Spyro... I'm just off to patrol the island again, you know, in case any rhynocs decided to come crawling back...
+Salut, Spyro... Je repars patrouiller dans l'i@jle, juste au cas ou@g les rhinos de@acideraient de revenir infecter les lieux...
+Hi, Spyro... Ich wollte gerade noch eine Runde u@uber die Insel machen, wei@St Du, fu@ur den Fall, da@S die Rhinoxe noch mal wiederkommen sollten...
+Hola, Spyro. Me voy a inspeccionar la isla por u@altima vez, por si los rinocs han decidido volver nadando.
+Salve Spyro... sto andando a pattugliare l'isola ancora una volta, sai, in caso che i rinoc decidano di ritornare...
+
+I still haven't finished clearing the rhynocs off the island... &Level not finished... &Do you really want to leave? &Yes &No
+Je n'ai pas encore fini de de@abarrasser l'i@jle de ces rhinos... &Niveau non termine@a... &Veux-tu quitter le niveau ? &Oui &Non
+Ich habe noch nicht alle Rhinoxe von der Insel vertrieben... &Level nicht beendet... &Willst Du wirklich gehen? &Ja &Nein
+Au@an no he acabado con todos los rinocs de la isla. &Nivel no completado. &@?De verdad quieres salir? &Si@b. &No. 
+Non ho ancora finito di eliminare i rinoc dall'isola...&Livello non completato... &Sei sicuro di voler uscire? &Si@h &No 
+
+I'll be back when I've wiped out the last of the rhynoc menace!
+Je reviendrai quand j'aurai fini d'exterminer toute menace rhino!
+Ich komme wieder, wenn ich den letzten Rhinox erledigt habe!
+@!Volvere@a cuando haya borrado de la faz de la tierra al u@altimo de esos rinocs!
+Tornerno@g quando avro@g eliminato l'ultima minaccia rinoc!

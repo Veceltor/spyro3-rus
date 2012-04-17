@@ -1,0 +1,371 @@
+170: Super Bonus Round
+
+Bianca
+Bianca
+Bianca
+Bianca
+Bianca
+
+Hey, you finally made it, Spyro! Hunter was a little worried about you when you went off to fight the Sorceress, but I always knew you'd beat her.
+He@a, t'as fini par y arriver, Spyro ! Chasseur s'inquie@atait un peu pour toi apre@gs que tu es parti combattre la Sorcie@gre, mais j'ai toujours su que tu la battrais.
+He, Du hast es endlich geschafft, Spyro! Ja@uger war etwas in Sorge um Dich, als Du auszogst, gegen die Zauberin zu ka@umpfen, aber ich wu@Ste die ganze Zeit, da@S Du sie schlagen wu@urdest.
+@!Al final lo has conseguido, Spyro! Cazador estaba un poco preocupado por ti desde que te marchaste a luchar contra la Bruja, pero yo siempre supe que la venceri@bas.
+Ehi, Spyro, ce l'hai fatta finalmente! Hunter era un po' preoccupato per te quando sei andato ad affrontare la maga, ma io ho sempre saputo che l'avresti sconfitta.
+
+This place is where the Sorceress kept all her treasure, but after she was defeated a bunch of thieves came and stole it. If you can catch the thieves, you're more than welcome to keep the treasure!
+Dans cet endroit, la Sorcie@gre conservait tout son tre@asor. Mais apre@gs sa de@afaite, une bande de voleurs est venue le piller. Si tu peux attraper les voleurs, tu es plus que convie@a a@g garder le tre@asor !
+Hier hat die Zauberin ihre ganzen Scha@utze versteckt, aber nachdem sie geschlagen wurde, kam eine Ra@uuberbande und hat alles geklaut. Wenn Du die Diebe fangen kannst, darfst Du den Schatz gern behalten!
+E@Aste es el lugar en que la Bruja guardaba su tesoro pero, cuando fue derrotada, una panda de ladrones lo robo@a. Si puedes cazar a esos ladrones, podra@as quedarte con el tesoro.
+Questo e@g il posto dove la maga teneva tutti i suoi tesori, ma dopo che e@g stata sconfitta una banda di ladri le ha rubato tutto. Se prendi i ladri potrai tenerti tranquillamente il tesoro!
+
+Oh, by the way, Hunter is around here somewhere. He's been tinkering with one of his new toys all day, and he wants to show it off. You should go see him!
+Ah, au fait, Chasseur est dans les parages. Il passe@a la journe@ae a@g bricoler un de ses nouveaux jouets. Tu ferais mieux d'aller le voir !
+Oh, u@ubrigens, Ja@uger ist hier irgendwo. Er spielt schon den ganzen Tag mit einem seiner neuen Spielzeuge und will damit angeben. Du solltest mal nach ihm sehen!
+Por cierto, Cazador esta@a por aqui@b. Lleva todo el di@ba entretenido con uno de sus nuevos juguetes y esta@a muy orgulloso de e@al. @!Deberi@bas ir a verlo! 
+Oh, a proposito, Hunter e@g qui da qualche parte. E@G stato a riparare uno dei suoi nuovi giocattoli tutto il giorno e vuole pure vantarsene. Dovresti andare a vederlo!
+
+I hope the rest of the dragons will come back here someday.
+J'espe@gre que le reste des dragons reviendra ici un jour.
+Ich hoffe, die anderen Drachen kommen eines Tages hierher zuru@uck.
+Espero que el resto de los dragones vuelva algu@an di@ba a este mundo.
+Spero che un giorno gli altri draghi torneranno qui.
+
+
+=====
+
+
+Hunter
+Chasseur
+Ja@uger
+Cazador
+Hunter
+
+Hi, Spyro! Did you see Bianca? She was really worried about you when you went off to fight the Sorceress. It was pretty funny. She tries to play it cool, but she was scared stiff until you came back safe.
+Salut, Spyro ! As-tu vu Bianca ? Elle s'inquie@atait beaucoup pour toi apre@gs que tu es parti combattre la Sorcie@gre. C'e@atait assez marrant. Elle essayait  de se la jouer relax, mais elle se rongeait les sangs jusqu'a@g ce que tu retournes sain et sauf.
+Hi, Spyro! Hast Du Bianca gesehen? Sie war wirklich besorgt um Dich, als Du auszogst, gegen die Zauberin zu ka@umpfen. Es war ziemlich komisch. Sie versuchte, cool zu erscheinen, aber sie hatte eine Todesangst, bis Du wieder sicher zuru@uck warst.
+@!Hola, Spyro! @?Has visto a Bianca? Ha estado muy preocupada por ti desde que te fuiste a luchar contra la Bruja. Ha sido muy divertido; queri@ba hacerse la valiente, pero lo ha pasado fatal hasta que has vuelto. 
+Ciao Spyro! Hai visto Bianca? Era veramente preoccupata per te quando sei andato ad affrontare la maga. Era davvero divertente. Cercava di fare la rilassata ma in realta@g era terrorizzata fino a quando non sei tornato sano e salvo.
+
+I just finished fixing up an old submarine! Why don't you try taking it for a spin? &Ride the sub? &Right on! &A little later.
+Je viens juste de re@aparer un vieux sous-marin ! Pourquoi n'essaies-tu pas de faire une vire@ae avec? &Piloter le sous-marin ? &C@Ca marche ! &Plus tard.
+Ich habe gerade ein altes U-Boot repariert! Warum machst Du nicht eine Spritztour damit? &Mit dem U-Boot fahren? &Jawoll! &Etwas spa@uter.
+@!Acabo de terminar de hacerle algunos ajustes a un viejo submarino! @?Por que@a no lo pruebas? &@?Quieres conducir el submarino? &Claro. &Ma@as tarde.
+Ho appena finito di riparare un vecchio sottomarino! Perche@a non provi a farci un giretto? &Vai sul sottomarino? &Certo! &Piu@g tardi.
+
+Great! Hop aboard!
+Ge@anial ! Monte a@g bord!
+Gro@Sartig! Komm an Bord!
+@!Estupendo! @!Sube a bordo!
+Grande! Salta a bordo!
+
+Sure, come back whenever you want to ride it!
+Bien su@ir, reviens le piloter quand tu veux!
+Sicher, komm wieder, wenn Du mit dem U-Boot fahren willst!
+Claro, puedes darte una vuelta con e@al siempre que quieras.
+Certo, torna pure quando vuoi!
+
+Wanna take my sub for a spin? &Ride the sub? &Right on! &A little later.
+C@Ca te dit de faire une vire@ae dans mon sous-marin ? &Piloter le sous-marin ? &C@Ca marche ! &Plus tard.
+Willst Du eine Spritztour mit meinem U-Boot machen? &Mit dem U-Boot fahren? &Jawoll! &Etwas spa@uter.
+@?Quieres darte una vuelta en mi submarino? &@?Quieres conducir el submarino? &Claro. &Ma@as tarde.
+Vuoi farti un giro sul mio sottomarino? &Vai sul sottomarino? &Certo! &Piu@g tardi.
+
+
+=====
+
+
+Hunter
+Chasseur
+Ja@uger
+Cazador
+Hunter
+
+Check it out, this is the world's fastest turbo-snowboard course! The local champions are the Sasquatch Six, a gang of yeti's on souped up snow-discs. I bet that you could outrace the lot of 'em! If you win, we get a huge pile of treasure! If you lose, I have to slick down the whole course with my tongue.
+Vise un peu c@ca : c'est la course de surfs des neiges a@g turbo la plus rapide du monde ! Les champions locaux sont les Sasquatch Six, une bande de ye@atis sur disques des neiges gonfle@as. Je parie que tu peux tous les semer ! Si tu gagnes, ils nous donnent une montagne de tre@asors ! Si tu perds, je dois nettoyer toute la piste avec ma langue.
+Guck Dir das an: die schnellste Turbo-Snowboard-Bahn der Welt! Die einheimischen Champions sind eine Bande Sasquatche. Das sind Yetis auf hochgetunten Schneescheiben. Die kannst Du sicher schlagen! Wenn Du gewinnst, bekommst Du einen gro@Sen Haufen Scha@utze! Wenn Du verlierst, mu@S ich die Bahn mit meiner Zunge glattlecken.
+@!E@Asta es la pista de snowboard ma@as ra@apida del mundo, tienes que probarla! Los campeones locales son los Seis sasquatch, un grupo de yetis que utiliza unos discos trucados. Estoy seguro de que puedes superarlos a todos. Si ganas, conseguiremos un monto@an de tesoros. Si pierdes, tendre@a que alisar toda la pista con la lengua. 
+Guarda qui, questa e@g la pista di turbo snowboard piu@g veloce del mondo! I campioni locali sono i Sasquatch Six, una gang di yeti che cavalca dischi da neve. Scommetto che potresti batterli tutti! Se vinci ci becchiamo un premio con i fiocchi! Se perdi dovro@g leccare tutta la pista.
+
+So, ready to race? &Start the race? &Let's go! &Not yet.
+Alors, pre@it a@g courir ? &Commencer la course ? &C'est parti ! &Pas encore.
+Bist Du bereit fu@ur das Rennen? &Los geht's! &Noch nicht.
+@?Esta@as listo para la carrera? &@?Quieres empezar la carrera? &@!Vamos! &Todavi@ba no.
+Pronto a gareggiare? &Inizia la gara? &Andiamo! &Non ancora.
+
+Right on! Just don't lose, or my tongue's gonna be a popsicle.
+Ge@anial ! Surtout ne perds pas, sinon ma langue ressemblera a@g un Esquimau glace@a.
+Super! Verlier nur nicht, sonst wird meine Zunge zum Eiszapfen.
+@!Vamos! Tienes que ganar o mi lengua se convertira@a en un polo. 
+Pronti! Non perdere, o la mia lingua diventera@g uno scopettone.
+
+Aw, c'mon, you can take these guys!
+Ah ! Vas-y, tu peux battre ces types !
+Los mach schon, Du kannst diese Typen schlagen!
+@!Venga, hombre, tu@a puedes con esos tipos!
+Dai forza, puoi sconfiggere questa gente!
+
+I think my tongue is frozen. You'd better not lose again! &Start the race? &Let's go! &Not yet.
+Je crois que ma langue est gele@ae. J'te conseille de ne pas perdre encore ! &Commencer la course ? &C'est parti ! &Pas encore.
+Ich glaube, meine Zunge ist gefroren. Verlier bitte nicht noch einmal! &Rennen starten? & Los geht's! &Noch nicht.
+Creo que se me ha congelado la lengua. Ma@as te vale no volver a perder. &@?Quieres empezar la carrera? &@!Vamos! &Todavi@ba no.
+Credo che la mia lingua sia congelata. E@G meglio che tu non perda di nuovo! &Inizia la gara? &Andiamo! &Non ancora.
+
+OK, good luck this time.
+D'accord, bonne chance cette fois.
+OK, viel Glu@uck bei diesem Versuch.
+Vale, a ver si tienes suerte esta vez.
+Ok, buona fortuna stavolta.
+
+Yeah, let's wait for my tongue to thaw first.
+Ouais, on ferait mieux d'attendre que ma langue de@age@gle.
+Ja, warte erst mal, bis meine Zunge aufgetaut ist.
+Si@b, sera@a mejor que esperemos a que se me descongele la lengua.
+Si, aspettiamo che la mia lingua si riscaldi prima.
+
+YEEESSSSSSS! You schooled 'em like a bunch of frost-bitten, flat-footed, molasses-eating, lead-pants-wearing, cross-eyed glacier-trolls riding slabs of plywood with sandpaper on the bottom!!! ... And we won some shiny stuff, too.
+SUPEEEEEER ! Tu as mate@a cette bande de trolls des neiges bigleux et gele@as, ces mangeurs de limaces aux pieds plats, ces lourdauds monte@as sur des planches de contre-plaque@a !!!... Et on a re@acupe@are@a le tre@asor aussi.
+Jaaaaaa! Du hast sie abgefertigt wie eine Bande frostbeuliger, plattfu@u@Siger, zuckeressender, Bleihosen tragender, schielender Gletschertrolle auf Sperrholzbrettern mit Sandpapier darunter!!!!!  ... Und wir haben auch noch was Gla@unzendes gewonnen.
+@!MUY BIEN! Les has dado una buena leccio@an a esos inu@atiles trolls helados y pies planos. Ja, ja, pareci@ban una pandilla de bizcos con losas en los pies y papel de lija en el trasero. Adema@as, hemos ganado unas cosas brillantes.    
+Aleeeeee@g! Gliel'hai fatta vedere a questi stupidi, troll piedipiatti strabici zoticoni!!! E abbiamo anche vinto un po' di roba luccincante!
+
+NONE
+Gnasty Gnorc
+Half-pipe Leap
+Triple Towers
+Quint Front Flip
+Quint Roll Left
+Big Gulp
+Quint Back Flip
+Quint Roll Right
+Orange Crush
+Single Front Flip
+Double Front Flip
+Triple Front Flip
+Quad Front Flip
+Single Roll Left
+Double Roll Left
+Triple Roll Left
+Dr. Shemp
+Single Spin Left
+Double Spin Left
+Triple Spin Left
+Gulp
+Single Back Flip
+Double Back Flip
+Triple Back Flip
+Quad Back Flip
+Single Roll Right
+Double Roll Right
+Triple Roll Right
+Toasty Twist
+Single Spin Right
+Double Spin Right
+Triple Spin Right
+Crush
+Twisted Lemon
+Twisted Lemon x 2
+Twisted Lemon x 3
+Thrash Master
+Twisted Lime
+Double Twisted Lime
+Triple Twisted Lime
+Super Thrash Master
+Raging Ripto
+
+AUCUN
+Truffe de Gnorc
+Demi-tonneau
+Triples Tours
+5x flip avant
+5x demi-tour a@g gauche
+5x tour a@g gauche
+5x flip arrie@gre
+5x demi-tour a@g droite
+5x tour a@g droite
+Flip avant simple
+Double flip avant
+Triple flip avant
+4x flip avant
+1x demi-tour a@g gauche
+2x demi-tour a@g gauche
+3x demi-tour a@g gauche
+4x demi-tour a@g gauche
+Tour simple gauche
+Double tour gauche
+Triple tour gauche
+4x tour gauche
+Flip arrie@gre simple
+Double flip arrie@gre
+Triple flip arrie@gre
+4x flip arrie@gre
+1x demi-tour a@g droite
+2x demi-tour a@g droite
+3x demi-tour a@g droite
+4x demi-tour a@g droite
+Tour simple droite
+Double tour droite
+Triple tour droite
+4x tour droite
+Citron presse@a
+2x Citron presse@a
+3x Citron presse@a
+Mai@jtre Supre@ime
+Lime presse@ae
+Double Lime presse@ae
+Triple Lime presse@ae
+SuperMai@jtre Supre@ime
+Ripto la Terreur
+
+NICHTS
+Gnasty Gnorc
+Half-Pipe-Sprung
+Dreifach-Tu@urme
+5x Flip vorwa@urts
+5x Rolle links
+5x Spin links
+5x Flip ru@uckwa@urts
+5x Rolle rechts
+5x Spin rechts
+1x Flip vorwa@urts
+2x Flip vorwa@urts
+3x Flip vorwa@urts
+4x Flip vorwa@urts
+1x Rolle links
+2x Rolle links
+3x Rolle links
+4x Rolle links
+1x Spin links
+2x Spin links
+3x Spin links
+4x Spin links
+1x Flip ru@uckwa@urts
+2x Flip ru@uckwa@urts
+3x Flip ru@uckwa@urts
+4x Flip ru@uckwa@urts
+1x Rolle rechts
+2x Rolle rechts
+3x Rolle rechts
+4x Rolle rechts
+1x Spin rechts
+2x Spin rechts
+3x Spin rechts
+4x Spin rechts
+Gepresste Zitrone
+2x gepr. Zitrone
+3x gepr. Zitrone
+Thrash Master
+Gedrehte Limone
+2x gedrehte Limone
+3x gedrehte Limone
+Super Thrash Master
+Tobender Ripto
+
+NINGUNO
+Gnasty Gnorc
+Salto de medio tubo
+Torres triples
+Voltereta izda. x5
+Pirueta izda. x5
+Giro izquierdo x5
+Voltereta atra@as x5
+Pirueta derecha x5
+Giro derecho x5
+Volt. adelante x1
+Volt. adelante x2
+Volt. adelante x3
+Volt. adelante x4
+Pirueta izda. x1
+Pirueta izda. x2
+Pirueta izda. x3
+Pirueta izda. x4
+Giro izquierdo x1
+Giro izquierdo x2
+Giro izquierdo x3
+Giro izquierdo x4
+Voltereta atra@as x1
+Voltereta atra@as x2
+Voltereta atra@as x3
+Voltereta atra@as x4
+Pirueta derecha x1
+Pirueta derecha x2
+Pirueta derecha x3
+Pirueta derecha x4
+Giro derecho x1
+Giro derecho x2
+Giro derecho x3
+Giro derecho x4
+Limo@an exprimido
+Limo@an exprimido x2
+Limo@an exprimido x3
+Contorsio@an maestra
+Lima exprimida
+Lima exprimida x2
+Lima exprimida x3
+Cont. su@apermaestra
+Furia de Ripto
+
+NESSUNO
+Gnasty Gnorc
+Salto Half-pipe
+X3 Towers
+X5 Flip Frontale
+X5 Roll A Sinistra
+X5 Spin A Sinistra
+X5 Flip Indietro
+X5 Roll A Destra
+X5 Spin A Destra
+Flip X1 Frontale
+X2 Flip Frontale
+X3 Flip Frontale
+X4 Flip Frontale
+Roll X1 A Sinistra
+X2 Roll A Sinistra
+X3 Roll A Sinistra
+X4 Roll A Sinistra
+Spin X1 A Sinistra
+X2 Spin A Sinistra
+X3 Spin A Sinistra
+X4 Spin A Sinistra
+Flip X1 Indietro
+X2 Flip Indietro
+X3 Flip Indietro
+X4 Flip Indietro
+Roll X1 A Destra
+X2 Roll A Destra
+X3 Roll A Destra
+X4 Roll A Destra
+Spin X1 A Destra
+X2 Spin A Destra
+X3 Spin A Destra
+X4 Spin A Destra
+Twisted Lemon
+X2 Twisted Lemon
+X3 Twisted Lemon
+Thrash Master
+Twisted Lime
+X2 Twisted Lime
+X3 Twisted Lime
+Super Thrash Master
+Raging Ripto
+
+
+=====
+
+
+Bianca
+Bianca
+Bianca
+Bianca
+Bianca
+
+I don't know how she did it, Spyro, but the Sorceress must have survived that last battle! She's been waiting here all this time, saving up her magic to destroy you!
+Je ne sais pas comment c'est possible, Spyro, mais la Sorcie@gre a du@i survivre a@g cette dernie@gre bataille ! Elle a attendu tout ce temps pour pouvoir te de@atruire avec toute la magie qu'elle a e@aconomise@a !
+Ich wei@S nicht, wie sie es geschafft hat, aber die Zauberin mu@S den letzten Kampf u@uberlebt haben! Sie hat die ganze Zeit hier gewartet, um ihren Zauber zu sparen und Dich zu zersto@uren!
+No se@a co@amo, Spyro, pero la Bruja ha debido de sobrevivir a la u@altima batalla. Lleva todo este tiempo aqui@b espera@andote, ha reservado su magia para destruirte.
+Non so come ha fatto, Spyro, ma la maga deve essere sopravvissuta all'ultima battaglia! Ha aspettato qui tutto questo tempo, risparmiando la sua magia per distruggerti!
+
+Your best chance to defeat her is to borrow my flying saucer. I've cast some spells on it to give it extra firepower and unlimited flying time... but the rest is going to be up to you... You've come this far, Spyro, I know you can beat her!
+Le meilleur moyen de la battre est d'emprunter ma soucoupe volante. Je lui ai jete@a sort pour qu'elle ait plus de puissance de feu et une dure@ae de vol illimite@ae... mais ton sort est entre tes mains... Au point ou@g tu en es, Spyro, je sais que tu peux la battre !
+Die beste Chance, sie zu besiegen, hast Du mit meiner fliegenden Untertasse. Ich habe sie mit einigen Zauberspru@uchen belegt, um ihr mehr Feuerkraft und unbegrenzte Flugzeit zu geben... aber der Rest liegt bei Dir... Nachdem Du so weit gekommen bist, Spyro, wei@S ich, da@S Du sie schlagen kannst!
+La mejor oportunidad para vencer a la Bruja es utilizar mi platillo volante. Le he echado algunos hechizos para que tenga ma@as potencia de fuego y tiempo ilimitado de vuelo, pero el resto vas a tener que hacerlo tu@a. Spyro, si has llegado hasta aqui@b, estoy segura de que podra@as vencerla.
+La tua miglior chance per sconfiggerla e@g prendere in prestito il mio disco volante. Ho fatto una magia per donargli maggiore potenza di fuoco e tempo di volo illimitato... Ma il resto e@g compito tuo... Sei arrivato cosi@h lontano, Spyro, io so che tu puoi batterla!

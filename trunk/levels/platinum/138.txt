@@ -1,0 +1,451 @@
+138: Lost Fleet
+
+Crazy Ed
+Ed le Fou
+Verru@uckter Eddy
+Ed el exce@antrico
+Ed il pazzo
+
+Be careful, roun' dese parts, li'l dragon! Dere be more ghosts in dis here shipyard den I kin shake me pick at! Durned shame, too, 'cause I was mighty close tuh findin' me treasure.
+Fais gaffe dans l'coin, p'tit dragon ! Y a plus de fanto@imes dans c'chantier que j'peux donner de coups d'pioches! C'est i pas dommage, car j'e@atais sur l'point d'trouver mon tre@asor. 
+Sieh Dich vor hier, kleiner Drache! Auf dieser Werft gibt es mehr Geister als ich za@uhlen kann! Ist auch eine gro@Se Schande. Ich war so dicht dran, meinen Schatz zu finden.
+Ten cuidado por aqui@b, dragoncito. Hay ma@as fantasmas en este astillero de los que jama@as puedas imaginar. Es una pena porque, adema@as, estaba a puntito de encontrar mi tesoro. 
+Devi fa' attenzione qui 'n giro, a draghe@g'! Ce stanno piu@g fantasmi in 'sto porto de quanti te n'immagini! Mannaggia... perche@a stavo quasi pe' trova@g er tesoro.
+
+I reckon me treasure be thisaway... But we'll hafta blast through this bloomin' ship tuh git to it!
+J'crois qu'mon tre@asor est par la@g... mais faudra pas qu'on trai@jne dans ce fichu bateau pour y mettre la main dessus.
+Ich glaube mein Schatz ist dort dru@uben... Aber wir mu@ussen uns den Weg durch dieses verdammte Schiff durchsprengen, um dranzukommen!
+Si no me equivoco mi tesoro tendri@ba que estar por alla@a... Pero tendremos que volar este maldito barco para poder pasar. 
+Me sembra che 'l tesoro sta de qua... Ma dovemo attraversa@g tutta la nave pe' prennerlo. 
+
+'Nother dad burned ship in the way o' me treasure... Wouldja mind blastin' this one too?
+Encore un aut' fichu bateau crame@a en plein sur le passage du tre@asor... C@Ca t'dirait de l'faire sauter ?
+Noch ein vermaledeites Schiff im Weg zu meinem Schatz... Ha@uttest Du was dagegen, das auch eben wegzupusten?
+Otro barco achicharrado en el camino hacia mi tesoro. @?Te importari@ba volar e@aste tambie@an? 
+N'artra nave tra li piedi... te dispiacerebbe brucia@g anche questa?
+
+Wouldja lookit that! Some fool hid a dang gum egg in me treasure.
+Jettes-y un coup d'=eil ! Y a un de@abile qu'a planque@a un fichu =euf dans mon tre@asor.
+Das ist ja unglaublich! Irgend so ein Narr hat ein blo@udes Ei in meinem Schatz versteckt.
+@!Mira eso! Algu@an estu@apido ha escondido uno de esos asquerosos huevos en mi tesoro.  
+Nun ce credo! Quarche scemo ha nascosto un ovo nel mio tesoro.
+
+
+=====
+
+
+Crazy Ed
+Ed le Fou
+Verru@uckter Eddy
+Ed el exce@antrico
+Ed il pazzo
+
+Dese here waters used to be my favorite divin' spot, but I can't get any loot with dese subs patrollin' around. Think you kin pilot dis here sub I bought for scrap? &Ride the sub? &Yes. &No.
+J'vais souvent y piquer une te@ite ici, mais j'peux pas chercher le tre@asor avec tous ces sous-marins en train de ratisser le coin. Tu peux p't-e@itre piloter ce truc que j'ai achete@a a@g la casse ? &Conduire le sous-marin ? &oui &non
+Diese Gewa@usser hier waren mein Lieblingsort zum Tauchen, aber ich kann keine Beute machen, wa@uhrend diese U-Boote hier patrouillieren. Glaubst Du, Du kannst dieses U-Boot hier steuern, das ich fu@ur'n Appel und 'n Ei gekauft habe? &U-Boot fahren? &Ja &Nein
+E@Aste era mi lugar preferido para ir a bucear, pero ahora con esos submarinos por aqui@b no puedo ir a buscar botines. Creo que tu@a podri@bas conducir este submarino que he comprado en la chatarreri@ba. &@?Quieres conducir el submarino? &Si@b. &No. 
+Qui ce venivo sempre a fa' li tuffi ma non riesco a prendere nulla coi sottomarini che stanno in pattuglia. Che te va de pilota@g 'sto sottomarino qui? &Piloti il sottomarino? &Si@h &No   
+
+Alrighty then. Press the < button to speed on up, and when you get a sub in your sights, the torpedo will start to lock on. If you get a good lock-on, fire away with the { button. &[Press < to speed up. &[Wait for red circles to lock on. &[Fire with { button!
+Parfait. Appuie sur la touche < pour acce@ale@arer, et quand un sous-marin est dans les parages, la torpille s'aligne sur la cible. Si elle est correctement aligne@ae, appuie sur la touche { pour torpiller. &[Appuie sur la touche < pour acce@ale@arer &[Attends que les cercles soient rouges pour aligner &[Tire avec la touche { !
+In Ordnung. Dru@uck die <-Taste, um zu beschleunigen, und wenn ein U-Boot in Sicht kommt, stellt sich das Torpedo ein. Wenn Du es genau im Visier hast, schie@S mit der {-Taste. &[Dru@uck die <-Taste zum Beschleunigen. &[Warte, bis sich die roten { einstellen. &[Schie@S mit der {-Taste.
+Perfecto. Pulsa el boto@an < para acelerar y cuando tengas submarinos a la vista, el torpedo empezara@a a apuntar. Si consigues un buen blanco, dispara con el boto@an {. &[Pulsa < para acelerar. &[Espera a que aparezcan los ci@brculos rojos para apuntar. &[Dispara con el boto@an {.
+Perfetto. Premi il tasto < per accelerare e, quando vedi un sottomarino, la torpedine iniziera@g a puntare. Se ottieni un buon puntamento, spara premendo il tasto {. &[Premi < per accelerare &[Aspetta che il { rosso punti il bersaglio &[Spara con il tasto {!
+
+Ah, dad gum, I gis I'll hafta git it workin' muhself.
+Ah, fichtre, va falloir que j'me de@abrouille moi-me@ime.
+Oh verdammt, dann mu@S ich es wohl selber machen.
+Oh, inu@atil, tendre@a que ponerlo en marcha yo mismo. 
+Che me possino... mi sa che me devo arrangia@g da solo.
+
+Well, I'll be durned! You've got some mean sub-drivin' skills. Why don't you 'ave dis here egg as a re-ward.
+J'crois que j'suis fichu! Tu t'de@abrouilles pluto@it pas mal en conduite de sous-marin. C@Ca t'dirait d'avoir cet =euf en re@acompense ?
+Wahnsinn! Du bist ein richtig guter U-Boot-Fahrer. Nimm doch dieses Ei hier als Belohnung.
+@!Guau, que@a sorpresa! Eres un fanta@astico conductor de submarinos. Toma, que@adate este huevo como recompensa. 
+Beh, che me possino ceca@g! Sei bravo a nota@g. Tie@g, prendi 'st'ovo come ricompensa. 
+
+Hoooohoooo, at last, the acid lake is safe fer swimmin' agin'! I wish I could re-ward ya better, but all I gots left is dis 'ere other egg. Maybe dere'll be something better in dis one.
+Hoooohoooo, enfin, le lac acide est redevenu su@ir pour aller nager ! J'aimerais mieux te re@acompenser, mais tout ce que j'ai, c'est c't =euf. Y aura p't-e@itre que'que-chose de mieux la@g-dedans.
+Juchhu, endlich kann man im Sa@uuresee wieder schwimmen gehen! Ich wu@unschte, ich ko@unnte mich besser erkenntlich zeigen, aber alles, was ich habe, ist dieses Ei. Vielleicht ist in dem was Besseres drin.
+@!Yuju!, por fin voy a poder volver a nadar en el lago a@acido sin peligro. Me gustari@ba pagarte mejor, pero lo u@anico que tengo es este otro huevo. Quiza@a e@aste contenga algo mejor.
+Hoooohoooo, almeno se po' nota@g de novo nel lago! Vorrei ringraziatte mejo, ma tutto quel che c'ho e@g 'st'artro ovo. Magari c'e@g trovi una sorpresa piu@g bella in questo. 
+
+Well, I hate t' ask yer help again, but dere be even more subs that durn come outta nowheres. If you could blast 'em, I could use dis acid lake as muh swimmin' hole again. &Blast some more subs? &Yes. &No.
+C'est pas que j'aime redemander, mais i' risque d'y avoir d'autres fichus sous-marins venant de che@a pas ou@g. Si tu les fais sauter, j'pourrais renager dans ce fichu trou. &Faire exploser d'autres sous-marins ? &oui &non
+Ich bitte Dich nicht gern schon wieder um Hilfe, aber da sind noch mehr U-Boote, die wie aus dem Nichts aufgetaucht sind. Wenn Du sie wegpusten ko@unntest, ko@unnte ich in diesem Sa@uuresee wieder schwimmen gehen. &Noch mehr U-Boote wegpusten? &Ja &Nein
+Siento de verdad volver a pedirte ayuda, pero cada vez hay ma@as submarinos y no se@a de do@ande pueden salir. Si consiguieras volarlos, podri@ba volver a nadar en el lago a@acido. &@?Quieres volar ma@as submarinos? &Si@b. &No. 
+Beh, me scoccia chiederte de novo 'na mano, ma ce stanno artri sottomarini che vengono fuori dal nulla. Se li distruggi, potrei usa' er lago de novo pe' fa li tuffi. &Distruggi altri sottomarini? &Si@h &No
+
+Darn tootin'! Git on little dragon! &[Press < to speed up. &[Wait for red circles to lock on. &[Fire with { button!
+Sapristi ! T'arre@ites pas, p'tit dragon ! &[Appuie sur la touche < pour acce@ale@arer &[Attends que les cercles soient rouges pour aligner &[Tire avec la touche { !
+Verdammich! Beeil Dich, kleiner Drache! &[Dru@uck die }-Taste zum Beschleunigen. &[Warte, bis sich die roten {e einstellen. &[Schie@S mit der {-Taste!
+@!Vamos, a por ellos, drago@an! &[Pulsa < para acelerar. &[Espera a que aparezcan los ci@brculos rojos para apuntar. &[Dispara con el boto@an {. 
+Accidenti, forza piccolo drago! &[Premi < per accelerare &[Aspetta che il { rosso punti il bersaglio &[Spara con il tasto {!
+
+Well, come back whenevers y' like.
+Il a qu'a@g repasser quand il veut.
+Nun, komm wieder, wann immer Du willst.
+Bueno, vuelve cuando quieras.
+Beh, torna quanno te pare.
+
+Ya kin ride the sub just for fun, if ya like. &Ride the sub for cheap thrills? &Yes. &No.
+Tu peux piloter c'te sous-marin pour passer un bon moment. &Piloter le sous-marin pour des sensations fortes et pas che@gres ? &oui &non
+Du kannst eine Spritztour mit dem U-Boot machen, wenn Du willst. &U-Boot nur zum Spa@S fahren? &Ja &Nein
+Puedes conducir el submarino por placer, si quieres. &@?Quieres conducir el submarino por diversio@an? &Si@b. &No. 
+Poi anna' sur sottomarino tanto pe divertitte, se te va. &Provi il brivido del sottomarino? &Si@h &No 
+
+Okey Dokey, take good care of 'er, y' here?
+D'ac-o-d'ac, prends-en bien soin ?
+Alles klar, pa@S gut auf sie auf, ho@urst Du?
+Vale, ten mucho cuidado por ahi@b.
+Vabbe', stamme bene, ok?
+
+Well, come back whenevers y' like.
+Il a qu'a@g repasser quand il veut.
+Nun, komm wieder, wann immer Du willst.
+Bueno, vuelve cuando quieras.
+Beh, torna quanno te pare.
+
+
+=====
+
+
+Awwwww, poor wittle dragon... did your friend go bye-bye? Now, now, don't worry... you'll soon be JOINING HIM!     -The Sorceress
+Ooooh, pauv' petit dwagon... ton ami est parti ? Allons, allons, pleure pas... tu le rejoindras TRES BIENTO@IT !      -La Sorcie@gre
+Oooh, armer kleiner Drache... hat Dein Freund Dich verlassen? Schon gut... Du wirst ihm bald GESELLSCHAFT LEISTEN!     -Die Zauberin
+Oooh, pobre dragoncito. @?Que@a pasa, tu amiguito se ha ido de paseo? Oh, no te preocupes... @!Pronto ESTARA@AS CON E@AL!     -La Bruja.
+Oooooh, povero piccolo drago... il tuo amico ha fatto ciao ciao? Bene, bene, non ti preoccupare... lo raggiungerai PRESTO!     -La maga
+
+Hunter
+Chasseur
+Ja@uger
+Cazador
+Hunter
+
+Spyro, you're just in time! A rhynoc skateboard gang has challenged us to a race. They said you're slower than a Molten Crater fire slug. I stuck up for you, though! I told them I've seen some pretty fast fire slugs.
+Spyro, t'arrives au bon moment ! Une bande de skaters rhinos nous ont mis au de@afi de faire une course. Ils disent que t'es plus lent qu'une limace de feu, mais je t'ai de@afendu ! Je leur ai dit que j'avais vu des petites limaces de feu pluto@it rapides.
+Spyro, Du kommst gerade rechtzeitig! Eine Horde Rhinoxe auf Skateboards hat uns zu einem Rennen herausgefordert. Sie haben gesagt, da@S Du langsamer bist als eine Feuerschnecke vom Schmelzkrater. Ich habe aber zu Dir gehalten! Ich habe geantwortet, da@S ich ein paar verdammt schnelle Feuerschnecken kenne.
+@!Justo a tiempo, Spyro! Una banda de patinadores rinoc nos ha retado a una carrera. Dicen que eres ma@as lento que una de esas babosas de fuego de los Cra@ateres de Lava. Tuve que sacar la cara por ti y decirles que habi@ba visto algunas babosas de fuego bastante ra@apidas.  
+Spyro, appena in tempo! Una gang di skater rinoc ci ha sfidati. Dicono che sei piu@g lento di una lumaca di fuoco di Cratere Fuso, ma io ti ho difeso! Gli ho detto che ho visto lumache di fuoco molto veloci. 
+
+So, are you ready to race these guys? They bet us an egg that you won't win! &Race the rhynocs? &Bring 'em on! &Some other time...
+Alors t'es pre@it pour faire la course avec eux ? Ils ont parie@a un =euf que tu ne gagneras pas ! &Courir avec les rhinos? &Fais les venir! &Un autre jour...
+Bist Du bereit, gegen diese Burschen anzutreten? Sie haben um ein Ei gewettet, da@S Du verlierst! &Rennen gegen die Rhinoxe? &Her mit ihnen! &Ein anderes Mal...
+@?Esta@as preparado para una carrera con esos tipos? Han apostado un huevo de drago@an a que no les ganamos. &@?Aceptas la carrera con los rinocs? &Claro. &En otro momento. 
+Allora? Pronto a sfidare questi ragazzi? Scommettono un uovo che non vincerai! &Sfidi i rinoc? &Fatevi sotto! &Un'altra volta...
+
+Right on! You can use my special racing board. Every time you do a trick, it builds up turbo charge. You can use your turbos at any time by pressing the > button. Good luck! &[Do tricks to get turbos. &[Use turbos by pressing the > button. &[Beat all rhynocs in 3 lap race.
+Tre@gs bien ! Tu peux utiliser ma planche de compet'. Chaque fois que tu fais un trick, cela recharge ton turbo. Tu peux utiliser le turbo a@g tout moment en appuyant sur la touche >. Bonne chance ! &[Fais des tricks pour charger le turbo &[Utilise le turbo en appuyant sur > &[Bats tous les rhinos en courant pendant 3 tours
+Super! Du kannst mein Spezial-Rennboard benutzen. Jedesmal, wenn Du einen Trick machst, springt der Turboantrieb an. Du kannst diesen Turbo jederzeit benutzen, indem Du die >-Taste dru@uckst. Viel Glu@uck! &[Mach Tricks, um Turbos zu bekommen. &[Benutze die Turbos, indem Du die >-Taste dru@uckst. &[Schlag alle Rhinoxe in einem Rennen u@uber 3 Runden.
+@!Esta@as listo! Puedes usar mi monopati@bn especial para carreras. Cada vez que hagas un movimiento, conseguira@as turbocarga. Puedes utilizar la turbocarga en cualquier momento si pulsas el boto@an >. @!Buena suerte! &[Realiza movimientos para conseguir turbocarga. &[Para utilizar la turbocarga, pulsa el boto@an >. &[Vence a todos los rinocs en una carrera de 3 vueltas.
+Ottimo! Puoi usare la mia tavola speciale da corsa. Ogni volta che fai una mossa, viene accumulata carica turbo. Puoi usare i turbo quando vuoi premendo il tasto >. Buona fortuna! &[Esegui i trick per prendere turbo &[Usa i turbo premendo il tasto > &[Sconfiggi tutti i rinoc in una gara di 3 giri.
+
+Awww, shucks... I thought you'd want to race 'em. Well, just come talk to me if you change your mind.
+Ohhh, flu@ite... Je pensais que tu voulais les battre a@g la course. Tu n'as qu'a@g venir me voir si tu changes d'avis.
+Oooh, ... undich dachte, Du wolltest ein Rennen gegen sie machen. Sag mir einfach Bescheid, wenn Du Deine Meinung a@underst.
+Ahh, vale... Crei@ba que queri@bas participar en la carrera. Bueno, si cambias de idea, ven a verme.
+Awww, che barba... credevo volessi sfidarli. Beh, torna da me se cambi idea.
+
+Sheesh, what happened? I could beat these guys with my tail tied behind my back! I hope you do better this time, or we'll never live it down... &Race the rhynocs? &Bring 'em on! &Some other time...
+Zut, qu'est-ce qui s'est passe@a ? Je pourrais battre ces types les yeux bande@as ! J'espe@gre que tu feras mieux cette fois ou on ne pourra jamais l'oublier... &Courir avec les rhinos? &Fais les venir! &Un autre jour...
+Huch, was ist passiert? Ich ko@unnte diese Typen selbst mit hinter dem Ru@ucken verknoteten Schwanz schlagen! Ich hoffe, Du bist na@uchstes Mal besser, oder man wird es uns noch in hundert Jahren vorhalten... &Rennen gegen die Rhinoxe? &Her mit ihnen! &Ein anderes Mal...
+Hey, @?que@a te pasa? Hasta yo podri@ba ganar a esos ti@bos con la cola atada a la espalda. Espero que esta vez lo hagas mejor; si no, nunca conseguiremos que dejen de tomarnos el pelo. &@?Aceptas la carrera con los rinocs? &Claro. &En otro momento.
+Ehi, che e@g successo? Potrei sconfiggere questi ragazzi con la coda legata dietro la schiena! Spero che facciate meglio questa volta, o noi non lo dimenticheremo mai... &Sfidi i rinoc? &Fatevi sotto! &Un'altra volta...
+
+Alright! Let 'em have it! &[Do tricks to get turbos. &[Use turbos by pressing the > button. &[Beat all rhynocs in 3 lap race.
+Tre@gs bien ! Laisse-les le prendre ! &[Fais des tricks pour charger le turbo &[Utilise le turbo en appuyant sur > &[Bats tous les rhinos en courant pendant 3 tours
+In Ordnung! Zeig's ihnen! &[Mach Tricks, um Turbos zu bekommen. &[Benutze die Turbos, indem Du die >-Taste dru@uckst. &[Schlag alle Rhinoxe in einem Rennen u@uber 3 Runden.
+@!Muy bien! @!Ellos se lo han buscado! &[Realiza movimientos para conseguir turbocarga. &[Para utilizar la turbocarga pulsa el boto@an >.&[Vence a todos los dragones en una carrera de 3 vueltas.
+Ottimo! Ci penso io! &[Esegui le mosse per prendere il turbo &[Usa i turbo premendo il tasto > &[Sconfiggi tutti i rinoc in una gara di 3 giri
+
+Awww, shucks... I thought you'd want to race 'em. Well, just come talk to me if you change your mind.
+Ohhh, flu@ite... Je pensais que tu voulais les battre a@g la course. Tu n'as qu'a@g venir me voir si tu changes d'avis.
+Oooh, ... undich dachte, Du wolltest ein Rennen gegen sie machen. Sag mir einfach Bescheid, wenn Du Deine Meinung a@underst.
+Ahh, vale... Crei@ba que queri@bas participar en la carrera. Bueno, si cambias de idea, ven a verme.
+Awww, che barba... credevo volessi sfidarli. Beh, torna da me se cambi idea.
+
+Yeeesss!! You schooled 'em like a bunch of dizzy, one-toed sand gnorcs! ... Oh yeah, I guess we won this egg, too.
+Ouiiii!! Tu leur as montre@a a@g ces gnorcs des sables e@acervele@as, a@g un doigt de pied ! ... Oh oui, on l'a bien gagne@a aussi cet =euf.
+Jaaa!! Du hast ihnen eine Lektion erteilt wie einem Haufen schwindliger, einzehiger Sand-Gnorcs! ... Ach ja, ich glaube, wir haben auch dieses Ei gewonnen.
+@!Bravo! Les has dado una gran leccio@an, pareci@ban una pandilla de gnorcs cojos y mareados. Oh, si@b, creo que tambie@an hemos ganado este huevo. 
+Wooow!! Gli hai dato proprio una bella lezione! ... Oh si@h, credo che abbiamo pure vinto questo bell'ovetto.
+
+Now that the rhynocs are gone, do you want to try a real challenge? I know you're fast, but I bet you can't defeat all the crabs on the course and still beat me in a race! Want to give it a shot? &Accept Hunter's challenge? &You're on, pal! &No dice...
+C@Ca y est, les rhinos sont partis. Est-ce que tu veux essayer de relever un vrai de@afi ? Je sais que t'es rapide, mais je parie que tu ne peux pas battre a@g la fois tous les crabes sur le circuit et me battre a@g la course ! C@Ca te dit d'essayer? &Accepter le de@afi du Chasseur ? &D'accord, c@ca roule mec ! &Pas question...
+Da die Rhinoxe jetzt weg sind, willst Du eine echte Herausforderung bestehen? Ich wei@S, da@S Du schnell bist, aber ich wette, da@S Du nicht alle Krebse auf diesem Kurs schlagen kannst und mich auch noch in einem Rennen schla@ugst! Willst Du es probieren? &Ja@ugers Herausforderung annehmen? &Abgemacht, Kumpel! &Ist nicht drin...
+Ahora que ya se han ido los rinocs, @?que@a tal si afrontas un reto de verdad? Ya se@a que eres muy ra@apido pero, te apuesto lo que quieras a que no eres capaz de vencer a todos esos cangrejos durante el recorrido y adema@as, ganarme la carrera. @?Quieres intentarlo? &@?Aceptas el reto de Cazador? &@!Sin duda! &Ni hablar.
+Ora che i rinoc sono sistemati, vuoi partecipare a una vera sfida? So che sei veloce, ma scommetto che non puoi sconfiggere tutti i granchi sulla pista e battermi in una corsa! Vuoi provarci? &Accetti la sfida di Hunter? &Fatti sotto amico &Lasciamo perdere...
+
+Alright! Eat my skate-dust, sucker! &[Defeat all crabs on the course &[Beat Hunter in 3 lap race
+D'accord! Mange la poussie@gre de skate, nullard ! &[Bats tous les crabes sur la piste &[Bats Chasseur  en courant pendant 3 tours
+In Ordnung! Du siehst nur noch meinen Staub, Trottel! &[Schlag alle Krebse auf dem Rennkurs. Schlag Ja@uger in einem Rennen u@uber 3 Runden.
+@!Alla@a voy! @!Toma, zoquete, traga polvo! &[Vence a todos los cangrejos que hay en el recorrido. &[Gana a Cazador en una carrera de 3 vueltas.
+Bene! Mangia la mia polvere, perdente! &[Sconfiggi tutti i granchi sulla pista &[Sconfiggi Hunter in una gara di 3 giri
+
+Heh heh, what's the matter, getting chicken on me? Bwaaak bwaaak bwaaaaaak! Bwak bwaak bwak bwak bwaaaaaaaaaak!
+He@a he@a, c'est quoi le proble@gme, poule mouille@ae ? Couaaac couaaac couaaac couaaac ! Couaaac couaac couac couac couaaaaac !
+Ha ha, was ist los, kriegst Du Angst? Feigling, Feigling, Feigling!
+@!Hey!, @?que@a te pasa?, @?te doy miedo, gallina? @!Bua, bua, bua, bua! @!Bua, bua, bua, bua!
+Eh eh, qual e@g il problema, ti vuoi tirare indietro? Gnaaaaaa gnaaaaa gnaaaaaaaa!
+
+So, are you ready to take my challenge? &Accept Hunter's challenge? &You're on, pal! &No dice...
+Alors, tu es pre@it a@g relever le de@afi ? &Accepter le de@afi du Chasseur ? &D'accord, c@ca roule mec ! &Pas question...
+Bist Du bereit, meine Herausforderung anzunehmen? &Ja@ugers Herausforderung annehmen? &Abgemacht, Kumpel! &Ist nicht drin...
+@?Esta@as listo para el reto que te propongo? &@?Aceptas el reto de Cazador? &@!Sin duda! &Ni hablar.
+Allora, ti va di accettare la mia sfida? &Accetti la sfida di Hunter? &Fatti sotto amico &Lasciamo perdere...
+
+Alright! Eat my skate-dust, sucker! &[Defeat all crabs on the course &[Beat Hunter in 3 lap race
+D'accord! Mange la poussie@gre de skate, nullard ! &[Bats tous les crabes sur la piste &[Bats Chasseur en courant pendant 3 tours
+In Ordnung! Du siehst nur noch meinen Staub, Trottel! &[Schlag alle Krebse auf dem Rennkurs. Schlag Ja@uger in einem Rennen u@uber 3 Runden.
+@!Alla@a voy! @!Toma, zoquete, traga polvo! &[ Vence a todos los cangrejos que hay en el recorrido. &[Gana a Cazador en una carrera de 3 vueltas.
+Bene! Mangia la mia polvere, perdente! &[Sconfiggi tutti i granchi sulla pista &[Sconfiggi Hunter in una gara di 3 giri
+
+Heh heh, you're just chicken aren't you? Bwaaak bwaaak bwaaaaaak! Bwak bwaak bwak bwak bwaaaaaaaaaak!
+He@a he@a, c'est quoi le proble@gme, poule mouille@ae ? Couaaac couaaac couaaac couaaac ! Couaaac couaac couac couac couaaaaac !
+Ha ha, was ist los, bist Du ein Feigling? Feigling, Feigling, Feigling!
+@!Hey!, @?que@a te pasa?, @?te mueres de miedo? @!Bua, bua, bua, bua! @!Bua, bua, bua, bua!
+Eh, eh, sei solo un codardo, non e@g cosi@h?
+
+OK, you beat me Spyro, but you didn't get all the crabs. A dragon of your pedigree should really be able to do both!
+D'accord, tu m'as battu Spyro, mais tu n'as pas gagne@a  tous les crabes. Un dragon de ton gabarit devrait pouvoir faire les deux!
+OK, Du hast mich geschlagen, Spyro, aber Du hast nicht alle Krebse bekommen. Ein Drache Deiner Herkunft sollte wirklich beides schaffen!
+Esta@a bien, Spyro, me has ganado, pero no has conseguido atrapar todos los cangrejos. Un drago@an con tu pedigri@b deberi@ba ser capaz de conseguir las dos cosas. 
+OK, mi hai battuto Spyro, ma non hai preso tutti i granchi. Un drago con il tuo pedigree dovrebbe essere in grado di fare entrambe le cose!
+
+Woooohooo! I'm still the speed king of the world!
+Wouuuhouuu ! Je suis toujours le roi du monde !
+Juchhu! Ich bin immer noch der Schnellste der Welt!
+@!Guau! Sigo siendo el ma@as ra@apido del universo.
+Woooohooo! Sono sempre il piu@g veloce del mondo!
+
+Sheesh, I can't believe you beat me! You must have been practicing the whole time I thought you were looking for eggs... Hey, speaking of which, one of those crabs was guarding this one...
+Fichtre, je n'arrive pas a@g croire que tu m'aies battu ! Quand je pensais que tu ramassais des =eufs, t'e@atais en fait en train de t'entrai@jner... D'ailleurs, un de ces crabes gardait celui-ci...
+Verdammich, ich kann nicht glauben, da@S Du mich geschlagen hast! Du mu@St die ganze Zeit, in der ich dachte, da@S Du nach Eiern suchst, geu@ubt haben... Ach, wo wir gerade davon sprechen, einer der Krebse hat dieses Ei hier gehu@utet...
+@!Caramba, no puedo creer que me hayas ganado! Seguro que has estado practicando mientras yo crei@ba que estabas buscando huevos. @!Ah! Hablando de huevos, uno de los cangrejos teni@ba e@aste.
+Acc, non posso credere che mi hai battuto! Devi esserti allenato tutto il tempo mentre io credevo che tu cercassi le uova... Ehi, a proposito, uno di quei granchi stava proteggendo questo...
+
+You might be able to beat me at skateboarding, but I still get all the chicks.
+Tu peux peut-e@itre me battre au skate, mais c'est moi le plus populaire.
+Du magst mich vielleicht beim Skateboard-Fahren schlagen, aber ich kriege trotzdem immer noch alle Ma@udels.
+Puede que me ganes con el monopati@bn, pero al final soy yo el que se queda con las chicas.
+Potrai anche battermi sullo skate-board, ma con le ragazze sono ancora io il piu@g in gamba.
+
+NONE
+Gnasty Gnorc
+Half-pipe Leap
+Triple Towers
+Quint Front Flip
+Quint Roll Left
+Big Gulp
+Quint Back Flip
+Quint Roll Right
+Orange Crush
+Single Front Flip
+Double Front Flip
+Triple Front Flip
+Quad Front Flip
+Single Roll Left
+Double Roll Left
+Triple Roll Left
+Dr. Shemp
+Single Spin Left
+Double Spin Left
+Triple Spin Left
+Gulp
+Single Back Flip
+Double Back Flip
+Triple Back Flip
+Quad Back Flip
+Single Roll Right
+Double Roll Right
+Triple Roll Right
+Toasty Twist
+Single Spin Right
+Double Spin Right
+Triple Spin Right
+Crush
+Twisted Lemon
+Twisted Lemon x 2
+Twisted Lemon x 3
+Thrash Master
+Twisted Lime
+Double Twisted Lime
+Triple Twisted Lime
+Super Thrash Master
+Raging Ripto
+
+AUCUN
+Truffe de Gnorc
+Demi-tonneau
+Triples Tours
+5x flip avant
+5x demi-tour a@g gauche
+5x tour a@g gauche
+5x flip arrie@gre
+5x demi-tour a@g droite
+5x tour a@g droite
+Flip avant simple
+Double flip avant
+Triple flip avant
+4x flip avant
+1x demi-tour a@g gauche
+2x demi-tour a@g gauche
+3x demi-tour a@g gauche
+4x demi-tour a@g gauche
+Tour simple gauche
+Double tour gauche
+Triple tour gauche
+4x tour gauche
+Flip arrie@gre simple
+Double flip arrie@gre
+Triple flip arrie@gre
+4x flip arrie@gre
+1x demi-tour a@g droite
+2x demi-tour a@g droite
+3x demi-tour a@g droite
+4x demi-tour a@g droite
+Tour simple droite
+Double tour droite
+Triple tour droite
+4x tour droite
+Citron presse@a
+2x Citron presse@a
+3x Citron presse@a
+Mai@jtre Supre@ime
+Lime presse@ae
+Double Lime presse@ae
+Triple Lime presse@ae
+SuperMai@jtre Supre@ime
+Ripto la Terreur
+
+NICHTS
+Gnasty Gnorc
+Half-Pipe-Sprung
+Dreifach-Tu@urme
+5x Flip vorwa@urts
+5x Rolle links
+5x Spin links
+5x Flip ru@uckwa@urts
+5x Rolle rechts
+5x Spin rechts
+1x Flip vorwa@urts
+2x Flip vorwa@urts
+3x Flip vorwa@urts
+4x Flip vorwa@urts
+1x Rolle links
+2x Rolle links
+3x Rolle links
+4x Rolle links
+1x Spin links
+2x Spin links
+3x Spin links
+4x Spin links
+1x Flip ru@uckwa@urts
+2x Flip ru@uckwa@urts
+3x Flip ru@uckwa@urts
+4x Flip ru@uckwa@urts
+1x Rolle rechts
+2x Rolle rechts
+3x Rolle rechts
+4x Rolle rechts
+1x Spin rechts
+2x Spin rechts
+3x Spin rechts
+4x Spin rechts
+Gepresste Zitrone
+2x gepr. Zitrone
+3x gepr. Zitrone
+Thrash Master
+Gedrehte Limone
+2x gedrehte Limone
+3x gedrehte Limone
+Super Thrash Master
+Tobender Ripto
+
+NINGUNO
+Gnasty Gnorc
+Salto de medio tubo
+Torres triples
+Voltereta izda. x5
+Pirueta izda. x5
+Giro izquierdo x5
+Voltereta atra@as x5
+Pirueta derecha x5
+Giro derecho x5
+Volt. adelante x1
+Volt. adelante x2
+Volt. adelante x3
+Volt. adelante x4
+Pirueta izda. x1
+Pirueta izda. x2
+Pirueta izda. x3
+Pirueta izda. x4
+Giro izquierdo x1
+Giro izquierdo x2
+Giro izquierdo x3
+Giro izquierdo x4
+Voltereta atra@as x1
+Voltereta atra@as x2
+Voltereta atra@as x3
+Voltereta atra@as x4
+Pirueta derecha x1
+Pirueta derecha x2
+Pirueta derecha x3
+Pirueta derecha x4
+Giro derecho x1
+Giro derecho x2
+Giro derecho x3
+Giro derecho x4
+Limo@an exprimido
+Limo@an exprimido x2
+Limo@an exprimido x3
+Contorsio@an maestra
+Lima exprimida
+Lima exprimida x2
+Lima exprimida x3
+Cont. su@apermaestra
+Furia de Ripto
+
+NESSUNO
+Gnasty Gnorc
+Salto Half-pipe
+X3 Towers
+X5 Flip Frontale
+X5 Roll A Sinistra
+X5 Spin A Sinistra
+X5 Flip Indietro
+X5 Roll A Destra
+X5 Spin A Destra
+Flip X1 Frontale
+X2 Flip Frontale
+X3 Flip Frontale
+X4 Flip Frontale
+Roll X1 A Sinistra
+X2 Roll A Sinistra
+X3 Roll A Sinistra
+X4 Roll A Sinistra
+Spin X1 A Sinistra
+X2 Spin A Sinistra
+X3 Spin A Sinistra
+X4 Spin A Sinistra
+Flip X1 Indietro
+X2 Flip Indietro
+X3 Flip Indietro
+X4 Flip Indietro
+Roll X1 A Destra
+X2 Roll A Destra
+X3 Roll A Destra
+X4 Roll A Destra
+Spin X1 A Destra
+X2 Spin A Destra
+X3 Spin A Destra
+X4 Spin A Destra
+Twisted Lemon
+X2 Twisted Lemon
+X3 Twisted Lemon
+Thrash Master
+Twisted Lime
+X2 Twisted Lime
+X3 Twisted Lime
+Super Thrash Master
+Raging Ripto

@@ -1,0 +1,289 @@
+106: Seashell Shore
+
+Zoe
+Zoe@a
+Zoe
+Zoe
+Zoe
+
+You can Hover to get more distance when gliding. Just press the } button at the end of your glide. &[Press } button at the end of your glide to get more distance.
+Tu peux papillonner pour essayer de planer le plus loin possible. Appuie simplement sur la touche } quand tu as fini de planer. &[Appuie sur la touche } quand tu as fini de planer pour gagner de la distance.
+Durch Schweben kommst Du nach dem Gleiten weiter. Dru@uck einfach die }-Taste am Ende Deines Gleitflugs. &[Dru@uck die }-Taste am Ende Deines Gleitflugs, um weiter zu kommen.
+Para poder mantenerte en el aire y asi@b llegar ma@as lejos cuando vueles, pulsa el boto@an } al final del vuelo. &[Pulsa el boto@an } al final del vuelo para llegar ma@as lejos.
+Quando sei in volo, puoi librarti per andare piu@g lontano. Premi il tasto } al termine del volo. &[Premi il tasto } alla fine del volo per andare piu@g lontano.
+
+Zoe
+Zoe@a
+Zoe
+Zoe
+Zoe
+
+If you want a quick summary of your progress in a world, you can press the @4SELECT@0 button to open the Atlas page for the world you are in. &[Press @0SELECT@4 button to view Atlas.
+Pour obtenir un rapide re@asume@a de ta progression, appuie sur le bouton Select pour ouvrir l'Atlas a@g la page du monde ou@g tu te trouves. &[Appuie sur la touche Select pour visualiser l'Atlas.
+Wenn Du eine kurze Zusammenfassung u@uber Deinen Fortschritt in einer Welt haben willst, kannst Du die SELECT-Taste dru@ucken. Damit o@uffnest Du den Atlas auf der Seite der Welt, in der Du Dich befindest. &[Dru@uck die SELECT-Taste, um den Atlas anzuzeigen.
+Si quieres ver un resumen de tu progreso en uno de los mundos, pulsa el boto@an Select para que se abra la pa@agina del Atlas del mundo en el que esta@as. &[Pulsa el boto@an Select para consultar el Atlas.
+Se vuoi visualizzare un veloce riepilogo del tuo progresso in un mondo, premendo il tasto SELECT verra@g aperta la pagina dell'atlante relativa al mondo in cui ti trovi &[ Premi il tasto SELECT per visualizzare l'atlante.
+
+Sebastian the Seal
+FanFan le Phoque
+Sebastian der Seehund
+Filomeno la foca
+Sebastian la foca
+
+While I was gone, my friends borrowed the rhynocs' submarine... then they took it for a joy ride... and then they smashed it into a big pile of rocks. Oddly enough, the rhynocs failed to see the humor in the story and stuffed my friends in the jail behind you.
+Pendant mon absence, mes amis ont emprunte@a le sous-marin des rhinos... puis ils ont fait une vire@ae avec... mais ils ont percute@a un gros rocher. A ma grande surprise, les rhinos ne l'ont pas bien pris du tout et ils les ont mis au frais.
+Wa@uhrend ich weg war, haben meine Freunde sich das U-Boot der Rhinoxe ausgeliehen... Dann haben sie eine Spritztour damit gemacht... Und dann sind sie damit in einen Haufen Steine gekracht. Komischerweise fanden die Rhinoxe das nicht so lustig und haben meine Freunde in das Gefa@ungnis da hinter Dir gesperrt.
+Mientras estaba fuera, mis amigos cogieron prestado el submarino de los rinocs, se fueron a dar una vuelta y... lo estrellaron contra unas rocas. Curiosamente, a los rinocs no les ha hecho demasiada gracia la historia y han metido a mis amigos en la ca@arcel que hay detra@as de ti.
+Mentre non c'ero i miei amici hanno preso il sottomarino dei rinoc... Sono andati a farsi un giretto... e si sono schiantati contro un grande cumulo di pietre. Stranamente i rinoc non sono riusciti a vedere il lato buffo della cosa e hanno sbattuto i miei amici nella prigione alle tue spalle.
+
+The rhynocs have boarded up a lot of our doors, but I bet you're strong enough to smash them down. &[Use charge to smash boards.
+Les rhinos ont condamne@a la plupart de nos portes, mais je parie que t'es assez fort pour les enfoncer. &[Charge pour enfoncer les portes.
+Die Rhinoxe haben viele der Tu@uren mit Brettern verbarrikadiert, aber ich wette, da@S Du stark genug bist, sie zu zerschmettern. &[Renn gegen die Bretter, um sie zu zerschmettern.
+Los rinocs han tapiado la mayori@ba de nuestras puertas con tablas, pero estoy seguro de que eres suficientemente fuerte para echarlas abajo. &[Utiliza la embestida para derribar las tablas.
+I rinoc hanno sprangato molte delle nostre porte, ma scommetto che sei abbastanza forte per abbatterle. &[Usa la carica per abbattere le porte.
+
+Stanley the Seal
+Ferdinand le Phoque
+Stanley der Seehund
+Filemo@an la foca
+Stanley la foca
+
+My plan worked! That dumb octopus dropped the jail key while he was shaking me! Now I can free my friends...
+Mon plan a marche@a ! Cette pieuvre de@abile a fait tomber la cle@a de la prison pendant qu'elle me secouait ! Je peux enfin libe@arer mes amis...
+Mein Plan hat funktioniert! Dieser dumme Tintenfisch hat die Gefa@ungnisschlu@ussel fallenlassen, als er mich geschu@uttelt hat! Jetzt kann ich meine Freunde befreien...
+@!Mi plan ha funcionado! A ese pulpo estu@apido se le ha cai@bdo la llave de la ca@arcel mientras me sacudi@ba. Ahora puedo liberar a mis amigos.
+Il mio piano ha funzionato! Quella stupida piovra ha fatto cadere la chiave della prigione mentre mi stava stritolando! Ora posso liberare i miei amici...
+
+Oh, I forgot to tell you... one of the rhynocs had this egg in his lunch box...
+Oh, j'allais oublier de te dire... un des rhinos avait cet =euf dans son panier a@g provisions...
+Oh, das wollte ich Dir noch sagen... einer der Rhinoxe hatte dieses Ei in seiner Brotdose...
+Huy, se me olvidaba decirte que uno de los rinocs teni@ba este huevo en su mochila.
+Oh, dimenticavo... nel cestino del pranzo di uno dei rinoc ho trovato quest'uovo...
+
+Dear Dragon: If you're looking for that kangaroo, I'm afraid she's not available... EVER!\      -The Sorceress
+Cher Dragon : Si tu cherches ta copine kangourou, je pense que tu devrais remettre votre rendez-vous... A JAMAIS !\      -La Sorcie@gre
+Lieber Drache: Wenn Du nach dem Ka@unguruh suchst, fu@urchte ich, da@S sie keine Zeit hat... NIE WIEDER!\      -Die Zauberin
+Querido drago@an: Si buscas a la canguro, me temo que no esta@a... @!NI ESTARA@A JAMA@AS!\      -La Bruja.
+Caro drago: se stai cercando quel canguro, sono sicura che non e@g disponibile...mai piu@g!\       -La maga
+
+I'm still back in my home world with my goat friends. Come on over if you like.\          -Sheila
+Je suis toujours dans mon monde avec mes amies les che@gvres. Viens nous rejoindre si tu veux.\          -Sheila
+Ich bin immer noch bei meinen Ziegenfreunden in meiner Heimatwelt. Komm doch vorbei, wenn Du mo@uchtest.\          -Sheila
+Sigo en mi mundo con mis amigas las cabras. Ven cuando quieras.\          -Sheila.
+Sono tornato nel mio mondo con le mie amiche capre. Vieni se vuoi.\         -Sheila
+
+Come on in!\     -Sheila
+Entre donc !\     -Sheila
+Komm rein!\     -Sheila
+@!Vamos, ven!\     -Sheila.
+Vieni!\     -Sheila
+
+Sigmund the Seal
+Fripouille le Phoque
+Sigmund der Seehund
+Faustino la foca
+Sigmund the Seal
+
+I can't wait until the rhynocs build a new submarine! Next time it's my turn to drive!
+Vivement que les rhinos construisent un nouveau sous-marin ! La prochaine fois, c'est moi qui conduis !
+Ich kann's kaum erwarten, da@S die Rhinoxe ein neues U-Boot bauen. Na@uchstes Mal bin ich dran mit Fahren!
+Estoy deseando que los rinocs construyan un nuevo submarino, @!la pro@axima vez me toca conducir a mi@b!
+Non vedo l'ora che i rinoc costruiscano un nuovo sottomarino! La prossima volta guido io!
+
+Sal the Seal
+Fil le Phoque
+Sal der Seehund
+Fernando la foca
+Sal la foca
+
+Driving that submarine was a blast! Next time we're going to borrow the rhynocs' speed boat!
+La conduite du sous-marin e@atait trop puissante! La prochaine fois, on empruntera le hors-bord des rhinos !
+Die Fahrt mit dem U-Boot war ein Riesenspa@S! Na@uchstes Mal leihen wir uns das Schnellboot der Rhinoxe!
+Es una pasada conducir ese submarino. La pro@axima vez nos haremos con la lancha ra@apida de los rinocs.
+Guidare il sottomarino e@g stato uno sballo! La prossima volta prendiamo il motoscafo dei rinoc!
+
+Stu the Seal
+Freddy le Phoque
+Stuart der Seehund
+Felipe la foca
+Stu la foca
+
+We never would have crashed that submarine if Sal hadn't tried that hand-brake u-turn during an inverted barrel roll.
+On n'aurait jamais de@amoli  ce sous-marin si Sal n'avait pas essaye@a de faire un de@arapage contro@ile@a  pendant un tonneau retourne@a.
+Dieser Unfall mit dem U-Boot wa@ure nie passiert, wenn Siegfried nicht versucht ha@utte, wa@uhrend einer umgedrehten Fa@Srolle eine 180-Wende hinzulegen.
+No nos hubie@asemos estrellado con el submarino si Sal no hubiese intentado hacer un trompo con el freno de mano justo cuando gira@abamos a toda velocidad.  
+Non avremmo mai distrutto quel sottomarino se Sal non avesse fatto un'inversione a U con il freno a mano durante una vite orizzontale inversa.
+
+
+=====
+
+
+Snappy the Seal
+Fe@alix le Phoque
+Snappy der Seehund
+Federico la foca
+Snappy la foca
+
+Hi, Sheila! The rhynocs have built a fortress on our beach and we're going to blow it to smithereens! We just need you to take out all the turrets for us. We're lighting the bomb now, just make sure to stomp all those turrets before the fuse runs out, OK?
+Salut Sheila ! Les rhinos ont ba@iti une forteresse sur notre plage et on va la re@aduire en miettes ! Il faut d'abord se de@abarrasser de toutes les tourelles. Allumons la bombe maintenant, mais il faut bondir sur les tourelles avant qu'elle n'explose . C'est clair?
+Hi, Sheila! Die Rhinoxe haben auf unserem Strand eine Festung gebaut. Die werden wir zu Kleinholz machen! Du mu@St nur die Ecktu@urme fu@ur uns u@ubernehmen. Wir zu@unden jetzt die Bombe. Sorg dafu@ur, da@S Du alle Ecktu@urme mit einem Kopfsto@S zersto@urst, bevor die Lunte zu Ende ist, OK?
+@!Hola, Sheila! Los rinocs han construido una fortaleza en nuestra playa y la vamos a hacer estallar. So@alo necesitamos que destruyas las torres. Acabamos de encender la mecha, asegu@arate de derribar las torres antes de que estalle la bomba. 
+Ciao Sheila! Raderemo al suolo la fortezza che i rinoc hanno costruito sulla nostra spiaggia! Ti chiediamo solo di distruggere le torrette. Adesso inneschiamo la bomba, abbatti le torrette prima che la miccia finisca, OK?
+
+Wow! I can't believe I survived that blast! It's a good thing I kept this egg nice and safe in my pocket.
+Ouah ! Je n'y crois pas. J'ai surve@acu a@g l'explosion! Heureusement que j'ai garde@a cet =euf en lieu su@ir dans ma poche.
+Wow! Ich kann nicht glauben, da@S ich diesen Knall u@uberlebt habe! Wie gut, da@S ich dieses Ei scho@un sicher in meiner Tasche hatte.
+@!Guau, increi@bble! @!He sobrevivido a la explosio@an! Me alegro de que el huevo que llevaba en el bolsillo este@a sano y salvo.
+Wow! Non posso credere di essere sopravvissuta all'esplosione! Meno male che l'uovo che tenevo in tasca e@g ancora sano e salvo.
+
+Ready to try stomping the turrets again? &Try again? &Yes &No
+Pre@ite a@g bondir sur les tourelles ? &Re@aessayer ? &Oui &Non
+Bereit, die Ecktu@urme noch mal mit einem Kopfsto@S zu zersto@uren? &Noch mal versuchen? &Ja &Nein
+@?Esta@as preparada para derribar las torres de nuevo? &Si@b. &No.
+Pronta a distruggere le torrette? &Vuoi riprovare? &Si@h &No
+
+Yippee! I'll light the fuse on the next bomb! &[Stomp all turrets before bomb explodes.
+Ge@anial ! C'est moi qui allumerai la prochaine bombe ! &[De@abarrasse-toi des tourelles avant que la bombe n'explose.
+Jippieh!! Ich zu@unde die Lunte der na@uchsten Bombe an! &[Zersto@ure alle Ecktu@urme mit einem Kopfsto@S, bevor die Bombe explodiert.
+@!Hurra! Voy a encender la mecha de la siguiente bomba. &[Derriba todas las torres antes de que estalle la bomba.
+Yippee! Accendero@g la miccia della prossima bomba! &[Distruggi tutte le torrette prima che la bomba esploda.
+
+No problem. We'll be playing hot potato with this bomb until you come back.
+Pas de proble@gme. On jonglera avec cette bombe jusqu'a@g ton retour. 
+Kein Problem. Ich werde mit der Bombe jonglieren, bis Du wieder da bist.
+No importa, estaremos jugando a pasarnos la bomba hasta que vuelvas.
+Nessun problema. Giocheremo alla patata bollente con questa bomba fino a quando non ritorni.
+
+Owww... That really smarts... No problem though, we've got more bombs!!!
+Ohhh... Zut alors !... Pas de proble@gme, on a encore plein de bombes !!!
+Auuu... Das tut echt weh... Macht aber nichts, wir haben noch mehr Bomben!!!
+Ayy, eso ha dolido. No importa, @!todavi@ba quedan ma@as bombas!
+Nooo... Brutta storia... Nessun problema comunque, abbiamo altre bombe!!!
+
+Sandy the Seal
+Fabien le Phoque
+Sandy der Seehund
+Facundo la foca
+Sandy la foca
+
+Our beach is your beach.
+Notre plage est la tienne.
+Unser Strand ist Dein Strand.
+Nuestra playa es tu playa.
+La nostra spiaggia e@g la tua spiaggia.
+
+Slappy the Seal
+Fre@ado le Phoque
+Sammy der Seehund
+Francisco la foca
+Slappy la foca
+
+Stay and get a tan, if you like.
+T'as qu'a@g rester  te dorer la pilule si tu veux.
+Bleib hier, und sonn Dich ein bi@Schen, wenn Du willst.
+Puedes quedarte a tomar el sol, si quieres.
+Rimani e prendi un po' di sole se ti va.
+
+Sheila
+Sheila le Kangourou
+Sheila
+Sheila
+Sheila
+
+Oh, hi, Spyro! Some of my seal friends are trying to take down a rhynoc fortress! I'm about to go and lend a foot... I love the smell of singed rhynoc in the morning!
+Oh, salut, Spyro ! Certains de mes amis phoques tentent d'assie@ager une forteresse de rhinos ! Je vais aller leur donner un coup de patte... J'adore l'odeur du rhino grille@a le matin !
+Oh, hi, Spyro! Einige meiner Seehundfreunde versuchen, eine Rhinox-Festung zu zersto@uren! Ich will auch hin und mithelfen... Ich liebe den Duft angesengter Rhinoxe am Morgen!
+@!Hola, Spyro! Algunas de nuestras amigas, las focas, esta@an intentando derribar una fortaleza de los rinocs. Voy a ir a echarles una mano. @!Me encanta el olor de rinoc chamuscado por las man@tanas! 
+Oh, ciao Spyro! Le mie amiche foche stanno cercando di distruggere una fortezza dei rinoc. Io vorrei dargli una zampa ... Adoro l'aroma dei rinoc tostati al mattino!
+
+
+=====
+
+
+Smelt the Seal
+Fe@alicien le Phoque
+Smelt der Seehund
+Fabio la foca
+Smelt la foca
+
+Bluto the rhynoc has challenged us to a naval battle. Our speed boat versus his nuclear shark submarine. If we win, we get the dragon egg he's guarding. If we lose, we have to spend a month in K.P.
+Bluto le rhino nous a mis au de@afi de faire une bataille navale. Notre hors-bord contre leur sous-marin atomique, le requin. Si on gagne, il nous donne l'=euf qu'il de@atient. Si on perd, on sera de corve@ae de patates pendant un mois.
+Bluto der Rhinox hat uns zu einer Seeschlacht herausgefordert. Unser Schnellboot gegen sein nukleares Hai-U-Boot. Wenn wir gewinnen, bekommen wir das Drachenei, das er bewacht. Wenn wir verlieren, mu@ussen wir einen Monat Ku@uchendienst machen.
+Bluto el rinoc nos ha desafiado a una batalla naval. Nuestra lancha motora contra su submarino nuclear. Si ganamos, conseguiremos el huevo que guarda. Si perdemos, tendremos que estar un mes pelando patatas.
+Bluto il rinoc ci ha sfidati a una battaglia navale. Il nostro motoscafo contro il suo sottomarino nucleare. Se vinciamo, avremo l'uovo di drago che sta sorvegliando. Se perdiamo, dovremo fare un mese di servizio mensa.
+
+Whaddya say, do you want to take on Bluto? &Fight the nuclear shark sub? &Yeehah! &You gotta be kidding.
+Tu dis quoi? C@Ca te botte de relever le de@afi de Bluto? &Se battre contre  le sous-marin nucle@aaire, le requin ? &Ouaiiiis ! &Tu plaisantes.
+Was sagst Du dazu? Willst du gegen Bluto antreten? & Gegen das nukleare Hai-U-Boot antreten? &Jawohl! &Du machst wohl Witze.
+@?Quieres aceptar el desafi@bo de Bluto? &@?Quieres competir con el submarino nuclear? &Claro. &@!Esta@as de broma!
+Beh, allora? Vuoi affrontare Bluto? &Combatti contro il sottomarino nucleare? &Si@hi@hi@h! &Stai scherzando, vero?
+
+OK, good luck! Just remember, stay away from the sharp end! &[Press the < button to speed up. &[Press the { Button to fire a missile. &[Pick up crates to get more missiles.
+D'accord, bonne chance ! N'oublie pas de rester a@g l'e@acart du bout tranchant ! &[Appuie sur la touche < pour acce@ale@arer. &[Appuie sur la touche { pour lancer un missile. &[Ramasse des caisses pour obtenir plus de missiles.
+OK, viel Glu@uck! Aber denk dran, Dich vom scharfen Ende fernzuhalten! &[Dru@uck die <-Taste, um zu beschleunigen. &[Dru@uck die {-Taste, um eine Rakete abzuschie@Sen. &[Sammle Kisten, um mehr Raketen zu bekommen.
+@!Buena suerte! Recuerda una cosa, mante@ante lejos de la fosa. &[Pulsa el boto@an < para acelerar. &[Pulsa el boto@an { para lanzar un misil. &[Recoge las cajas para obtener ma@as misiles.
+OK, buona fortuna! Ricorda, stai alla larga dal lato affilato! &[Premi il tasto < per accelerare, &[Premi il tasto { per sparare un missile. &[Raccogli le casse per prendere piu@g munizioni. 
+
+I don't blame you. I already owe seven years of kitchen duty, and I'm not about to risk getting another month!
+Je ne t'en veux pas. Je dois de@aja@g sept ans de corve@ae et j'ai pas envie de me coller un autre mois sur le dos !
+Ich nehm's Dir nicht u@ubel. Ich schulde schon sieben Jahre Ku@uchendienst und will nicht noch einen Monat riskieren!
+No te culpo. Yo ya tengo que pasar siete an@tos pelando patatas y no pienso arriesgarme a estar un mes ma@as. 
+Non ti biasimo. Io devo ancora scontare sette anni di servizio mensa e non voglio rischiare di beccarmene un altro mese!
+
+Wow! That's the first time Bluto has ever lost! You've got a lot of talent for someone so purple... I hope this egg was worth all the trouble.
+Ouah ! C'est la premie@gre fois que Bluto s'est fait battre ! Sous cette peau violette se cache un ge@anie... J'espe@gre que cet =euf en valait la chandelle.
+Wow! Das ist das erste Mal, da@S Bluto verloren hat! Du hast ganz scho@un viel Talent fu@ur jemanden, der so lila ist... Ich hoffe, dieses Ei ist den ganzen A@Urger wert.
+@!Guau, es la primera vez que Bluto pierde! Tienes mucho talento para ser tan violeta. Espero que este huevo merezca tantos esfuerzos. 
+Wow! E@G la prima volta che Bluto viene sconfitto! Hai molta stoffa per un essere cosi@h... viola. Spero che quest'uovo sia una gradita ricompensa.
+
+
+=====
+
+
+Sebastian the Seal
+FanFan le Phoque
+Sebastian der Seehund
+Filomeno la foca
+Sebastian la foca
+
+While I was gone, my friends borrowed the rhynocs' submarine... then they took it for a joy ride... and then they smashed it into a big pile of rocks. Oddly enough, the rhynocs failed to see the humor in the story and stuffed my friends in the jail behind you.
+Pendant mon absence, mes amis ont emprunte@a le sous-marin des rhinos... puis ils ont fait une vire@ae avec... mais ils ont percute@a un gros rocher. A ma grande surprise, les rhinos ne l'ont pas bien pris du tout et ils les ont mis au frais.
+Wa@uhrend ich weg war, haben meine Freunde sich das U-Boot der Rhinoxe ausgeliehen... Dann haben sie eine Spritztour damit gemacht... Und dann sind sie damit in einen Haufen Steine gekracht. Komischerweise fanden die Rhinoxe das nicht so lustig und haben meine Freunde in das Gefa@ungnis da hinter Dir gesperrt.
+Mientras estaba fuera, mis amigos cogieron prestado el submarino de los rinocs, se fueron a dar una vuelta y... lo estrellaron contra unas rocas. Curiosamente, a los rinocs no les ha hecho demasiada gracia la historia y han metido a mis amigos en la ca@arcel que hay detra@as de ti.
+Mentre non c'ero i miei amici hanno preso il sottomarino dei rinoc... Sono andati a farsi un giretto... e si sono schiantati contro un grande cumulo di pietre. Stranamente i rinoc non sono riusciti a vedere il lato buffo della cosa e hanno sbattuto i miei amici nella prigione alle tue spalle.
+
+The rhynocs have boarded up a lot of our doors, but I bet you're strong enough to smash them down. &[Use charge to smash boards.
+Les rhinos ont condamne@a la plupart de nos portes, mais je parie que t'es assez fort pour les enfoncer. &[Charge pour enfoncer les portes.
+Die Rhinoxe haben viele der Tu@uren mit Brettern verbarrikadiert, aber ich wette, da@S Du stark genug bist, sie zu zerschmettern. &[Renn gegen die Bretter, um sie zu zerschmettern.
+Los rinocs han tapiado la mayori@ba de nuestras puertas con tablas, pero estoy seguro de que eres suficientemente fuerte para echarlas abajo. &[Utiliza la embestida para derribar las tablas.
+I rinoc hanno sprangato molte delle nostre porte, ma scommetto che sei abbastanza forte per abbatterle. &[Usa la carica per abbattere le porte.
+
+Sandy the Seal
+Fabien le Phoque
+Sandy der Seehund
+Facundo la foca
+Sandy la foca
+
+We had a dragon egg for you, but we used it to test our ultra-high-speed-super-fluidity tunnel. The good news is that it made it to the end of the tunnel without a scratch! The bad news is that there's no way to get it back out now.
+On avait un =euf de dragon pour toi, mais on l'a utilise@a pour tester notre tunnel ultra-me@aga-rapide et hyper-fluide. La bonne nouvelle est qu'il est arrive@a au bout du tunnel sans une seule e@agratignure ! La mauvaise est qu'on ne peut plus le refaire passer par le tunnel.
+Wir hatten ein Drachenei fu@ur Dich, aber wir haben es zum Testen unseres Ultra-Hochgeschwindigkeits-Stro@umungstunnels benutzt. Die gute Nachricht ist, da@S es ohne einen Kratzer am Ende des Tunnels angekommen ist! Die schlechte Nachricht ist, da@S es unmo@uglich ist, es wieder herauszubekommen.
+Tenemos un huevo de drago@an para ti, pero lo hemos usado para examinar nuestro tu@anel de ultrasuperhipervelocidad. La buena noticia es que conseguimos que el huevo llegara hasta el final del tu@anel sin romperse. La mala noticia es que no hay forma de sacarlo de alli@b.
+Avevamo un uovo di drago per voi, ma lo abbiamo usato per collaudare il nostro tunnel fluido superveloce. La buona notizia e@g che l'uovo ha raggiunto la fine del tunnel senza un graffio! La cattiva notizia e@g che ora non c'e@g modo di riaverlo. 
+
+The tunnel is chock full of rhynocs and floating mines. The only way to retrieve that egg is to defeat every single rhynoc in the tunnel.
+Le tunnel est rempli de rhinos et de mines flottantes. Le seul moyen de  re@acupe@arer cet =euf est de battre jusqu'au dernier les rhinos dans le tunnel.
+Der Tunnel ist gerammelt voll mit Rhinoxen und schwebenden Minen. Du kannst das Ei nur wiederholen, wenn Du jeden einzelnen Rhinox im Tunnel besiegst.
+El tu@anel esta@a abarrotado de rinocs y de minas flotantes. El u@anico modo de recuperar el huevo es derrotar a cada uno de los rinocs del tu@anel. 
+Il tunnel e@g zeppo di rinoc e mine galleggianti. L'unico modo per recuperare l'uovo e@g sconfiggere ogni singolo rinoc che si trova nel tunnel.
+
+This egg has surprisingly good fluid dynamic characteristics. From now on, all of our submarines will be egg-shaped.
+Cet =euf pre@asente des caracte@aristiques de fluidite@a dynamique performantes. A partir d'aujourd'hui, tous nos sous-marins auront la forme d'un =euf.
+Dieses Ei hat erstaunlich gute Stro@umungseigenschaften. Von jetzt an werden alle unsere U-Boote eifo@urmig sein.
+Este huevo tiene unas caracteri@bsticas de dina@amica de fluidos sorprendentes. A partir de ahora, todos nuestros submarinos tendra@an forma de huevo. 
+Quest'uovo possiede caratteristiche fluidodinamiche sorprendenti. D'ora in poi tutti i sottomarini saranno a forma d'uovo.
+
+You'll have to defeat every single rhynoc in the tunnel before you can recapture the egg.
+Tu devras battre jusqu'au dernier les rhinos dans le tunnel pour re@acupe@arer l'=euf.
+Du mu@St jeden einzelnen Rhinox im Tunnel besiegen, bevor Du das Ei zuru@uckholen kannst.
+Tendra@as que derrotar a cada uno de los rinocs que hay en el tu@anel antes de poder recuperar el huevo.
+E@G necessario sconfiggere tutti i rinoc che si trovano nel tunnel per recuperare l'uovo.
