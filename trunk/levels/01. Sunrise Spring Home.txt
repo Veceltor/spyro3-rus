@@ -2,7 +2,6 @@ Spyro, I've found an egg, but only Sparx will be able to reach it. There's a sma
 
 Спайро, я нашла яйцо, но только Спаркс может пройти к нему. Здесь есть небольшая нора, ведущая к ферме Большого Рака. Я могу провести его туда, если он готов. &Войти в бонусный мир Ферма Большого Рака? &Да. &Нет. [-15]
 
-
 Sparx has already recovered the egg from the crawdad farm, but he can go back if he wants to practice. &Return to Crawdad Farm bonus world? &Yes. &No.
 
 Спаркс уже спас яйцо из фермы Большого Рака, но он может зайти туда еще раз, если хочет потренироваться. &Вернуться в бонусный мир Ферма Большого Рака? &Да. &Нет. [-12]
