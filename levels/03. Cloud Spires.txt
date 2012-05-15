@@ -1,0 +1,113 @@
+Nimbus/Нимбус:
+
+ENG:
+The rhynocs have shut down our cloud generator and I'll never see a rainbow again.
+RUS:
+Носороги заглушили наш генератор облаков, и я больше никогда не увижу радугу.
+
+Cirrus/Киррус:
+
+ENG:
+If my wings were big and strong like yours, I could easily glide across here.
+RUS:
+Если бы мои крылья были такими большими и сильными, как у тебя, я бы легко перелетел на ту сторону.
+Инструкция:
+ENG:
+* Press X button to jump.
+* Then press X button in midair to glide.
+RUS:
+* Нажми кнопку Х, чтобы прыгнуть.
+* В пике прыжка нажми кнопку Х, чтобы парить.
+
+Moneybags/Толстосум(Манибег)
+
+ENG:
+Well, well, if it isn't my favorite dragon! The Sourceress has put me in charge of guarding these bellows. Howewer, I suppose I might look the other way if I was distracted by counting gems.
+RUS:
+Я не я, если это не мой любимый дракон! Колдунья сделала меня ответственным за эти меха. Однако я не смог бы следить за ними, если бы был занят счётом камней.
+Меню диалога:
+ENG:
+Pay 200 gems to activate bellows?
+* Sure, whatever.
+* No way, you doofus.
+RUS:
+Заплатить 200 камней, чтобы активировать меха?
+* Да, почему нет.
+* Ни за что
+В случае отказа:
+ENG:
+What? NO? What else are you going to do with all this gems? Buy flying lessons? Heh heh that was a good one...
+RUS:
+Что? Нет? Но что ты будешь делать с этими камнями? Заплатишь за урок полётов? Хе-хе, хорошая идея...
+В случае согласия:
+ENG:
+Oooooh yes... precious, precious gems... Well then, Spyro, you may now use the bellows any time you wish. Best of luck in your little egg hunt. 
+RUS:
+Оооо да... Драгоценные, драгоценные камни... Ладно, Спайро, пользуйся мехами, когда захочешь. И удачи в твоей маленькой охоте за яйцами.
+После сделки:
+ENG:
+Heh heh... I haven't made such easy money since the Sourceress bought that mayonaisse for sunscreen.
+RUS:
+Хе-хе... Я не получал деньги так легко с тех пор, как продал Колдунье крем от загара.
+
+Zoe/Зоэ
+ENG:
+Remember, to get your longest glide press the Х button at very top of your jump, and use the/\button to hover and the end of your jump.
+RUS:
+Помни, чтобы парить дольше нажми кнопку Х в пике прыжка, и используй кнопку/\ , чтобы подняться в конце полёта. 
+
+Fluffy/Флаффи
+
+ENG:
+Oh, you activated the bellows? Maybe I can get the cloud generator working again...
+RUS:
+О, ты активировал меха? Может, я смогу заставить генератор снова работать...
+После скриптовой сцены:
+ENG:
+The rhynocs must have been using this sing to clog up the cloud generator.
+RUS:
+Носороги пытались заткнуть этим генератор.
+
+Cumulus/Кумулус
+
+ENG:
+Our sun has gone out. We can make a new one with our lava fusion cauldron and three suns seeds, but they keep burning out before we can get them in the pot.
+RUS:
+Наше солнце потухло. Мы можем сделать новое из лавогого сплава и трёх солнц, сваренных в котле, но они сгорают прежде, чем мы доставляем их к котлу.
+Подсказка:
+ENG:
+Step on the switch to get a fresh sun seed and keep flaming it until you get it into the pot.
+RUS:
+Шагни на выключатель, чтобы сдвинуть солнце, и жарь их, пока не доставишь к котлу.
+Подсказка:
+ENG:
+If you can't keep up with the sun seed, remember you can always hold down the [] button to charge.
+RUS:
+Если ты не успеваешь за солнцами, помни, что, удерживая кнопку [] ты будешь бежать быстрее.
+(Ответ):
+ENG:
+* Press and hold [] button to charge forward quickly.
+RUS:
+* Нажми и держи кнопку [] , чтобы бежать быстрее.
+После выполнения квеста:
+ENG:
+Now that's what I call a sun! Here, you can have this last sun seed as a souvenir. I think it might be a dud, though.
+RUS:
+Вот это я называю солнцем! Да, и можешь забрать эту рвань как сувенир.
+
+Stratus/Стратус:
+
+ENG:
+We usually wake up our rain cloud at the crack of dawn, but these michievous spirits are stopping our bells from ringing.
+RUS:
+Обычно мы встаём вместе с нашим облаком, но эти духи не дают нашим колоколам звонить.
+Подсказка:
+ENG:
+* Use the superfly powerup to flame the spirits in the belltowers.
+RUS:
+* Используй портал полёта, чтобы сжечь духов в башнях.
+После выполнения квеста:
+ENG:
+Do you want this doodad? It fell out the belfry.
+RUS:
+Тебе нужна эта безделушка? Она выпала из колокольни. 
