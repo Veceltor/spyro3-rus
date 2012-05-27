@@ -81,3 +81,5 @@ I still haven't finished getting all the billy goats home yet... &Level not fini
 Я до сих пор не отвела всех трех козлов по домам... &Уровень не завершён... &Ты действительно хочешь уйти? &Да &Нет
 
 I'll be back as soon as I get all three billy goats home.
+
+Я вернусь, как только отведу всех моих козлов по домам.
