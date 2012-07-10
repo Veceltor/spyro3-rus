@@ -1,0 +1,493 @@
+﻿Hey, you finally made it, Spyro! Hunter was a little worried about you when you went off to fight the Sorceress, but I always knew you'd beat her.
+
+Ты это сделал, Спайро! Охотник был немного взволнован, услышав, что ты собираешься биться с Колдуньей, но я знала, что ты победишь её.
+
+This place is where the Sorceress kept all her treasure, but after she was defeated a bunch of thieves came and stole it. If you can catch the thieves, you're more than welcome to keep the treasure!
+
+Вот здесь Колдунья хранила всё своё богатство, но после её поражения сюда пришли воры, и утащили его с собой, заразы. Поймаешь воров и заберёшь алмазы - можешь оставить их себе.
+
+Oh, by the way, Hunter is around here somewhere. He's been tinkering with one of his new toys all day, and he wants to show it off. You should go see him!
+
+Да, кстати, Охотник где-то здесь. Он тут целый день возится со своей новой побрякушкой, и хочет ею похвастать. Сходи к нему.
+
+I hope the rest of the dragons will come back here someday.
+
+Надеюсь, что когда-то сюда возвратятся все драконы...
+
+Hi, Spyro! Did you see Bianca? She was really worried about you when you went off to fight the Sorceress. It was pretty funny. She tries to play it cool, but she was scared stiff until you came back safe.
+
+Привет, Спайро! Бианку видел? Она так за тебя волновалась, когда ты пошёл сражаться с Колдуньей, и даже пыталась скрыть свои чувства. Но всё было видно. Счастье её, что ты цел и невредим!
+
+I just finished fixing up an old submarine! Why don't you try taking it for a spin? &Ride the sub? &Right on! &A little later.
+
+Кстати, я только что починил старую субмарину! Ну как, проведёшь тест-драйв? &Поплыть на субмарине? &Конечно! &Ещё подумаю.
+
+Great! Hop aboard!
+
+Ну и чего мы ждём?
+
+Sure, come back whenever you want to ride it!
+
+Как хочешь, моё дело – предложить...
+
+Wanna take my sub for a spin? &Ride the sub? &Right on! &A little later.
+
+Надумал исследовать глубины? &Поплыть на субмарине? &Давай! &Не хочу...
+
+Check it out, this is the world's fastest turbo-snowboard course! The local champions are the Sasquatch Six, a gang of yeti's on souped up snow-discs. I bet that you could outrace the lot of 'em! If you win, we get a huge pile of treasure! If you lose, I have to slick down the whole course with my tongue.
+
+Смотри, это самый лучший горно-лыжный курорт во всём мире! Местные чемпионы – «Формула 6». Это команда йети. Ездят они на снежных дисках... Тарелках, короче. Ставлю на твой выигрыш! Обгонишь их всех – получим гору алмазов! Хоть один будет впереди тебя – вылижу весь этот трек!
+
+So, ready to race? &Start the race? &Let's go! &Not yet.
+
+Готов давать жару? &Начать гонку? &Поехали! &Не-е...
+
+Right on! Just don't lose, or my tongue's gonna be a popsicle.
+
+Давай! А то у меня будет сосулька вместо языка!!!
+
+Aw, c'mon, you can take these guys!
+
+Расслабься, ты их сделаешь!
+
+I think my tongue is frozen. You'd better not lose again! &Start the race? &Let's go! &Not yet.
+
+Похоже у меня замёрз язык. Ну что это было, а? &Начать гонку? &Жажду мести! &Да ну их всех...
+
+OK, good luck this time.
+
+Держу кулаки за тебя!
+
+Yeah, let's wait for my tongue to thaw first.
+
+Ага, сначала пусть язык разморозится.
+
+YEEESSSSSSS! You schooled 'em like a bunch of frost-bitten, flat-footed, molasses-eating, lead-pants-wearing, cross-eyed glacier-trolls riding slabs of plywood with sandpaper on the bottom!!! ... And we won some shiny stuff, too.
+
+ЕСТЬ!!! Красавчик, как ты их уделал! Ты показал этим гадам, где раки зимуют! Да ты их прямо по стенке размазал, порвал, как тузик грелку, в лузерах последних оставил, чтоб они в штаны наделали!.. Да, и у нас кое-что появилось.
+
+(Примечание: названия трпюков НЕ ДОЛЖНЫ варьироваьтся от уровня к уровню, а я их русских названий не знаю)
+
+Gnasty Gnorc
+
+Half-pipe Leap
+
+Triple Towers
+
+Quint Front Flip
+
+Quint Roll Left
+
+Quint Back Flip
+
+Quint Roll Right
+
+Orange Crush
+
+Single Front Flip
+
+Double Front Flip
+
+Triple Front Flip
+
+Quad Front Flip
+
+Single Roll Left
+
+Double Roll Left
+
+Triple Roll Left
+
+Single Spin Left
+
+Double Spin Left
+
+Triple Spin Left
+
+Single Back Flip
+
+Double Back Flip
+
+Triple Back Flip
+
+Quad Back Flip
+
+Single Roll Right
+
+Double Roll Right
+
+Triple Roll Right
+
+Toasty Twist
+
+Single Spin Right
+
+Double Spin Right
+
+Triple Spin Right
+
+Twisted Lemon
+
+Twisted Lemon x 2
+
+Twisted Lemon x 3
+
+Thrash Master
+
+Twisted Lime
+
+Double Twisted Lime
+
+Triple Twisted Lime
+
+Super Thrash Master
+
+Raging Ripto
+
+(Примечание: остальное – не русские названия трюков. Но в конце есть ещё пара фраз.)
+
+Truffe de Gnorc
+
+Demi-tonneau
+
+Triples Tours
+
+5x flip avant
+
+5x demi-tour a@g gauche
+
+5x tour a@g gauche
+
+5x flip arrie@gre
+
+5x demi-tour a@g droite
+
+5x tour a@g droite
+
+Flip avant simple
+
+Double flip avant
+
+Triple flip avant
+
+4x flip avant
+
+1x demi-tour a@g gauche
+
+2x demi-tour a@g gauche
+
+3x demi-tour a@g gauche
+
+4x demi-tour a@g gauche
+
+Tour simple gauche
+
+Double tour gauche
+
+Triple tour gauche
+
+4x tour gauche
+
+Flip arrie@gre simple
+
+Double flip arrie@gre
+
+Triple flip arrie@gre
+
+4x flip arrie@gre
+
+1x demi-tour a@g droite
+
+2x demi-tour a@g droite
+
+3x demi-tour a@g droite
+
+4x demi-tour a@g droite
+
+Tour simple droite
+
+Double tour droite
+
+Triple tour droite
+
+4x tour droite
+
+Citron presse@a
+
+2x Citron presse@a
+
+3x Citron presse@a
+
+Mai@jtre Supre@ime
+
+Lime presse@ae
+
+Double Lime presse@ae
+
+Triple Lime presse@ae
+
+SuperMai@jtre Supre@ime
+
+Ripto la Terreur
+
+Gnasty Gnorc
+
+Half-Pipe-Sprung
+
+Dreifach-Tu@urme
+
+5x Flip vorwa@urts
+
+5x Rolle links
+
+5x Spin links
+
+5x Flip ru@uckwa@urts
+
+5x Rolle rechts
+
+5x Spin rechts
+
+1x Flip vorwa@urts
+
+2x Flip vorwa@urts
+
+3x Flip vorwa@urts
+
+4x Flip vorwa@urts
+
+1x Rolle links
+
+2x Rolle links
+
+3x Rolle links
+
+4x Rolle links
+
+1x Spin links
+
+2x Spin links
+
+3x Spin links
+
+4x Spin links
+
+1x Flip ru@uckwa@urts
+
+2x Flip ru@uckwa@urts
+
+3x Flip ru@uckwa@urts
+
+4x Flip ru@uckwa@urts
+
+1x Rolle rechts
+
+2x Rolle rechts
+
+3x Rolle rechts
+
+4x Rolle rechts
+
+1x Spin rechts
+
+2x Spin rechts
+
+3x Spin rechts
+
+4x Spin rechts
+
+Gepresste Zitrone
+
+2x gepr. Zitrone
+
+3x gepr. Zitrone
+
+Thrash Master
+
+Gedrehte Limone
+
+2x gedrehte Limone
+
+3x gedrehte Limone
+
+Super Thrash Master
+
+Tobender Ripto
+
+Gnasty Gnorc
+
+Salto de medio tubo
+
+Torres triples
+
+Voltereta izda. x5
+
+Pirueta izda. x5
+
+Giro izquierdo x5
+
+Voltereta atra@as x5
+
+Pirueta derecha x5
+
+Giro derecho x5
+
+Volt. adelante x1
+
+Volt. adelante x2
+
+Volt. adelante x3
+
+Volt. adelante x4
+
+Pirueta izda. x1
+
+Pirueta izda. x2
+
+Pirueta izda. x3
+
+Pirueta izda. x4
+
+Giro izquierdo x1
+
+Giro izquierdo x2
+
+Giro izquierdo x3
+
+Giro izquierdo x4
+
+Voltereta atra@as x1
+
+Voltereta atra@as x2
+
+Voltereta atra@as x3
+
+Voltereta atra@as x4
+
+Pirueta derecha x1
+
+Pirueta derecha x2
+
+Pirueta derecha x3
+
+Pirueta derecha x4
+
+Giro derecho x1
+
+Giro derecho x2
+
+Giro derecho x3
+
+Giro derecho x4
+
+Limo@an exprimido
+
+Limo@an exprimido x2
+
+Limo@an exprimido x3
+
+Contorsio@an maestra
+
+Lima exprimida
+
+Lima exprimida x2
+
+Lima exprimida x3
+
+Cont. su@apermaestra
+
+Furia de Ripto
+
+Gnasty Gnorc
+
+Salto Half-pipe
+
+X5 Flip Frontale
+
+X5 Roll A Sinistra
+
+X5 Spin A Sinistra
+
+X5 Flip Indietro
+
+X5 Roll A Destra
+
+X5 Spin A Destra
+
+Flip X1 Frontale
+
+X2 Flip Frontale
+
+X3 Flip Frontale
+
+X4 Flip Frontale
+
+Roll X1 A Sinistra
+
+X2 Roll A Sinistra
+
+X3 Roll A Sinistra
+
+X4 Roll A Sinistra
+
+Spin X1 A Sinistra
+
+X2 Spin A Sinistra
+
+X3 Spin A Sinistra
+
+X4 Spin A Sinistra
+
+Flip X1 Indietro
+
+X2 Flip Indietro
+
+X3 Flip Indietro
+
+X4 Flip Indietro
+
+Roll X1 A Destra
+
+X2 Roll A Destra
+
+X3 Roll A Destra
+
+X4 Roll A Destra
+
+Spin X1 A Destra
+
+X2 Spin A Destra
+
+X3 Spin A Destra
+
+X4 Spin A Destra
+
+Twisted Lemon
+
+X2 Twisted Lemon
+
+X3 Twisted Lemon
+
+Thrash Master
+
+Twisted Lime
+
+X2 Twisted Lime
+
+X3 Twisted Lime
+
+Super Thrash Master
+
+Raging Ripto
+
+I don't know how she did it, Spyro, but the Sorceress must have survived that last battle! She's been waiting here all this time, saving up her magic to destroy you!
+
+Не знаю, как ей это удалось, но, по-моему, Колдунья выжила в той битве! Она тебя здесь поджидала всё это время! Она накапливала свою магию, чтоб убить тебя!!!
+
+Your best chance to defeat her is to borrow my flying saucer. I've cast some spells on it to give it extra firepower and unlimited flying time... but the rest is going to be up to you... You've come this far, Spyro, I know you can beat her!
+
+С моей летающей тарелкой у тебя больше шансов её победить. Я немного околдовала её, чтоб она летала, сколько пожелаешь, и чтоб стреляла получше. Но, всё равно, остальное за тобой. Ты сюда @5уже@0 дошёл, Спайро. А значит, ты её победишь!
+
+(Примечание: @5уже@0 обозначает, что слово должно быть выделено красным цветом)
+
+(Примечание 2: при озвучке во фразе "Ты сюда уже дошёл, Спайро" делать акцент на слово "уже") 
