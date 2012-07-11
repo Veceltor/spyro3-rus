@@ -1,0 +1,69 @@
+﻿Spyro, you're not gonna believe this, but there are sheep saucers and space cows all over this place! We gotta stop 'em before they abduct anybody!
+
+Спайро, ты не поверишь, но здесь повсюду овцы на НЛО и космические коровы! Нам нужно их остановить, пока они никого не похитили.
+
+I'm gonna strap on my jetpack and blast some space cows! &Should Hunter go? &Go for it! &What's a space cow?
+
+Сейчас я надену реактивный ранец и дам им всем жару! &Нужно Охотнику это делать? &Да! &Что это за коровы?
+
+(Примечание: при озвучке лучше говорить «щас», т.к. это далеко не главное слово здесь.)
+
+Look out cows, here I come!
+
+Берегись, Охотник идёт!!!
+
+Space cows are ferocious, laser-wielding bovines who show no mercy or pity! We've gotta stop them, Spyro!
+
+Космические коровы – жестокие и безумные животные, оборудованные лазерами. Их надо становить, Спайро!
+
+(Примечание: при озвучке выделить слово «надо» интонацией.)
+
+We got the last one just before he abducted this egg!
+
+Последняя корова чуть не украла это яйцо!
+
+Attention dragon: if you ever want to see your mangy cat friend again, you had better leave here at once!\     -The Sorceress
+
+Внимание, дракон: если ты хочешь ещё раз увидеть своего вшивого тигрёныша, тебе лучше сразу смыться отсюда!\     -Колдунья
+
+Which challenge would you like to play? &Choose a challenge: &Time Attack &Race the Bi-planes &Quit
+
+Какое испытание ты выберешь? &Выбери испытание: &На время. &На самолётах. &Уйти отсюда. 
+
+Here's a hint. Try completing each challenge in order. Start with the rings, then get all the tractors, the cows, and save the planes for last. It's not the fastest way, but it is the easiest.
+
+Даю подсказку. Лучше проходить задания по порядку. Начни с колец, потом разберись с тракторами, потом с коровами, а самолёты оставь на закуску. Не самый быстрый путь, зато самый лёгкий.
+
+Well the flying pigs are raring to go, let's get started. You have to fly through ALL of the green checkpoint rings in order. The red dots will lead the way. &[Fly through all green rings. &[Use the red dots to guide you.
+
+Свиньи уже готовы к полёту, так что давай начнём. Ты должен пролететь через @5все@0 зелёные кольца @5в их порядке@0. Красные точки укажут тебе путь. &[Пролети через все зелёные кольца. &[Красные точки укажут тебе путь.
+
+(Примечание: @5...@0 обозначает, что слово будет выделено красным цветом.)
+
+Aww, do we have to go? I was just kicking back while you were doing all that flying.
+
+Эээ... Мы должны уходить? Я как раз оттягивался по полной пока ты там летал.
+
+That was so amazing that everyone in the farmyard clubbed together to buy you this as a reward.
+
+Это было так круто, что все колхозники скинулись на вот такой подарок. Бери.
+
+First place, you're a pretty fancy flyer.
+
+Первое место, да ты классный лётчик!
+
+Aaah, so you're trying for a best time are you? Well good luck.
+
+А, так ты пытаешься поставить рекорд по времени? Удачи.
+
+You won't win the race without using the blue turbo stars. Try to use as many as possible, even if it means leaving the red dots, but remember to fly though the rings or you'll be disqualified. &[Use the blue turbo stars. &[Fly through all green rings
+
+Ты не сможешь выиграть, не используя синие звёзды-ускорители. Попытайся использовать максимальное их количество, даже если тебе надо чуть-чуть отклониться от красных точек. &[Используй синие звёзды. &[!Нельзя пропускать зелёные кольца!
+
+Hey Spyro, you don't have to follow the red dots exactly so you can take short cuts between rings. Heres an extra hint, if you fly lower you'll get a little more speed. &[Cut corners between the green rings. &[Flying lower gives you extra speed.
+
+Спайро, тебе не нужно чётко следовать красным точкам, ты можешь срезать углы, но помни: пролетев одно кольцо, тебя дисквалифицируют. Да, и ещё – если ты летишь низко, у тебя больше скорость. &[Можно срезать углы. &[Летишь ниже – скорость выше.
+
+Spyro, these are the famous racing grounds known as Country Speedway. They offer two challenges here: a timed obstacle course, or a race against the local speed champions.
+
+Спайро, это – известный гоночный трек, называется он Сельский Спидвей. Здесь предлагают два испытания: гонка с препятствиями на время или гонка против местных чемпионов.
