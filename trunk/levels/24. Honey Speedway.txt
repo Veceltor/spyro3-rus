@@ -1,10 +1,10 @@
-﻿Attention dragon: if you ever want to see your mangy cat friend again, you had better leave here at once!\     -The Sorceress
+ Attention dragon: if you ever want to see your mangy cat friend again, you had better leave here at once!\     -The Sorceress
 
 Внимание, дракон: если ты хочешь ещё раз увидеть своего вшивого тигрёныша, тебе лучше сразу смыться отсюда!\     -Колдунья
 
 Which challenge would you like to play? &Choose a challenge: &Time Attack &Race the Bumblebees &Exit Level
 
-Какое из испытаний ты выберешь? &Выбери испытание: &На время &? &Уйти отсюда
+Какое из испытаний ты выберешь? &Выбери испытание: &На время &Уделать шмелей &Покинуть уровень
 
 The easiest way to complete this time attack is to fly through all the honeycombs first, then pass through the bee-hives, then defeat the bees, and save the boat riding bears for last. Once you've solved it that way, you can always find ways to solve it faster.
 
