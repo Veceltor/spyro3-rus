@@ -1,6 +1,6 @@
 You can Hover to get more distance when gliding. Just press the } button at the end of your glide. &[Press } button at the end of your glide to get more distance. 
 
-Ты можешь подвиснуть, чтобы пролететь подальше. Просто нажми } в конце полёта. &[Нажми } в конце полёта, чтобы попасть дальше. 
+Ты можешь парить, чтобы пролететь подальше. Просто нажми } в конце полёта. &[Нажми } в конце полёта, чтобы попасть дальше. 
 
 If you want a quick summary of your progress in a world, you can press the @4SELECT@0 button to open the Atlas page for the world you are in. &[Press @0SELECT@4 button to view Atlas. 
 
