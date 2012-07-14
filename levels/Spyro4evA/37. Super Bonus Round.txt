@@ -1,4 +1,4 @@
-﻿Hey, you finally made it, Spyro! Hunter was a little worried about you when you went off to fight the Sorceress, but I always knew you'd beat her.
+ Hey, you finally made it, Spyro! Hunter was a little worried about you when you went off to fight the Sorceress, but I always knew you'd beat her.
 
 Ты это сделал, Спайро! Охотник был немного взволнован, услышав, что ты собираешься биться с Колдуньей, но я знала, что ты победишь её.
 
@@ -36,7 +36,7 @@ Wanna take my sub for a spin? &Ride the sub? &Right on! &A little later.
 
 Check it out, this is the world's fastest turbo-snowboard course! The local champions are the Sasquatch Six, a gang of yeti's on souped up snow-discs. I bet that you could outrace the lot of 'em! If you win, we get a huge pile of treasure! If you lose, I have to slick down the whole course with my tongue.
 
-Смотри, это самый лучший горно-лыжный курорт во всём мире! Местные чемпионы – «Формула 6». Это команда йети. Ездят они на снежных дисках... Тарелках, короче. Ставлю на твой выигрыш! Обгонишь их всех – получим гору алмазов! Хоть один будет впереди тебя – вылижу весь этот трек!
+Смотри, это самый лучший горнолыжный курорт во всём мире! Местные чемпионы – «Формула 6». Это команда йети. Ездят они на снежных дисках... Тарелках, короче. Ставлю на твой выигрыш! Обгонишь их всех – получим гору алмазов! Хоть один будет впереди тебя – вылижу весь этот трек!
 
 So, ready to race? &Start the race? &Let's go! &Not yet.
 
