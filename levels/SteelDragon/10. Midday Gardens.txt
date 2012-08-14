@@ -1,138 +1,107 @@
-Homer the Firefly
+Hi Spyro and Sparx... I've found another lost egg! If Sparx is up to it, he can try to rescue it from Spider Town. &Enter Spider Town bonus world? &Yes. &No. 
 
-\           That gator was mean.\          I thought I was a goner.\           Thanks for saving me.
+ Привет, Спайро и Спаркс... Я нашла ещё одно украденное яйцо! Спаркс может попытаться спасти его из Города Пауков, если захочет. &Войти в Город Пауков? &Да. &Нет. 
 
-\           Проклятый сторож,\          Я уж думал, что сгину.\           Спасибо. Ты спас!
+ I wouldn't want to go back in there with all those creepy spiders...but if Sparx wants to check out Spider Town again, it's fine with me. &Return to Spider Town bonus world? &Yes. &No. 
 
-          Our tea lamps are dark.\         Perhaps your hot dragon breath\           could set them aglow.
-          
-          Свечи угасли.\         Драконьим дыханием\           Зажжёшь их опять?
-           
-          No happier sight\         Have I seen, than a tea lamp\           lit by Dragonflame.
-          
-          Ничего лучше\         Не видел я: ведь лампа\           Сияет огнём!
+ Я не хотела бы возвращаться к этим страшным паукам... но если Спаркс захочет опять посмотреть на Город Пауков, я проведу его туда. &Вернуться в Город Пауков? &Да. &Нет. 
 
-\           Beware the water.\         Snapping jaws of piranha\           claim many victims.
+ Excellent work Sparx, and I see that you've gained another new ability. Now if you hold down the @4L1,L2, R1 and R2@0 buttons at the same time, Sparx will point to any treasure still hanging around. 
 
-\           Сторонись воды:\         Зубастые пираньи\           Голодны очень.
+ Отличная работа, Спаркс! Я вижу, ты получил ещё одну способность. Теперь, если нажать @4L1,L2, R1 и R2@0 одновременно, Спаркс покажет на любое сокровище, которое ты ещё не подобрал. 
 
+ Hi Spyro. This is a superflame powerup. You'll find more just like it scattered throughout all the worlds. Why don't you try this one out by using it to break all these planters. I think I saw a rhynoc hide an egg in one of them. 
 
-Shiny the Firefly
+ Привет, Спайро. Это - бонус супер-огня. Ты можешь найти ещё, они расбросаны по всем мирам. Почему бы не попробовать этот на вон тех пугалах? Я видела, как в одном из них носорог спрятал яйцо. 
 
-\           You are brave, dragon.\         Much braver than I, by far.\          Here, take this darn egg.
+ I've assessed the situation. We need five men to operate the whirligig. 
 
-\           Ты смелый дракон.\         Смелее меня, о да…\          Вот, бери яйцо. 
+ Я разобрался в ситуации. Нам нужно пять существ, чтобы разобраться с вертолётом. 
 
-Come on in.\        -Sheila
+ Quick march Spyro. We're off to the whirligig. 
 
-Давай входи!\        – Шейла.
+ Шагом марш, Спайро! Мы идём к вертолёту. 
 
-Bubba the Firefly
+ All systems checked out A-OK. Jump aboard. 
 
-\           When all lamps are lit\          there is a secret in here\            that I will show you.
+ Все системы работают на полной мощности. Запрыгивай. 
 
-\           Внутри есть секрет.\          Когда засветят лампы,\            Открою его.
+ Thanks for freeing me. Why don't you come visit me in my home world? 
 
-\           The tea lamps are lit!\         Now I'll tell you the secret\           of what's in this house!
+ Спасибо, что освободил меня. Навести меня в моём родном мире! 
 
-\           Фонари горят!\         Я поведаю тайну,\           Что в доме этом.
+ We've finished repairing the whirligig, but we need more help to operate it. 
 
-\           A creepy wizard\    lives inside, but hates the light.\           He has awoken.
+ Мы починили вертолёт, но нам нужны ещё помощники, чтобы управлять им. 
 
-\           Ужасный колдун\    Живёт, ненавидя свет.\           И он разбужен.
+ Let's head on over to the whirligig. 
 
-\           He swore to destroy\        whoever lights the tea lamps.\           Better you than me. &[Use Wizard's bombs against him. &[Avoid Gators.
+ Пойдём, Спайро, вертолёт готов к отправке. 
 
-\           Поклялся убрать\        Любых, кто свечки зажгёт –\           Тебя, не меня. &[Использовать бомбы колдуна против него же. &[Избегать охраны.
+ You can use the whirligig whenever you are ready. 
 
-\           This door is jammed shut.\            Only the power of gems\             Can hope to move it. &Pay ^^^ gems to open the door? &Sure, just shut up. &No, your haiku poetry stinks.
+ Ты можешь лететь на вертолёте когда захочешь. 
 
-\           Каменная дверь.\            И только сила камней\             Отопрёт её.  &Платить ^^^ драгоценностей, чтоб открыть проход? &Ага, только заткнись! &Не, дурным хайку несёт.
+ Spyro, I've got a special task for Sparx. Meet me back here later! -Zoe 
 
-\           You've made a wise choice...\        It will mean more eggs for you...\              And more gems for me. \           Best of all, Spyro...\        I can stop speaking Haiku.\           What a sweet relief!
+ Спайро, у меня есть спец-задание для Спаркса. Встретимся здесь позже! -Зоя 
 
-\           То мудрый выбор:\        Побольше яиц тебе,\              И алмазов мне. \           Удачи, Спайро…\        Хайку прекратить могу –\           О, как хорошо!
+ Okay, dragon, you've managed to survive longer than I expected... but you haven't the slightest idea what sort of dangers lie ahead of you! I suggest you grab your cat friend and whatever eggs you have found and high-tail it back home while you still can... I'm telling you this for your own good, you know... 
 
-\           Dad gummit, dragon.\      Just cough up those stinking gems.\           And I can go home.
+ Ладно, дракоша, ты смог прожить дольше, чем я ожидала... но ты даже не представляешь, с какими опасностями тебе ещё придется столкнуться! Лучше забирай своего дружка и те яйца, которые тебе всё-таки посчастливилось найти и быстро уходи отсюда, пока ещё можешь... Ты знаешь, что я права... 
 
-\           Эй, не жмись, дракон…\      Отдай же самоцветы –\           Да пойду домой.
+ When you see a ladder, or walls that look climbable, just jump onto it and you'll grab it with your claws. 
 
-\           I can't let you through.\       You're too poor to pass this door.\           Come back with more cash. &[^^^ gems needed to open door
+ Когда ты видишь лестницу или стену, на которую можно забраться, просто запрыгни на неё и ты схватишь её когтями. 
 
-\           Я не пропущу –\       Возвращайся с деньгами:\           Ты слишком беден. &[Для открытия двери нужно ^^^ бриллиантов.
+ Ahh, my good friend Spyro. The Sorceress caught this naughty bird letting off rockets in her fireworks factory, but I'm willing to release him into your custody... provided you pay his outstanding fines. &Pay ^^^ gems to free the penguin? &Of course. &Forget about it. 
 
-\           Stop talking to me.\         I hate speaking in Haiku.\           Just go find some gems...
+ О, мой дорогой друг Спайро. Колдунья схватила эту непослушную птичку, пока она стреляла ракетами в фабрику фейерверков. Я мы мог отпустить его... если бы ты заплатил за разрушения... &Заплатить ^^^ камней для освобождения пингвина? &Да, конечно. &Забудь об этом. 
 
-\           Ну хватит болтать,\         Как не люблю я хайку…\           Ищи камешки…
+ Heh heh... what a sucker... err, that is... It's a far, far better thing you do today, Spyro, than you have ever done, and... err... well so forth, et cetera, you get the idea... 
 
-\           This swamp smells so sweet.\        The springtime trees are fragrant.\            I'm off to kick butt.
+ Хе-хе... что за лопух... эмм, не так... Это лучшее, что ты сделал сегодня, Спайро, лучшая вещь из всех, которые ты когда-либо делал, и... эмм... ну, в общем, ты меня понял... 
 
-\           Чудо-болото\        С весенним ароматом –\            Пойду разомнусь.
+ Oh dear Spyro, you really should pay up. I think he's pining for the fjords. 
 
-Basho the Firefly
+ О, дорогой мой Спайро, ты должен заплатить. Я думаю, что он тоскует по фьордам... 
 
-\           We have the bombs here.\         We must destroy the egg cage.\             But we just go boom.\ \           Kangaroo can help!\        You can clear the path for us!\           Will Sheila help us? &Help the firefly bombers? &Yes, I love your freestyle Haiku. &Sorry, just passing through.
+ Get away from me dragon, you've got no money! Come back when you find some gems... &[^^^ gems needed to free critter 
 
-\           Бомбы тут у нас.\         Должны разбить решётку,\             Но мы взорвёмся.\ \           Кенгуру спасёт!\        Ты для нас расчистишь путь.\           Шейла нам поможет? &Проводить светлячка-подрывника? &Да, я люблю свободный хайку. &Простите, я всего лишь гуляю.
+ Уйди от меня, дракон, у тебя нет денег! Возвращайся, когда найдёшь немного самоцветов... &[^^^ камней нужно для освобождения. 
 
-\          If you clear my path\       I can blow up the egg cage.\         Poor, poor captive eggs. &Help the twin? &Yes, of course. &No more Haiku... please!
+ Hey, Spyro! Zoe told me that if we hit that doodad up there, the portal will open. Why don't you try spitting this rock at it? 
 
-\           Отведи меня,\        Спасу бедных пленников:\          Разнесу клетки. &Помочь близнецу? &Да, конечно. &Пожалуйста, не нужно больше хайку!
+ Эй, Спайро! Зоя сказала мне, что если мы попадём воон в ту мишень, то портал включится. Почему бы тебе не попробовать попасть в неё камнем? 
 
-\           The eggs are all free!\          Two dragons are born today!\              Sheila's my hero.
+ When you've picked up a rock, try using the } button to aim. 
 
-\           Яйца свободны!\          Родились два дракона!\              Шейла – мой герой.
+ Когда ты подобрал камень, попробуй прицелиться кнопкой }. 
 
-\           Yes! It's bombing time!\         Here I come, my little eggs,\           To free you at last!!
+ I'll see ya in there later. 
 
-\           Да! Время бомбить!\         Яички, вот я иду,\           Освобожу вас!
+ Увидимся позже! 
 
-\           We will be waiting.\        When you return to help us,\           We shall bomb again!
+ With guys from the five worlds we can work the whirligig. 
 
-\           Ладно, подождём.\        А когда ты вернёшься,\           Попробуем вновь.
+ Впятером мы сможем запустить вертолёт. 
 
-\           One egg cage remains.\        Will you now help my brother\           to free the last egg? &Will you help my brother now? &Yes.&No.
+ Hey now, let's head on over to the whirligig. 
 
-\           Есть ещё клетка.\        Проведи сейчас брата –\           Яичко спаси.? &Помочь теперь и брату? &Да.&Нет.
+ Пойдём, Спайро, вертолёт готов к отправке. 
 
-                 OW...\           I went boom again.\    Big rocks can be kicked, they say,\        Mushrooms must be stomped. &Help the twin? &Yes.&No.
-                 
-                 Аай…\           Пойду заново.\    Пинай большие камни\        И топчи грибы. &Отправляемся снова? &Да.&Нет.
+ Hop aboard. 
 
-\           Yes! It's bombing time!\         Here I come, my little eggs,\           To free you at last!! &[Kick rocks out of the way. &[Stomp on mushrooms.
+ Запрыгивай. 
 
-\           Да! Пора взрывать!\         Держись, бедное яйцо:\           Вытащу тебя. &[Выбить камни с дороги – >, { &[Раздавить грибы – < + }
+ If you can bring back one person from each of our five worlds, we can help you use the whirligig. 
 
-Buson the Firefly
+ Нам нужно больше помощников, чтобы помочь тебе улететь на этом вертолёте. 
 
-\           We have the bombs here.\         We must destroy the egg cage.\             But we just go boom.\ \           Kangaroo can help!\        You can clear the path for us!\           Will Sheila help us? &Help the firefly bombers? &Yes, I love your freestyle Haiku. &Sorry, just passing through.
+ Let's head on over to the whirligig. 
 
-\           У нас две бомбы.\         В клетках заперты яйца.\             Но как уцелеть?\ \           Помочь кенгуру\        Сможет – путь нам очистит!\           Шейла спасёт нас? &Проводить светлячка-подрывника? &Да, я люблю свободный хайку. &Простите, я всего лишь гуляю.
+ Пойдём, Спайро, вертолёт готов к отправке. 
 
-\           If you clear my path\        I can blow up the egg cage.\          Poor, poor captive eggs. &Help the twin? &Yes, of course. &No more Haiku... please!
+ The whirligig is ready to take you far way. Just jump aboard. 
 
-\           Если я дойду –\        Подорву тюрьму яйца!\          Выручу пленных. &Помочь близнецу? &Да, конечно. &Пожалуйста, не нужно больше хайку!
-
-\           The eggs are all free!\          Two dragons are born today!\            Sheila's my hero.
-
-\           Они на воле!\          И драконы родились!\            Ты просто герой.
-
-\           Yes! It's bombing time!\         Here I come, my little eggs,\           To free you at last!!
-
-\           Время бомбёжки!\         Подарю свободу вам,\           Я уже скоро.
-
-\           We will be waiting.\        When you return to help us.\           We shall bomb again!
-
-\           Ну мы будем ждать.\        Если решишь вернуться –\           Начнём заново.
-
-\           One egg cage remains.\        Will you now help my brother\           to free the last egg. &Will you help my brother now? &Yes.&No
-
-\           Осталось яйцо.\        Близнец пусть отправиться.\           Его доведёшь? &Возвратиться к брату? &Да.&Нет.
-
-                 OW...\           I went boom again.\    Big rocks can be kicked, they say,\        Mushrooms must be stomped. &Help the twin? &Yes.&No.
-                 
-                 Ооу…\           Давай с начала.\    Камни выкинь с дороги,\        Грибы придави. &Попробуем опять? &Да.&Нет.
-
-\           Yes! It's bombing time!\          Here I come, my little eggs,\            to free you at last!! &[Kick rocks out of the way. &[Stomp on mushrooms.
-
-\           Взорвём решётку!\          Я спешу, мои крохи,\            Вызволю сейчас. &[Разрушить камни на тропинке – {, > &[Вогнать грибы в землю – < + }
+ Вертолёт готов доставить тебя в неведомые дали. Просто запрыгни.
