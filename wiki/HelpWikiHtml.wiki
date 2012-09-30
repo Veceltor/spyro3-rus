@@ -1,6 +1,5 @@
-HelpWikiHtml
-
 #summary Синтаксис WIKI и HTML, используемый на Google Code
+#labels Featured
 
 = Помощь по синтаксису страниц Google Code =
 
