@@ -1,0 +1,107 @@
+#summary Сопоставление текста номерам.
+
+||Номер||Субфайл||Герой||Фраза|| 
+||37||098||Bianca||So... you're the one in charge of rescuing the eggs, huh? Heh heh heh... How sad... Look here, dragon, if you know what's good for you, you'll turn around and crawl back up that hole you came through. Those eggs belong to us now, and I've hidden them in places you'll never find in a thousand years! Besides, even if you could find an egg, our expertly trained armies will dispose of you and take it back. Do I make myself clear? If I find you here again, I am going to be verrrrry angry... and you won't like me when I'm angry...|| 
+||38||128||Cpl. Gabrielle||Sir! The rhynocs have blocked the way out of this next cave with a security door, and I don't think you'll be able to blast your way through this one. Recommend you land on the weights and carry them to the pressure sensitive security switches either side of the door. When in position press the > button to drop the weight. Press the } button once to look down, press it again to look up, sir! &[Land on item to pick it up. &[The > button drops item. &[Use the } button to change views.|| 
+||39||134||Bianca||Listen to me, dragon... Spyro... this is serious now. The Sorceress is planning a trap for you, and if she catches you... believe me, you don't want to know what she's going to do... Look, I promise to take good care of the rest of the eggs. I mean it. Just take Hunter and go back home before... before... I can't say it, just go!|| 
+||40||170||Hunter||Check it out, this is the world's fastest turbo-snowboard course! The local champions are the Sasquatch Six, a gang of yeti's on souped up snow-discs. I bet that you could outrace the lot of 'em! If you win, we get a huge pile of treasure! If you lose, I have to slick down the whole course with my tongue.||
+||101||Sparx||
+||102||170||Hunter||Hi, Spyro! Did you see Bianca? She was really worried about you when you went off to fight the Sorceress. It was pretty funny. She tries to play it cool, but she was scared stiff until you came back safe.||
+||103||Sparx||
+||104||140||Greta||Oh hewwo, it's good to see you again, Spywo. That naughty sorcewess has stolen the pwofessor's wocket plans and I'm on a secwet mission to find them. Handel was supposed to meet me here but I can't find him anywhere. Maybe you could help?||
+||105||Sparx||
+||106||098||Zoe||Hi Spyro. To look left or right, press the @4L2@0 or @4R2@0 buttons. To quickly center the camera behind you, press the @4L1@0 or @4R1@0 button. You can look all around by holding the } button down.||
+||107||140||Handel||Hi, Agent 9! Behind those doors are some pwetty scary ninjas! I bet you could use your sharp shooter skills to take them out. Wemember, pwess the { button to shoot and use @4L1@0 and @4R1@0 to dodge left and wight.||
+||108||138||Crazy Ed||Hoooohoooo, at last, the acid lake is safe fer swimmin' agin'! I wish I could re-ward ya better, but all I gots left is dis 'ere other egg. Maybe dere'll be something better in dis one.||
+||109||158||Jamal||That was indeed a battle for the ages! You're the first dragon to win the competition in over a thousand years. I proudly present you this year's grand prize...||
+||110||120||Mowat||Hey, you found Farley! How can I ever thank you? I mean, I could give you this old egg, but Farley's been chewing on it and it's kinda slimey... oh well, it's the thought that counts, right?||
+||111||116||Zoe||Hi Spyro. This is a superflame powerup. You'll find more just like it scattered throughout all the worlds. Why don't you try this one out by using it to break all these planters. I think I saw a rhynoc hide an egg in one of them.||
+||112||120||Hunter||Whoa, you must be a natural! Now let's see if you can pull off a half-pipe spin move. The blue ramps are half-pipes. You can do a spin move by jumping at the top of the blue ramp, then steering left or right in the air.||
+||113||130||Sgt. Byrd||My tactical instincts told me the Sorceress would attack you here, so I flew in to help out. It seems my rocket launchers don't affect this creature, but I can assist you by dropping ammunition. Now get in there and fight the good fight!||
+||114||164||Professor||Ahh, Agent 9, my favorite pupil... welcome back to my island laboratory! I'm afraid rhynocs have taken over the whole island... perhaps you could stop them before they destroy all my research.||
+||115||154||The Marvelous Magnifico||Shhh! Spyro, don't tell anyone but we've stolen some magic from the Sorceress. We're hiding here whilst we practice using it. Unfortunately we've had a bit of an accident and turned everything into crystal, and it seems to have aggravated the indiginous creatures.||
+||116||170||Bianca||Your best chance to defeat her is to borrow my flying saucer. I've cast some spells on it to give it extra firepower and unlimited flying time... but the rest is going to be up to you... You've come this far, Spyro, I know you can beat her!||
+||117||116||Zoe||Excellent work Sparx, and I see that you've gained another new ability. Now if you hold down the @4L1,L2, R1 and R2@0 buttons at the same time, Sparx will point to any treasure still hanging around.||
+||118||Sparx||
+||119||152||Zoe||That last egg must have had some extra magic, because it gave Sparx two new abilities. Now he can break open treasure chests, and, using the Atlas, he can warp you to any level. Just select the level you want and press the > button.||
+||120||138||Hunter||Now that the rhynocs are gone, do you want to try a real challenge? I know you're fast, but I bet you can't defeat all the crabs on the course and still beat me in a race! Want to give it a shot?||
+||121||106||Smelt the Seal||Bluto the rhynoc has challenged us to a naval battle. Our speed boat versus his nuclear shark submarine. If we win, we get the dragon egg he's guarding. If we lose, we have to spend a month in K.P.||
+||122||138||Hunter||Sheesh, I can't believe you beat me! You must have been practicing the whole time I thought you were looking for eggs... Hey, speaking of which, one of those crabs was guarding this one...||
+||123||120||Hunter||You can go for the course record now, if you want. Whenever you hop on a skateboard, a timer will start. Score as many points as you can until the timer expires or you wipe out. Good luck!||
+||124||158||Jamal||You may now enter the championship round... However, this is an exceedingly dangerous sport. Might I suggest you quit while you're still in one piece?||
+||125||138||Hunter||Right on! You can use my special racing board. Every time you do a trick, it builds up turbo charge. You can use your turbos at any time by pressing the > button. Good luck!||
+||126||104||Shale||I'm playing a game of hide and seek with my friends. If I can't find where they've hidden their heads they won't let me join the Tiki Lodge. Help me put them back together and I'll make you an honorary member.||
+||127||098||Zoe||Nice work Sparx! You've beaten the Crawdad King and found the lost egg. Not only that but some of the dragon magic seems to have rubbed off on you. Now you can pick up gems when they're even further away from Spyro.||
+||128||158||Jamal||Oooh, I am terribly sorry, but that is incorrect. Unless you can solve the riddle, we cannot trust you behind the controls of something so dangerous as a fully loaded demolition hovercraft.||
+||129||Sparx||
+||130||158||Dan||Here is my riddle:\ I am a vessel without hinges, lock or lid,\ yet, within my walls, a golden treasure is hid.\ What am I?||
+||131||136||Moneybags||Off you go, then... But you'll regret it... Many years from now you'll sit on your old dragon haunches and wish with all your might that you could have just one more chance to see a game of cat hockey...||
+||132||110||Billy the Mountain Goat||You can get up really steep cliffs like this one with your double-jump. Press the < button to jump, then press it again exactly when you hit the ground to do the double-jump. Once you've mastered it, you can go anywhere you want!||
+||133||106||Snappy the Seal||Hi, Sheila! The rhynocs have built a fortress on our beach and we're going to blow it to smithereens! We just need you to take out all the turrets for us. We're lighting the bomb now, just make sure to stomp all those turrets before the fuse runs out, OK?||
+||134*||098||Zoe||I'm sorry, Spyro, but you seem to be playing a hacked version of this game. This may be an illegal copy. Since this copy has been modified, you may experience problems that would not occur on a legal copy.||
+||135||170||Bianca||This place is where the Sorceress kept all her treasure, but after she was defeated a bunch of thieves came and stole it. If you can catch the thieves, you're more than welcome to keep the treasure!||
+||136||122||Moneybags||\           You've made a wise choice...\        It will mean more eggs for you...\              And more gems for me. \           Best of all, Spyro...\        I can stop speaking Haiku.\           What a sweet relief!||
+||137||138||Crazy Ed||Alrighty then. Press the < button to speed on up, and when you get a sub in your sights, the torpedo will start to lock on. If you get a good lock-on, fire away with the { button. &[Press < to speed up.||
+||138||120||Hunter||You can go for the course record now, if you want. Whenever you hop on a skateboard, a timer will start. Score as many points as you can until the timer expires or you wipe out. Good luck!||
+||139||164||Professor||There's another door at the end of this beach, and rhynocs will keep coming out until you shoot the red panic button. Work your way up the beach by dodging and using the natural cover on the right side.||
+||140||156||Moneybags||I am dreadfully sorry, Spyro, but I can't let common riff raff into the Tomb of the Stone Golem. Only the crustiest of the upper crust may pass through here.||
+||141||Sparx||
+||142||Sparx||
+||143||152||Bianca||You did it, Spyro! You found enough of the dragon eggs for me to unlock the portal. Once I've opened it, you can confront the Sorceress whenever you're ready... but be careful, she'll be expecting you...||
+||144||Sparx||
+||145||164||Professor||These indicators show that a bunch of rhynocs are hiding behind the display screen. I'll switch on the view pedestal, and you shoot them as they attack! I recommend using your sniper mode.||
+||146||Sparx||
+||147||138||Crazy Ed||Well, I hate t' ask yer help again, but dere be even more subs that durn come outta nowheres. If you could blast 'em, I could use dis acid lake as muh swimmin' hole again.||
+||148||164||Professor||The lab's clear, and it smells better in here already! Follow me outside, where I expect we'll find some rhynocs wearing armor. You'll need a more powerful weapon to defeat them.||
+||149||Sparx||
+||150||164||Professor||Just as I thought, the machine room is overrun with birds. To target the birds in their nests, you'll want to use sniper mode, then zoom in for pinpoint accuracy. &[Press the } button to enter sniper mode.||
+||151||116||Moneybags||Heh heh... what a sucker... err, that is... It's a far, far better thing you do today, Spyro, than you have ever done, and... err... well so forth, et cetera, you get the idea...||
+||152||118||Moneybags||Step right up, Spyro. Behind this door is the single greatest show on earth! That's right! Ice dancing! Season tickets are available, but you'll have to act fast.||
+||153||122||Basho the Firefly||\           We have the bombs here.\         We must destroy the egg cage.\             But we just go boom.\ \           Kangaroo can help!\        You can clear the path for us!\           Will Sheila help us?||
+||154||122||Buson the Firefly||\           We have the bombs here.\         We must destroy the egg cage.\             But we just go boom.\ \           Kangaroo can help!\        You can clear the path for us!\           Will Sheila help us?||
+||155||142||Isabelle||You did it, James!!! I knew you weren't the leader of the Hummingbird Resistance Movement for nothing! Now we have the temple all to ourselves... but first, I have a present for you...||
+||156||134||Moneybags||Where are you getting all this money, Spyro? ... heh heh... It's not just lying around on the ground, is it? ...err... is it? Ahh, what do I care, it's mine now!||
+||157||144||Hunter||Look out, Spyro, there's a really big sheep UFO around here, and it's trying to get me! I snatched up a dragon egg it was trying to abduct, and now it wants revenge!||
+||158||142||Moneybags||Well, Spyro, today is your lucky day! The wizards and I have worked out a little deal. If you simply pay a small toll, they'll be happy to raise these steps and let you pass.||
+||159||134||Moneybags||Heh heh, the Sorceress has a real prize on her hands here... it took two dozen rhynocs to capture this dimwitted furball, so you'd better believe he's not going to get out cheap...||
+||160||120||Hunter||Flips are my signature move! Just jump off the ramp, hold down the } button, and push up or down on the directional pad. Try doing a flip and landing on the next ramp.||
+||161||100||Hunter||Alright, if you can catch all the lizards without wiping out and before time runs out, I  might be able to scrounge up another egg. It's not gonna be easy, though...||
+||162||
+||163||Sparx||
+||164||142||Liz||Spyro, we urgently need your help! The evil cat wizards of Felinia have stormed our castle and captured our princess! If we don't stop them right away, they'll force her to marry Prince Azrael!||
+||165||Sparx||
+||166||098||Hunter||To get the best glide distance, press the < button while walking forward, then press it again at the top of your jump. Finally, press the } button just before you get to the landing to hover.||
+||167||098||Snappy the Seal||Here I was, about to go for a nice swim at Shell Beach, and my portal just disappeared right in front of me. If you go find some more of those dragon eggs, I bet this portal would turn on again.||
+||168||102||Moneybags||Oooooh yes... precious, precious gems... Well then, Spyro, you may now use the bellows any time you wish. Best of luck on your little egg hunt. Well, well, if it isn't my favorite dragon! The Sorceress has put me in charge of guarding these bellows. However, I suppose I might look the other way if I was distracted by counting gems.||
+||169||146||Moneybags||I will gladly help you on your quest, Spyro, but first I must attend to my young sibling. I'm afraid he may have gotten himself into trouble during my absence.||
+||170||164||Professor||A vast number of rhynocs are waiting to ambush us as soon as I lower this force field. I expect they'll keep coming until you shoot the red panic button next to the door where they come out.||
+||171||158||Jamal||The first round of the annual demolition hovercraft competition is about to begin! There is room for one more contestant, but you'll have to answer a riddle to qualify.||
+||172||138||Crazy Ed||Dese here waters used to be my favorite divin' spot, but I can't get any loot with dese subs patrollin' around. Think you kin pilot dis here sub I bought for scrap?||
+||173||114||Zoe||You'll be able to deal with these guys much faster if you use the powerup. Just eat any powerup butterfly and then press the < button to use that powerup. Your powerup is shown in the top right of the screen.||
+||174||114||Zoe||Hello Sparx, maybe before you take on the nasty crawdads I should give you some help. To start let's practice shooting. Press the { button to shoot these targets.||
+||175||158||Jamal||The riddle is this:\ If one dragon can lay one egg in twelve years, how long would it take for 100 dragons to lay 100 eggs? ||
+||176||120||Jasper||And now, for my latest experiment: 'Blast-Sculpting'! I shall attempt to carve an image of you with a single explosive detonation...||
+||177||120||Jasper||The world breathlessly awaits my brilliant four-dimensional masterpiece... just light all the rockets and prepare to be amazed by my genius!||
+||178||142||Moneybags||Say, Spyro, if you had a bit more money, I think I could make a deal with the wizards to raise these steps. I'm afraid that's the only way you'll be able to get to the castle.||
+||179||136||Ernest||Eustace and I were having a snowman building competition when the Sorceress brought them to life with a spell. Since then they've been stomping around building ice walls and generally causing trouble.||
+||180||
+||181||098||Moneybags||The Sorceress has asked me to guard Sheila the Kangaroo. I suppose, if you had a bit more money, I'd be willing to let her escape. Then you could keep her for a pet or something.||
+||182||098||Moneybags||Ahhh, Spyro, I love your sweet naivete... Your kind-hearted nature might be your downfall someday, but for the time being it's making me rich!||
+||183||098||Hunter||There's definitely something shiny at the bottom of this hole. I was about to jump down there, but I think I hear running water and I hate to get wet. It's a cat thing.||
+||184||
+||185||142||Jack||I just bought some insta-sprout-ultra-super-grow seeds from a bear with a bag of gems. He said they were magic, but I can't make them do anything. You can have a couple, if you like.||
+||186||110||Billy the Mountain Goat||Hiya Sheila! While you were gone, a bunch of rhynocs kicked us out of our houses. It's OK though... Bobby, Pete and I are working on a clever plan to take them back.||
+||187||152||Moneybags||You don't want to free him? Ahhh, what's the matter, little dragon? Are you just jealous that no one has ever made an action figure out of you?||
+||188||164||Professor||Ah, it'll be just like old times! Try shooting these dummies to get warmed up, but... err, be careful, I think a rhynoc might be hiding among them...||
+||189||154||The Astounding Arturo||Well, I suppose I could show you my new trick. As long as you promise not to tell the Great Zamboni, he steals all my best work... ALAKAZAM!||
+||190||Sparx||
+||191||118||Nancy||Uh...that's OK. I don't mind getting beaten to a pulp over and over by a bunch of vicious hockey players. I'm sure you have more important things to do anyway.||
+||192||Sparx||
+||193||Sparx||
+||194||142||Moneybags||Suit yourself, Spyro... but every time I think of that poor, poor fairy princess being captured by those villainous wizards, I simply break down in tears.||
+||195||134||Princess Ami||I've always been really good with machinery. In fact, if you get me a little more help, I could whip up a rocketship in no time. But hurry, OK? I want to get back to my honeymoon!||
+||196||138||Crazy Ed||Be careful, roun' dese parts, li'l dragon! Dere be more ghosts in dis here shipyard den I kin shake me pick at! Durned shame, too, 'cause I was mighty close tuh findin' me treasure.||
+||197||104||Moneybags||Very well, Spyro, it's up to you... Maybe if we both just hold hands and think happy thoughts, the thieves will decide to return the eggs themselves||
+||198||134||Zoe||When I saw that giant stingray I thought you were a goner, Sparx, but you sure showed him. Now the magic from the egg has made you even stronger, so you can take one more hit for Spyro.||
+||199||152||Zoe||Just before you kicked the Sorceress's big, fat, ugly butt she built a factory to make robotic bugs to fight Sparx, but I don't think they're any match for him.||
+||200||120||Hunter||Isn't this the wildest skateboard park you've ever seen? Once you've mastered a few tricks, you could score huge points in this place! What do you say I show you some moves? &Learn some tricks?||
