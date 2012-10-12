@@ -105,3 +105,37 @@
 ||198||134||Zoe||When I saw that giant stingray I thought you were a goner, Sparx, but you sure showed him. Now the magic from the egg has made you even stronger, so you can take one more hit for Spyro.||
 ||199||152||Zoe||Just before you kicked the Sorceress's big, fat, ugly butt she built a factory to make robotic bugs to fight Sparx, but I don't think they're any match for him.||
 ||200||120||Hunter||Isn't this the wildest skateboard park you've ever seen? Once you've mastered a few tricks, you could score huge points in this place! What do you say I show you some moves? &Learn some tricks?||
+
+*"Secret's STR"*
+
+||1000||Sparx||
+||1001||136||Alex||Some bear sold us a laser defense system to protect us from Rhynocs, but with these flippers I can't even turn it on. You'd have no trouble using it though. Just walk inside. When you're done, press the } button and you'll walk back out.||
+||1002||154||Bentley||Good evening Spyro. The Amazing Randini is about to put on a display of prestidigitation. I've heard that it's quite impressive so I'm going to watch the show.||
+||1003||158||Allgeier||Hmmmm... have you heard that one before? I never thought you'd get it. Very well, a bargain is a bargain. You may have the dragon egg that I was guarding from the Sorceress.||
+||1004||106||Sandy the Seal||We had a dragon egg for you, but we used it to test our ultra-high-speed-super-fluidity tunnel. The good news is that it made it to the end of the tunnel without a scratch! The bad news is that there's no way to get it back out now.||
+||1005||160||Sheriff Wyatt||Well I'll be, so that's how my prisoners keep escaping! Here take this dinosaur egg away before it hatches and causes more trouble. I think it must have been the runt of the litter though.||
+||1006||156||Hunter||OK. By the way, if you see Bianca around, can you tell her to meet me here? I... uh... promised I'd give her scuba lessons once the sharks were gone.||
+||1007||156||Hunter||I've been training my new pet manta ray to carry the latest technology super-high-impact underwater missile launchers! Wanna ride him, and try blastin' some sharks? &Ride manta ray and shoot sharks?||
+||1008||120||Pablo||Those crummy rhynocs forced us to build a statue of the Sorceress. Then, after we built it, she complained it was too ugly! If you ask me, the statue is much prettier than she is.||
+||1009||142||Moneybags||You have chosen wisely, Spyro. I'll tell the wizards to raise the steps immediately... And, err, best of luck rescuing that princess, or whatever it is you're up to...||
+||1010||120||Hunter||Alright, you nailed it. Now let's see if you can do a 900! Get as much height as you can, spin two and a half revolutions in the air and land back on the ramp.||
+||1011||152||Moneybags||Heh heh, you've always had a weakness for helping silly little creatures, haven't you, Spyro? Ah well, I suppose there couldn't be any harm in letting him out, could there?||
+||1012||Sparx||
+||1013||098||Rocky||I'm late for a dinner party at the Tiki Lodge, and the portal to my home just stopped working. Maybe the portal will reactivate after a few more dragons hatch.||
+||1014||098||Hunter||I saw something shiny in that cave over there...let's go check it out! You can get there by hovering. To hover, just press the } button at the end of your glide!||
+||1015||154||The Great Zamboni||You want to see the trick again? Well, alright but I want you to know this isn't as easy as it looks... ALAKAZAM!||
+||1016||154||The Fantastic Frederico||Ok, I'll show you again. If you watch carefully maybe you'll be able to see how it's done... ABRACADABRA!||
+||1017||158||Allgeier||I see you've managed to survive the trials of the catacombs. Now let's find out if your wits are as quick as your feet. Do you remember the riddle?||
+||1018||154||The Fantastic Frederico||All this magic is just misdirection you know. Which is why I'm going to start that whirlwind over there... ABRACADABRA!||
+||1019||156||Moneybags||OK, there was no password. I was standing in front of the wall switch. What are you going to do, sue me?||
+||1020||140||Agent 9||Hey Spyro, I'm helping a kid called Handel recover some secret rocket plans the Sorceress stole. You know I'm always ready to kick some rhynoc booty.||
+||1021||Sparx||
+||1022||102||Moneybags||What? NO? What else are you going to do with all those gems? Buy flying lessons? (Heh heh) that was a good one...||
+||1023||102||Cumulus||Our sun has gone out. We can make a new one with our lava fusion cauldron and three sun seeds, but they keep burning out before we can get them in the pot.||
+||1024||170||Bianca||Oh, by the way, Hunter is around here somewhere. He's been tinkering with one of his new toys all day, and he wants to show it off. You should go see him!||
+||1025||120||Hunter||Let's start with something easy. You can jump off the end of ramps by pressing the < button. I'll show you how to do it once, then it's your turn.||
+||1026||120||Ooga||What did you have to come back for? Now he's going to do his whole routine again! Well, here we go...||
+||1027||120||Hunter||Just press the < button at the top of the ramp to jump off it. Try jumping as close to the top as possible to get the most hang time.||
+||1028||152||Zoe||Once you complete Sparx's special tasks in Sunrise Spring Home and Midday Garden Home, he will gain new abilities that will make collecting gems much easier!||
+||1029||110||Billy the Mountain Goat||You see that rhynoc guy up ahead? He's still mad at us for hanging his underpants on top of this tree. We'll just wait over here while you give him a swift kick.||
+||1030||098||Snappy the Seal||I want to repay you for saving me from that octopus. We can help you use this hot air balloon, if you just bring back someone from each of the other worlds.||
