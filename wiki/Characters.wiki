@@ -1,0 +1,44 @@
+#summary Список персонажей.
+
+*Основные действующие лица.*
+|| *Персонаж* || *Субфайлы* ||
+|| Spyro || - ||
+|| Sparx || 108, ||
+|| Hunter || 098, 100, 108, ||
+|| Sheila || 100, 106, ||
+|| Sgt. James Byrd || 104, ||
+|| Bentley ||  ||
+|| Agent 9 ||  ||
+|| Sorceress || - ||
+|| Moneybags || 098, 102, 104, ||
+|| Bianca || 098, ||
+|| Professor ||  ||
+|| Zoe || 098, 100, 102, 104, 106, 110 ||
+
+*Второстепенные персонажи.*
+|| *Персонаж* || *Субфайлы* ||
+||Snappy the Seal|| 098, 106 ||
+||Rocky|| 098, 104 ||
+||Cumulus|| 098, 102 ||
+||Mayor Leo|| 098, 100 ||
+||Councillor George|| 100 ||
+||Citizen Paulus|| 100 ||
+||Citizen Horace|| 100 ||
+||Rapunzel|| 100 ||
+||Marco|| 100 ||
+||Nimbus|| 102 ||
+||Cirrus|| 102 ||
+||Fluffy|| 102 ||
+||Stratus|| 102 ||
+||Clay|| 104 ||
+||Shale|| 104 ||
+||Stoney|| 104 ||
+||Sebastian the Seal|| 106 ||
+||Stanley the Seal|| 106 ||
+||Sigmund the Seal|| 106 ||
+||Sal the Seall|| 106 ||
+||Stu the Seal|| 106 ||
+||Sandy the Seal|| 106 ||
+||Smelt the Seal|| 106 ||
+||Sebastian the Seal|| 106 ||
+||Billy the Mountain Goat|| 110 ||
