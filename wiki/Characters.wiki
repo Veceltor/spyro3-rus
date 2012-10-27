@@ -3,17 +3,17 @@
 *Основные действующие лица.*
 || *Персонаж* || *Субфайлы* ||
 || Spyro || - ||
-|| Sparx || 108, ||
-|| Hunter || 098, 100, 108, ||
-|| Sheila || 100, 106, ||
-|| Sgt. James Byrd || 104, ||
-|| Bentley ||  ||
+|| Sparx || 108, 126||
+|| Hunter || 098, 100, 108, 116, 120, 126, ||
+|| Sheila || 100, 106, 112, 122, ||
+|| Sgt. James Byrd || 104, 116, 120, 128, 130, ||
+|| Bentley || 124,  ||
 || Agent 9 ||  ||
 || Sorceress || - ||
-|| Moneybags || 098, 102, 104, ||
-|| Bianca || 098, ||
+|| Moneybags || 098, 102, 104, 116, 118, 122, ||
+|| Bianca || 098, 116, ||
 || Professor ||  ||
-|| Zoe || 098, 100, 102, 104, 106, 110 ||
+|| Zoe || 098, 100, 102, 104, 106, 110, 114, 116 ||
 
 *Второстепенные персонажи.*
 || *Персонаж* || *Субфайлы* ||
@@ -42,3 +42,29 @@
 ||Smelt the Seal|| 106 ||
 ||Sebastian the Seal|| 106 ||
 ||Billy the Mountain Goat|| 110 ||
+||Shiny the Firefly||116, 122||
+||Jasper||116, 120||
+||Doug||116, 118||
+||Bob||118||
+||Nancy||118||
+||Pablo||120||
+||Ooga||120||
+||Mowat||120||
+||Homer the Firefly||122||
+||Bubba the Firefly||122||
+||Basho the Firefly||122||
+||Buson the Firefly||122||
+||Lei||124||
+||Chi Chi||124||
+||Feng||124||
+||Tsai||124||
+||Ling Ling||124||
+||Sing Sing||124||
+||Shui||124||
+||Bartholomew||124||
+||Cpl. Gabrielle||128||
+||Pvt. Claire||128||
+||Pvt. Nikita||128||
+||Pvt. Chloe||128||
+||Pvt. Eloise||128||
+||Pvt. Helene||128||
