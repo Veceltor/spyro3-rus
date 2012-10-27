@@ -141,3 +141,23 @@
 ||1028||152||Zoe||Once you complete Sparx's special tasks in Sunrise Spring Home and Midday Garden Home, he will gain new abilities that will make collecting gems much easier!||
 ||1029||110||Billy the Mountain Goat||You see that rhynoc guy up ahead? He's still mad at us for hanging his underpants on top of this tree. We'll just wait over here while you give him a swift kick.||
 ||1030||098||Snappy the Seal||I want to repay you for saving me from that octopus. We can help you use this hot air balloon, if you just bring back someone from each of the other worlds.||
+||1031||100||Hunter||Caught all the lizards yet? If you're having trouble catching them, don't be afraid to use your flame breath while on the skateboard.||
+||1032||136||Bartholomew||I knew you'd do it. Go and show him not to mess with us. Remember to block his high punches, and hit him low when he tries to block.||
+||1033||146||Bartholomew||Hey brainiac, you're supposed to be smart. Why don't you try pushing those blocks around to bridge that gap?||
+||1034||164||Agent 9||Hiya, Spyro... I'm just off to patrol the island again, you know, in case any rhynocs decided to come crawling back...||
+||1035||124||Bentley||Ah, a fine day for a bit of a walk. I was just heading to the top of my favorite hill...||
+||1036||110||Billy the Mountain Goat||I think my taunting is wearing them down! Remember, just jump and press the triangle button to stomp those huts.||
+||1037||164||Professor||By my calculations, the bombs in this handy vending machine should be highly effective against armor. Give it a shot. &[Press the > button to throw bombs.||
+||1038||146||Bentley||I'm afraid my home is still infested with rhynocs, I'll return when they are dealt with.||
+||1039||138||Hunter||Heh heh, what's the matter, getting chicken on me? Bwaaak bwaaak bwaaaaaak! Bwak bwaak bwak bwak bwaaaaaaaaaak!||
+||1040||138||Hunter||Heh heh, you're just chicken aren't you? Bwaaak bwaaak bwaaaaaak! Bwak bwaak bwak bwak bwaaaaaaaaaak!||
+||1041||118||Bob||You can hop on the cannon and try shooting the ice block if you want to, but I'm warning you, it's a lot harder than it looks!||
+||1042||Sparx||
+||1043||136||Moneybags||Heh heh... I hate to spoil the game for you, Spyro, but I've already bribed the local team to forfeit to the rhynocs.||
+||1044||098||Mayor Leo||I guess you just hop in the balloon, now... Don't ask me how it works, I just showed up for the punch and cookies, a ha ha ha.||
+||1045||158||Dan||Don't try to answer the riddle now. You'll need to save your breath to survive the trials of the catacombs.||
+||1046||118||Bob||I've been trying to clear the way with this cannon, but it doesn't even shoot straight. I haven't been able to hit a dang thing all morning.||
+||1047||116||Shiny||You need five people\ To help with the whirligig.\ Find one in each world.||
+||1048||Sparx||
+||1049||146||Bartholomew||C'mon, c'mon just press the { button to swing your club. I wanna see it break into a million pieces.||
+||1050||142||Jack||According to legends, there's a golden goose at the top of this here mountain. I want to be the first person to the top, so I can grab it!||
