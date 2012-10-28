@@ -3,17 +3,17 @@
 *Основные действующие лица.*
 || *Персонаж* || *Субфайлы* ||
 || Spyro || - ||
-|| Sparx || 108, 126||
-|| Hunter || 098, 100, 108, 116, 120, 126, ||
-|| Sheila || 100, 106, 112, 122, ||
-|| Sgt. James Byrd || 104, 116, 120, 128, 130, ||
-|| Bentley || 124,  ||
-|| Agent 9 ||  ||
+|| Sparx || 108, 126, 144, 162 ||
+|| Hunter || 098, 100, 108, 116, 120, 126, 138, 144, 156, 162, 170 ||
+|| Sheila || 100, 106, 112, 122, 156 ||
+|| Sgt. James Byrd || 104, 116, 120, 128, 130, 142 ||
+|| Bentley || 124, 134, 136, 146, 148, 154 ||
+|| Agent 9 || 140, 152, 158, 164, 166 ||
 || Sorceress || - ||
-|| Moneybags || 098, 102, 104, 116, 118, 122, ||
-|| Bianca || 098, 116, ||
-|| Professor ||  ||
-|| Zoe || 098, 100, 102, 104, 106, 110, 114, 116 ||
+|| Moneybags || 098, 102, 104, 116, 118, 122, 134, 136, 142, 152, 154, 156 ||
+|| Bianca || 098, 116, 134, 152, 170 ||
+|| Professor || 164 ||
+|| Zoe || 098, 100, 102, 104, 106, 110, 114, 116, 134, 152 ||
 
 *Второстепенные персонажи.*
 || *Персонаж* || *Субфайлы* ||
@@ -68,3 +68,33 @@
 ||Pvt. Chloe||128||
 ||Pvt. Eloise||128||
 ||Pvt. Helene||128||
+||Eugene||134, 136||
+||Crazy Ed||134, 138||
+||Princess Ami||134, 142||
+||Greta||134, 140||
+||Ernest||136||
+||Alex||136||
+||Gabrielle||136||
+||Eustace||136||
+||Errol||136||
+||Handel||140||
+||Alicia||142||
+||Eileen||142||
+||Molly||142||
+||Liz||142||
+||Isabelle||142||
+||Jack||142||
+||The Marvelous Magnifico||154||
+||The Fantastic Frederico||154||
+||The Astounding Arturo||154||
+||The Magnificent Marvello||154||
+||The Great Zamboni||154||
+||The Amazing Randini||154||
+||Gus||156||
+||Tara||156||
+||Dan||158||
+||Allgeier||158||
+||Jamal||158||
+||Ali||158||
+||Sheriff Wyatt||160||
+||Deputy Holiday||160||
