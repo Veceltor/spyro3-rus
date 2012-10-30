@@ -12,7 +12,6 @@
 || Sorceress || - ||
 || Moneybags || 098, 102, 104, 116, 118, 122, 134, 136, 142, 152, 154, 156 ||
 || Bianca || 098, 116, 134, 152, 170 ||
-|| Professor || 164 ||
 || Zoe || 098, 100, 102, 104, 106, 110, 114, 116, 134, 152 ||
 
 *Второстепенные персонажи.*
@@ -61,7 +60,7 @@
 ||Ling Ling||124||
 ||Sing Sing||124||
 ||Shui||124||
-||Bartholomew||124||
+||Bartholomew||124, 136, 146||
 ||Cpl. Gabrielle||128||
 ||Pvt. Claire||128||
 ||Pvt. Nikita||128||
@@ -98,3 +97,4 @@
 ||Ali||158||
 ||Sheriff Wyatt||160||
 ||Deputy Holiday||160||
+|| Professor || 164 ||
