@@ -15,43 +15,43 @@
 || Zoe || 098, 100, 102, 104, 106, 110, 114, 116, 134, 152 ||
 
 *Второстепенные персонажи.*
-|| *Персонаж* || *Субфайлы* ||
-||Snappy the Seal|| 098, 106 ||
-||Rocky|| 098, 104 ||
-||Cumulus|| 098, 102 ||
+|| *Персонаж* || *Субфайлы* || *Пример озвучки в jpsxdec* ||
 ||Mayor Leo|| 098, 100 ||
 ||Councillor George|| 100 ||
 ||Citizen Paulus|| 100 ||
 ||Citizen Horace|| 100 ||
 ||Rapunzel|| 100 ||
 ||Marco|| 100 ||
+||Cumulus|| 098, 102 ||
 ||Nimbus|| 102 ||
 ||Cirrus|| 102 ||
 ||Fluffy|| 102 ||
 ||Stratus|| 102 ||
+||Rocky|| 098, 104 ||
 ||Clay|| 104 ||
-||Shale|| 104 ||
+||Shale|| 104 ||126*||
 ||Stoney|| 104 ||
+||Snappy the Seal|| 098, 106 ||
 ||Sebastian the Seal|| 106 ||
 ||Stanley the Seal|| 106 ||
 ||Sigmund the Seal|| 106 ||
-||Sal the Seall|| 106 ||
+||Sal the Seal|| 106 ||
 ||Stu the Seal|| 106 ||
 ||Sandy the Seal|| 106 ||
-||Smelt the Seal|| 106 ||
+||Smelt the Seal|| 106 ||121*||
 ||Sebastian the Seal|| 106 ||
-||Billy the Mountain Goat|| 110 ||
-||Shiny the Firefly||116, 122||
-||Jasper||116, 120||
+||Billy the Mountain Goat|| 110 ||132*||
 ||Doug||116, 118||
 ||Bob||118||
-||Nancy||118||
+||Nancy||118||191*||
+||Jasper||116, 120||176*||
 ||Pablo||120||
 ||Ooga||120||
-||Mowat||120||
+||Mowat||120||110*||
+||Shiny the Firefly||116, 122||
 ||Homer the Firefly||122||
 ||Bubba the Firefly||122||
-||Basho the Firefly||122||
+||Basho the Firefly||122||153*||
 ||Buson the Firefly||122||
 ||Lei||124||
 ||Chi Chi||124||
@@ -61,29 +61,29 @@
 ||Sing Sing||124||
 ||Shui||124||
 ||Bartholomew||124, 136, 146||
-||Cpl. Gabrielle||128||
+||Cpl. Gabrielle||128||38*||
 ||Pvt. Claire||128||
 ||Pvt. Nikita||128||
 ||Pvt. Chloe||128||
 ||Pvt. Eloise||128||
 ||Pvt. Helene||128||
+||Crazy Ed||134, 138||108*||
 ||Eugene||134, 136||
-||Crazy Ed||134, 138||
-||Princess Ami||134, 142||
-||Greta||134, 140||
-||Ernest||136||
+||Ernest||136||179*
 ||Alex||136||
 ||Gabrielle||136||
 ||Eustace||136||
 ||Errol||136||
-||Handel||140||
+||Greta||134, 140||104*||
+||Handel||140||107*||
+||Princess Ami||134, 142||195*||
 ||Alicia||142||
 ||Eileen||142||
 ||Molly||142||
-||Liz||142||
-||Isabelle||142||
-||Jack||142||
-||The Marvelous Magnifico||154||
+||Liz||142||164*||
+||Isabelle||142||155*||
+||Jack||142||185*||
+||The Marvelous Magnifico||154||115*||
 ||The Fantastic Frederico||154||
 ||The Astounding Arturo||154||
 ||The Magnificent Marvello||154||
@@ -91,10 +91,10 @@
 ||The Amazing Randini||154||
 ||Gus||156||
 ||Tara||156||
-||Dan||158||
+||Dan||158||130*||
 ||Allgeier||158||
-||Jamal||158||
+||Jamal||158||109*||
 ||Ali||158||
 ||Sheriff Wyatt||160||
 ||Deputy Holiday||160||
-|| Professor || 164 ||
+|| Professor || 164 ||114*||
