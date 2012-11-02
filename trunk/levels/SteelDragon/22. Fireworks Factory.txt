@@ -26,17 +26,13 @@ Hey, look what was in the wocket. They must have been twying to put it into orbi
 
 Посмотли-ка, что было в лакете. Они, кажется, хотели запустить его на олбиту.  [5]
 
-If you see Handel tell him I've gone back to Evening Lake to finish work on the 
+If you see Handel tell him I've gone back to Evening Lake to finish work on the pwofessor's wocket. 
 
-pwofessor's wocket.  [60]
+Увидишь Генделя, скажи ему, что я возвлащаюсь на Вечелнее Озело, помогать стлоить лакету плофессола.  [-1]
 
-Увидишь Генделя, скажи ему, что я возвлащаюсь на Вечелнее Озело, помогать стлоить лакету плофессола. 
+Uh oh. You'll have to use this combo powerup to take out these fire dwagons. It will allow you to superfwy and superfwame at the same time. &[Defeat the two flying fire dragons &[The fire dragons will grow back their tails when left alone. 
 
-Uh oh. You'll have to use this combo powerup to take out these fire dwagons. It will allow you to superfwy and superfwame at the same time. &[Defeat the two flying fire dragons &[The fire dragons will grow back their tails when left alone.  [-139]
-
-Ой-ой. Тебе плидется использовать этот сдвоенный бонус ("сдвоенный бонус". Кажется, ещё хуже стало - прим. пер.) , чтобы сбить этих огненных длаконов. Он 
-
-позволит тебе летать и плеваться огненными шалами одновлеменно. &[Сбей двух огненных драконов &[Когда огненные драконы остаются одни, они отращивают свои хвосты.  [-8]
+Ой-ой. Тебе плидется использовать этот сдвоенный бонус, чтобы сбить этих огненных длаконов. Он позволит тебе летать и плеваться огненными шалами одновлеменно. &[Сбей двух огненных драконов &[Когда огненные драконы остаются одни, они отращивают свои хвосты.  [-17]
 
 Here have this. I fished it out of the molten wava. 
 
