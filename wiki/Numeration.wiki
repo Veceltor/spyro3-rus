@@ -165,7 +165,17 @@
 ||198||134||Zoe||When I saw that giant stingray I thought you were a goner, Sparx, but you sure showed him. Now the magic from the egg has made you even stronger, so you can take one more hit for Spyro.||
 ||199||152||Zoe||Just before you kicked the Sorceress's big, fat, ugly butt she built a factory to make robotic bugs to fight Sparx, but I don't think they're any match for him.||
 ||200||120||Hunter||Isn't this the wildest skateboard park you've ever seen? Once you've mastered a few tricks, you could score huge points in this place! What do you say I show you some moves? &Learn some tricks?||
-
+||354||136||Bartholomew||This time it will be a 3 round match, and when you win, don't let him send you off with a stupid egg!||
+||355||124||Feng||I'm sure you have many important things to do, but if you could find the time to help please come back.||
+||356||120||Jasper||Oooops, I forgot I hid this egg inside the statue. I hope the explosion didn't hard boil it...||
+||357||120||Ooga||Here have this. I was going to keep it as a souvenir, but I don't have room in my luggage.||
+||358||116||Shiny the Firefly||Follow me, Spyro.\ The whirligig awaits you.\ The sky shall be yours!||
+||359||140||Handel||Thanks for wescuing me, you'd better look after this egg before the whynocs twy to blow that up too.||
+||360||100||Sheila||This balloon will take you to a land closer to the Sorceress, Spyro. You can also use it to come back here whenever you want to.||
+||361||098||Hunter||Hey that was great! And while you were boarding, I found this in a lizard burrow.||
+||362||100||Rocky||At last, my portal is working again! Come visit me at the Tiki Lodge!||
+||363||122||Moneybags||Stop talking to me.\         I hate speaking in Haiku.\           Just go find some gems...||
+||364||122||Sheila||This swamp smells so sweet.\        The springtime trees are fragrant.\            I'm off to kick butt.||
 *"Secret's STR"*
 
 ||1000||Sparx||
