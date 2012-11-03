@@ -27,7 +27,7 @@
 ||Cirrus|| 102 ||
 ||Fluffy|| 102 ||
 ||Stratus|| 102 ||
-||Rocky|| 098, 104 ||
+||Rocky|| 098, 104 ||362*||
 ||Clay|| 104 ||
 ||Shale|| 104 ||126*||
 ||Stoney|| 104 ||
@@ -46,21 +46,21 @@
 ||Nancy||118||191*||
 ||Jasper||116, 120||176*||
 ||Pablo||120||
-||Ooga||120||
+||Ooga||120||357*||
 ||Mowat||120||110*||
-||Shiny the Firefly||116, 122||
+||Shiny the Firefly||116, 122||358*||
 ||Homer the Firefly||122||
 ||Bubba the Firefly||122||
 ||Basho the Firefly||122||153*||
 ||Buson the Firefly||122||
 ||Lei||124||
 ||Chi Chi||124||
-||Feng||124||
+||Feng||124||355*||
 ||Tsai||124||
 ||Ling Ling||124||
 ||Sing Sing||124||
 ||Shui||124||
-||Bartholomew||124, 136, 146||
+||Bartholomew||124, 136, 146||354*||
 ||Cpl. Gabrielle||128||38*||
 ||Pvt. Claire||128||
 ||Pvt. Nikita||128||
