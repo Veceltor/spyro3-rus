@@ -176,6 +176,7 @@
 ||362||100||Rocky||At last, my portal is working again! Come visit me at the Tiki Lodge!||
 ||363||122||Moneybags||Stop talking to me.\         I hate speaking in Haiku.\           Just go find some gems...||
 ||364||122||Sheila||This swamp smells so sweet.\        The springtime trees are fragrant.\            I'm off to kick butt.||
+
 *"Secret's STR"*
 
 ||1000||Sparx||
