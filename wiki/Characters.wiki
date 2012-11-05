@@ -14,8 +14,13 @@
 || Bianca || 098, 116, 134, 152, 170 || 037 ||
 || Zoe || 098, 100, 102, 104, 106, 110, 114, 116, 134, 152 || 050 ||
 
-Для тех, у кого нет возможности использовать *jpsxdec* представляю архив с примереми озвучек. Основных действующих лиц:
+Для тех, у кого нет возможности использовать *jpsxdec* представляю архив с примереми озвучек. 
+Основных действующих лиц:
 http://nihonjinryuu.narod2.ru/Basis_characters.rar
+
+Второстепенных персонажей(пока что только 26):
+
+http://nihonjinryuu.narod2.ru/beta2_full_characters_voice.rar
 
 *Второстепенные персонажи.*
 || *Персонаж* || *Субфайлы* || *Пример озвучки в jpsxdec* ||
@@ -86,9 +91,9 @@ http://nihonjinryuu.narod2.ru/Basis_characters.rar
 ||Liz||142||164||
 ||Isabelle||142||63||
 ||Jack||142||185||
-||The Marvelous Magnifico||154||115||
-||The Fantastic Frederico||154||
-||The Astounding Arturo||154||
+||The Marvelous Magnifico||154||~The Great Zamboni||
+||The Fantastic Frederico||154||~The Great Zamboni||
+||The Astounding Arturo||154||~The Great Zamboni||
 ||The Magnificent Marvello||154||
 ||The Great Zamboni||154||95||
 ||The Amazing Randini||154||
