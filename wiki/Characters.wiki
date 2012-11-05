@@ -22,79 +22,79 @@
 ||Citizen Horace|| 100 ||
 ||Rapunzel|| 100 ||
 ||Marco|| 100 ||
-||Cumulus|| 098, 102 ||
+||Cumulus|| 098, 102 ||1023||
 ||Nimbus|| 102 ||
 ||Cirrus|| 102 ||
 ||Fluffy|| 102 ||
 ||Stratus|| 102 ||
-||Rocky|| 098, 104 ||362*||
+||Rocky|| 098, 104 ||
 ||Clay|| 104 ||
-||Shale|| 104 ||126*||
+||Shale|| 104 ||126||
 ||Stoney|| 104 ||
 ||Snappy the Seal|| 098, 106 ||
-||Sebastian the Seal|| 106 ||
+||Sebastian the Seal|| 106 ||90||
 ||Stanley the Seal|| 106 ||
 ||Sigmund the Seal|| 106 ||
 ||Sal the Seal|| 106 ||
 ||Stu the Seal|| 106 ||
 ||Sandy the Seal|| 106 ||
-||Smelt the Seal|| 106 ||121*||
+||Smelt the Seal|| 106 ||
 ||Sebastian the Seal|| 106 ||
-||Billy the Mountain Goat|| 110 ||132*||
+||Billy the Mountain Goat|| 110 ||132||
 ||Doug||116, 118||
-||Bob||118||
-||Nancy||118||191*||
-||Jasper||116, 120||176*||
-||Pablo||120||
-||Ooga||120||357*||
-||Mowat||120||110*||
-||Shiny the Firefly||116, 122||358*||
+||Bob||118||1041||
+||Nancy||118||64||
+||Jasper||116, 120||79||
+||Pablo||120||1008||
+||Ooga||120||57||
+||Mowat||120||46||
+||Shiny the Firefly||116, 122||
 ||Homer the Firefly||122||
 ||Bubba the Firefly||122||
-||Basho the Firefly||122||153*||
+||Basho the Firefly||122||153||
 ||Buson the Firefly||122||
 ||Lei||124||
 ||Chi Chi||124||
-||Feng||124||355*||
+||Feng||124||
 ||Tsai||124||
-||Ling Ling||124||
+||Ling Ling||124||97||
 ||Sing Sing||124||
 ||Shui||124||
-||Bartholomew||124, 136, 146||354*||
-||Cpl. Gabrielle||128||38*||
+||Bartholomew||124, 136, 146||354||
+||Cpl. Gabrielle||128||38||
 ||Pvt. Claire||128||
 ||Pvt. Nikita||128||
 ||Pvt. Chloe||128||
 ||Pvt. Eloise||128||
 ||Pvt. Helene||128||
-||Crazy Ed||134, 138||108*||
+||Crazy Ed||134, 138||108||
 ||Eugene||134, 136||
-||Ernest||136||179*
-||Alex||136||
+||Ernest||136||179||
+||Alex||136||1001||
 ||Gabrielle||136||
 ||Eustace||136||
 ||Errol||136||
-||Greta||134, 140||104*||
-||Handel||140||107*||
-||Princess Ami||134, 142||195*||
+||Greta||134, 140||104||
+||Handel||140||107||
+||Princess Ami||134, 142||48||
 ||Alicia||142||
 ||Eileen||142||
 ||Molly||142||
-||Liz||142||164*||
-||Isabelle||142||155*||
-||Jack||142||185*||
-||The Marvelous Magnifico||154||115*||
+||Liz||142||164||
+||Isabelle||142||63||
+||Jack||142||185||
+||The Marvelous Magnifico||154||115||
 ||The Fantastic Frederico||154||
 ||The Astounding Arturo||154||
 ||The Magnificent Marvello||154||
-||The Great Zamboni||154||
+||The Great Zamboni||154||95||
 ||The Amazing Randini||154||
-||Gus||156||
-||Tara||156||
-||Dan||158||130*||
-||Allgeier||158||
-||Jamal||158||109*||
-||Ali||158||
-||Sheriff Wyatt||160||
+||Gus||156||52||
+||Tara||156||74||
+||Dan||158||54||
+||Allgeier||158||1003||
+||Jamal||158||109||
+||Ali||68||
+||Sheriff Wyatt||160||55||
 ||Deputy Holiday||160||
-|| Professor || 164 ||114*||
+|| Professor || 164 ||114||
