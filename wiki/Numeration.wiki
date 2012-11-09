@@ -289,7 +289,7 @@
 ||1107||120||Jasper||Not too bad, eh? Very post-neolithic, wouldn't you say?||
 ||1108||136||Errol||But if I can't find anyone to play for me I'll forfeit the championship.||
 ||1109||140||Handel||Here have this. I fished it out of the molten wava.||
-||1110||136||Errol||Well done, I think you deserve to keep the champion's cup.
+||1110||136||Errol||Well done, I think you deserve to keep the champion's cup.||
 ||1111||106||Sandy the Seal||You'll have to defeat every single rhynoc in the tunnel before you can recapture the egg.||
 ||1112||106||Stanley the Seal||Oh, I forgot to tell you... one of the rhynocs had this egg in his lunch box...||
 ||1113||138||Hunter||Alright! Eat my skate-dust, sucker!||
