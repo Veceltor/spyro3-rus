@@ -230,3 +230,147 @@
 ||1048||Sparx||
 ||1049||146||Bartholomew||C'mon, c'mon just press the { button to swing your club. I wanna see it break into a million pieces.||
 ||1050||142||Jack||According to legends, there's a golden goose at the top of this here mountain. I want to be the first person to the top, so I can grab it!||
+||1051||136||Ernest||What if you tried melting the snowman using the laser? I'd do it myself, but you know, the flippers.||
+||1052||108||Hunter||Whoooa! A bunch of sheep in flying saucers just came out of nowhere and started blasting up the race course!||
+||1053||100||Councillor George||Oh my! Oh my! Can you help us? Hordes of ferocious rhynocs have overrun our town and kidnapped the mayor.||
+||1054||104||Stoney||Hey, there goes another one. He was really fast...maybe if I activate the supercharge you'll be able to catch him.||
+||1055||106||Stu the Seal||We never would have crashed that submarine if Sal hadn't tried that hand-brake u-turn during an inverted barrel roll.||
+||1056||104||Moneybags||I guess those egg thieves are going to get what's coming to them... it's too bad... I always sort of liked those guys.||
+||1057||136||Bartholomew||You lost! Oh, some brother you are. I'm never going to see my ball again, am I?||
+||1058||136||Bartholomew||You lost? But how am I going to get my ball back? You've got to try again.||
+||1059||160||Deputy Roy||Back again? Well, the Bailey gang is still hidin' out. Ya' ready to take 'em on? ||
+||1060||122||Homer the Firefly||\           You are brave, dragon.\         Much braver than I, by far.\          Here, take this darn egg.||
+||1061||140||Greta||Hey, look what was in the wocket. They must have been twying to put it into orbit.||
+||1062||134||Zoe||Sparx has already found the lost egg in Starfish Reef, but if he wants to go back for a swim, I can lead the way.||
+||1063||166||Agent 9||Woohoo! Time to kick some Sorceress butt!||
+||1064||154||The Amazing Randini||I'm afraid I've had to cancel my next performance. One of the moles ate all my magic cards.||
+||1065||Sparx||
+||1066||124||Chi Chi/Feng||Pushing that boulder was hard work, but as soon as I've caught my breath I'll return to collecting bamboo.||
+||1067||124||Chi Chi/Feng||Pushing that boulder was hard work, but as soon as I've caught my breath I'll return to collecting bamboo.||
+||1068||122||Moneybags||\           Dad gummit, dragon.\      Just cough up those stinking gems.\           And I can go home.||
+||1069||120||Ooga||You're doing great, please find the rest of the bones so we can put my friend back together.||
+||1070||124||Feng||We would gladly pull the switch to open the drawbridge, if only there weren't all these nasty creatures chasing us.||
+||1071||122||Moneybags||\           This door is jammed shut.\            Only the power of gems\             Can hope to move it. ||
+||1072||136||Bartholomew||heh heh heh... You really showed him... Hey, wait a minute this isn't my ball!||
+||1073||110||Billy the Mountain Goat||Ahh, home at last! Here, I was saving this to make an omelet, but I think you deserve it more.||
+||1074||154||The Magnificent Marvello||Here, you can have this. I was going to use it in a trick, but my magic just keeps bouncing off.||
+||1075||154||Moneybags||I'm afraid the show's over, Spyro. Why don't you go play with the gnomes? I think they look lonely.||
+||1076||170||Hunter||Right on! Just don't lose, or my tongue's gonna be a popsicle.||
+||1077||170||Hunter||I just finished fixing up an old submarine! Why don't you try taking it for a spin?||
+||1078||122||Buson the Firefly||\           Yes! It's bombing time!\          Here I come, my little eggs,\            to free you at last!! ||
+||1079||152||Agent 9||Thanks for freeing me. Why don't you come visit me in my home world.||
+||1080||138||Crazy Ed||I reckon me treasure be thisaway... But we'll hafta blast through this bloomin' ship tuh git to it!||
+||1081||140||Greta||If you see Handel tell him I've gone back to Evening Lake to finish work on the pwofessor's wocket.||
+||1082||154||The Amazing Randini||Well done, and look, one of my friends dug up this whilst chasing the moles.||
+||1083||164||Professor||You'll need to take out all the rhynocs to secure the beach... and don't forget to dodge!||
+||1084||170||Hunter||Yeah, let's wait for my tongue to thaw first.||
+||1085||128||Cpl. Gabrielle||Recommend you take the enemy out with your rockets by pressing the { button, sir!||
+||1086||122||Basho the Firefly||\           One egg cage remains.\        Will you now help my brother\           to free the last egg?||
+||1087||122||Basho the Firefly||\           One egg cage remains.\        Will you now help my brother\           to free the last egg?||
+||1088||146||Bartholomew||I heard those big bullies calling you a wuss. You're not going to let them get away with that are you?||
+||1089||142||Jack||By the way, if you can't figure out what to do next, we can always start over.||
+||1090||142||Alicia||There's no time to lose! Prince Azrael and his cat armies are about to steal our poor princess!||
+||1091||128||Cpl. Gabrielle||Sir! We need to rescue the rest of the squad before we can launch a raid on the Sorceress's castle.||
+||1092||144||Hunter||I don't know, Spyro, I've never seen a sheep UFO this mad before...||
+||1093||136||Errol||You should ask for a rematch. I think that guy sprayed catnip in his goal.||
+||1094||100||Citizen Horace||Have you seen any of our giant chickens? The rhynocs have been trying to eat them all.||
+||1095||104||Shale||Take this egg as a sign of your honorary membership in the lodge.||
+||1096||102||Cumulus||Step on the switch to get a fresh sun seed and keep flaming it until you get it into the pot.||
+||1097||102||Nimbus||The rhynocs have shut down our cloud generator and I'll never see a rainbow again.||
+||1098||110||Billy the Mountain Goat||This next guy is a wuss! You go ahead and take him out, we'll get your back!||
+||1099||100||Zoe||This rhynoc is too big to charge. You'll have to flame him using the { button.||
+||1100||128||Sgt. Byrd||I have to train the hummingbirds. They must be in peak physical condition if we're going to take on the Sorceress.||
+||1101||108||Hunter||Wooohooooo! Check it out, the squad leader had abducted this egg!||
+||1102||104||Shale||Well that's never happened before. I hope it's not a bad omen.||
+||1103||098||Zoe||Do you like the 'Active' camera mode? If not, I can set it back to the 'Passive' mode.||
+||1104||124||Lei||If only there were three of us I'm sure we could reach that switch to open the drawbridge.||
+||1105||122||Buson the Firefly||\           We will be waiting.\        When you return to help us.\           We shall bomb again!||
+||1106||122||Buson the Firefly||\           We will be waiting.\        When you return to help us.\           We shall bomb again!||
+||1107||120||Jasper||Not too bad, eh? Very post-neolithic, wouldn't you say?||
+||1108||136||Errol||But if I can't find anyone to play for me I'll forfeit the championship.||
+||1109||140||Handel||Here have this. I fished it out of the molten wava.||
+||1110||136||Errol||Well done, I think you deserve to keep the champion's cup.
+||1111||106||Sandy the Seal||You'll have to defeat every single rhynoc in the tunnel before you can recapture the egg.||
+||1112||106||Stanley the Seal||Oh, I forgot to tell you... one of the rhynocs had this egg in his lunch box...||
+||1113||138||Hunter||Alright! Eat my skate-dust, sucker!||
+||1114||128||Cpl. Gabrielle||Keep fighting the good fight sir! We're almost there, and I'm, uh, right behind you...||
+||1115||124||Tsai||I'll be with you momentarily, I just need to rest for a second.||
+||1116||124||Feng||If you could rescue Chi Chi we'd be able to push this boulder out of the way.||
+||1117||128||Cpl. Gabrielle||One carefully placed rocket blast should take this door down, sir.||
+||1118||116||Hunter||When you've picked up a rock, try using the } button to aim.||
+||1119||116||Jasper||With guys from the five worlds we can work the whirligig.||
+||1120||120||Sgt. Byrd||I'm ready to patrol the towers and the perimeter of the islands whenever you want me to.||
+||1121||126||Hunter||We got the last one just before he abducted this egg!||
+||1122||136||Errol||Don't waste time talking to me, he's gonna score.||
+||1123||144||Hunter||You wait here, I'll lure the UFO down the river of honey!||
+||1124||100||Hunter||If you want to try to catch those lizards, I'll start the clock now.||
+||1125||100||Hunter||Awww, too bad... maybe you'll do better this time.||
+||1126||154||The Astounding Arturo||I've been working on a great new magic trick, but this bear keeps spoiling it.||
+||1127||158||Jamal||Very well, then. I will reserve your spot in case you change your mind.||
+||1128||128||Pvt. Eloise||Request permission to cheer, sir... Hip Hip Hooray!||
+||1129||138||Crazy Ed||Ah, dad gum, I gis I'll hafta git it workin' muhself.||
+||1130||106||Smelt the Seal||OK, good luck! Just remember, stay away from the sharp end!||
+||1131||146||Bentley||It's good to know that Bartholomew is out of harm's way.||
+||1132||100||Zoe||Hi Spyro! Each time a fairy zaps you, like this...||
+||1133||156||Hunter||You can ride the manta ray around just for fun, if you like.||
+||1134||116|||Doug||The whirligig is ready to take you far way. Just jump aboard.||
+||1135||124||Shui||Would you like to try some of this bamboo, it tastes great.||
+||1136||124||Sing Sing||Would you care for a cup of my medicinal herbal tea?||
+||1137||120||Hunter||Are you ready to learn some tricks and take on the next challenge?||
+||1138||128||Pvt. XXX||Before I was captured, I recovered this egg from the enemy, sir!||
+||1139||128||Pvt. XXX||Before I was captured, I recovered this egg from the enemy, sir!||
+||1140||128||Pvt. XXX||Before I was captured, I recovered this egg from the enemy, sir!||
+||1141||098||Sheila||Thanks for freeing me. Why don't you come visit me in my home world?||
+||1142||110||Sheila||Well, I'm off to clean up the mess those rhynocs left behind.||
+||1143||136||Bartholomew||Only two more rounds to go, you're doing great.||
+||1144||128||Sgt. Byrd||Don't worry I'll have the hummingbirds whipped into shape in no time.||
+||1145||170||Hunter||Aw, c'mon, you can take these guys!||
+||1146||138||Crazy Ed||Okey Dokey, take good care of 'er, y' here?||
+||1147||116||Jasper||Hey now, let's head on over to the whirligig.||
+||1148||124||Lei||Please be careful those rockets are dangerous!||
+||1149||138||Crazy Ed||Ya kin ride the sub just for fun, if ya like. &Ride the sub for cheap thrills?||
+||1150||142||Jack||If you get stuck, we can always restart this section.||
+||1151||
+||1152||140||Handel||Watch out for that wava, it looks super hot.||
+||1153||100||Citizen Paulus||Let me catch my breath and I'll kick that other guy's butt.||
+||1154||120||Hunter||I think you're getting it, just try one more time.||
+||1155||128||Sgt. Byrd||Tally ho, Spyro, I'm sure I'll see you around!||
+||1156||154||The Marvelous Magnifico||I really think I'm beginning to get the hang of this magic malarkey.||
+||1157||126||Hunter||Look out cows, here I come!||
+||1158||116||Sing Sing||You can use the whirligig whenever you are ready.||
+||1159||116||Sgt. Byrd||All systems checked out A-OK. Jump aboard.||
+||1160||134||Eugene||The rocket's fueled up and ready to go Spyro.||
+||1161||098||Snappy the Seal||The balloon's all ready, sir! Just jump on!||
+||1162||170||Hunter||So, ready to race?||
+||1163||124||Feng/Tsai/Chi Chi/Lei||Please would you be so kind as to step aside.||
+||1164||124||Feng/Tsai/Chi Chi/Lei||Please would you be so kind as to step aside.||
+||1165||170||Hunter||Wanna take my sub for a spin?||
+||1166||124||Feng/Tsai/Chi Chi/Lei||Please would you be so kind as to step aside.||
+||1167||116||Sgt. Byrd||Quick march Spyro. We're off to the whirligig.||
+||1168||142||Jack||Well, good luck. It's got me stumped.||
+||1169||144||Hunter||OK, here I go!||
+||1170||100||Citizen Paulus||Have you seen any giant chickens around here?||
+||1171||106||Smelt the Seal||Whaddya say, do you want to take on Bluto?||
+||1172||100||Hunter||Are you ready for a challenge now?||
+||1173||098||Mayor Leo||Let's head on over to the balloon!||
+||1174||098||Zoe||OK, I won't change it.||
+||1175||138||Crazy Ed||Well, come back whenevers y' like.||
+||1176||164||Agent 9||I'm just going to patrol the island one last time...||
+||1177||162||Hunter||I'm gonna chase him down!||
+||1178||116||Doug||Let's head on over to the whirligig.||
+||1179||106||Sandy the Seal||Our beach is your beach.||
+||1180||162||Hunter||I'll be right back!||
+||1181||Sparx||
+||1182||156||Hunter||Ready to try again?||
+||1183||128||Pvt. Chloe||Reporting for duty, sir!||
+||1184||128||Pvt. Nikita||I'm ready to be debriefed, sir.||
+||1185||128||Pvt. Chloe||Reporting for duty, sir!||
+||1186||128||Pvt. Nikita||I'm ready to be debriefed, sir.||
+||1187||Sparx||
+||1188||128||Pvt. Chloe||Reporting for duty, sir!||
+||1189||128||Pvt. Nikita||I'm ready to be debriefed, sir.||
+||1190||Sparx||
+||1191||Sparx||
+||1192||164||Agent 9||See ya later, alligator!||
+||1193||160||Deputy Roy||Well good luck to ya'.||
+||1194||
