@@ -1,108 +1,148 @@
 #summary Список персонажей.
 
 *Основные действующие лица.*
-|| *Персонаж* || *Субфайлы* || *Образец* ||
-|| Spyro || - ||
-|| Sparx || 108, 126, 144, 162 ||
-|| Hunter || 098, 100, 108, 116, 120, 126, 138, 144, 156, 162, 170 || 040 ||
-|| Sheila || 100, 106, 112, 122, 156 || 360 ||
-|| Sgt. James Byrd || 104, 116, 120, 128, 130, 142 || 051 ||
-|| Bentley || 124, 134, 136, 146, 148, 154 || 044 ||
-|| Agent 9 || 140, 152, 158, 164, 166 || 069 ||
-|| Sorceress || - ||
-|| Moneybags || 098, 102, 104, 116, 118, 122, 134, 136, 142, 152, 154, 156 || 042 ||
-|| Bianca || 098, 116, 134, 152, 170 || 037 ||
+|| *Персонаж* || *Субфайлы* || *Образец* || *Предполагаемые актёры* || 
+|| Spyro || - || - || Amazingmax ||
+|| Sparx || 108, 126, 144, 162 || -//- || aleksusklim ||
+|| Hunter || 098, 100, 108, 116, 120, 126, 138, 144, 156, 162, 170 || 040 || Washington ||
+|| Sheila || 100, 106, 112, 122, 156 || 360 || devdoki ||
+|| Sgt. James Byrd || 104, 116, 120, 128, 130, 142 || 051 || CubeStudio ||
+|| Bentley || 124, 134, 136, 146, 148, 154 || 044 || Washington ||
+|| Agent 9 || 140, 152, 158, 164, 166 || 069 || aleksusklim ||
+|| Moneybags || 098, 102, 104, 116, 118, 122, 134, 136, 142, 152, 154, 156 || 042 || aleksusklim ||
+|| Sorceress || - || - || devdoki ||
+|| Bianca || 098, 116, 134, 152, 170 || 037 || devdoki ||
 || Zoe || 098, 100, 102, 104, 106, 110, 114, 116, 134, 152 || 050 ||
+|| Elder Dragon || - || - ||
 
-Для тех, у кого нет возможности использовать *jpsxdec* представляю архив с примереми озвучек. 
-Основных действующих лиц:
-http://nihonjinryuu.narod2.ru/Basis_characters.rar
-
-Второстепенных персонажей(пока что только 26):
-
+Для тех, у кого нет возможности использовать *jpsxdec* представляю архив с примерами озвучек.<br>
+Основные действующие лица:<br>
+http://nihonjinryuu.narod2.ru/Basis_characters.rar<br>
+Второстепенные персонажи(пока что только 26):<br>
 http://nihonjinryuu.narod2.ru/beta2_full_characters_voice.rar
 
 *Второстепенные персонажи.*
-|| *Персонаж* || *Субфайлы* || *Пример озвучки в jpsxdec* ||
-||Mayor Leo|| 098, 100 ||
-||Councillor George|| 100 ||
-||Citizen Paulus|| 100 ||
-||Citizen Horace|| 100 ||
-||Rapunzel|| 100 ||
-||Marco|| 100 ||
-||Cumulus|| 098, 102 ||1023||
-||Nimbus|| 102 ||
-||Cirrus|| 102 ||
-||Fluffy|| 102 ||
-||Stratus|| 102 ||
-||Rocky|| 098, 104 ||
-||Clay|| 104 ||
-||Shale|| 104 ||126||
-||Stoney|| 104 ||
-||Snappy the Seal|| 098, 106 ||
-||Sebastian the Seal|| 106 ||90||
-||Stanley the Seal|| 106 ||
-||Sigmund the Seal|| 106 ||
-||Sal the Seal|| 106 ||
-||Stu the Seal|| 106 ||
-||Sandy the Seal|| 106 ||
-||Smelt the Seal|| 106 ||
-||Sebastian the Seal|| 106 ||
-||Billy the Mountain Goat|| 110 ||132||
-||Doug||116, 118||
-||Bob||118||1041||
-||Nancy||118||64||
-||Jasper||116, 120||~Mowat||
-||Pablo||120||~Mowat||
-||Ooga||120||57||
-||Mowat||120||46||
-||Shiny the Firefly||116, 122||
-||Homer the Firefly||122||
-||Bubba the Firefly||122||
-||Basho the Firefly||122||153||
-||Buson the Firefly||122||
-||Lei||124||
-||Chi Chi||124||
-||Feng||124||
-||Tsai||124||
-||Ling Ling||124||97||
-||Sing Sing||124||
-||Shui||124||
-||Bartholomew||124, 136, 146||354||
-||Cpl. Gabrielle||128||38||
-||Pvt. Claire||128||
-||Pvt. Nikita||128||
-||Pvt. Chloe||128||
-||Pvt. Eloise||128||
-||Pvt. Helene||128||
-||Crazy Ed||134, 138||108||
-||Eugene||134, 136||
-||Ernest||136||~Alex||
-||Alex||136||1001||
-||Gabrielle||136||
-||Eustace||136||
-||Errol||136||
-||Greta||134, 140||104||
-||Handel||140||107||
-||Princess Ami||134, 142||48||
-||Alicia||142||
-||Eileen||142||
-||Molly||142||
-||Liz||142||164||
-||Isabelle||142||63||
-||Jack||142||185||
-||The Marvelous Magnifico||154||~The Great Zamboni||
-||The Fantastic Frederico||154||~The Great Zamboni||
-||The Astounding Arturo||154||~The Great Zamboni||
-||The Magnificent Marvello||154||
-||The Great Zamboni||154||95||
-||The Amazing Randini||154||
-||Gus||156||52||
-||Tara||156||74||
-||Dan||158||54||
-||Allgeier||158||~Dan||
-||Jamal||158||~Dan||
-||Ali||158||
-||Sheriff Wyatt||160||55||
-||Deputy Holiday||160||
-|| Professor || 164 ||114||
+||*№*|| *Персонаж* || *Субфайлы* || *Пример озвучки в jpsxdec*|| *Предполагаемые актёры* ||
+||1||Mayor Leo|| 098, 100 ||+1044|| Washington ||
+|| ||Councillor George|| 100 ||~Mayor Leo|| Washington ||
+|| ||Citizen Paulus|| 100 || ||Washington ||
+|| ||Citizen Horace|| 100 ||~Mayor Leo|| Washington ||
+|| ||Marco|| 100 || ||Washington ||
+||2||Rapunzel|| 100 || ||devdoki ||
+||<font size="2" color="#AAAA00">3</font>||Cumulus|| 098, 102 ||1023||
+|| ||Nimbus|| 102 ||~Cumulus||
+|| ||Cirrus|| 102 ||
+|| ||Fluffy|| 102 ||
+|| ||Stratus|| 102 ||
+||4||Shale|| 104 ||126|| Scratch ||
+|| ||Rocky|| 098, 104 ||~Shale|| Scratch ||
+|| ||Clay|| 104 || || Scratch ||
+|| ||Stoney|| 104 ||~Shale|| Scratch ||
+||5||Sebastian the Seal|| 106 ||90||_Pasadena_||
+|| ||Snappy the Seal|| 098, 106 ||~Sebastian the Seal||_Pasadena_||
+|| ||Stanley the Seal|| 106 ||~Sebastian the Seal||_Pasadena_||
+|| ||Sigmund the Seal|| 106 || ||_Pasadena_||
+|| ||Sal the Seal|| 106 || ||_Pasadena_||
+|| ||Stu the Seal|| 106 ||~Sebastian the Seal||_Pasadena_||
+|| ||Sandy the Seal|| 106 ||~Sebastian the Seal||_Pasadena_||
+|| ||Smelt the Seal|| 106 ||~Sebastian the Seal||_Pasadena_||
+||6||Billy the Mountain Goat|| 110 ||132|| CubeStudio ||
+|| ||_Pete the Mountain Goat_|| 110 ||132|| CubeStudio ||
+|| ||_Bobby the Mountain Goat_|| 110 ||132|| CubeStudio ||
+||7||Bob||118||1041|| CubeStudio ||
+|| ||Doug||116, 118|| || CubeStudio ||
+||8||Nancy||118||64|| devdoki ||
+||9||Mowat||120||46|| Scratch ||
+|| ||Jasper||116, 120||~Mowat|| Scratch ||
+|| ||Pablo||120||~Mowat|| Scratch ||
+||10||Ooga||120||57|| Washington ||
+||11||Shiny the Firefly||116, 122||~Basho the Firefly|| CubeStudio ||
+|| ||Homer the Firefly||122||~Basho the Firefly|| CubeStudio ||
+|| ||Bubba the Firefly||122|| || CubeStudio ||
+|| ||Basho the Firefly||122||153|| CubeStudio ||
+|| ||Buson the Firefly||122||~Basho the Firefly|| CubeStudio ||
+||<font size="2" color="#AAAA00">12</font>||Ling Ling||124||97||
+|| ||Chi Chi||124||~Ling Ling||
+|| ||Sing Sing||124||~Ling Ling||
+|| ||Lei||124||~Ling Ling||
+|| ||Feng||124||~Ling Ling||
+|| ||Tsai||124||~Ling Ling||
+|| ||Shui||124||~Ling Ling||
+||13||Bartholomew||124, 136, 146||354|| Amazingmax ||
+||14||Cpl. Gabrielle||128||38|| devdoki ||
+||<font size="2" color="gray">15</font>||Pvt. Claire||128|| || devdoki ||
+|| ||Pvt. Nikita||128|| || devdoki ||
+|| ||Pvt. Chloe||128|| || devdoki ||
+|| ||Pvt. Eloise||128|| || devdoki ||
+|| ||Pvt. Helene||128|| || devdoki ||
+||16||Crazy Ed||134, 138||108|| aleksusklim ||
+||17||Alex||136||1001|| Scratch ||
+|| ||Eugene||134, 136|| || Scratch ||
+|| ||Ernest||136||~Alex|| Scratch ||
+|| ||Eustace||136||~Alex|| Scratch ||
+|| ||Errol||136||~Alex|| Scratch ||
+||<font size="2" color="#AAAA00">18</font>||Gabrielle||136||
+||<font size="2" color="#AAAA00">19</font>||Handel||140||107||
+||20||Greta||134, 140||104|| devdoki ||
+||21||Princess Ami||134, 142||48|| devdoki ||
+||<font size="2" color="gray">22</font>||Liz||142||164|| devdoki ||
+|| ||Isabelle||142||63|| devdoki ||
+|| ||Alicia||142|| || devdoki ||
+|| ||Eileen||142|| || devdoki ||
+|| ||Molly||142|| || devdoki ||
+||<font size="2" color="#AAAA00">23</font>||Jack||142||185||
+||<font size="2" color="#AAAA00">24</font>||The Great Zamboni||154||95||
+|| ||The Marvelous Magnifico||154||~The Great Zamboni||
+|| ||The Fantastic Frederico||154||~The Great Zamboni||
+|| ||The Astounding Arturo||154||~The Great Zamboni||
+|| ||The Magnificent Marvello||154||~The Great Zamboni||
+|| ||The Amazing Randini||154||~The Great Zamboni||
+||<font size="2" color="#AAAA00">25</font>||Gus||156||52||
+||26||Tara||156||74|| devdoki ||
+||27||Dan||158||54|| Washington ||
+|| ||Allgeier||158||~Dan|| Washington ||
+|| ||Jamal||158||~Dan|| Washington ||
+|| ||Ali||158|| || Washington ||
+||28||Sheriff Wyatt||160||55|| CubeStudio ||
+|| ||Deputy Roy||160||~Sheriff Wyatt|| CubeStudio ||
+||<font size="2" color="gray">29</font>||Deputy Holiday||160|| || CubeStudio ||
+||30||Professor|| 164 ||114|| Scratch ||
+
+Расшифровка кодов уровней:<br>
+*098: Sunrise Spring Home*<br>
+100: Sunny Villa<br>
+102: Cloud Spires<br>
+104: Molten Crater<br>
+106: Seashell Shore<br>
+108: Mushroom Speedway<br>
+110: Sheila's Alp<br>
+112: Buzz's Dungeon<br>
+114: Crawdad Farm<br>
+*116: Midday Garden Home*<br>
+118: Icy Peak<br>
+120: Enchanted Towers<br>
+122: Spooky Swamp<br>
+124: Bamboo Terrace<br>
+126: Country Speedway<br>
+128: Sgt. Byrd's Base<br>
+130: Spike's Arena<br>
+132: Spider Town<br>
+*134: Evening Lake Home*<br>
+136: Frozen Altars<br>
+138: Lost Fleet<br>
+140: Fireworks Factory<br>
+142: Charmed Ridge<br>
+144: Honey Speedway<br>
+146: Bentley's Outpost<br>
+148: Scorch's Pit<br>
+150: Starfish Reef<br>
+*152: Midnight Mountain Home*<br>
+154: Crystal Islands<br>
+156: Desert Ruins<br>
+158: Haunted Tomb<br>
+160: Dino Mines<br>
+162: Harbor Speedway<br>
+164: Agent 9's Lab<br>
+166: Sorceress's Lair<br>
+168: Bugbot Factory<br>
+170: Super Bonus Round<br>
