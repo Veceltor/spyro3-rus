@@ -176,6 +176,42 @@
 ||362||100||Rocky||At last, my portal is working again! Come visit me at the Tiki Lodge!||
 ||363||122||Moneybags||Stop talking to me.\         I hate speaking in Haiku.\           Just go find some gems...||
 ||364||122||Sheila||This swamp smells so sweet.\        The springtime trees are fragrant.\            I'm off to kick butt.||
+||365||104||Clay||Well, it looks like it's just you and me. I'll keep a look out while you sort out the rhynocs.||
+||366||106||Sigmund the Seal||I can't wait until the rhynocs build a new submarine! Next time it's my turn to drive!||
+||367||102||Moneybags||Heh heh... I haven't made such easy money since the Sorceress bought that mayonaisse for sunscreen.||
+||368||100||Zoe||That means your progress is saved. If you get into trouble you'll return to the last place you got zapped.||
+||369||100||Sheila||Hey Spyro, there are rhynocs everywhere. Maybe I can find some peace and quiet at the top of the tower...||
+||370||138||Hunter||You might be able to beat me at skateboarding, but I still get all the chicks.||
+||371||100||Hunter||Whoa, that was sweet! And look, there was another egg in the lizard burrow.||
+||372||160||Sheriff Wyatt||Jumpin' jehosephat, that's the cutest lookin' dinosaur I ever did see.||
+||373||152||Zoe||That's it Sparx, you've found all the lost eggs, but you can still go back to the Bugbot Factory if you like.||
+||374||170||Hunter||I think my tongue is frozen. You'd better not lose again!||
+||375||124||Bartholomew||We sure made short work of those rhynocs! Aren't you glad I was here to help you rescue that baby dragon?||
+||376||122||Homer the Firefly||No happier sight \ Have I seen, than a tea lamp \ lit by Dragonflame.||
+||377||136||Eustace||Brrr, I don't know why but I feel reaaalllly cold.||
+||378||138||Crazy Ed||'Nother dad burned ship in the way o' me treasure... Wouldja mind blastin' this one too?||
+||379||134||Princess Ami||Hop on, Spyro! Don't worry, fairy engineering has never failed.||
+||380||106||Sebastian the Seal||The rhynocs have boarded up a lot of our doors, but I bet you're strong enough to smash them down.||
+||381||100||Mayor Leo||Thank you for rescuing my town. As mayor I award you with one of our famous giant chicken eggs.||
+||382||114||Zoe||Looks like you're ready Sparx. If you need any more help, just choose the HELP option from the Pause Menu.||
+||383||164||Professor||Now I can switch the gravitonometric generator back on. I hope no birds got in there...||
+||384||164||Professor||Thank you very much for saving my laboratory. Now I can resume thinking...||
+||385||146||Bentley||Well I'd love to leave with you but I still have to look after Bartholomew.||
+||386||110||Zoe||If you ever forget how to control a character or vehicle, just go to the Pause Menu and select 'Help'.||
+||387||146||Bentley||Ah well, I must return to my humble abode, for the time being.||
+||388||106||Zoe||You can Hover to get more distance when gliding. Just press the } button at the end of your glide.||
+||389||122||Basho/Buson the Firefly|| \ Yes! It's bombing time! \ Here I come, my little eggs, \ To free you at last!!||
+||390||124||Bartholomew||Heh, heh, that looked like it hurt. You should try using your spin move to deflect those barrels.||
+||391||124||Ling Ling||If you could clear the way for Chi Chi and Li they'd most likely be able to push that boulder out of your way.||
+||392||130||Sgt.Byrd||If you charge into the lava boulders after I drop them, they'll explode against anything they hit.||
+||393||122||Homer the Firefly||Our tea lamps are dark. \ Perhaps your hot dragon breath \ could set them aglow.||
+||394||122||Basho/Buson the Firefly|| \ Yes! It's bombing time! \ Here I come, my little eggs, \ To free you at last!!||
+||395||122||Basho/Buson the Firefly|| \ Yes! It's bombing time! \ Here I come, my little eggs, \ To free you at last!!||
+||396||???||Sparx|| ||
+||397||134||Moneybags||Very well then, I was having a rather good time poking him with a stick, anyway.||
+||398||138||Hunter||So, are you ready to race these guys? They bet us an egg that you won't win!||
+||399||106||Shappy the Seal||Owww... That really smarts... No problem though, we've got more bombs!!!||
+||400||136||Bartholomew||Oh... I found my ball, I'd forgotten I lent it to Eugene yesterday. No harm done, right?||
 
 *"Secret's STR"*
 
