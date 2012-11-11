@@ -212,6 +212,26 @@
 ||398||138||Hunter||So, are you ready to race these guys? They bet us an egg that you won't win!||
 ||399||106||Shappy the Seal||Owww... That really smarts... No problem though, we've got more bombs!!!||
 ||400||136||Bartholomew||Oh... I found my ball, I'd forgotten I lent it to Eugene yesterday. No harm done, right?||
+||401||142||Molly||I just saw Prince Azrael run into the castle! We have to stop him before he reaches the princess!||
+||402||098||Zoe||The game camera is now in 'Passive' mode. If you want me to change it again, just ask!||
+||403||098||Zoe||Sparx has already recovered the egg from the crawdad farm, but he can go back if he wants to practice.||
+||404||156||Hunter||Try not to get hit by the exploding ammo, OK? I don't want to scare off my new pet.||
+||405||154||The Astounding Arturo||Did you tell the Great Zamboni? That charlatan has been stealing my tricks again.||
+||406||154||The Amazing Randini||A light tap on the head should sort them out, but watch out for my friends, they're trying to burrow after them.||
+||407||154||The Amazing Randini||Well that didn't do it. See they've got themselves all worked up into a tizzy. You'll have to try again.||
+||408||122||Bubba the Firefly||He swore to destroy\ whoever lights the tea lamps.\ Better you than me.||
+||409||146||Bartholomew||Hey bro! It'd be really cool if you smashed that boulder. A swift smack should do the trick.||
+||410||146||Bartholomew||Another gong, great. I bet we can cause an avalanche with this one!||
+||411||146||Bartholomew||It took me forever to train those seals to throw snowballs. Now they've gone and turned on me!||
+||412||104||Moneybags||Thank you, Spyro, and best of luck catching those dastardly egg thieves.||
+||413||106||Sal the Seal||Driving that submarine was a blast! Next time we're going to borrow the rhynocs' speed boat!||
+||414||102||Cirrus||If my wings were big and strong like yours, I could easily glide across here.||
+||415||???||Sparx|| ||
+||416||120||Hunter||Just jump at the top of any blue ramp and steer left or right in the air to spin!||
+||417||110||Sheila||I'd better go check on those billy goats again. Last time I left them alone, they ate all the shingles off the roof.||
+||418||110||Sheila||Whew, that was fun! I tell you, Spyro, kicking rhynoc butt just never gets old!||
+||419||136||Bartholomew||Hey!!! This isn't my ball, it's just another stupid egg!||
+||420||164||Agent 9||I'll be back when I've wiped out the last of the rhynoc menace!||
 
 *"Secret's STR"*
 
