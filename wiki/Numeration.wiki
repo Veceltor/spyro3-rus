@@ -232,6 +232,128 @@
 ||418||110||Sheila||Whew, that was fun! I tell you, Spyro, kicking rhynoc butt just never gets old!||
 ||419||136||Bartholomew||Hey!!! This isn't my ball, it's just another stupid egg!||
 ||420||164||Agent 9||I'll be back when I've wiped out the last of the rhynoc menace!||
+||455||136||Bartholomew||You should go back and kick his butt again! Make him give me my ball back.||
+||456||138||Hunter||Woooohooo! I'm still the speed king of the world!||
+||457||138||Hunter||Alright! Eat my skate-dust, sucker!||
+||458||Sparx||
+||459||162||Hunter||WHAT? You're kidding! We gotta hurry, he's getting away!||
+||460||154||The Amazing Randini||Well I hope the moles calm down soon, I've created a fantastic new trick I want to show them.||
+||461||124||Chi Chi||If you could rescue Li we'd be able to push this boulder out of the way.||
+||462||124||Lei||Oh no, I think that water buffalo is going to trample me.||
+||463||124||Bartholomew||Hey, I think I saw some rhynocs run up to the top of that hill with an egg!||
+||464||134||Greta||The wocket is weady for waunch, Spywo. Hop aboard whenever you want.||
+||465||134||Eugene||Why don't you ask around the other worlds to see if you can get me some help to build this rocket.||
+||466||
+||467||110||XXX the Mountain Goat||Thanks for the help, Sheila! You can have this egg I found in my house.||
+||468||100||Councillor George||Those pesky rhynocs are back again, but I'm sure you'll soon sort them out.||
+||469||102||Nimbus||You'd think the Sorceress would want more rain, after what the sun has done to her skin.||
+||470||120||Hunter||Alright! Whoever scores the most points in the time limit, wins!||
+||471||
+||472||136||Errol||Great, freeze the cats and push them into my goal to score.||
+||473||136||Eustace||It would be easy to get up to that treasure if you had something to stand on.||
+||474||Sparx||
+||475||Sparx||
+||476||108||Hunter||Looks like I'll have to hop in my plane and teach 'em some manners!||
+||477||100||Mayor Leo||I'm sorry, that was the ugliest chicken I've ever seen.||
+||478||098||Hunter||To get the best glide, press the < button at the very top of your jump.||
+||479||102||Fluffy||The rhynocs must have been using this thing to clog up the cloud generator.||
+||480||106||Snappy the Seal||No problem. We'll be playing hot potato with this bomb until you come back.||
+||481||104||Sgt. Byrd||Hello Spyro, I'm just off to the Tiki Lodge for some R and R.||
+||482||138||Hunter||So, are you ready to take my challenge?||
+||483||118||Bob||Ohhh... you shot the ice block, eh? Must be beginner's luck.||
+||484||118||Nancy||That's OK, it didn't hurt as much as it looked. Let's try again!||
+||485||124||Ling Ling||Thank you ever so much for opening the emergency bridge, Spyro.||
+||486||128||Pvt. Eloise||Request permission to cheer, sir... Hip Hip Hooray!||
+||487||126||Hunter||I'm gonna strap on my jetpack and blast some space cows!||
+||488||128||Pvt. Eloise||Request permission to cheer, sir... Hip Hip Hooray!||
+||489||116||Sing Sing||We've finished repairing the whirligig, but we need more help to operate it.||
+||490||116||Sgt. Byrd||I've assessed the situation. We need five men to operate the whirligig.||
+||491||118||Moneybags||I have to hurry in myself. I'm one of the judges for tonight's performance.||
+||492||116||Sgt. Byrd||Thanks for freeing me. Why don't you come visit me in my home world?||
+||493||142||Jack||You've been doing great so far, why don't you take two more seeds?||
+||494||108||Hunter||Yeah, when sheep go hi-tech, you gotta watch out!||
+||495||100||Citizen Horace||Look, a chicken turned up. I hope it's not the only one left.||
+||496||112||Sheila||If you can charge toad boy into the lava, I think I can finish him off.||
+||497||100||Citizen Horace||Thanks for the help, but I think I would have worn him down in a minute.||
+||498||098||Hunter||Oh, I almost forgot, I found this egg!||
+||499||120||Hunter||Just come find me when you're ready for a good thrashing!||
+||500||164||Professor||Just a few more enemies left! You can do it!||
+||501||146||Bartholomew||Thanks bro! Here's a little something for your rock collection.||
+||502||160||Deputy Holiday||That was some mighty fine swimmin', young dragon.||
+||503||170||Bianca||I hope the rest of the dragons will come back here someday.||
+||504||128||Pvt. XXX||Before I was captured, I recovered this egg from the enemy, sir!||
+||505||128||Pvt. XXX||Before I was captured, I recovered this egg from the enemy, sir!||
+||506||118||Nancy||Maybe you can be my ice dancing partner in the next Olympics!||
+||507||124||Shui||Please take this shiny egg, it will bring you good luck.||
+||508||136||Alex||When I get my flippers on that rotten bear...||
+||509||136||Ernest||I knew we should have bought the automated laser defense system.||
+||510||136||Alex||Maybe you could use the laser to melt that ice block as well.||
+||511||110||XXX the Mountain Goat||Don't worry, I'll just keep kicking this rock until it breaks.||
+||512||128||Sgt. Byrd||Don't worry I'll have the hummingbirds whipped into shape in no time.||
+||513||128||Cpl. Gabrielle||Mission accomplished. It's great to have you back, sir.||
+||514||
+||515||Sparx||
+||516||106||Snappy the Seal||Yippee! I'll light the fuse on the next bomb!||
+||517||104||Stoney||You should catch that thief before he steals something valuable.||
+||518||100||Councillor George||Are you a dragon? I never believed you really existed.||
+||519||
+||520||156||Hunter||Right on, go get 'em!||
+||521||160||Deputy Roy||That darn Bailey gang!||
+||522||170||Hunter||Sure, come back whenever you want to ride it!||
+||523||124||Shui||I'm sure you would succeed if you were to try again.||
+||524||100||Councillor George||Would you like a chicken sandwich? They're very good.||
+||525||102||Stratus||Do you want this doodad? It fell out of the belfry.||
+||526||164||Agent 9||I still haven't finished clearing the rhynocs off the island...||
+||527||170||Hunter||OK, good luck this time.||
+||528||140||Handel||I knew those monsters would be no match for you.||
+||529||138||Crazy Ed||Darn tootin'! Git on little dragon!||
+||530||098||Cumulus||Hop in the balloon whenever you want, Spyro!||
+||531||100||Citizen Horace||Whoo I'm dizzy.||
+||532||110||Sheila||I'll be back as soon as I get all three billy goats home.||
+||533||110||Sheila||Goodbye, Spyro, I'm sure I'll see you around!||
+||534||100||Hunter||Go get 'em, Spyro!||
+||535||100||Hunter||Well whenever you're ready, come and talk to me.||
+||536||124||Feng/Tsai/Chi Chi/Lei||Please would you be so kind as to step aside.||
+||537||124||Feng/Tsai/Chi Chi/Lei||Please would you be so kind as to step aside.||
+||538||124||Chi Chi||Help, help!||
+||539||138||Hunter||Alright! Let 'em have it!||
+||540||100||Rapunzel||If you see Marco please tell him I've moved out.||
+||541||110||Sheila||I still haven't finished getting all the billy goats home yet...||
+||542||146||Bartholomew||This is the last round, finish him off.||
+||543||146||Bartholomew||Hey you're in the way. Move it!||
+||544||Sparx||
+||545||116||Sing Sing||Let's head on over to the whirligig.||
+||546||142||Jack||OK, here are your seeds again.||
+||547||142||Jack||OK, here are your seeds again.||
+||548||138||Crazy Ed||Well, come back whenevers y' like.||
+||549||108||Hunter||Look out sheep, here I come!||
+||550||106||Snappy the Seal||Ready to try stomping the turrets again?||
+||551||098||Rocky||Let's head on over to the balloon.||
+||552||098||Cumulus||Let's head on over to the balloon!||
+||553||Sparx||
+||554||128||Sgt. Byrd||Any time you wanna leave just say so.||
+||555||170||Hunter||Great! Hop aboard!||
+||556||124||Lei||Just let me catch my breath.||
+||557||120||Sgt. Byrd||I'll be here when you need me.||
+||558||120||Sgt. Byrd||It's good to be back in action.||
+||559||Sparx||
+||560||104||Stoney||Those guys ought to be locked up.||
+||561||098||Snappy the Seal||Let's head on over to the balloon!||
+||562||124||Ling Ling||Doobedoobedoo.||
+||563||
+||564||118||Nancy||Thanks! Let's go!||
+||565||118||Nancy||Do you want to try again?||
+||566||098||Sheila||Let's head on over to the balloon!||
+||567||106||Slappy the Seal||Stay and get a tan, if you like.||
+||568||128||Pvt. Helene||What are your orders, sir?||
+||569||128||Pvt. Helene||What are your orders, sir?||
+||570||124||Tsai||Help!!||
+||571||128||Pvt. Helene||What are your orders, sir?||
+||572||128||Cpl. Gabrielle||Awaiting orders, sir.||
+||573||156||Hunter||Have fun!||
+||574||128||Pvt. Claire||Thank you, sir.||
+||575||128||Pvt. Claire||Thank you, sir.||
+||576||128||Pvt. Claire||Thank you, sir.||
 
 *"Secret's STR"*
 
