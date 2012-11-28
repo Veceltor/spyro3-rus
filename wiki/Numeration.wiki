@@ -235,7 +235,7 @@
 ||421||154||The Great Zamboni||Hey, I finally seem to have got the hang of this, those crystals have stayed up for ages.||
 ||422||156||Tara||I'll be going now. After all, a girl of my abundant talents has to keep herself busy.||
 ||423||154||The Amazing Randini||I don't think you should be wasting time talking to me, those moles are still going crazy.||
-||424||122|Homer the Firefly||Beware the water.\ Snapping jaws of piranha\ claim many victims.||
+||424||122||Homer the Firefly||Beware the water.\ Snapping jaws of piranha\ claim many victims.||
 ||425||122||Bubba the Firefly||A creepy wizard\ lives inside, but hates the light.\ He has awoken.||
 ||426||124||Shui||Please, hop aboard. Make sure to toast the rhynocs, but not my friends!||
 ||427||122||Basho/Buson the Firefly||If you clear my path\ I can blow up the egg cage.\ Poor, poor captive eggs.||
