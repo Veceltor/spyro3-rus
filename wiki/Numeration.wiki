@@ -232,6 +232,40 @@
 ||418||110||Sheila||Whew, that was fun! I tell you, Spyro, kicking rhynoc butt just never gets old!||
 ||419||136||Bartholomew||Hey!!! This isn't my ball, it's just another stupid egg!||
 ||420||164||Agent 9||I'll be back when I've wiped out the last of the rhynoc menace!||
+||421||154||The Great Zamboni||Hey, I finally seem to have got the hang of this, those crystals have stayed up for ages.||
+||422||156||Tara||I'll be going now. After all, a girl of my abundant talents has to keep herself busy.||
+||423||154||The Amazing Randini||I don't think you should be wasting time talking to me, those moles are still going crazy.||
+||424||122|Homer the Firefly||Beware the water.\ Snapping jaws of piranha\ claim many victims.||
+||425||122||Bubba the Firefly||A creepy wizard\ lives inside, but hates the light.\ He has awoken.||
+||426||124||Shui||Please, hop aboard. Make sure to toast the rhynocs, but not my friends!||
+||427||122||Basho/Buson the Firefly||If you clear my path\ I can blow up the egg cage.\ Poor, poor captive eggs.||
+||428||122||Basho/Buson the Firefly||If you clear my path\ I can blow up the egg cage.\ Poor, poor captive eggs.||
+||429||122||Homer the Firefly||That gator was mean.\ I thought I was a goner.\ Thanks for saving me.||
+||430||110||Bobby(?) the Mountain Goat||You remember how to stomp, doncha? Just jump, then press the } button in the air.||
+||431||154||The Fantastic Frederico||I'm working on a new trick now, but I've left the whirlwind going in case you need to use it.||
+||432||128||Cpl. Gabrielle||Sir! I've captured the enemy rations. They won't march far on an empty stomach.||
+||433||122||Bubba the Firefly||The tea lamps are lit!\  Now I'll tell you the secret\ of what's in this house!||
+||434||124||Sing Sing||We would be honored if you would accept this as a token of our appreciation.||
+||435||124||Feng||Do you mind? I'm trying to avoid being trampled by a water buffalo.||
+||436||???||Sparx|| ||
+||437||138||Crazy Ed||Wouldja lookit that! Some fool hid a dang gum egg in me treasure.||
+||438||140||Handel||Thanks for helping me Agent 9. Those whynocs never knew what hit them.||
+||439||136||Errol||You gave that rhynoc such a drubbing he's retired from the sport for good.||
+||440||100||Hunter||This is the most fun I've had since we chased King Flippy on the manta ray.||
+||441||160||Deputy Holiday||It's mighty dangerous down there. You oughta watch out you don't get hurt.||
+||442||130||Sgt. Byrd||Whenever you get low on health, just toast a chicken or two, and you'll soon be ship shape.||
+||443||118||Doug||Oh, by the way, feel free to use our gondola whenever you want.||
+||444||120||Hunter||No problem, check the place out for yourself. Just meet me back here later!||
+||445||122||Bubba the Firefly||When all lamps are lit\ there is a secret in here\ that I will show you.||
+||446||124||Lei, Feng, и прочие||If only there were three of us I'm sure we could reach that switch to open the drawbridge.||
+||447||124||Chi Chi или Feng||Wahey! Ahem, sorry the excitement got the better of me.||
+||448||124||Chi Chi или Feng||Wahey! Ahem, sorry the excitement got the better of me.||
+||449||124||Lei, Feng, Chi Chi||If only there were three of us I'm sure we could reach that switch to open the drawbridge.||
+||450||100||Rapunzel||What! Marco sent you here? I've got a restraining order against him.||
+||451||104||Rocky||Here, take this egg. They were giving them away at the Tiki Lodge last night.||
+||452||102||Fluffy||Oh, you activated the bellows? Maybe I can get the cloud generator working again...||
+||453||098||Shappy the Seal||Yay, my portal is working! I'll see you at the beach!||
+||454||146||Bentley||I'm afraid I still have to attend to the safety of young Bartholomew.||
 ||455||136||Bartholomew||You should go back and kick his butt again! Make him give me my ball back.||
 ||456||138||Hunter||Woooohooo! I'm still the speed king of the world!||
 ||457||138||Hunter||Alright! Eat my skate-dust, sucker!||
