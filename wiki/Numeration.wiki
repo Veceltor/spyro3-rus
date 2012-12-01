@@ -215,6 +215,55 @@
 ||248||146||Bentley||I will sojourn amongst the worlds and if I find any eggs I'll do my utmost to recover them for you.||
 ||249||098||Zoe||Spyro, I've found an egg, but only Sparx will be able to reach it. There's a small hole that leads to a crawdad farm. I can take him there if he's ready.||
 ||250||112||Sheila||When I heard the Sorceress was planning to ambush you, I got here as fast as I could. No worries, though. This wussy green toad will be no match for the two of us!||
+||251||102||Zoe||The metal armor those enemies are wearing protects them from your dragon flame. If you hold down the > button, you can defeat them with your charge attack.||
+||252||102||Zoe||Your camera is now in 'Active' mode, and will move faster. If you don't like it, come back and see me, or change it yourself by using the Options Menu.||
+||253||136||Bentley||Ahh, Spyro. I have just received word from my little brother, he appears to be having some trouble with a yeti.||
+||254||158||Ali||My my, you're quite clever for someone with so little fashion sense... You may proceed to the first trial.||
+||255||154||Moneybags||Very good. Errr... let's see... 'Hocus Pocus, Zigglety Zen, Make This Bridge Get Long Again!'||
+||256||160||Deputy Holiday||One of them dinosaurs threw an egg down this flooded mine shaft. I'd get it back for you, but I ain't such a strong swimmer.||
+||257||164||Professor||Nice work, Agent 9! Err, I'm not sure if this is a bird egg or dragon egg... what do you think?||
+||258||126||Hunter||Space cows are ferocious, laser-wielding bovines who show no mercy or pity! We've gotta stop them, Spyro!||
+||259||116||Hunter||Hey, Spyro! Zoe told me that if we hit that doodad up there, the portal will open. Why don't you try spitting this rock at it?||
+||260||120||Ooga||Hello birdy, I was having a lovely vacation with my friend, but he's lost all his bones. Can you find them and put him together?||
+||261||136||Eugene||Thanks for helping out, Spyro. Why don't you take this. The rhynocs were trying to fry it with a laser, but you stopped them just in time.||
+||262||100||Hunter||I bet you can't catch all fifteen of the lizards running around here... Just come back if you want some boarding tips from the master.||
+||263||098||Hunter||Remember, press the > button to dive underwater. Then, when you are under the surface, hold down the > button to charge. ||
+||264||098||Cumulus||This is a balloon that will take you to a new land, but we can't use it until you bring back one person from each of the five worlds.||
+||265||136||Bartholomew||But.. but my ball bwaaaaa.||
+||266||138||Hunter||OK, you beat me Spyro, but you didn't get all the crabs. A dragon of your pedigree should really be able to do both!||
+||267||164||Professor||You cleared them out! Let's see what kind of shape the machine room is in... I have a feeling the rhynocs haven't been keeping it too clean.||
+||268||120||Hunter||OK, now try doing a roll. You can roll in midair by holding down the } button and steering left or right.||
+||269||144||Hunter||Ha ha! Did you see that? Nobody outraces a cheetah! And look, I didn't even drop the egg!||
+||270||152||Zoe||This portal has been sealed with the strongest magic I've ever seen. You'll need all the dragon eggs and all the gems from each world to break the seal.||
+||271||114||Zoe||That looked like it hurt, maybe you should have tried to shoot them like I told you. Just press the { button to shoot the targets.||
+||272||118||Nancy||Will you please help me perform my ice dance? These mean rhynoc hockey players keep hogging the ice and all I want to do is dance.||
+||273||138||Crazy Ed||Well, I'll be durned! You've got some mean sub-drivin' skills. Why don't you 'ave dis here egg as a re-ward.||
+||274||136||Eustace||An ice block, yeah that's what you need to reach that treasure. Now how are we going to get one around here?||
+||275||106||Sandy the Seal||This egg has surprisingly good fluid dynamic characteristics. From now on, all of our submarines will be egg-shaped.||
+||276||102||Cumulus||Now that's what I call a sun! Here, you can have this last sun seed as a souvenir. I think it might be a dud, though.||
+||277||104||Shale||When you find a head, land on top of it to pick it up. Then fly it over to an idol body to put them back together.||
+||278||102||Zoe||Remember, to get your longest glide press the < button at the very top of your jump, and use the } button to hover at the end of your jump.||
+||279||154||The Marvelous Magnifico||Acrabadabar...no...acrabadadoo...no, no, that isn't right. Just hold on a minute I'll get it.||
+||280||154||Moneybags||You shouldn't anger a magician, Spyro. I just might decide to turn you into a blue hedgehog or something.||
+||281||156||Hunter||Just watch out for the shark riders. They're carrying the latest JX-5 underwater tracking ammunition.||
+||282||146||Bartholomew||Pushing that block is easy for a big guy like you. Just stand next to the block and push forward on the directional button.||
+||283||122||Basho/Buson the Firefly||OW...\           I went boom again.\    Big rocks can be kicked, they say,\        Mushrooms must be stomped. &Help the twin?||
+||284||122||Basho/Buson the Firefly||OW...\           I went boom again.\    Big rocks can be kicked, they say,\        Mushrooms must be stomped. &Help the twin?||
+||285||140||Handel||I think I can see an egg behind you, but it's out of weach. You'll have to take the long way wound through all these whynocs to get to it.||
+||286||142||Jack||OK, best of luck! These here thinking puzzles are too tough for me. I prefer action gameplay.||
+||287||104||Shale||When you've picked up a tiki head, fly over to any body and use the > button to drop the tiki head.||
+||288||106||Sandy the Seal||The tunnel is chock full of rhynocs and floating mines. The only way to retrieve that egg is to defeat every single rhynoc in the tunnel.||
+||289||106||Snappy the Seal||Wow! I can't believe I survived that blast! It's a good thing I kept this egg nice and safe in my pocket.||
+||290||098||Zoe||This is a superfly powerup Spyro. Whenever you walk through any powerup that looks like this one, it will allow you to fly for a while...||
+||291||098||Zoe||Your game camera is currently in 'Passive' mode. This mode requires you to control the camera yourself, and moves more slowly.||
+||292||170||Bianca||Hey, you finally made it, Spyro! Hunter was a little worried about you when you went off to fight the Sorceress, but I always knew you'd beat her.||
+||293||124||Shui||Thank you for offering to help Spyro, but surely even you wouldn't be able to defeat all those rhynocs until the power up is active.||
+||294||136||Errol||That rhynoc has been gloating ever since he beat you, but I think it was just a fluke. You should ask for a rematch!||
+||295||110||XXX the Mountain Goat||Follow Bobby and Pete up there using your air-hop! It's easy, just press the < button again at the top of your jump.||
+||296||100||Citizen Paulus||We showed those two bullies. If they hadn't outnumbered me two to one, I'd have finished them off ages ago.||
+||297||106||Stanley the Seal||My plan worked! That dumb octopus dropped the jail key while he was shaking me! Now I can free my friends...||
+||298||100||Hunter||Having trouble? If you use the < button to jump off the ramps you'll get extra height and distance.||
+||299||120||Hunter||Well, there's no shame in losing to the master... at least not much shame... Wanna try again?||
 ||354||136||Bartholomew||This time it will be a 3 round match, and when you win, don't let him send you off with a stupid egg!||
 ||355||124||Feng||I'm sure you have many important things to do, but if you could find the time to help please come back.||
 ||356||120||Jasper||Oooops, I forgot I hid this egg inside the statue. I hope the explosion didn't hard boil it...||
