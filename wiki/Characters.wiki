@@ -19,95 +19,94 @@
 Для тех, у кого нет возможности использовать *jpsxdec* представляю архив с примерами озвучек.<br>
 Основные действующие лица:<br>
 http://nihonjinryuu.narod2.ru/Basis_characters.rar<br>
-Второстепенные персонажи(пока что только 26):<br>
-http://nihonjinryuu.narod2.ru/beta2_full_characters_voice.rar
+Второстепенные персонажи(пока что 29):<br>
+http://nihonjinryuu.narod2.ru/full_characters_voice.rar
 
 *Второстепенные персонажи.*
-||*№*|| *Персонаж* || *Субфайлы* || *Пример озвучки в jpsxdec*|| *Предполагаемые актёры* ||
-||1||Mayor Leo|| 098, 100 ||+1044|| Washington ||
-|| ||Councillor George|| 100 ||~Mayor Leo|| Washington ||
-|| ||Citizen Paulus|| 100 || ||Washington ||
-|| ||Citizen Horace|| 100 ||~Mayor Leo|| Washington ||
-|| ||Marco|| 100 || ||Washington ||
-||2||Rapunzel|| 100 || ||devdoki ||
-||<font size="2" color="#AAAA00">3</font>||Cumulus|| 098, 102 ||1023||
-|| ||Nimbus|| 102 ||~Cumulus||
-|| ||Cirrus|| 102 ||
-|| ||Fluffy|| 102 ||
-|| ||Stratus|| 102 ||
-||4||Shale|| 104 ||126|| Scratch ||
-|| ||Rocky|| 098, 104 ||~Shale|| Scratch ||
-|| ||Clay|| 104 || || Scratch ||
-|| ||Stoney|| 104 ||~Shale|| Scratch ||
-||5||Sebastian the Seal|| 106 ||90||_Pasadena_||
-|| ||Snappy the Seal|| 098, 106 ||~Sebastian the Seal||_Pasadena_||
-|| ||Stanley the Seal|| 106 ||~Sebastian the Seal||_Pasadena_||
-|| ||Sigmund the Seal|| 106 || ||_Pasadena_||
-|| ||Sal the Seal|| 106 || ||_Pasadena_||
-|| ||Stu the Seal|| 106 ||~Sebastian the Seal||_Pasadena_||
-|| ||Sandy the Seal|| 106 ||~Sebastian the Seal||_Pasadena_||
-|| ||Smelt the Seal|| 106 ||~Sebastian the Seal||_Pasadena_||
-||6||Billy the Mountain Goat|| 110 ||132|| CubeStudio ||
-|| ||_Pete the Mountain Goat_|| 110 ||132|| CubeStudio ||
-|| ||_Bobby the Mountain Goat_|| 110 ||132|| CubeStudio ||
-||7||Bob||118||1041|| CubeStudio ||
-|| ||Doug||116, 118|| || CubeStudio ||
-||8||Nancy||118||64|| devdoki ||
-||9||Mowat||120||46|| Scratch ||
-|| ||Jasper||116, 120||~Mowat|| Scratch ||
-|| ||Pablo||120||~Mowat|| Scratch ||
-||10||Ooga||120||57|| Washington ||
-||11||Shiny the Firefly||116, 122||~Basho the Firefly|| CubeStudio ||
-|| ||Homer the Firefly||122||~Basho the Firefly|| CubeStudio ||
-|| ||Bubba the Firefly||122|| || CubeStudio ||
-|| ||Basho the Firefly||122||153|| CubeStudio ||
-|| ||Buson the Firefly||122||~Basho the Firefly|| CubeStudio ||
-||<font size="2" color="#AAAA00">12</font>||Ling Ling||124||97||
-|| ||Chi Chi||124||~Ling Ling||
-|| ||Sing Sing||124||~Ling Ling||
-|| ||Lei||124||~Ling Ling||
-|| ||Feng||124||~Ling Ling||
-|| ||Tsai||124||~Ling Ling||
-|| ||Shui||124||~Ling Ling||
-||13||Bartholomew||124, 136, 146||354|| Amazingmax ||
-||14||Cpl. Gabrielle||128||38|| devdoki ||
-||<font size="2" color="gray">15</font>||Pvt. Claire||128|| || devdoki ||
-|| ||Pvt. Nikita||128|| || devdoki ||
-|| ||Pvt. Chloe||128|| || devdoki ||
-|| ||Pvt. Eloise||128|| || devdoki ||
-|| ||Pvt. Helene||128|| || devdoki ||
-||16||Crazy Ed||134, 138||108|| aleksusklim ||
-||17||Alex||136||1001|| Scratch ||
-|| ||Eugene||134, 136|| || Scratch ||
-|| ||Ernest||136||~Alex|| Scratch ||
-|| ||Eustace||136||~Alex|| Scratch ||
-|| ||Errol||136||~Alex|| Scratch ||
-||<font size="2" color="#AAAA00">18</font>||Gabrielle||136||
-||<font size="2" color="#AAAA00">19</font>||Handel||140||107||
-||20||Greta||134, 140||104|| devdoki ||
-||21||Princess Ami||134, 142||48|| devdoki ||
-||<font size="2" color="gray">22</font>||Liz||142||164|| devdoki ||
-|| ||Isabelle||142||63|| devdoki ||
-|| ||Alicia||142|| || devdoki ||
-|| ||Eileen||142|| || devdoki ||
-|| ||Molly||142|| || devdoki ||
-||<font size="2" color="#AAAA00">23</font>||Jack||142||185||
-||<font size="2" color="#AAAA00">24</font>||The Great Zamboni||154||95||
-|| ||The Marvelous Magnifico||154||~The Great Zamboni||
-|| ||The Fantastic Frederico||154||~The Great Zamboni||
-|| ||The Astounding Arturo||154||~The Great Zamboni||
-|| ||The Magnificent Marvello||154||~The Great Zamboni||
-|| ||The Amazing Randini||154||~The Great Zamboni||
-||<font size="2" color="#AAAA00">25</font>||Gus||156||52||
-||26||Tara||156||74|| devdoki ||
-||27||Dan||158||54|| Washington ||
-|| ||Allgeier||158||~Dan|| Washington ||
-|| ||Jamal||158||~Dan|| Washington ||
-|| ||Ali||158|| || Washington ||
-||28||Sheriff Wyatt||160||55|| CubeStudio ||
-|| ||Deputy Roy||160||~Sheriff Wyatt|| CubeStudio ||
-||<font size="2" color="gray">29</font>||Deputy Holiday||160|| || CubeStudio ||
-||30||Professor|| 164 ||114|| Scratch ||
+|| *Персонаж* || *Субфайлы* || *Пример озвучки в jpsxdec*|| *Предполагаемые актёры* ||
+||Mayor Leo|| 098, 100 ||381|| Washington ||
+||Councillor George|| 100 ||~Mayor Leo|| Washington ||
+||Citizen Paulus|| 100 || ||Washington ||
+||Citizen Horace|| 100 ||~Mayor Leo|| Washington ||
+||Marco|| 100 || ||Washington ||
+||Rapunzel|| 100 || 450 ||devdoki ||
+||Cumulus|| 098, 264 ||1023||
+||Nimbus|| 102 ||~Cumulus||
+||Cirrus|| 102 ||
+||Fluffy|| 102 ||
+||Stratus|| 102 ||
+||Shale|| 104 ||126|| Scratch ||
+||Rocky|| 098, 104 ||~Shale|| Scratch ||
+||Clay|| 104 || || Scratch ||
+||Stoney|| 104 ||~Shale|| Scratch ||
+||Sebastian the Seal|| 106 ||90||_Pasadena_||
+||Snappy the Seal|| 098, 106 ||~Sebastian the Seal||_Pasadena_||
+||Stanley the Seal|| 106 ||~Sebastian the Seal||_Pasadena_||
+||Sigmund the Seal|| 106 || ||_Pasadena_||
+||Sal the Seal|| 106 || ||_Pasadena_||
+||Stu the Seal|| 106 ||~Sebastian the Seal||_Pasadena_||
+||Sandy the Seal|| 106 ||~Sebastian the Seal||_Pasadena_||
+||Smelt the Seal|| 106 ||~Sebastian the Seal||_Pasadena_||
+||Billy the Mountain Goat|| 110 ||132|| CubeStudio ||
+||_Pete the Mountain Goat_|| 110 ||~Billy the Mountain Goat|| CubeStudio ||
+||_Bobby the Mountain Goat_|| 110 ||~Billy the Mountain Goat|| CubeStudio ||
+||Doug||116, 118|| 212 || CubeStudio ||
+||Bob||118|| || CubeStudio ||
+||Nancy||118||64|| devdoki ||
+||Mowat||120||46|| Scratch ||
+||Jasper||116, 120||~Mowat|| Scratch ||
+||Pablo||120||~Mowat|| Scratch ||
+||Ooga||120||57|| Washington ||
+||Basho the Firefly||122||153|| CubeStudio ||
+||Shiny the Firefly||116, 122||~Basho the Firefly|| CubeStudio ||
+||Homer the Firefly||122||~Basho the Firefly|| CubeStudio ||
+||Bubba the Firefly||122|| || CubeStudio ||
+||Buson the Firefly||122||~Basho the Firefly|| CubeStudio ||
+||Ling Ling||124||97||
+||Chi Chi||124||~Ling Ling||
+||Sing Sing||124||~Ling Ling||
+||Lei||124||~Ling Ling||
+||Feng||124||~Ling Ling||
+||Tsai||124||~Ling Ling||
+||Shui||124||~Ling Ling||
+||Bartholomew||124, 136, 146||354|| Amazingmax ||
+||Cpl. Gabrielle||128||38|| devdoki ||
+||Pvt. Claire||128|| || devdoki ||
+||Pvt. Nikita||128|| || devdoki ||
+||Pvt. Chloe||128|| || devdoki ||
+||Pvt. Eloise||128|| || devdoki ||
+||Pvt. Helene||128|| || devdoki ||
+||Crazy Ed||134, 138||108|| aleksusklim ||
+||Alex||136||1001|| Scratch ||
+||Eugene||134, 136|| || Scratch ||
+||Ernest||136||~Alex|| Scratch ||
+||Eustace||136||~Alex|| Scratch ||
+||Errol||136||~Alex|| Scratch ||
+||Gabrielle||136||
+||Handel||140||107||
+||Greta||134, 140||104|| devdoki ||
+||Princess Ami||134, 142||48|| devdoki ||
+||Liz||142||164|| devdoki ||
+||Isabelle||142||63|| devdoki ||
+||Alicia||142|| || devdoki ||
+||Eileen||142|| || devdoki ||
+||Molly||142|| || devdoki ||
+||Jack||142||185||
+||The Great Zamboni||154||95||
+||The Marvelous Magnifico||154||~The Great Zamboni||
+||The Fantastic Frederico||154||~The Great Zamboni||
+||The Astounding Arturo||154||~The Great Zamboni||
+||The Magnificent Marvello||154||~The Great Zamboni||
+||The Amazing Randini||154||~The Great Zamboni||
+||Gus||156||52||
+||Tara||156||74|| devdoki ||
+||Dan||158||54|| Washington ||
+||Allgeier||158||~Dan|| Washington ||
+||Jamal||158||~Dan|| Washington ||
+||Ali||158|| || Washington ||
+||Sheriff Wyatt||160||55|| CubeStudio ||
+||Deputy Holiday||160|| || CubeStudio ||
+||Professor|| 164 ||114|| Scratch ||
 
 Расшифровка кодов уровней:<br>
 *098: Sunrise Spring Home*<br>
