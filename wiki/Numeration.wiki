@@ -48,7 +48,7 @@
 ||81||102||Moneybags||Sorry, Spyro, it is my sworn duty to make certain no one crosses these bellows. And you know perfectly well that nothing could ever sway me from obeying my sworn duty... that is, ahem, until you have a few more gems.||
 ||82||120||Hunter||Now that was a 900! I have to admit, you've got some skills, Spyro. But before you get too cocky, let's see if you can score some real points on the giant ski ramp. Do whatever moves you want, and see how many points you can get.||
 ||83||116||Moneybags||Ahh, my good friend Spyro. The Sorceress caught this naughty bird letting off rockets in her fireworks factory, but I'm willing to release him into your custody... provided you pay his outstanding fines.||
-||84||-||-||-||
+||84||160||Deputy Roy||If you'd just calm down for a second and stop all that whoopin' and hollerin' I could tell you what's goin on. The Bailey gang are holed up in them buildings over there. You're gonna have to go in there an' flush 'em out.||
 ||85||170||Hunter||YEEESSSSSSS! You schooled 'em like a bunch of frost-bitten, flat-footed, molasses-eating, lead-pants-wearing, cross-eyed glacier-trolls riding slabs of plywood with sandpaper on the bottom!!! ... And we won some shiny stuff, too.||
 ||86||120||Hunter||Hey, nice roll! Now let's see you pull a flip. Flips are exactly like rolls, only you push up or down instead of left or right. Just jump off the ramp, hold down the } button, and push up or down on the directional pad.||
 ||87||104||Moneybags||Spyro, you're just in time! I saw two egg thieves run through this door! Well... actually, they paid me to guard their hideout, but that's irrelevant. I'll happily let you through the gate to chase them down... for, ahem, a small finder's fee...||
@@ -144,7 +144,7 @@
 ||177||120||Jasper||The world breathlessly awaits my brilliant four-dimensional masterpiece... just light all the rockets and prepare to be amazed by my genius!||
 ||178||142||Moneybags||Say, Spyro, if you had a bit more money, I think I could make a deal with the wizards to raise these steps. I'm afraid that's the only way you'll be able to get to the castle.||
 ||179||136||Ernest||Eustace and I were having a snowman building competition when the Sorceress brought them to life with a spell. Since then they've been stomping around building ice walls and generally causing trouble.||
-||180||
+||180||138||Crazy Ed||I reckon I'm here tuh help ya wit' yer mission, but I don't know nuthin' bout rocket scientry... I'm jest here tuh supply the scrap metal... Ya had better git some more folk tuh help out.||
 ||181||098||Moneybags||The Sorceress has asked me to guard Sheila the Kangaroo. I suppose, if you had a bit more money, I'd be willing to let her escape. Then you could keep her for a pet or something.||
 ||182||098||Moneybags||Ahhh, Spyro, I love your sweet naivete... Your kind-hearted nature might be your downfall someday, but for the time being it's making me rich!||
 ||183||098||Hunter||There's definitely something shiny at the bottom of this hole. I was about to jump down there, but I think I hear running water and I hate to get wet. It's a cat thing.||
@@ -309,7 +309,7 @@
 ||342||116||Hunter||When you see a ladder, or walls that look climbable, just jump onto it and you'll grab it with your claws.||
 ||343||116||Doug||If you can bring back one person from each of our five worlds, we can help you use the whirligig.||
 ||344||140||Handel||You can't afford to waste any time Spywo. If you leave the fire dwagons alone their tails will gwo back.||
-||345||
+||345||134||Crazy Ed||I guess this hunk a junk is sposed tuh fly... Sure glad I ain't the one gittin' on.||
 ||346||142||Eileen||Hurry, Spyro! If we don't get to the castle right away, the princess will be forced to marry that loser, Prince Azrael!||
 ||347||146||Bartholomew||We have to get the timing just right. Press the > button to spin your club when I throw a snowball.||
 ||348||152||Bianca||Good luck, Spyro... and watch out, she's very powerful and very sneaky.||
