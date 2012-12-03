@@ -264,6 +264,60 @@
 ||297||106||Stanley the Seal||My plan worked! That dumb octopus dropped the jail key while he was shaking me! Now I can free my friends...||
 ||298||100||Hunter||Having trouble? If you use the < button to jump off the ramps you'll get extra height and distance.||
 ||299||120||Hunter||Well, there's no shame in losing to the master... at least not much shame... Wanna try again?||
+||300||
+||301||162||Hunter||YES!!! That was close! The egg popped out just before the saucer crash landed!||
+||302||120||Ooga||My friend is feeling much better now... Oh, no! He's started his bone dance again...||
+||303||116||Moneybags||Oh dear Spyro, you really should pay up. I think he's pining for the fjords.||
+||304||116||Shiny||Just hop on, Spyro.\ The sky shall be your domain.\ New worlds await you!||
+||305||118||Moneybags||I always knew you were a cultured sort of dragon. Well, step right in, the show's about to start.||
+||306||116||Zoe||I wouldn't want to go back in there with all those creepy spiders...but if Sparx wants to check out Spider Town again, it's fine with me.||
+||307||120||Pablo||My friend Jasper has a plan to blow the statue to kingdom come, but we'll have to clear out these rhynocs first.||
+||308||146||Bartholomew||A stinkin' rhynoc has blocked the way with this box. It shouldn't be any problem for you to push it out of the way though.||
+||309||116||Zoe||Hi Spyro and Sparx... I've found another lost egg! If Sparx is up to it, he can try to rescue it from Spider Town.||
+||310||120||Ooga||Have you found any of my friend's bones? We have to go back to Skelos Badlands, and we can't leave without them.||
+||311||118||Bob||This place is getting too dangerous. If Doug wants to go ice fishing, he'll have to haul his lazy butt down here!||
+||312||100||Marco||Alas, I have lost my love, guarded by evil rhynocs at the top of yonder tower. Can you rescue her for me?||
+||313||098||Mayor Leo||I don't know how this balloon works, but I think we can get it working for you if you bring back someone from each of the other worlds.||
+||314||106||Zoe||If you want a quick summary of your progress in a world, you can press the @4SELECT@0 button to open the Atlas page for the world you are in.||
+||315||136||Bartholomew||That dumb yeti took my ball. I told him to give it back or you'd kick his lousy butt, but he wouldn't listen.||
+||316||158||Allgeier||Sorry, dragon, that's completely wrong. You can try again, but you'll never get it by merely guessing.||
+||317||142||Jack||At last! I've found the legendary golden goose! You can have another one of its eggs for a souvenir!||
+||318||104||Stoney||Are you the dragon looking for all those eggs? Because I saw a shifty looking character with one over there.||
+||319||102||Stratus||We usually wake up our rain cloud at the crack of dawn, but these mischievous spirits are stopping our bells from ringing. &[Use the superfly powerup to flame the spirits in the belltowers.||
+||320||120||Hunter||I'm thinking you're ready to try some one-on-one competition. Want to try a freestyle competition for points?||
+||321||098||Zoe||If you like, I can change the game camera to 'Active' mode. In 'Active' mode, the camera moves much faster.||
+||322||154||The Amazing Randini||The moles are still a little over excited and I can't start my next performance unitl they calm down, are you sure you can't help?||
+||323||118||Moneybags||What? You don't want to pay? What are you saving your money for, another sequel?||
+||324||122||Basho/Buson the Firefly||\           The eggs are all free!\          Two dragons are born today!\            Sheila's my hero.||
+||325||122||Basho/Buson the Firefly||\           The eggs are all free!\          Two dragons are born today!\            Sheila's my hero.||
+||326||140||Greta||It looks like the sorcewess has already used the plans to build her own wocket. We have to destwoy it. Just follow me.||
+||327||098||Sheila||Hi, Spyro. If you bring someone back from each of the five worlds, we'll have enough weight to pull down this balloon for you.||
+||328||098||Rocky||If you can bring back one person from each of our five worlds, we can help you use the balloon.||
+||329||110||Sheila||Thanks again, Spyro! Now I have to find out what that nasty Sorceress has done to my home while I was locked up.||
+||330||098||Zoe||OK, I won't change it. Remember, you can change the camera mode yourself by using the Options Menu.||
+||331||158||Jamal||Very impressive! That is correct. Good luck in the demolition hovercraft competition.||
+||332||116||Moneybags||Get away from me dragon, you've got no money! Come back when you find some gems...||
+||333||124||Sing Sing||Oh! The emergency escape bridge! Why didn't I think of it sooner? I shall open it right away.||
+||334||118||Bob||I was supposed to meet Doug to go ice fishing today... but rhynocs have blocked the path with ice, so I can't get through.||
+||335||146||Bartholomew||If you use your spin move to deflect the snowball into the gong I bet we can make the roof cave in.||
+||336||138||Hunter||Awww, shucks... I thought you'd want to race 'em. Well, just come talk to me if you change your mind.||
+||337||134||Greta||Now that I've wescued the secwet plans we can finish building the wocket. If only I had a little more help.||
+||338||138||Hunter||Awww, shucks... I thought you'd want to race 'em. Well, just come talk to me if you change your mind.||
+||339||106||Smelt the Seal||I don't blame you. I already owe seven years of kitchen duty, and I'm not about to risk getting another month!||
+||340||164||Professor||Try not to fall off the pedestal. I recommend using sniper mode to take out these targets.||
+||341||122||Moneybags||\           I can't let you through.\       You're too poor to pass this door.\           Come back with more cash.||
+||342||116||Hunter||When you see a ladder, or walls that look climbable, just jump onto it and you'll grab it with your claws.||
+||343||116||Doug||If you can bring back one person from each of our five worlds, we can help you use the whirligig.||
+||344||140||Handel||You can't afford to waste any time Spywo. If you leave the fire dwagons alone their tails will gwo back.||
+||345||
+||346||142||Eileen||Hurry, Spyro! If we don't get to the castle right away, the princess will be forced to marry that loser, Prince Azrael!||
+||347||146||Bartholomew||We have to get the timing just right. Press the > button to spin your club when I throw a snowball.||
+||348||152||Bianca||Good luck, Spyro... and watch out, she's very powerful and very sneaky.||
+||349||100||Hunter||Yeah, maybe you'd better practice a bit first... Just come back here when you're up for a challenge.||
+||350||102||Cumulus||If you can't keep up with the sun seed, remember you can always hold down the > button to charge.||
+||351||098||Rocky||This balloon will take you to the great Tiki Lodge in the sky! Just jump on when you're ready.||
+||352||104||Clay||Rhynocs are running rampant around here, but I can't get anyone out of the Tiki Lodge long enough to do anything about it.||
+||353||134||Zoe||Princess Ami showed me a place called Starfish Reef. She says there's an egg hidden in there. I think Sparx should check it out.||
 ||354||136||Bartholomew||This time it will be a 3 round match, and when you win, don't let him send you off with a stupid egg!||
 ||355||124||Feng||I'm sure you have many important things to do, but if you could find the time to help please come back.||
 ||356||120||Jasper||Oooops, I forgot I hid this egg inside the statue. I hope the explosion didn't hard boil it...||
