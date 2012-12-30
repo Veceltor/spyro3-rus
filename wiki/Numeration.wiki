@@ -2,7 +2,7 @@
 
 ||Номер||Субфайл||Герой||Фраза|| 
 ||37||098||Bianca||So... you're the one in charge of rescuing the eggs, huh? Heh heh heh... How sad... Look here, dragon, if you know what's good for you, you'll turn around and crawl back up that hole you came through. Those eggs belong to us now, and I've hidden them in places you'll never find in a thousand years! Besides, even if you could find an egg, our expertly trained armies will dispose of you and take it back. Do I make myself clear? If I find you here again, I am going to be verrrrry angry... and you won't like me when I'm angry...|| 
-||38||128||Cpl. Gabrielle||Sir! The rhynocs have blocked the way out of this next cave with a security door, and I don't think you'll be able to blast your way through this one. Recommend you land on the weights and carry them to the pressure sensitive security switches either side of the door. When in position press the > button to drop the weight. Press the } button once to look down, press it again to look up, sir! &[Land on item to pick it up. &[The > button drops item. &[Use the } button to change views.|| 
+||38||128||Cpl. Gabrielle||Sir! The rhynocs have blocked the way out of this next cave with a security door, and I don't think you'll be able to blast your way through this one. Recommend you land on the weights and carry them to the pressure sensitive security switches either side of the door. When in position press the > button to drop the weight. Press the } button once to look down, press it again to look up, sir!|| 
 ||39||134||Bianca||Listen to me, dragon... Spyro... this is serious now. The Sorceress is planning a trap for you, and if she catches you... believe me, you don't want to know what she's going to do... Look, I promise to take good care of the rest of the eggs. I mean it. Just take Hunter and go back home before... before... I can't say it, just go!|| 
 ||40||170||Hunter||Check it out, this is the world's fastest turbo-snowboard course! The local champions are the Sasquatch Six, a gang of yeti's on souped up snow-discs. I bet that you could outrace the lot of 'em! If you win, we get a huge pile of treasure! If you lose, I have to slick down the whole course with my tongue.||
 ||41||120||Hunter||Wow, you learn really fast! Then again, you are being trained by a master boarder... Speaking of which, I was just practicing a nearly impossible new move that I call the 'Gnasty Gnorc'. I had almost pulled it off when I suddenly ran smack into this dragon egg and wiped out! OK, I made that up, but you can have this egg...||
@@ -11,7 +11,7 @@
 ||44||148||Bentley||This might be our last stand, Spyro. The Sorceress plans to use this monster to destroy every iota of her opposition, beginning with the two of us. Alas, there is no time for ruminating, a battle awaits us... I will endeavor to assist you by means of a steady provision of combustible projectiles.||
 ||45||110|| _{xxx}_ the Mountain Goat||Those rhynocs have taken over! There'll be no stopping them unless we can smash their huts. Their huts are too big to smash with your kick attack, though. Try using your Stomp attack to smash them instead. I'll confuse them with taunting, while you stomp the huts, OK? _{xxx}_ ||
 ||46||120||Mowat||I was playing catch with my pet wolf, Farley, but I accidentally threw his ball down this hole and he went in after it. Now he's stuck down there. I feel so helpless... sitting up here... listening to his steadily softening whimpers... don't cry, wolf... never cry, wolf...||
-||47||154||Moneybags||Hmph... These gnomes think they're so talented... I happen to know a pretty good magic trick, myself! It's called the... incredible... magical... err, extending bridge trick. However, you'll need a few more gems to make a donation... After all, I am just a poor, starving amateur magician... &[Crossing bridge costs ^^^^ gems.||
+||47||154||Moneybags||Hmph... These gnomes think they're so talented... I happen to know a pretty good magic trick, myself! It's called the... incredible... magical... err, extending bridge trick. However, you'll need a few more gems to make a donation... After all, I am just a poor, starving amateur magician...||
 ||48||142||Princess Ami||Ohh... hee hee... Hi, Spyro! Isn't Prince Azrael just the dreamiest? The other fairies and wizards won't let us get married, so we're going to elope! ... By the way, Azrael says you can have this egg if you don't tell anyone where we went!||
 ||49||136||Moneybags||Say, Spyro, you're a sports fan aren't you? As you probably know, Frozen Altars is the birthplace of the great sport of cat hockey. Today's match is sold out, of course, but I just happen to have a spare ticket that I'll sell you for... say... a teensy weensy markup...||
 ||50||114||Zoe||Are you paying attention Sparx? I told you to use slide to target those crawdads. If you don't learn how to use all your skills you'll never survive the challenges that lie ahead, and Spyro would never forgive me for that. Use the @4L1@0 or @4R1@0 button, then move with the analog stick or directional button.||
@@ -35,7 +35,7 @@
 ||68||158||Ali||Behind this door lie the five deadly trials of King Rover. No one has ever survived all five. In fact, it is so dangerous that I cannot let you through this first door unless you are able to solve my riddle...||
 ||69||158||Agent 9||One of those dogs with the funny hats put a curse on me, just 'cause I shot him in the butt a couple times. He said he turned my tail into a snake. Does it look like a snake to you? It does feel kinda funny, come to think of it. Hoo boy, that dog's gonna pay!||
 ||70||152||Bianca||Spyro, I know you don't trust me, but I want to help you stop the Sorceress. There's a way to open a hidden portal to her lair, but it'll take some very strong magic... If you can find more of the dragon eggs, I think my magic will be strong enough to open the portal. I'll come find you when you have enough eggs, okay?||
-||71||098||Moneybags||I'm getting paid a fortune to keep Sheila the Kangaroo locked up... heh heh... the pesky animal must have been causing a lot of trouble for that poor Sorceress... I suppose I could accidentally let the kangaroo escape... if you were to pay me, say...a small fee. &Pay ^^^ gems to free Sheila? &Sure. &No thanks.||
+||71||098||Moneybags||I'm getting paid a fortune to keep Sheila the Kangaroo locked up... heh heh... the pesky animal must have been causing a lot of trouble for that poor Sorceress... I suppose I could accidentally let the kangaroo escape... if you were to pay me, say...a small fee.||
 ||72||164||Moneybags||Ooooooh weeee, I love the sizzle of a high energy laser on the back end of a rhynoc. Too bad the Sorceress didn't send more of 'em, I was really getting into the zone. Well, now that my island is safe again I guess I'll have to go rhynoc hunting elsewhere... Are you headed out?||
 ||73||154||Moneybags||Spyro, did you know I happen to be a very talented amateur magician? My specialty is the, err... 'Amazing Extending Bridge' trick. I'd love to show you, but I need a small donation first... for my expenses, you understand...||
 ||74||156||Tara||Well, well, look at you... showing up here to raid the tomb, after I've done all the work. I spend all day pressing switches and shoving boxes around, and you just waltz in here expecting to claim the treasure! Well, you might as well have it. It only turned out to be a lousy egg, anyway.||
@@ -56,9 +56,9 @@
 ||89||138||Hunter||Spyro, you're just in time! A rhynoc skateboard gang has challenged us to a race. They said you're slower than a Molten Crater fire slug. I stuck up for you, though! I told them I've seen some pretty fast fire slugs.||
 ||90||106||Sebastian the Seal||While I was gone, my friends borrowed the rhynocs' submarine... then they took it for a joy ride... and then they smashed it into a big pile of rocks. Oddly enough, the rhynocs failed to see the humor in the story and stuffed my friends in the jail behind you.||
 ||91||Sparx||
-||92||120||Hunter||This one's freestyle, Spyro! Do whatever tricks you want off the ramp. If you jump off the ramp, you can do half-pipe moves. If you don't jump off the ramp, you can do rolls and flips. The harder the trick, the more points you'll score. &[Score 500 points on the giant ski ramp &[Jump on ramp to do half-pipe moves. &[Don't jump on ramp to do rolls and flips.||
+||92||120||Hunter||This one's freestyle, Spyro! Do whatever tricks you want off the ramp. If you jump off the ramp, you can do half-pipe moves. If you don't jump off the ramp, you can do rolls and flips. The harder the trick, the more points you'll score.||
 ||93||156||Hunter||Nice shootin', comrade! Where'd you learn to aim like that? Oh, by the way, Bianca wanted me to give you this egg. She says she accidentally turned it into a woolly mammoth for five minutes, but it should still be ok.||
-||94||098||Hunter||Yo, Spyro! I just found one of those portal thingamajigs that leads to a different world, but you'll have to glide to get across to it. Press the < button to jump, then press the < button again while you're in the air to glide! Just follow me... &[Press < button to jump. &[Press < button in mid-air to glide.||
+||94||098||Hunter||Yo, Spyro! I just found one of those portal thingamajigs that leads to a different world, but you'll have to glide to get across to it. Press the < button to jump, then press the < button again while you're in the air to glide! Just follow me...||
 ||95||154||The Great Zamboni||Would you like to see a magic trick? Watch carefully, as you can see there is nothing up my left sleeve, nothing up my right sleeve, but now with a wave of my hands and the magic word... ALAKAZAM!||
 ||96||152||Moneybags||Well, well, Spyro, look what I have here. It's a life-size space monkey action figure, complete with a fully operational laser! I'd love to let him out so you can play with him, but the Sorceress seems to think he's a menace.||
 ||97||124||Ling Ling||Spyro! Rhynocs have been harassing us all day. The workers haven't been able to harvest the bamboo needed for the whirligig to take you to Evening Lake. We've tried asking them to leave, but there's no reasoning with them.||
@@ -101,7 +101,7 @@
 ||134*||098||Zoe||I'm sorry, Spyro, but you seem to be playing a hacked version of this game. This may be an illegal copy. Since this copy has been modified, you may experience problems that would not occur on a legal copy.||
 ||135||170||Bianca||This place is where the Sorceress kept all her treasure, but after she was defeated a bunch of thieves came and stole it. If you can catch the thieves, you're more than welcome to keep the treasure!||
 ||136||122||Moneybags||\           You've made a wise choice...\        It will mean more eggs for you...\              And more gems for me. \           Best of all, Spyro...\        I can stop speaking Haiku.\           What a sweet relief!||
-||137||138||Crazy Ed||Alrighty then. Press the < button to speed on up, and when you get a sub in your sights, the torpedo will start to lock on. If you get a good lock-on, fire away with the { button. &[Press < to speed up.||
+||137||138||Crazy Ed||Alrighty then. Press the < button to speed on up, and when you get a sub in your sights, the torpedo will start to lock on. If you get a good lock-on, fire away with the { button.||
 ||138||120||Hunter||You can go for the course record now, if you want. Whenever you hop on a skateboard, a timer will start. Score as many points as you can until the timer expires or you wipe out. Good luck!||
 ||139||164||Professor||There's another door at the end of this beach, and rhynocs will keep coming out until you shoot the red panic button. Work your way up the beach by dodging and using the natural cover on the right side.||
 ||140||156||Moneybags||I am dreadfully sorry, Spyro, but I can't let common riff raff into the Tomb of the Stone Golem. Only the crustiest of the upper crust may pass through here.||
@@ -114,7 +114,7 @@
 ||147||138||Crazy Ed||Well, I hate t' ask yer help again, but dere be even more subs that durn come outta nowheres. If you could blast 'em, I could use dis acid lake as muh swimmin' hole again.||
 ||148||164||Professor||The lab's clear, and it smells better in here already! Follow me outside, where I expect we'll find some rhynocs wearing armor. You'll need a more powerful weapon to defeat them.||
 ||149||Sparx||
-||150||164||Professor||Just as I thought, the machine room is overrun with birds. To target the birds in their nests, you'll want to use sniper mode, then zoom in for pinpoint accuracy. &[Press the } button to enter sniper mode.||
+||150||164||Professor||Just as I thought, the machine room is overrun with birds. To target the birds in their nests, you'll want to use sniper mode, then zoom in for pinpoint accuracy.||
 ||151||116||Moneybags||Heh heh... what a sucker... err, that is... It's a far, far better thing you do today, Spyro, than you have ever done, and... err... well so forth, et cetera, you get the idea...||
 ||152||118||Moneybags||Step right up, Spyro. Behind this door is the single greatest show on earth! That's right! Ice dancing! Season tickets are available, but you'll have to act fast.||
 ||153||122||Basho the Firefly||\           We have the bombs here.\         We must destroy the egg cage.\             But we just go boom.\ \           Kangaroo can help!\        You can clear the path for us!\           Will Sheila help us?||
@@ -164,7 +164,7 @@
 ||197||104||Moneybags||Very well, Spyro, it's up to you... Maybe if we both just hold hands and think happy thoughts, the thieves will decide to return the eggs themselves||
 ||198||134||Zoe||When I saw that giant stingray I thought you were a goner, Sparx, but you sure showed him. Now the magic from the egg has made you even stronger, so you can take one more hit for Spyro.||
 ||199||152||Zoe||Just before you kicked the Sorceress's big, fat, ugly butt she built a factory to make robotic bugs to fight Sparx, but I don't think they're any match for him.||
-||200||120||Hunter||Isn't this the wildest skateboard park you've ever seen? Once you've mastered a few tricks, you could score huge points in this place! What do you say I show you some moves? &Learn some tricks?||
+||200||120||Hunter||Isn't this the wildest skateboard park you've ever seen? Once you've mastered a few tricks, you could score huge points in this place! What do you say I show you some moves?||
 ||201||134||Moneybags||Good grief, dragon, what happened to all your money? How am I supposed to swindle... err.. heh heh... help you, if you can't even find any gems!||
 ||202||142||Isabelle||I must admit, James, I am impressed... There are still a few witches left, though, and this time they mean business! They even turned the floor into deadly blue ooze. Oh, be careful, ok?||
 ||203||142||Isabelle||So, I see those rocket launchers aren't just for show after all... Well, I just hope your accuracy is better than your punctuality, because there are still a lot more witches in the temple.||
@@ -247,8 +247,8 @@
 ||280||154||Moneybags||You shouldn't anger a magician, Spyro. I just might decide to turn you into a blue hedgehog or something.||
 ||281||156||Hunter||Just watch out for the shark riders. They're carrying the latest JX-5 underwater tracking ammunition.||
 ||282||146||Bartholomew||Pushing that block is easy for a big guy like you. Just stand next to the block and push forward on the directional button.||
-||283||122||Basho/Buson the Firefly||OW...\           I went boom again.\    Big rocks can be kicked, they say,\        Mushrooms must be stomped. &Help the twin?||
-||284||122||Basho/Buson the Firefly||OW...\           I went boom again.\    Big rocks can be kicked, they say,\        Mushrooms must be stomped. &Help the twin?||
+||283||122||Basho/Buson the Firefly||OW...\           I went boom again.\    Big rocks can be kicked, they say,\        Mushrooms must be stomped.||
+||284||122||Basho/Buson the Firefly||OW...\           I went boom again.\    Big rocks can be kicked, they say,\        Mushrooms must be stomped.||
 ||285||140||Handel||I think I can see an egg behind you, but it's out of weach. You'll have to take the long way wound through all these whynocs to get to it.||
 ||286||142||Jack||OK, best of luck! These here thinking puzzles are too tough for me. I prefer action gameplay.||
 ||287||104||Shale||When you've picked up a tiki head, fly over to any body and use the > button to drop the tiki head.||
@@ -283,7 +283,7 @@
 ||316||158||Allgeier||Sorry, dragon, that's completely wrong. You can try again, but you'll never get it by merely guessing.||
 ||317||142||Jack||At last! I've found the legendary golden goose! You can have another one of its eggs for a souvenir!||
 ||318||104||Stoney||Are you the dragon looking for all those eggs? Because I saw a shifty looking character with one over there.||
-||319||102||Stratus||We usually wake up our rain cloud at the crack of dawn, but these mischievous spirits are stopping our bells from ringing. &[Use the superfly powerup to flame the spirits in the belltowers.||
+||319||102||Stratus||We usually wake up our rain cloud at the crack of dawn, but these mischievous spirits are stopping our bells from ringing.||
 ||320||120||Hunter||I'm thinking you're ready to try some one-on-one competition. Want to try a freestyle competition for points?||
 ||321||098||Zoe||If you like, I can change the game camera to 'Active' mode. In 'Active' mode, the camera moves much faster.||
 ||322||154||The Amazing Randini||The moles are still a little over excited and I can't start my next performance unitl they calm down, are you sure you can't help?||
@@ -551,7 +551,7 @@
 ||1004||106||Sandy the Seal||We had a dragon egg for you, but we used it to test our ultra-high-speed-super-fluidity tunnel. The good news is that it made it to the end of the tunnel without a scratch! The bad news is that there's no way to get it back out now.||
 ||1005||160||Sheriff Wyatt||Well I'll be, so that's how my prisoners keep escaping! Here take this dinosaur egg away before it hatches and causes more trouble. I think it must have been the runt of the litter though.||
 ||1006||156||Hunter||OK. By the way, if you see Bianca around, can you tell her to meet me here? I... uh... promised I'd give her scuba lessons once the sharks were gone.||
-||1007||156||Hunter||I've been training my new pet manta ray to carry the latest technology super-high-impact underwater missile launchers! Wanna ride him, and try blastin' some sharks? &Ride manta ray and shoot sharks?||
+||1007||156||Hunter||I've been training my new pet manta ray to carry the latest technology super-high-impact underwater missile launchers! Wanna ride him, and try blastin' some sharks?||
 ||1008||120||Pablo||Those crummy rhynocs forced us to build a statue of the Sorceress. Then, after we built it, she complained it was too ugly! If you ask me, the statue is much prettier than she is.||
 ||1009||142||Moneybags||You have chosen wisely, Spyro. I'll tell the wizards to raise the steps immediately... And, err, best of luck rescuing that princess, or whatever it is you're up to...||
 ||1010||120||Hunter||Alright, you nailed it. Now let's see if you can do a 900! Get as much height as you can, spin two and a half revolutions in the air and land back on the ramp.||
@@ -581,7 +581,7 @@
 ||1034||164||Agent 9||Hiya, Spyro... I'm just off to patrol the island again, you know, in case any rhynocs decided to come crawling back...||
 ||1035||124||Bentley||Ah, a fine day for a bit of a walk. I was just heading to the top of my favorite hill...||
 ||1036||110||Billy the Mountain Goat||I think my taunting is wearing them down! Remember, just jump and press the triangle button to stomp those huts.||
-||1037||164||Professor||By my calculations, the bombs in this handy vending machine should be highly effective against armor. Give it a shot. &[Press the > button to throw bombs.||
+||1037||164||Professor||By my calculations, the bombs in this handy vending machine should be highly effective against armor. Give it a shot.||
 ||1038||146||Bentley||I'm afraid my home is still infested with rhynocs, I'll return when they are dealt with.||
 ||1039||138||Hunter||Heh heh, what's the matter, getting chicken on me? Bwaaak bwaaak bwaaaaaak! Bwak bwaak bwak bwak bwaaaaaaaaaak!||
 ||1040||138||Hunter||Heh heh, you're just chicken aren't you? Bwaaak bwaaak bwaaaaaak! Bwak bwaak bwak bwak bwaaaaaaaaaak!||
@@ -693,7 +693,7 @@
 ||1146||138||Crazy Ed||Okey Dokey, take good care of 'er, y' here?||
 ||1147||116||Jasper||Hey now, let's head on over to the whirligig.||
 ||1148||124||Lei||Please be careful those rockets are dangerous!||
-||1149||138||Crazy Ed||Ya kin ride the sub just for fun, if ya like. &Ride the sub for cheap thrills?||
+||1149||138||Crazy Ed||Ya kin ride the sub just for fun, if ya like.||
 ||1150||142||Jack||If you get stuck, we can always restart this section.||
 ||1151||
 ||1152||140||Handel||Watch out for that wava, it looks super hot.||
