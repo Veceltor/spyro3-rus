@@ -1,0 +1,63 @@
+Attention dragon: if you ever want to see your mangy cat friend again, you had better leave here at once!\     -The Sorceress
+
+Внимание, дракон: хочешь увидеть своего паршивого друга-кота - сначала уберись отсюда!\ -Колдунья
+
+Which challenge would you like to play? &Choose a challenge: &Time Attack &Race the Bumblebees &Exit Level
+
+Какое испытание ты выбираешь? &Выберите испытание: &Атака на время &Гонка со шмелями &Покинуть уровень
+
+The easiest way to complete this time attack is to fly through all the honeycombs first, then pass through the bee-hives, then defeat the bees, and save the boat riding bears for last. Once you've solved it that way, you can always find ways to solve it faster.
+
+Легчайший путь пройти атаку на время - пролететь сначала через соты, потом через ульи, затем уничтожить шмелей и, наконец, спасти медведей на лодках. Это не самый быстрый путь, но ты всегда можешь пройти испытание снова.
+
+You're opponents are a gang of giant bumblebees this time! The red dots will mark the course. Make sure to fly through each of the green rings. &[Fly through all green rings &[Use the red dots to guide you.
+
+На этот раз твои противники - банда гигантских шмелей! Красные точки показывают путь. Убедись, что пролетел через каждое из зелёных колец. &[Пролетите через все зелёные кольца &[Красные точки указывают путь.
+
+Are you done already? Too bad, I was having fun watching...
+
+Уже уходишь? Жалко, здесь мне было весело...
+
+Yippee! We won another egg for defeating the time trial!
+
+Уиии! Мы выйграли атаку на время, это яйцо - наше!
+
+We won an egg for first prize! Those dumblebees should have known better than to challenge a dragon to a flying race.
+
+Мы выйграли яйцо, как первый приз! Этим шмелям следовало знать, что лучше не соревноваться в скорости с драконом.
+
+Going for the speed record, huh? Good luck!
+
+Хочешь побить рекорд, а? Удачи!
+
+Remember to go for every blue turbo star that you can, even if it means straying from the course. Just don't miss any rings, or you'll be disqualified. &[Use the blue turbo stars. &[Fly through all green rings
+
+Не забывай пролетать через все голубые звёзды, через которые можешь пролететь, даже если это значит отклонение от курса. Просто не пропускай кольца, и не будешь дисквалифицирован. &[Используй голубые турбо-звёзды &[Пролетите через все зелёные кольца
+
+Remember, you don't have to follow the red dots exactly. Try to take short cuts between rings when you can. Also, for the fastest speed, always try to fly as low as you can. &[Cut corners between the green rings. &[Flying lower gives you extra speed.
+
+Помни, не обязательно лететь точно по красным точкам. Попробуй срезать путь между кольцами, если можешь. Да, и для наибольшей скорости, старайся лететь как можно ниже. &[Срезайте углы между кольцами &[На небольшой высоте вы летите быстрее
+
+Honeycomb Speedway is home to the fastest racing bees in the world. It's also one of the only speedways that operates at night!
+
+Сотовая Трасса - дом быстрейших гоночных шмелей в мире. А ещё это единственная трасса, функционирующая ночью!
+
+Look out, Spyro, there's a really big sheep UFO around here, and it's trying to get me! I snatched up a dragon egg it was trying to abduct, and now it wants revenge!
+
+Осторожно, Спайро, где-то здесь летает космическая овца на большом звездолёте, и она пытается догнать меня! Я спёр у неё из-под носа драконье яйцо, и она жаждет мести!
+
+You wait here, I'll lure the UFO down the river of honey! &Should Hunter go for it? &Go ahead, I'll cover you! &Nah, it's no big deal.
+
+Подожди здесь, и я искупаю НЛО в медовой реке! &Должен ли Хантер сделать это? &Вперёд, я прикрою! &Ха, тоже мне проблема.
+
+OK, here I go!
+
+OK, я иду!
+
+I don't know, Spyro, I've never seen a sheep UFO this mad before...
+
+Не знаю, Спайро, я никогда не видел такой чокнутой космической овцы...
+
+Ha ha! Did you see that? Nobody outraces a cheetah! And look, I didn't even drop the egg!
+
+Ха-ха! Ты видел это? Нет никого быстрее гепарда! И смотри, я даже не уронил яйцо!
