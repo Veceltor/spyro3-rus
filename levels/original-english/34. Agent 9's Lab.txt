@@ -1,4 +1,4 @@
-Ahh, Agent 9, my favorite pupil... welcome back to my island laboratory! I'm afraid rhynocs have taken over the whole island... perhaps you could stop them before they destroy all my research.
+﻿Ahh, Agent 9, my favorite pupil... welcome back to my island laboratory! I'm afraid rhynocs have taken over the whole island... perhaps you could stop them before they destroy all my research.
 
 Ah, it'll be just like old times! Try shooting these dummies to get warmed up, but... err, be careful, I think a rhynoc might be hiding among them... &[Shoot all dummies, and the occasional rhynoc...
 
