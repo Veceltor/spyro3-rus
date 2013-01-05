@@ -1,4 +1,4 @@
-Princess Ami showed me a place called Starfish Reef. She says there's an egg hidden in there. I think Sparx should check it out. &Enter Starfish Reef bonus world? &Yes. &No.
+﻿Princess Ami showed me a place called Starfish Reef. She says there's an egg hidden in there. I think Sparx should check it out. &Enter Starfish Reef bonus world? &Yes. &No.
 
 Sparx has already found the lost egg in Starfish Reef, but if he wants to go back for a swim, I can lead the way. &Return to Starfish Reef bonus world? &Yes. &No.
 

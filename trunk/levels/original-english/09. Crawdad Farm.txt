@@ -1,4 +1,4 @@
-You can also move quickly by charging, like Spyro. To charge, hold down the > button. Use your charge to chase down this fast enemy.
+﻿You can also move quickly by charging, like Spyro. To charge, hold down the > button. Use your charge to chase down this fast enemy.
 
 Now for the hard part. Being a maneuverable dragonfly, you can also slide in any direction. To slide, hold down the @4L1@0 or @4R1@0 button, then move with the analog stick or directional button. Try sliding up and down to hit the targets in this room.
 
