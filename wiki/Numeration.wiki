@@ -126,7 +126,7 @@
 ||159||134||Moneybags||Heh heh, the Sorceress has a real prize on her hands here... it took two dozen rhynocs to capture this dimwitted furball, so you'd better believe he's not going to get out cheap...||
 ||160||120||Hunter||Flips are my signature move! Just jump off the ramp, hold down the } button, and push up or down on the directional pad. Try doing a flip and landing on the next ramp.||
 ||161||100||Hunter||Alright, if you can catch all the lizards without wiping out and before time runs out, I  might be able to scrounge up another egg. It's not gonna be easy, though...||
-||162||
+||162||152||Professor||Первая из двух скрытых реплик!||
 ||163||Sparx||
 ||164||142||Liz||Spyro, we urgently need your help! The evil cat wizards of Felinia have stormed our castle and captured our princess! If we don't stop them right away, they'll force her to marry Prince Azrael!||
 ||165||Sparx||
@@ -148,7 +148,7 @@
 ||181||098||Moneybags||The Sorceress has asked me to guard Sheila the Kangaroo. I suppose, if you had a bit more money, I'd be willing to let her escape. Then you could keep her for a pet or something.||
 ||182||098||Moneybags||Ahhh, Spyro, I love your sweet naivete... Your kind-hearted nature might be your downfall someday, but for the time being it's making me rich!||
 ||183||098||Hunter||There's definitely something shiny at the bottom of this hole. I was about to jump down there, but I think I hear running water and I hate to get wet. It's a cat thing.||
-||184||
+||184||152||Professor||Вторая из двух скрытых реплик!||
 ||185||142||Jack||I just bought some insta-sprout-ultra-super-grow seeds from a bear with a bag of gems. He said they were magic, but I can't make them do anything. You can have a couple, if you like.||
 ||186||110||Billy the Mountain Goat||Hiya Sheila! While you were gone, a bunch of rhynocs kicked us out of our houses. It's OK though... Bobby, Pete and I are working on a clever plan to take them back.||
 ||187||152||Moneybags||You don't want to free him? Ahhh, what's the matter, little dragon? Are you just jealous that no one has ever made an action figure out of you?||
@@ -264,7 +264,7 @@
 ||297||106||Stanley the Seal||My plan worked! That dumb octopus dropped the jail key while he was shaking me! Now I can free my friends...||
 ||298||100||Hunter||Having trouble? If you use the < button to jump off the ramps you'll get extra height and distance.||
 ||299||120||Hunter||Well, there's no shame in losing to the master... at least not much shame... Wanna try again?||
-||300||
+||300||160||Agent 9||The sheriff promised me I could be a deputy. So I'm off to help clear out all the dinosaurs.||
 ||301||162||Hunter||YES!!! That was close! The egg popped out just before the saucer crash landed!||
 ||302||120||Ooga||My friend is feeling much better now... Oh, no! He's started his bone dance again...||
 ||303||116||Moneybags||Oh dear Spyro, you really should pay up. I think he's pining for the fjords.||
@@ -430,12 +430,12 @@
 ||463||124||Bartholomew||Hey, I think I saw some rhynocs run up to the top of that hill with an egg!||
 ||464||134||Greta||The wocket is weady for waunch, Spywo. Hop aboard whenever you want.||
 ||465||134||Eugene||Why don't you ask around the other worlds to see if you can get me some help to build this rocket.||
-||466||
+||466||146||Bartholomew||Oh no, another seal, and this one looks really mean.||
 ||467||110||XXX the Mountain Goat||Thanks for the help, Sheila! You can have this egg I found in my house.||
 ||468||100||Councillor George||Those pesky rhynocs are back again, but I'm sure you'll soon sort them out.||
 ||469||102||Nimbus||You'd think the Sorceress would want more rain, after what the sun has done to her skin.||
 ||470||120||Hunter||Alright! Whoever scores the most points in the time limit, wins!||
-||471||
+||471||160||Deputy Roy||Well, I'll just try to hold 'em off until some more help arrives.||
 ||472||136||Errol||Great, freeze the cats and push them into my goal to score.||
 ||473||136||Eustace||It would be easy to get up to that treasure if you had something to stand on.||
 ||474||Sparx||
@@ -478,12 +478,12 @@
 ||511||110||XXX the Mountain Goat||Don't worry, I'll just keep kicking this rock until it breaks.||
 ||512||128||Sgt. Byrd||Don't worry I'll have the hummingbirds whipped into shape in no time.||
 ||513||128||Cpl. Gabrielle||Mission accomplished. It's great to have you back, sir.||
-||514||
+||514||118||Nancy||Fine. I'll just wait for some other dragon to come along.||
 ||515||Sparx||
 ||516||106||Snappy the Seal||Yippee! I'll light the fuse on the next bomb!||
 ||517||104||Stoney||You should catch that thief before he steals something valuable.||
 ||518||100||Councillor George||Are you a dragon? I never believed you really existed.||
-||519||
+||519||136||Bartholomew||But how will I get my ball back now?||
 ||520||156||Hunter||Right on, go get 'em!||
 ||521||160||Deputy Roy||That darn Bailey gang!||
 ||522||170||Hunter||Sure, come back whenever you want to ride it!||
@@ -527,7 +527,7 @@
 ||560||104||Stoney||Those guys ought to be locked up.||
 ||561||098||Snappy the Seal||Let's head on over to the balloon!||
 ||562||124||Ling Ling||Doobedoobedoo.||
-||563||
+||563||116||Hunter||I'll see ya in there later.||
 ||564||118||Nancy||Thanks! Let's go!||
 ||565||118||Nancy||Do you want to try again?||
 ||566||098||Sheila||Let's head on over to the balloon!||
@@ -695,7 +695,7 @@
 ||1148||124||Lei||Please be careful those rockets are dangerous!||
 ||1149||138||Crazy Ed||Ya kin ride the sub just for fun, if ya like.||
 ||1150||142||Jack||If you get stuck, we can always restart this section.||
-||1151||
+||1151||142||Jack||That's the ugliest goose I've ever seen!||
 ||1152||140||Handel||Watch out for that wava, it looks super hot.||
 ||1153||100||Citizen Paulus||Let me catch my breath and I'll kick that other guy's butt.||
 ||1154||120||Hunter||I think you're getting it, just try one more time.||
@@ -738,4 +738,4 @@
 ||1191||Sparx||
 ||1192||164||Agent 9||See ya later, alligator!||
 ||1193||160||Deputy Roy||Well good luck to ya'.||
-||1194||
+||1194||116||Jasper||Hop aboard.||
