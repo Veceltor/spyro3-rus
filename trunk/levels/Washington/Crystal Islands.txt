@@ -1,4 +1,4 @@
-﻿Spyro, did you know I happen to be a very talented amateur magician? My specialty is the, err... 'Amazing Extending Bridge' trick. I'd love to show you, but I need a small donation first... for my expenses, you understand... &Pay ^^^^ gems to cross the bridge? &Not again... Ok, fine... &I'm happy over here.
+ Spyro, did you know I happen to be a very talented amateur magician? My specialty is the, err... 'Amazing Extending Bridge' trick. I'd love to show you, but I need a small donation first... for my expenses, you understand... &Pay ^^^^ gems to cross the bridge? &Not again... Ok, fine... &I'm happy over here.
 
 Спайро, ты знаешь, что я оказался очень талантливым магом? Моя спецальность - трюк, э-э... "Удивительный Тянущийся Мост". Я бы его показал, но мне сначала нужен небольшой гонорар, понимаешь ли... &Заплатить ^^^^ камней за раскрытие моста? &Опять... Ну ладно. &Мне и здесь хорошо.
 
@@ -12,7 +12,7 @@ You shouldn't anger a magician, Spyro. I just might decide to turn you into a bl
 
 Hmph... These gnomes think they're so talented... I happen to know a pretty good magic trick, myself! It's called the... incredible... magical... err, extending bridge trick. However, you'll need a few more gems to make a donation... After all, I am just a poor, starving amateur magician... &[Crossing bridge costs ^^^^ gems.
 
-Хмф... Эти гномы думают, что талантливые... Мне довелось узнать классный трюк, который я назвал... невероятный... магический... э-э, раздвигающийся мост. Однако тебе нужно больше камней, чтобы заплатить мне за него... А потом я стану просто бедным, голодающим магом-любителем... &[Пересечь мост стоит ^^^^ камней.
+Хмф... Эти гномы думают, что талантливые... Мне довелось узнать классный трюк, который я назвал... невероятный... магический... э-э, раздвигающийся мост. Однако тебе нужно больше камней, чтобы заплатить мне за него... А не то я стану просто бедным, голодающим магом-любителем... &[Пересечь мост стоит ^^^^ камней.
 
 I'm afraid the show's over, Spyro. Why don't you go play with the gnomes? I think they look lonely.
 
@@ -60,11 +60,11 @@ The Astounding Arturo
 
 I've been working on a great new magic trick, but this bear keeps spoiling it.
 
-Я работал над новым фокусом, но этот медведь всё портит.
+Я работаю над новым фокусом, но этот медведь мне мешает.
 
 Well, I suppose I could show you my new trick. As long as you promise not to tell the Great Zamboni, he steals all my best work... ALAKAZAM!
 
-Ладно, думаю, я мог бы показать тебе мой новый трюк. Пока ты не скажешь о нём Великому Замбони, он их крадёт у меня... АЛАКАЗАМ!
+Ладно, думаю, я мог бы показать тебе мой новый трюк. Только не говори о нём Великому Замбони, он их крадёт у меня... АЛАКАЗАМ!
 
 Did you tell the Great Zamboni? That charlatan has been stealing my tricks again.
 
@@ -116,7 +116,7 @@ Well I hope the moles calm down soon, I've created a fantastic new trick I want 
 
 The moles are still a little over excited and I can't start my next performance unitl they calm down, are you sure you can't help? &Bash the moles? &Yes &No
 
-Кроты ещё взвинчены, и я не могу начать выступление, пока они не угомонятся. Ты точно не можешь помочь? &Отделать кротов? &Да. &Нет.
+Кроты ещё взвинчены, и я не могу начать выступление, пока они не угомонятся. Вы точно не можете помочь? &Отделать кротов? &Да. &Нет.
 
 I don't think you should be wasting time talking to me, those moles are still going crazy.
 
