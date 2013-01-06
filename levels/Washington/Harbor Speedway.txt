@@ -1,4 +1,4 @@
-﻿Which challenge would you like to play? &Choose a challenge: &Time Attack &Race the Blue-Footed Boobies &Exit Level
+Which challenge would you like to play? &Choose a challenge: &Time Attack &Race the Blue-Footed Boobies &Exit Level
 
 Какое испытание ты выбираешь? &Выберите испытание: &Атака на время &Гонка с балбесами &Выход
 
@@ -12,7 +12,7 @@ The red dots mark the race course, and you have to fly through ALL of the green 
 
 I hope we come back soon. I love Harbor Speedway.
 
-Надеюсь, мы скоро вернёмся сюда.
+Надеюсь, мы скоро вернёмся сюда. Клёвое местечко.
 
 Wow, you just beat the Harbor Speedway time trial! Only a handful of racers in the world have ever done that! I can't wait to tell the other dragons back home...
 
@@ -40,11 +40,11 @@ This is the world-famous Harbor Speedway, the most elite of all race courses! On
 
 Where do these flying sheep saucers keep coming from? I just saw another one grab an egg and fly off! This one's super fast, but his saucer is damaged and it's leaving smoke rings... I think I can keep up with him as long as I can make it through the rings...
 
-Откуда только берутся космические бараны? Я только что видел, как один из них улетел с яйцом! Он быстр, но его звездолёт повреждён и оставляет кольца дыма... Думаю, я могу преследовать его по кольцам...
+Откуда только берутся космические бараны? Я только что видел, как один из них слинял с яйцом! Он быстр, но его звездолёт повреждён и оставляет кольца дыма... Думаю, я могу преследовать его по кольцам...
 
 I'm gonna chase him down! &Should Hunter chase the sheep UFO? &Hurry up, already! &Nah, it's only an egg.
 
-Я отправляюсь в погоню за ним! &Преследовать НЛО? &Взлетай уже! &Ха, это просто яйцо.
+Я должен поймать его! &Преследовать НЛО? &Взлетай уже! &Ха, это просто яйцо.
 
 I'll be right back!
 
@@ -52,7 +52,7 @@ I'll be right back!
 
 WHAT? You're kidding! We gotta hurry, he's getting away!
 
-ЧТО? Ты шутишь! Нам надо торопиться, он уходит!
+ЧЕГО? Ты шутишь! Надо торопиться, он уходит!
 
 YES!!! That was close! The egg popped out just before the saucer crash landed!
 
