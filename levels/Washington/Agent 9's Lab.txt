@@ -1,4 +1,4 @@
-﻿Ahh, Agent 9, my favorite pupil... welcome back to my island laboratory! I'm afraid rhynocs have taken over the whole island... perhaps you could stop them before they destroy all my research.
+ Ahh, Agent 9, my favorite pupil... welcome back to my island laboratory! I'm afraid rhynocs have taken over the whole island... perhaps you could stop them before they destroy all my research.
 
 Ах, Агент 9, мой любимый ученик... добро пожаловать в мою лабораторию! Боюсь, носороги захватили остров... может, ты остановишь их перед тем, как они уничтожат мои исследования.
 
@@ -8,7 +8,7 @@ Ah, it'll be just like old times! Try shooting these dummies to get warmed up, b
 
 A vast number of rhynocs are waiting to ambush us as soon as I lower this force field. I expect they'll keep coming until you shoot the red panic button next to the door where they come out. &[Shoot the red panic button to lock the rhynocs in.
 
-Много носорогов ждут, пока я отключу это силовое поле. Думаю, они будут прибывать, пока ты не уничтожишь красную кнопку около двери, из которой они выходят. &[Стреляй по красной кнопке, чтобы запереть носорогов.
+Множество носорогов ждёт, пока я отключу это силовое поле. Думаю, они будут прибывать, пока ты не уничтожишь красную кнопку около двери, из которой они выходят. &[Стреляй по красной кнопке, чтобы запереть носорогов.
 
 There's another door at the end of this beach, and rhynocs will keep coming out until you shoot the red panic button. Work your way up the beach by dodging and using the natural cover on the right side. &[Use @0L1@4 and @0R1@4 to dodge left and right. &[Shoot the rhynocs to reach the door and retake the beach!
 
@@ -20,7 +20,7 @@ You'll need to take out all the rhynocs to secure the beach... and don't forget 
 
 &These indicators show that a bunch of rhynocs are hiding behind the display screen. I'll switch on the view pedestal, and you shoot them as they attack! I recommend using your sniper mode. &[Shoot the rhynocs as they appear in front of the screen. &[Press the } button to enter sniper mode.
 
-Индикаторы показывают, что за экраном спрятались носороги. Я подниму этот пьедестал, а ты стреляй по ним - они тоже атакуют! Рекомендую использовать режим снайпера. &[Стреляй по носорогам, когда они покинут укрытие. &[Нажмите }, чтобы войти в режим снайпера.
+Согласно показаниям прибора, за этим экраном спрятались носороги. Я подниму этот пьедестал, а ты стреляй по ним - они тоже атакуют! Рекомендую использовать режим снайпера. &[Стреляй по носорогам, когда они покинут укрытие. &[Нажмите }, чтобы войти в режим снайпера.
 
 Try not to fall off the pedestal. I recommend using sniper mode to take out these targets. &[Press the } button to enter sniper mode.
 
@@ -28,7 +28,7 @@ Try not to fall off the pedestal. I recommend using sniper mode to take out thes
 
 You cleared them out! Let's see what kind of shape the machine room is in... I have a feeling the rhynocs haven't been keeping it too clean.
 
-Ты их убрал! Посмотрим, в каком состоянии машинная комната... Чувствую, носороги не держали её в чистоте.
+Ты уничтожил их! Взглянем, в каком состоянии машинная комната... Чувствую, носороги держали её отнюдь в чистоте.
 
 Just as I thought, the machine room is overrun with birds. To target the birds in their nests, you'll want to use sniper mode, then zoom in for pinpoint accuracy. &[Press the } button to enter sniper mode. &[Use @0L1@4 and @0R1@4 to zoom in and out while in sniper mode.
 
@@ -40,11 +40,11 @@ Nice work, Agent 9! Err, I'm not sure if this is a bird egg or dragon egg... wha
 
 The lab's clear, and it smells better in here already! Follow me outside, where I expect we'll find some rhynocs wearing armor. You'll need a more powerful weapon to defeat them.
 
-Лаборатория чиста, и здесь пахнет уже лучше! Снаружи должны быть носороги, носящие броню. Для их уничтожения тебе понадобится оружие помощнее.
+Лаборатория чиста, и здесь пахнет уже лучше! Снаружи должны быть бронированные носороги. Для их устранения тебе понадобится оружие помощнее.
 
 By my calculations, the bombs in this handy vending machine should be highly effective against armor. Give it a shot. &[Press the > button to throw bombs. &[To carefully aim your throw, press and hold down the > button.
 
-По моим рассчётам, ручные бомбы из этого автомата очень эффективны против брони. Задай им жару. &[Нажмите > для броска бомбы. &[Чтобы точнее прицелиться бомбой, нажмите и удерживайте >.
+По моим рассчётам, ручные бомбы из этого автомата очень эффективны против брони. Научи их вежливости. &[Нажмите > для броска бомбы. &[Чтобы точнее прицелиться бомбой, нажмите и удерживайте >.
 
 Just a few more enemies left! You can do it!
 
@@ -52,11 +52,11 @@ Just a few more enemies left! You can do it!
 
 Thank you very much for saving my laboratory. Now I can resume thinking...
 
-Спасибо за спасение моей лаборатории. Теперь я продолжу размышления...
+Благодарствую за спасение моей лаборатории. Теперь я продолжу размышлять...
 
 Now I can switch the gravitonometric generator back on. I hope no birds got in there...
 
-Теперь я могу включить гравиметрический генератор опять. Надебсь, там нет птиц...
+Теперь я могу включить гравиметрический генератор опять. Надеюсь, там нет птиц...
 
 What was that? Did you see a rhynoc? I thought I saw a rhynoc! Oooooh, take it from me, Spyro, never spend a week in a cage.  Uh, huh, next thing you know your whole island will be knee deep in rhynocs. Well, gotta go, Mr. Laser Blaster and I have a whole lotta work to do.
 
@@ -76,7 +76,7 @@ I'm just going to patrol the island one last time...
 
 Hiya, Spyro... I'm just off to patrol the island again, you know, in case any rhynocs decided to come crawling back...
 
-Хья, Спайро... Я собираюсь ещё раз прочесать остров на случай, если туда приполз ещё какой-то носорог...
+Здаров, Спайро... Я собираюсь ещё раз прочесать остров на случай, если туда приполз ещё какой-то носорог...
 
 I still haven't finished clearing the rhynocs off the island... &Level not finished... &Do you really want to leave? &Yes &No
 
