@@ -1,4 +1,4 @@
-﻿Be careful, roun' dese parts, li'l dragon! Dere be more ghosts in dis here shipyard den I kin shake me pick at! Durned shame, too, 'cause I was mighty close tuh findin' me treasure.
+ Be careful, roun' dese parts, li'l dragon! Dere be more ghosts in dis here shipyard den I kin shake me pick at! Durned shame, too, 'cause I was mighty close tuh findin' me treasure.
 
 Осторожнее тута, дракоша! Здеся да вокруг корабля, шо я хочу взломать, куча привядений! И других опасностей, которые точняк приведут меня к сокровищам.
 
@@ -16,7 +16,7 @@ Wouldja lookit that! Some fool hid a dang gum egg in me treasure.
 
 Dese here waters used to be my favorite divin' spot, but I can't get any loot with dese subs patrollin' around. Think you kin pilot dis here sub I bought for scrap? &Ride the sub? &Yes. &No.
 
-Я любил плавать в этом кислотном озере, но терь не могу - здеся подлодки плавают. Мож, используешь мою саб-марину, шоб их убрать? &Использовать субмарину? &Да. &Нет.
+Я любил плавать в этом кислотном озере, но таперича не могу - здеся подлодки плавают. Мож, используешь мою саб-марину, шоб их убрать? &Использовать субмарину? &Да. &Нет.
 
 Alrighty then. Press the < button to speed on up, and when you get a sub in your sights, the torpedo will start to lock on. If you get a good lock-on, fire away with the { button. &[Press < to speed up. &[Wait for red circles to lock on. &[Fire with { button!
 
@@ -28,7 +28,7 @@ Ah, dad gum, I gis I'll hafta git it workin' muhself.
 
 Well, I'll be durned! You've got some mean sub-drivin' skills. Why don't you 'ave dis here egg as a re-ward.
 
-У, я впечатлён! Ты можешь управлять этой штукой. Чё б те не взять яйцо, ну типа награда такая.
+У, я впечатлён! Ты мошь управлять этой штукой. Чё б те не взять яйцо, ну типа награда такая.
 
 Hoooohoooo, at last, the acid lake is safe fer swimmin' agin'! I wish I could re-ward ya better, but all I gots left is dis 'ere other egg. Maybe dere'll be something better in dis one.
 
@@ -44,7 +44,7 @@ Darn tootin'! Git on little dragon! &[Press < to speed up. &[Wait for red circle
 
 Well, come back whenevers y' like.
 
-Возвращайся, когда хош.
+Возвращайся, када хош.
 
 Ya kin ride the sub just for fun, if ya like. &Ride the sub for cheap thrills? &Yes. &No.
 
@@ -60,7 +60,7 @@ Awwwww, poor wittle dragon... did your friend go bye-bye? Now, now, don't worry.
 
 Spyro, you're just in time! A rhynoc skateboard gang has challenged us to a race. They said you're slower than a Molten Crater fire slug. I stuck up for you, though! I told them I've seen some pretty fast fire slugs.
 
-Спайро, ты вовремя! Банда носорогов-скейтеров бросает нам вызов. Они сказали, что ты медленнее огненных слизняков Кратера Молтен. И я им ответил! Я ответил, что в таком случае слизняки очень быстры.
+Спайро, ты вовремя! Банда носорогов-скейтеров бросает нам вызов. Они сказали, что ты медленнее огненных улиток Кратера Молтен! И я им ответил! Я ответил, что в таком случае улитки очень быстры.
 
 So, are you ready to race these guys? They bet us an egg that you won't win! &Race the rhynocs? &Bring 'em on! &Some other time...
 
@@ -72,7 +72,7 @@ Right on! You can use my special racing board. Every time you do a trick, it bui
 
 Awww, shucks... I thought you'd want to race 'em. Well, just come talk to me if you change your mind.
 
-Оооу, чёрт... Я думал, ты захочешь погоняться. Ладно, просто приходи и поговори со мной, если передумаешь.
+Оооу, чёрт... Я думал, ты захочешь поставить их на место. Ладно, приходи, если передумаешь.
 
 Sheesh, what happened? I could beat these guys with my tail tied behind my back! I hope you do better this time, or we'll never live it down... &Race the rhynocs? &Bring 'em on! &Some other time...
 
@@ -84,7 +84,7 @@ Alright! Let 'em have it! &[Do tricks to get turbos. &[Use turbos by pressing th
 
 Yeeesss!! You schooled 'em like a bunch of dizzy, one-toed sand gnorcs! ... Oh yeah, I guess we won this egg, too.
 
-Иии-да! Ты побил их, как упоротых однорогих песчаных гнорков!.. Ах, да, я думаю, мы ещё и выйграли это яйцо.
+Иии-да! Ты сделал их, как упоротых однорогих песчаных гнорков!.. Ах, да, я думаю, мы ещё и выйграли это яйцо.
 
 Now that the rhynocs are gone, do you want to try a real challenge? I know you're fast, but I bet you can't defeat all the crabs on the course and still beat me in a race! Want to give it a shot? &Accept Hunter's challenge? &You're on, pal! &No dice...
 
@@ -104,7 +104,7 @@ So, are you ready to take my challenge? &Accept Hunter's challenge? &You're on, 
 
 Heh heh, you're just chicken aren't you? Bwaaak bwaaak bwaaaaaak! Bwak bwaak bwak bwak bwaaaaaaaaaak!
 
-Хе-хе, да ты петух, ты знаешь об этом? Буааак буааак буаааак! Бак бак бак бак бак буааааааак!
+Хе-хе, не пора ли тебе в курятник, а? Буааак буааак буаааак! Бак бак бак бак бак буааааааак!
 
 OK, you beat me Spyro, but you didn't get all the crabs. A dragon of your pedigree should really be able to do both!
 
