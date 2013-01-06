@@ -1,10 +1,10 @@
-﻿Dear pest, go home and the monkey walks. In the meantime, this office is CLOSED.\      - The Sorceress.
+Dear pest, go home and the monkey walks. In the meantime, this office is CLOSED.\      - The Sorceress.
 
-Дорогой вредитель, иди домой. Этот офис ЗАКРЫТ.\ -Колдунья.
+Дорогой вредитель, чеши домой. Этот офис ЗАКРЫТ.\ -Колдунья.
 
 Sorry, can't be here now. Gotta shoot some rhynocs.\         -Agent 9
 
-Извини, что меня здесь нет. Я стреляю по носорогам.\ -Агент 9.
+Извини, что меня здесь нет - палю по носорогам.\ -Агент 9.
 
 Come on in, it's laser time!\        -Agent 9
 
@@ -16,11 +16,11 @@ Sheriff Wyatt
 
 Well, gosh darn it Spyro. I came in here to check on my prisoner only to find out he'd somehow got away again. Then, when I came in to look around for clues, one o' them rowdy dinosaurs went and locked me in. Now they're out there causin' all sorts o' trouble and there's not a thing I can do about it.
 
-Хорошо, что ты здесь, Спайро! Я пришёл сюда проверить заключённых, но когда я вошёл в камеру, их тут не оказалось, а решётки поднялись. Теперь они гуляют на свободе, а я сижу здесь.
+Хорошо, что ты здесь, Спайро! Я пришёл сюда проверить заключённых, но когда я вошёл в камеру, их тут не оказалось, а решётки поднялись. Теперь они гуляют на свободе, а я торчу здесь.
 
 Well I'll be, so that's how my prisoners keep escaping! Here take this dinosaur egg away before it hatches and causes more trouble. I think it must have been the runt of the litter though.
 
-Так вот каким путём заключённые сбегали! Вот, возьми это яйцо динозавра, пока оно не принесло проблем.
+Так вот каким путём заключённые сбегали! Вот, возьми это яйцо динозавра, пока оно не принесло проблем. Оно же может сбежать через щели в решётке.
 
 Jumpin' jehosephat, that's the cutest lookin' dinosaur I ever did see.
 
@@ -48,7 +48,7 @@ Deputy Roy
 
 If you'd just calm down for a second and stop all that whoopin' and hollerin' I could tell you what's goin on. The Bailey gang are holed up in them buildings over there. You're gonna have to go in there an' flush 'em out. &Take on the Bailey gang? &Darn tootin'. &No Sir.
 
-Дай мне минуту, чтобы рассказать тебе, что происходит. Банда Бейли засела в этих зданиях. Тебе нужно пойти и выкурить их из этих зданий. &Взять банду Бейли? &Я пошёл. &Нет, сэр.
+Дай мне минуту, чтобы рассказать тебе, что происходит. Банда Бейли засела в этих зданиях. Тебе нужно пойти и выкурить их из этих зданий. &Взять банду Бейли? &Выдвигаюсь. &Нет, сэр.
 
 &Well good luck to ya'.
 
@@ -72,4 +72,4 @@ I don't know why the Bailey gang was trying so hard to steal this egg, that's no
 
 The sheriff promised me I could be a deputy. So I'm off to help clear out all the dinosaurs.
 
-Шериф обещал, что я буду его замом, так что пойду и поджарю всем этим динозаврам хвосты!
+Шериф обещал, что я могу стать его замом, так что пойду и поджарю этим динозаврам хвосты!
