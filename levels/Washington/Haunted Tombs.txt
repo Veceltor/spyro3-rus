@@ -1,6 +1,6 @@
-﻿Ahhh, yet another dare-devil adventurer has come to rob our catacombs of loot! Let's just hope you're made of tougher stuff than the last guy... If you can survive the trials of our catacombs and answer my riddle, we will give you a prize befitting your efforts.
+Ahhh, yet another dare-devil adventurer has come to rob our catacombs of loot! Let's just hope you're made of tougher stuff than the last guy... If you can survive the trials of our catacombs and answer my riddle, we will give you a prize befitting your efforts.
 
-Ахх, ещё один безрассудный авантюрист хочет ограбить наши катакомбы! Будем надеяться, ты из иного теста, нежели предыдущий паренёк... Если ты пройдёшь катакомбы и отгадаешь мою загадку, мы наградим тебя за твои усилия.
+Ахх, ещё один безрассудный авантюрист хочет ограбить наши катакомбы! Будем надеяться, ты из иного теста, нежели предыдущий джигит... Если ты пройдёшь катакомбы и отгадаешь мою загадку, мы вознаградим тебя за твои усилия.
 
 Here is my riddle:\ I am a vessel without hinges, lock or lid,\ yet, within my walls, a golden treasure is hid.\ What am I?
 
@@ -8,7 +8,7 @@ Here is my riddle:\ I am a vessel without hinges, lock or lid,\ yet, within my w
 
 Don't try to answer the riddle now. You'll need to save your breath to survive the trials of the catacombs.
 
-Не пытайся отгадать загадку сейчас. Сперва нюхни испытаний катакомб.
+Не пытайся отгадать загадку сейчас. Сперва нюхни катакомб.
 
 GET LOST, DRAGON! There is no 'Agent 9'. Take your conspiracy theories and go back where you came from!\      -The Sorceress
 
@@ -24,7 +24,7 @@ Come on in, it's laser time!\        -Agent 9
 
 I see you've managed to survive the trials of the catacombs. Now let's find out if your wits are as quick as your feet. Do you remember the riddle?
 
-Вижу, ты справился с испытаниями катакомб. Проверим, так ли быстр твой ум, как быстры твои ноги. Помнишь мою загадку?
+Вижу, ты справился с катакомбами. Проверим, быстр ли твой ум так же, как твои ноги. Помнишь мою загадку?
 
 I am a vessel without hinges, lock or lid,\ yet, within my walls, a golden treasure is hid.\ What am I? &A bone &An egg &A treasure chest &A bandicoot
 
