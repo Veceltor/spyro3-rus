@@ -1,10 +1,10 @@
-﻿There's no time to lose! Prince Azrael and his cat armies are about to steal our poor princess!
+ There's no time to lose! Prince Azrael and his cat armies are about to steal our poor princess!
 
 Нет времени, которое можно было бы терять! Принц Азраэль и его армии котов хотят украсть нашу несчастную принцессу!
 
 Hurry, Spyro! If we don't get to the castle right away, the princess will be forced to marry that loser, Prince Azrael!
 
-Торопись, Спайро! Если мы не успеем в замок вовремя, принцесса выйдет замуж за этого неудачника, Принца Азраэля!
+Торопись, Спайро! Если мы не успеем в замок вовремя, принцесса выйдет замуж за этого неудачника, Азраэля!
 
 Well, Spyro, today is your lucky day! The wizards and I have worked out a little deal. If you simply pay a small toll, they'll be happy to raise these steps and let you pass. &Pay ^^^ gems to raise the steps? &Yes. &No.
 
@@ -48,7 +48,7 @@ Spyro, we urgently need your help! The evil cat wizards of Felinia have stormed 
 
 Good day, Spyro! I'd like to stay and chat, but I'm late for a... err... an engagement with a fairy friend of mine... err... she's just a friend, you understand... it's a strictly platonic relationship... it's certainly not a violation of military protocol whatsoever... What? What are you giving me that look for?
 
-Добрый день, Спайро! Я бы поболтал с тобой, но я опаздываю на... э-э... на встречу с другом... э-э... она просто друг, ты же знаешь... строго официальные отношения... это ни в коем месте не нарушение военного протокола... Что? Почему ты так на меня смотришь?
+Добрый день, Спайро! Я бы покумекал с тобой, но я опаздываю на... э-э... на встречу с другом... э-э... она просто друг, ты же знаешь... строго официальные отношения... это ни в коем разе не нарушение военного протокола... Что? Чего это ты меня таким взглядом одарил?
 
 Where have you been, James? We were supposed to meet in the temple an hour ago! And don't give me that old 'matters of national security' line again! ... I guess it doesn't matter, though... the whole temple is full of nasty cat witches, anyway. We'll just have to call off our date... that is, unless you want to battle the witches...
 
@@ -100,7 +100,7 @@ pant... pant... I found this egg on the way up here... I think it was laid by a 
 
 You've been doing great so far, why don't you take two more seeds?
 
-У тебя так хорошо получатеся, возьмёшь ещё пару семян?
+У тебя так здорово получатеся, возьмёшь ещё пару семян?
 
 OK, best of luck! These here thinking puzzles are too tough for me. I prefer action gameplay.
 
