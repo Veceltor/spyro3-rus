@@ -28,7 +28,7 @@ http://code.google.com/p/spyro3-rus/source/browse/trunk/levels<br>
 #Текст катсцен(без перевода):<br>
 http://Klimaleksus.narod2.ru/Files/Cutscenes.txt<br>  
 
-*В каком виде сюда выкладывать свой пробы?*<br> 
+*В каком виде выкладывать свои пробы?*<br> 
 Некоторые рекомнедации можно прочесть там:<br>
 http://code.google.com/p/spyro3-rus/wiki/UsingGoldWave<br> 
 Если вкратце:<br>
