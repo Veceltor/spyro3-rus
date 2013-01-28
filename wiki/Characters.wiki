@@ -23,11 +23,13 @@ http://nihonjinryuu.narod2.ru/Basis_characters.rar<br>
 http://nihonjinryuu.narod2.ru/full_characters_voice.rar
 
 *Списк проб:*<br>
-http://klimaleksus.narod2.ru/Files/SOUNDS/index.html
+http://klimaleksus.narod2.ru/Files/SOUNDS/index.html<br>
+*Списк оригинальных роликов:*<br>
+http://klimaleksus.narod2.ru/Files/SOUNDS/source/index.html<br>
 
 *Второстепенные персонажи.*
 ||*№*|| *Персонаж* || *Субфайлы* || *Пример озвучки в jpsxdec*|| *Предполагаемые актёры* ||
-||1||Mayor Leo|| 098, 100 ||381|| Washington ||
+||1||Mayor Leo|| 098, 100 ||381|| Washington/!ShellyPes ||
 || ||Councillor George|| 100 ||~|| ~ ||
 || ||Citizen Paulus|| 100 ||~||~ ||
 || ||Citizen Horace|| 100 ||~|| ~ ||
@@ -110,7 +112,7 @@ http://klimaleksus.narod2.ru/Files/SOUNDS/index.html
 ||28||Sheriff Wyatt||160||55|| CubeStudio ||
 || ||Deputy Roy||160||~||~||
 ||<font size="2" color="gray">29</font>||Deputy Holiday||160|| || CubeStudio ||
-||30||Professor|| 164 ||114|| Scratch/aleksusklim ||
+||30||Professor|| 164 ||114|| Scratch/aleksusklim/Washington ||
 
 Расшифровка кодов уровней:<br>
 *098: Sunrise Spring Home*<br>
