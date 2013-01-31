@@ -1,24 +1,23 @@
-﻿
 Zoe
-This rhynoc is too big to charge. You'll have to flame him using the { button.
-
+[1099]This rhynoc is too big to charge. You'll have to flame him using the { button.
+ 
 Зоя
 Этот носорог слишком велик для удара рогами. Подожги его, нажав кнопку О.
 ----------------------------------------
 Zoe
-Hi Spyro! Each time a fairy zaps you, like this...
-That means your progress is saved. If you get into trouble you'll return to the last place you got zapped.
-
+[1132]Hi Spyro! Each time a fairy zaps you, like this...
+[362]That means your progress is saved. If you get into trouble you'll return to the last place you got zapped.
+ 
 Зоя
 Привет Спайро! Когда я делаю вот так:
 Это означает что игра сохранена. Если с тобой что-то случится, ты вернешься на место сохранения.
 -------------------------------------------
 Councillor George
-Oh my! Oh my! Can you help us? Hordes of ferocious rhynocs have overrun our town and kidnapped the mayor.
-Are you a dragon? I never believed you really existed.
-Would you like a chicken sandwich? They're very good.
-Those pesky rhynocs are back again, but I'm sure you'll soon sort them out.
-
+[1053]Oh my! Oh my! Can you help us? Hordes of ferocious rhynocs have overrun our town and kidnapped the mayor.
+[518]Are you a dragon? I never believed you really existed.
+[524]Would you like a chicken sandwich? They're very good.
+[468]Those pesky rhynocs are back again, but I'm sure you'll soon sort them out.
+ 
 Советник Георгий
 О нет! О нет! Ты можешь помочь нам? Армия злых носорогов набежала на наш город и захватила мэра.
 Ты дракон? Я никогда не верил, что они существуют.
@@ -26,33 +25,39 @@ Those pesky rhynocs are back again, but I'm sure you'll soon sort them out.
 Эти вредные носороги снова вернулись, но я уверен, ты справишься с ними.
 ------------------------------------------
 Citizen Paulus
-Let me catch my breath and I'll kick that other guy's butt.
-We showed those two bullies. If they hadn't outnumbered me two to one, I'd have finished them off ages ago. Have you seen any giant chickens around here?
-
+[1153]Let me catch my breath and I'll kick that other guy's butt.
+[296]We showed those two bullies. If they hadn't outnumbered me two to one, I'd have finished them off ages ago. 
+[1170]Have you seen any giant chickens around here?
+ 
 Житель Павел
 Сейчас я отдышусь, и дам пинка тому парню.
-Мы показали тем двоим. Если бы они не были больше меня в два раза, я бы давно их прикончил. Ты не видел здесь гигантского цыпленка?
+Мы показали тем двоим. Если бы они не были больше меня в два раза, я бы давно их прикончил. 
+Ты не видел здесь гигантского цыпленка?
 ------------------------------------------
 Mayor Leo
-Thank you for rescuing my town. As mayor I award you with one of our famous giant chicken eggs. I'm sorry, that was the ugliest chicken I've ever seen.
-
+[381]Thank you for rescuing my town. As mayor I award you with one of our famous giant chicken eggs. 
+[477]I'm sorry, that was the ugliest chicken I've ever seen.
+ 
 Мэр Лео
-Спасибо за спасение моего города. Как мэр, я награжу тебя одним из этих гигантских куриных яиц. Мне жаль, что это был самый страшный цыпленок.
+Спасибо за спасение моего города. Как мэр, я награжу тебя одним из этих гигантских куриных яиц. 
+Мне жаль, что это был самый страшный цыпленок.
 ------------------------------------------
 Citizen Horace
-Whoo I'm dizzy. Thanks for the help, but I think I would have worn him down in a minute. Have you seen any of our giant chickens? The rhynocs have been trying to eat
-
-them all. Look, a chicken turned up. I hope it's not the only one left.
-
+[531]Whoo I'm dizzy. 
+[497]Thanks for the help, but I think I would have worn him down in a minute. 
+[1094]Have you seen any of our giant chickens? The rhynocs have been trying to eat them all. 
+[495]Look, a chicken turned up. I hope it's not the only one left.
+ 
 Житель Хорэйс
-Ох, у меня кружится голова. Спасибо за помощь, но я думаю, я вынес бы его за минуту. Ты видел наших гигантских цыплят? Носороги пытались съесть их всех. Смотри, один
-
-цыпленок вернулся. Я надеюсь, что выжил не только он.
+Ох, у меня кружится голова. 
+Спасибо за помощь, но я думаю, я вынес бы его за минуту. 
+Ты видел наших гигантских цыплят? Носороги пытались съесть их всех. 
+Смотри, один цыпленок вернулся. Я надеюсь, что выжил не только он.
 ---------------------------------------------
 To Whom it May Concern: Sheila the Kangaroo is currently otherwise detained -- by me. Please return in a few years.\ -The Sorceress
 Spyro, thanks for dropping by, but I'm currently busy in my home world. Come visit me there.\ -Sheila
 Come on in!\-Sheila
-
+ 
 [табличка у входа в подуровень шейлы]
 Тем, кого это касается: Кенгуру Шейла сейчас заперт -- у меня. Возвращайтесь через несколько лет.\ -Колдунья
 Спайро, спасибо что освободил меня, но я сейчас занят в домашнем мире. Приходи ко мне.\ -Шейла
@@ -64,212 +69,211 @@ Come on in!\-Sheila
 Файлик_04 [подуровень Шейлы]
 
 Rapunzel
-What! Marco sent you here? I've got a restraining order against him.
-If you see Marco please tell him I've moved out.
-
+[450]What! Marco sent you here? I've got a restraining order against him.
+[540]If you see Marco please tell him I've moved out.
+ 
 Светлана [ну не влазило тут слово "Рапунцель", пришлось переименовать :)))]
 Что? Марко послал тебя сюда? У меня есть приказ на его арест.
 Если увидишь Марко, скажи ему что я переехала.
 ------------------------------
 Sheila
-Hey Spyro, there are rhynocs everywhere. Maybe I can find some peace and quiet at the top of the tower...
-
+[369]Hey Spyro, there are rhynocs everywhere. Maybe I can find some peace and quiet at the top of the tower...
+ 
 Шейла
 Эй Спайро, здесь везде носороги. Может я смогу найти тихое и спокойное место на вершине той башни...
 --------------------------------
 Marco
-Alas, I have lost my love, guarded by evil rhynocs at the top of yonder tower. Can you rescue her for me?
+[312]Alas, I have lost my love, guarded by evil rhynocs at the top of yonder tower. Can you rescue her for me?
 
 Марко
 Я потерял свою любимую, она охраняется злыми носорогами на вершине той башни. Ты поможешь мне?
-
+ 
 -------------------------------------------------------------
 --------------------------------------------------------------
 
-Фай лик_06 [подуровень Хантера со скейтом]
-
+Файлик_06 [подуровень Хантера со скейтом]
+ 
 Attention dragon: if you ever want to see your mangy cat friend again, you had better leave here at once!\-The Sorceress
 Внимание дракон: если ты хочешь увидеть своего дружка паршивого кота, тебе лучше сразу уйти отсюда!\ -Колдунья
-
+ 
 Hunter / Хантер
-Hi Spyro. I found this gladiator training arena and it makes a pretty cool skate park! Care for a test of your boarding skills?
+[236]Hi Spyro. I found this gladiator training arena and it makes a pretty cool skate park! Care for a test of your boarding skills?
 &Start boarding challenge now? &Yes. &No.
 Привет Спайро. Я нашел здесь некую арену и сделал из нее классный скейтпарк! Хочешь проверить свои умения в скейтбординге?
 &Начать скейтерское испытание? &Да &Нет
 
-Are you ready for a challenge now? &Start boarding challenge now? &Yes. &No.
+[1172]Are you ready for a challenge now? &Start boarding challenge now? &Yes. &No.
 Ты готов к этому испытанию? &Начать скейтерское испытание? &Да &Нет
-
-I bet you can't catch all fifteen of the lizards running around here... Just come back if you want some boarding tips from the master. &[Catch the lizards.
+ 
+[262]I bet you can't catch all fifteen of the lizards running around here... Just come back if you want some boarding tips from the master. &[Catch the lizards.
 Готов спорить, ты не поймаешь 15 ящериц, бегающих где-то здесь...Возвращайся, если хочешь услышать советы по скейтбордингу от мастера. &[Поймать ящериц.
-
-Yeah, maybe you'd better practice a bit first... Just come back here when you're up for a challenge.
+ 
+[349]Yeah, maybe you'd better practice a bit first... Just come back here when you're up for a challenge.
 Да, может быть тебе стоит для начала попрактиковаться...Возвращайся, когда будешь готов к испытанию.
 
-Having trouble? If you use the < button to jump off the ramps you'll get extra height and distance.
+[298]Having trouble? If you use the < button to jump off the ramps you'll get extra height and distance.
 Проблемы? Если ты нажмешь кнопку Х для прыжка с трамплина, то ты пролетишь несколько метров дальше.
 
-Caught all the lizards yet? If you're having trouble catching them, don't be afraid to use your flame breath while on the skateboard.
-
+[1031]Caught all the lizards yet? If you're having trouble catching them, don't be afraid to use your flame breath while on the skateboard.
 Уже поймал всех ящериц? Если у тебя проблемы с их ловлей, не забывай, что ты можешь использовать огненное дыхание прямо со скейта.
-
-Hey that was great! And while you were boarding, I found this in a lizard burrow.
+ 
+[361]Hey that was great! And while you were boarding, I found this in a lizard burrow.
 Эй, отлично! И пока ты катался, я нашел вот это в норе ящериц.
 
-Now that you've mastered the basics, let's see you do some stunts! Try using the < or } button to jump off ramps and turn in the air...
+[214]Now that you've mastered the basics, let's see you do some stunts! Try using the < or } button to jump off ramps and turn in the air...
 теперь,когда ты знаешь основы, давай освоим некоторые трюки! попробуй использовать Х или /\ для прыжка с трамплина и поворота в воздухе
 
-This is the most fun I've had since we chased King Flippy on the manta ray.
+[440]This is the most fun I've had since we chased King Flippy on the manta ray.
 Это даже веселее, чем катание за королём Флиппи на скате!
-
-Alright, if you can catch all the lizards without wiping out and before time runs out, I might be able to scrounge up another egg. It's not gonna be easy, though...
-
+ 
+[161]Alright, if you can catch all the lizards without wiping out and before time runs out, I might be able to scrounge up another egg. It's not gonna be easy, though...
 &Start difficult boarding challenge now? &Yes. &No.
 Хорошо, если ты поймаешь всех ящериц не падая со скейта и до того как закончится время, я смогу добыть еще одно яйцо. Это будет непросто, хотя...
 &Начать трудное скейтерское испытание? &Да &Нет
 
-If you want to try to catch those lizards, I'll start the clock now. &Start difficult boarding challenge now? &Yes. &No.
+[1124]If you want to try to catch those lizards, I'll start the clock now. &Start difficult boarding challenge now? &Yes. &No.
 Как только ты попытаешься ловить ящериц, я включу таймер. &Начать трудное скейтерское испытание? &Да &Нет
+ 
+[534]Go get'em, Spyro! 
+[535]Well whenever you're ready, come and talk to me.
+Давай, Спайро! 
+Когда будешь готов, подойди и скажи и мне об этом.
 
-Go get 'em, Spyro! Well whenever you're ready, come and talk to me.
-Давай, Спайро! Когда будешь готов, подойди и скажи и мне об этом.
-
-Awww, too bad... maybe you'll do better this time. &Try difficult boarding challenge again? &Yes. &No.
+[1125]Awww, too bad... maybe you'll do better this time. &Try difficult boarding challenge again? &Yes. &No.
 Плохо... Может быть ты сможешь лучше в другой раз. &Начать трудное скейтерское испытание? &Да &Нет
 
-Whoa, that was sweet! And look, there was another egg in the lizard burrow.
+[371]Whoa, that was sweet! And look, there was another egg in the lizard burrow.
 Замечательно! Смотри, вот еще одно яйцо из норы ящериц.
 
-You can go for the course record now, if you want. Whenever you hop on a skateboard, a timer will start. Score as many points as you can until the timer expires or you wipe out. Good luck!
-
+[123]You can go for the course record now, if you want. Whenever you hop on a skateboard, a timer will start. Score as many points as you can until the timer expires or you wipe out. Good luck!
 Ты можешь пойти побить рекорд, если хочешь. Когда ты встанешь на скейт, включится таймер. Набери как можно больше очков, прежде чем время закончится. Удачи!
-
+ 
 Трюки
 
 Gnasty Gnorc
 Мерзкий Норк
-
+ 
 Half-pipe Leap
 Прыжок в трубу
-
+ 
 Triple Towers
 Высокие башни
-
+ 
 Quint Front Flip
 Сальто вперёд 5Х
-
+ 
 Quint Roll Left
 Сальто влево 5Х
-
+ 
 Big Gulp
 Был Галп
-
+ 
 Quint Back Flip
 Сальто назад 5Х
-
+ 
 Quint Roll Right
 Сальто вправо 5Х
-
+ 
 Orange Crush
 Вот это Краш
-
+ 
 Single Front Flip
 Сальто вперёд
-
+ 
 Double Front Flip
 Сальто вперёд 2Х
-
+ 
 Triple Front Flip
 Сальто вперёд 3Х
-
+ 
 Quad Front Flip
 Сальто вперёд4Х
-
-
+ 
+ 
 Single Roll Left
 Сальто влево
-
+ 
 Double Roll Left
 Сальто влево 2Х
-
+ 
 Triple Roll Left
 Сальто влево 3Х
-
+ 
 Dr. Shemp
 Был твист [**]
-
+ 
 Single Spin Left
 Левый винт
-
+ 
 Double Spin Left
 Левый винт 2Х
-
+ 
 Triple Spin Left
 Левый винт 3Х
-
+ 
 Gulp
 Галп
 
 Single Back Flip
 Сальто назад
-
+ 
 Double Back Flip
 Сальто назад 2Х
-
+ 
 Triple Back Flip
 Сальто назад 3Х
-
+ 
 Quad Back Flip
 Сальто назад4Х
-
-
+ 
+ 
 Single Roll Right
 Сальто вправо
-
+ 
 Double Roll Right
 Сальто вправо 2Х
-
+ 
 Triple Roll Right
 Сальто вправо 3Х
-
+ 
 Toasty Twist
 Лихой твист [**]
-
+ 
 Single Spin Right
 Правый винт
-
+ 
 Double Spin Right
 Правый винт 2Х
-
+ 
 Triple Spin Right
 Правый винт 3Х
-
+ 
 Crush
 Краш
 
 Twisted Lemon
 Витой лимон
-
+ 
 Twisted Lemon x 2
 Два витых лимона
-
+ 
 Twisted Lemon x 3
 Ещё витой лимон ! [***]
-
+ 
 Thrash Master
 Спец - мастер
 
 Twisted Lime
 Витой лайм
-
+ 
 Double Twisted Lime
 Два витых лайма
-
+ 
 Triple Twisted Lime
 Ещё витой лайм ! [***]
-
+ 
 Super Thrash Master
 Абсолютный мастер !
-
+ 
 Raging Ripto
-Злющий Рипто 
+Злющий Рипто
