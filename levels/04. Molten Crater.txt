@@ -1,22 +1,22 @@
-﻿Основной уровень 
+Основной уровень 
 
 Zoe 
-Be sure to keep your friend Sparx the Dragonfly healthy Spyro. If his health is low, torch a little creature like this slug below me to release a butterfly. 
+[228]Be sure to keep your friend Sparx the Dragonfly healthy Spyro. If his health is low, torch a little creature like this slug below me to release a butterfly. 
 Rocky 
-*Here, take this egg. They were giving them away at the Tiki Lodge last night. 
+[451]  *Here, take this egg. They were giving them away at the Tiki Lodge last night. 
 Clay 
-Rhynocs are running rampant around here, but I can't get anyone out of the Tiki Lodge long enough to do anything about it. 
-*Well, it looks like it's just you and me. I'll keep a look out while you sort out the rhynocs. 
+[352]Rhynocs are running rampant around here, but I can't get anyone out of the Tiki Lodge long enough to do anything about it. 
+[365]  *Well, it looks like it's just you and me. I'll keep a look out while you sort out the rhynocs. 
 Moneybags 
-Spyro, you're just in time! I saw two egg thieves run through this door! Well... actually, they paid me to guard their hideout, but that's irrelevant. I'll happily let you through the gate to chase them down... for, ahem, a small finder's fee... &Pay ^^^ gems to enter the thieves' den? &Ok, ok... &Get lost, loser! 
-Thank you, Spyro, and best of luck catching those dastardly egg thieves. 
-Very well, Spyro, it's up to you... Maybe if we both just hold hands and think happy thoughts, the thieves will decide to return the eggs themselves. 
-Well, Spyro, it's good to see you! This gate I'm guarding happens to be the secret entrance to an egg thief hideout... Of course, I can't let you enter with a clean conscience... At least not without paying a small fee. &[Entering thief hideout costs ^^^ gems. 
-I guess those egg thieves are going to get what's coming to them... it's too bad... I always sort of liked those guys. 
+[87]Spyro, you're just in time! I saw two egg thieves run through this door! Well... actually, they paid me to guard their hideout, but that's irrelevant. I'll happily let you through the gate to chase them down... for, ahem, a small finder's fee... &Pay ^^^ gems to enter the thieves' den? &Ok, ok... &Get lost, loser! 
+[412]Thank you, Spyro, and best of luck catching those dastardly egg thieves. 
+[197]Very well, Spyro, it's up to you... Maybe if we both just hold hands and think happy thoughts, the thieves will decide to return the eggs themselves. 
+[98]Well, Spyro, it's good to see you! This gate I'm guarding happens to be the secret entrance to an egg thief hideout... Of course, I can't let you enter with a clean conscience... At least not without paying a small fee. &[Entering thief hideout costs ^^^ gems. 
+[1056]I guess those egg thieves are going to get what's coming to them... it's too bad... I always sort of liked those guys. 
 Note: Sgt. Byrd is currently on an important mission... to the inside of a cage! Tough luck.\ -The Sorceress 
 Would love to visit, old chap, but I've got work to do back at the base. You can check in with me there. -Sgt. James Byrd 
 Step inside, old chum! -Sgt. James Byrd 
-
+ 
 Зоя 
 Не забывай следить за здоровьем своего друга Спаркса. Если оно плохое, поджарь какое-нибудь небольшое существо, как этот слизняк, и из него вылетит бабочка. [0]
 Рокки 
@@ -35,29 +35,29 @@ Step inside, old chum! -Sgt. James Byrd
 
 ---------------------------------------------------- 
 Подуровень Сержанта Бёрда 
-
+ 
 Shale 
-I'm playing a game of hide and seek with my friends. If I can't find where they've hidden their heads they won't let me join the Tiki Lodge. Help me put them back together and I'll make you an honorary member. 
-When you find a head, land on top of it to pick it up. Then fly it over to an idol body to put them back together. 
-Take this egg as a sign of your honorary membership in the lodge. 
-When you've picked up a tiki head, fly over to any body and use the > button to drop the tiki head. 
-Well that's never happened before. I hope it's not a bad omen. 
-
+[126]I'm playing a game of hide and seek with my friends. If I can't find where they've hidden their heads they won't let me join the Tiki Lodge. Help me put them back together and I'll make you an honorary member. 
+[277]When you find a head, land on top of it to pick it up. Then fly it over to an idol body to put them back together. 
+[1095]Take this egg as a sign of your honorary membership in the lodge. 
+[287]When you've picked up a tiki head, fly over to any body and use the > button to drop the tiki head. 
+[1102]Well that's never happened before. I hope it's not a bad omen. 
+ 
 Шелли 
 Я играл в прятки с моими друзьями. Если я не смогу найти, где они спрятали свои головы, они не дадут мне вернуться в Домик Тики. Помоги мне найти их головы и установить их на место, я тебя отблагодарю. 
 Когда ты найдешь голову, сядь на нее сверху, чтоб подобрать, после чего лети сюда и соедини голову с туловищем. 
 Возьми это яйцо в качестве награды. 
 Когда ты подберешь голову, лети обратно и ставь ее на любое тело, нажав кнопку > для сброса головы. 
 Такого раньше никогда не было. Надеюсь, это не плохая примета. 
-
+ 
 ---------------------------------------------------- 
 Подуровень в котором гонять воров по беговой дорожке 
-
+ 
 Stoney 
-Are you the dragon looking for all those eggs? Because I saw a shifty looking character with one over there. 
-Hey, there goes another one. He was really fast...maybe if I activate the supercharge you'll be able to catch him. 
-You should catch that thief before he steals something valuable. 
-*Those guys ought to be locked up. 
+[318]Are you the dragon looking for all those eggs? Because I saw a shifty looking character with one over there. 
+[1054]Hey, there goes another one. He was really fast...maybe if I activate the supercharge you'll be able to catch him. 
+[517]You should catch that thief before he steals something valuable. 
+[560]  *Those guys ought to be locked up. 
 
 Стонни 
 Ты тот дракон, ищущий все эти яйца? Я видел там чудика с одним таким яйцом. 
