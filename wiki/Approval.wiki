@@ -1,0 +1,163 @@
+#summary Моменты, трубующие утверждения.
+
+Эта страница призвана прояснить ситуацию, связанную с проблемами уточнения. Будь то неопределённости перевода или что-то ещё.
+
+<font face="Arial"><font size="4" color="green">*Названия уровней.*</font><br>
+<tt>
+
+Sunrise Spring Home<br>
+Дом Утренней Долины<br>
+
+Sunny Villa<br>
+Яркое Село<br>
+
+Cloud Spires###<br>
+Высокие Горы<br>
+Облачные Шпили<br>
+Страна Облаков<br>
+
+Molten Crater##<br>
+Жаркий Вулкан<br>
+Жаркий Кратер<br>
+
+Seashell Shore#<br>
+Берег Ракушек<br>
+
+Mushroom Speedway##<br>
+Грибная Трасса<br>
+
+Sheila's Alp###<br>
+Альпы Шейлы<br>
+
+Buzz's Dungeon#<br>
+Темница Базза<br>
+
+Crawdad Farm###<br>
+Раковая Ферма<br>
+Ферма Раков<br>
+
+Midday Garden Home#<br>
+Дом Дневного Сада<br>
+
+Icy Peak###<br>
+Ледовик<br>
+Ледяной Пик<br>
+
+Enchanted Towers###<br>
+Магические Башни<br>
+Заколдованные Башни<br>
+Зачарованные Башни<br>
+Башни Колдуньи<br>
+
+Spooky Swamp###<br>
+Тихое Болото<br>
+Опасная топь<br>
+Зловещее Болото<br>
+
+Bamboo Terrace#<br>
+Улица Бамбука<br>
+
+Country Speedway###<br>
+Городская Трасса<br>
+Сельская Трасса<br>
+
+Sgt. Byrd's Base###<br>
+База Серж. Бёрда<br>
+
+Spike's Arena##<br>
+Арена Спайка<br>
+
+Spider Town<br>
+Город Пауков<br>
+
+Evening Lake Home##<br>
+Дом вечернего озера<br>
+Дом Вечерних Озёр<br>
+
+Frozen Altars##<br>
+Зимние Алтари<br>
+Снежные земли<br>
+
+Lost Fleet#<br>
+Битый Флот<br>
+
+Fireworks Factory##<br>
+Фабрика Фейерверков<br>
+Фабрика Хлопушек<br>
+
+Charmed Ridge##<br>
+Пики Чародеев<br>
+Чарующие пики<br>
+
+Honey Speedway#<br>
+Медовая Трасса<br>
+
+Bentley's Outpost##<br>
+Сторожка Бентли<br>
+Застава Бентли<br>
+
+Scorch's Pit###<br>
+Яма Скорча<br>
+
+Starfish Reef##<br>
+Риф Кораллов<br>
+Коралловый Риф<br>
+
+Midnight Mountain Home#<br>
+Дом Полуночного Хребта<br>
+
+Crystal Islands<br>
+Алмазная Земля<br>
+
+Desert Ruins###<br>
+Пустынные руины<br>
+Пустыня Руин<br>
+
+Haunted Tomb###<br>
+Cтарый склеп<br>
+Древний Гроб<br>
+Склеп мумий<br>
+
+Dino Mines#<br>
+Дино-Шахты<br>
+
+Harbor Speedway<br>
+Морская трасса<br>
+
+Agent 9's Lab##<br>
+Лаб. Агента 9<br>
+
+Sorceress's Lair###<br>
+Ведьмено Логово<br>
+Логово Колдуньи<br>
+
+Bugbot Factory#<br>
+Завод Робожука<br>
+
+Super Bonus Round##<br>
+Раунд Супер Бонус<br>
+
+Примечания:<br>
+-Значком "#" отмечаются дополнительные свободные места.<br>
+-Использован моноширный шрифт, поэтому нет необходимости считать {разницу}.<br>
+-Количество знаков 3D шрифта(из которого строятся надписи) английcкого алфавита _может быть не равно_ количеству знаков русского алфавита.
+
+<font face="Arial"><font size="4" color="green">*Персонажи.*</font><br/>
+Hunter<br>
+Охотник<br>
+Хантер<br>
+Лесник<br>
+Гепард<br>
+Ловец<br>
+Гюнтер<br>
+Чувак<br>
+
+Moneybags<br>
+Манибег<br>
+Кошельков<br>
+Денежник<br>
+Толстосум<br>
+
+Sorceress<br>
+Колдунья<br>
+Ведьма<br>
