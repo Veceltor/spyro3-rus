@@ -1,14 +1,14 @@
-﻿(Примечание: ОГРОРМНОЕ СПАСИБО ALEKSUSKLIM! Можете считать его соавтором этого перевода.)
+(Примечание: ОГРОМНОЕ СПАСИБО ALEKSUSKLIM! Можете считать его соавтором этого перевода.)
 
-Those crummy rhynocs forced us to build a statue of the Sorceress. Then, after we built it, she complained it was too ugly! If you ask me, the statue is much prettier than she is.
+[1008]Those crummy rhynocs forced us to build a statue of the Sorceress. Then, after we built it, she complained it was too ugly! If you ask me, the statue is much prettier than she is.
 
 Эти жиртресты носороги заставили нас построить памятник Колдунье. После этого Колдунья ещё и жаловалась, что она ужасно смотрится. Я думаю,эта уродина в тысячу раз хуже памятника.
 
-My friend Jasper has a plan to blow the statue to kingdom come, but we'll have to clear out these rhynocs first.
+[307]My friend Jasper has a plan to blow the statue to kingdom come, but we'll have to clear out these rhynocs first.
 
 Мой друг Джаспер придумал способ, как взорвать памятник, но сначала нам нужно расчистить носорогов.
 
-Yup, that exploding Sorceress statue was Jasper's finest work since 'Rhynoc with TNT Barrel: Four Seconds of Terror'.
+[231]Yup, that exploding Sorceress statue was Jasper's finest work since 'Rhynoc with TNT Barrel: Four Seconds of Terror'.
 
 Да... Этот взрыв памятника также великолепен, как и Джасперов "Носорог с ящиком тротила: Четыре Секунды Террора".
 
@@ -21,31 +21,31 @@ I appreciate you're stopping by, Spyro, but I'm still busy training hummingbirds
 Я не против, чтобы ты зашёл, Спайро, но я всё ещё тренирую колибри. Встретимся у меня на базе.\     -Сержант Джеймс Бёрд
 
 Step inside, old chum!     -Sgt. James Byrd
-	   
+    
 Шагай сюда, старина!\    -Серж. Джеймс Бёрд
 
-Hello birdy, I was having a lovely vacation with my friend, but he's lost all his bones. Can you find them and put him together?
+[260]Hello birdy, I was having a lovely vacation with my friend, but he's lost all his bones. Can you find them and put him together?
 
 Здравствуй, птичка. Я чудесно отдыхал с моим другом, но он потерял все свои кости. Ты не мог бы собрать его, отыскав их?
 
-You're doing great, please find the rest of the bones so we can put my friend back together.
+[1069]You're doing great, please find the rest of the bones so we can put my friend back together.
 
 Молодец! Но это ещё не все кости. Нам они нужны @;все до единой@0,чтобы вернуть моего друга.
 (Примечание: @;...@0 - выделение красным цветом.)
 
-Here have this. I was going to keep it as a souvenir, but I don't have room in my luggage.
+[357]Here have this. I was going to keep it as a souvenir, but I don't have room in my luggage.
 
 Вот возьми. Я бы оставил его как сувенир, но у меня в багаже уже нет места.
 
-My friend is feeling much better now... Oh, no! He's started his bone dance again...
+[302]My friend is feeling much better now... Oh, no! He's started his bone dance again...
 
 Моему другу намного лучше... Неееет! Он опять начал свой "танец костей"...
 
-What did you have to come back for? Now he's going to do his whole routine again! Well, here we go...
+[1026]What did you have to come back for? Now he's going to do his whole routine again! Well, here we go...
 
 Ну и чего ж ты вернулся? Он ведь заново зарядит своё представление! Вот, началось...
 
-Have you found any of my friend's bones? We have to go back to Skelos Badlands, and we can't leave without them.
+[310]Have you found any of my friend's bones? We have to go back to Skelos Badlands, and we can't leave without them.
 
 Ты нашёл кости моего друга? Нам нужно смываться обратно в ??????????????, а как смыться без костей?
 (Примечание: нет утверждённого варианта. Все:
@@ -53,39 +53,39 @@ Have you found any of my friend's bones? We have to go back to Skelos Badlands, 
 2. Чащобы Скелоса (RGR)
 3. Плохляндию (Kudos?)                       )
 
-Spyro! Are you on vacation too? I was having a lovely time with my friend until the lava toads stole all his bones again. I'd ask you to help, but some of the toads are hiding at the top of the tallest towers and I don't think you can fly that high.
+[57]Spyro! Are you on vacation too? I was having a lovely time with my friend until the lava toads stole all his bones again. I'd ask you to help, but some of the toads are hiding at the top of the tallest towers and I don't think you can fly that high.
 
 Спайро! Ты тоже на отдыхе? Я классно оттягивался с моим дружбаном, пока огненные жабы не украли все его кости. Конечно я попросил бы тебя о помощи, но ведь они спрятались так высоко на башнях, что ты вряд ли сумеешь до них добраться.
 
-I'm almost ready to reveal my latest piece of real-time, four-dimensional performance art! I call it 'Hideous Exploding Witch, Number 9'. Now, if you can just light the three rockets around here, my masterpiece shall be complete...
+[79]I'm almost ready to reveal my latest piece of real-time, four-dimensional performance art! I call it 'Hideous Exploding Witch, Number 9'. Now, if you can just light the three rockets around here, my masterpiece shall be complete...
 
 Я почти готов показать последний эпизод своего четырёхмерного произведения искусства в реальном времени, под названием «Омерзительный Взрыв Ведьмы, дубль 9»!Так, если ты зажжёшь лишь три здешние ракеты, мой шедевр будет завершён...
 
-The world breathlessly awaits my brilliant four-dimensional masterpiece... just light all the rockets and prepare to be amazed by my genius!
+[177]The world breathlessly awaits my brilliant four-dimensional masterpiece... just light all the rockets and prepare to be amazed by my genius!
 
 Весь мир, затаив дыхание, ждёт мой невероятный четырёхмерный шедевр... Просто запали все ракеты и будь готов удивиться моей гениальностью!
 
-Oooops, I forgot I hid this egg inside the statue. I hope the explosion didn't hard boil it...
+[356]Oooops, I forgot I hid this egg inside the statue. I hope the explosion didn't hard boil it...
 
 Блин, я забыл, что спрятал это яйцо в памятник. Думаю, взрыв не слишком его повредил...
 
-And now, for my latest experiment: 'Blast-Sculpting'! I shall attempt to carve an image of you with a single explosive detonation...
+[176]And now, for my latest experiment: 'Blast-Sculpting'! I shall attempt to carve an image of you with a single explosive detonation...
 
 И последний эксперимент: "Построение Взрыва"! Я попытаюсь растерзать твоё изображение лишь единственной детонацией взрывчатки...
 
-Not too bad, eh? Very post-neolithic, wouldn't you say?
+[1107]Not too bad, eh? Very post-neolithic, wouldn't you say?
 
 Не плохо, да? Ну так, в стиле пост-неолита...
 
-I'm ready to patrol the towers and the perimeter of the islands whenever you want me to. &Go on patrol &Yes sir! &No, I'm off duty.
-	   
+[1120]I'm ready to patrol the towers and the perimeter of the islands whenever you want me to. &Go on patrol &Yes sir! &No, I'm off duty.
+
 Я готов охранять башни и острова по периметру, когда Вы того пожелаете. &Идти на службу? &Да, сэр! &Никак нет! Дембель.
 
-It's good to be back in action.
+[558]It's good to be back in action.
 
 Хорошо быть в строю!
 
-I'll be here when you need me.
+[557]I'll be here when you need me.
 
 Буду нужен - буду здесь.
 
@@ -93,921 +93,142 @@ I've got your slow-witted furball friend in a cage, and you're going to be next!
 
 Твой тугодум-дружок шерстяной комок уже в моей клетке, а ты на очереди! -Колдунья
 (Примечание: отсюда начинаются названия трюков. Я их не переводил.)
-Gnasty Gnorc
-	  
 
-	   
+Gnasty Gnorc   
 Half-pipe Leap
-	   
-
-	   
 Triple Towers
-	   
-
-	   
 Quint Front Flip
-	   
-
-	   
 Quint Roll Left
-	   
-
-	   
 Quint Back Flip
-	   
-
-	   
 Quint Roll Right
-	   
-
-	   
 Orange Crush
-	   
-
-	   
 Single Front Flip
-	   
-
-	   
 Double Front Flip
-	   
-
-	   
 Triple Front Flip
-	   
-
-	   
 Quad Front Flip
-	   
-
-	   
 Single Roll Left
-	   
-
-	   
 Double Roll Left
-	   
-
-	   
 Triple Roll Left
-	   
-
-	   
 Single Spin Left
-	   
-
-	   
 Double Spin Left
-	   
-
-	   
 Triple Spin Left
-	   
-
-	   
 Single Back Flip
-	   
-
-	   
 Double Back Flip
-	   
-
-	   
 Triple Back Flip
-	   
-
-	   
 Quad Back Flip
-	   
-
-	   
 Single Roll Right
-	   
-
-	   
 Double Roll Right
-	   
-
-	   
 Triple Roll Right
-	   
-
-	   
 Toasty Twist
-	   
-
-	   
 Single Spin Right
-	   
-
-	   
 Double Spin Right
-	   
-
-	   
 Triple Spin Right
-	   
-
-	   
 Twisted Lemon
-	   
-
-	   
 Twisted Lemon x 2
-	   
-
-	   
 Twisted Lemon x 3
-	   
-
-	   
 Thrash Master
-	   
-
-	   
 Twisted Lime
-	   
-
-	   
 Double Twisted Lime
-	   
-
-	   
 Triple Twisted Lime
-	   
-
-	   
 Super Thrash Master
-	   
-
-	   
 Raging Ripto
-(Примечание: здесь начинаются НЕ АНГЛИЙСКИЕ названия трюков.)
 
-	   
-Truffe de Gnorc
-	   
-
-	   
-Demi-tonneau
-	   
-
-	   
-Triples Tours
-	   
-
-	   
-5x flip avant
-	   
-
-	   
-5x demi-tour a@g gauche
-	   
-
-	   
-5x tour a@g gauche
-	   
-
-	   
-5x flip arrie@gre
-	   
-
-	   
-5x demi-tour a@g droite
-	   
-
-	   
-5x tour a@g droite
-	   
-
-	   
-Flip avant simple
-	   
-
-	   
-Double flip avant
-	   
-
-	   
-Triple flip avant
-	   
-
-	   
-4x flip avant
-	   
-
-	   
-1x demi-tour a@g gauche
-	   
-
-	   
-2x demi-tour a@g gauche
-	   
-
-	   
-3x demi-tour a@g gauche
-	   
-
-	   
-4x demi-tour a@g gauche
-	   
-
-	   
-Tour simple gauche
-	   
-
-	   
-Double tour gauche
-	   
-
-	   
-Triple tour gauche
-	   
-
-	   
-4x tour gauche
-	   
-
-	   
-Flip arrie@gre simple
-	   
-
-	   
-Double flip arrie@gre
-	   
-
-	   
-Triple flip arrie@gre
-	   
-
-	   
-4x flip arrie@gre
-	   
-
-	   
-1x demi-tour a@g droite
-	   
-
-	   
-2x demi-tour a@g droite
-	   
-
-	   
-3x demi-tour a@g droite
-	   
-
-	   
-4x demi-tour a@g droite
-	   
-
-	   
-Tour simple droite
-	   
-
-	   
-Double tour droite
-	   
-
-	   
-Triple tour droite
-	   
-
-	   
-4x tour droite
-	   
-
-	   
-Citron presse@a
-	   
-
-	   
-2x Citron presse@a
-	   
-
-	   
-3x Citron presse@a
-	   
-
-	   
-Mai@jtre Supre@ime
-	   
-
-	   
-Lime presse@ae
-	   
-
-	   
-Double Lime presse@ae
-	   
-
-	   
-Triple Lime presse@ae
-	   
-
-	   
-SuperMai@jtre Supre@ime
-	   
-
-	   
-Ripto la Terreur
-	   
-
-	   
-Gnasty Gnorc
-	   
-
-	   
-Half-Pipe-Sprung
-	   
-
-	   
-Dreifach-Tu@urme
-	   
-
-	   
-5x Flip vorwa@urts
-	   
-
-	   
-5x Rolle links
-	   
-
-	   
-5x Spin links
-	   
-
-	   
-5x Flip ru@uckwa@urts
-	   
-
-	   
-5x Rolle rechts
-	   
-
-	   
-5x Spin rechts
-	   
-
-	   
-1x Flip vorwa@urts
-	   
-
-	   
-2x Flip vorwa@urts
-	   
-
-	   
-3x Flip vorwa@urts
-	   
-
-	   
-4x Flip vorwa@urts
-	   
-
-	   
-1x Rolle links
-	   
-
-	   
-2x Rolle links
-	   
-
-	   
-3x Rolle links
-	   
-
-	   
-4x Rolle links
-	   
-
-	   
-1x Spin links
-	   
-
-	   
-2x Spin links
-	   
-
-	   
-3x Spin links
-	   
-
-	   
-4x Spin links
-	   
-
-	   
-1x Flip ru@uckwa@urts
-	   
-
-	   
-2x Flip ru@uckwa@urts
-	   
-
-	   
-3x Flip ru@uckwa@urts
-	   
-
-	   
-4x Flip ru@uckwa@urts
-	   
-
-	   
-1x Rolle rechts
-	   
-
-	   
-2x Rolle rechts
-	   
-
-	   
-3x Rolle rechts
-	   
-
-	   
-4x Rolle rechts
-	   
-
-	   
-1x Spin rechts
-	   
-
-	   
-2x Spin rechts
-	   
-
-	   
-3x Spin rechts
-	   
-
-	   
-4x Spin rechts
-	   
-
-	   
-Gepresste Zitrone
-	   
-
-	   
-2x gepr. Zitrone
-	   
-
-	   
-3x gepr. Zitrone
-	   
-
-	   
-Thrash Master
-	   
-
-	   
-Gedrehte Limone
-	   
-
-	   
-2x gedrehte Limone
-	   
-
-	   
-3x gedrehte Limone
-	   
-
-	   
-Super Thrash Master
-	   
-
-	   
-Tobender Ripto
-	   
-
-	   
-Gnasty Gnorc
-	   
-
-	   
-Salto de medio tubo
-	   
-
-	   
-Torres triples
-	   
-
-	   
-Voltereta izda. x5
-	   
-
-	   
-Pirueta izda. x5
-	   
-
-	   
-Giro izquierdo x5
-	   
-
-	   
-Voltereta atra@as x5
-	   
-
-	   
-Pirueta derecha x5
-	   
-
-	   
-Giro derecho x5
-	   
-
-	   
-Volt. adelante x1
-	   
-
-	   
-Volt. adelante x2
-	   
-
-	   
-Volt. adelante x3
-	   
-
-	   
-Volt. adelante x4
-	   
-
-	   
-Pirueta izda. x1
-	   
-
-	   
-Pirueta izda. x2
-	   
-
-	   
-Pirueta izda. x3
-	   
-
-	   
-Pirueta izda. x4
-	   
-
-	   
-Giro izquierdo x1
-	   
-
-	   
-Giro izquierdo x2
-	   
-
-	   
-Giro izquierdo x3
-	   
-
-	   
-Giro izquierdo x4
-	   
-
-	   
-Voltereta atra@as x1
-	   
-
-	   
-Voltereta atra@as x2
-	   
-
-	   
-Voltereta atra@as x3
-	   
-
-	   
-Voltereta atra@as x4
-	   
-
-	   
-Pirueta derecha x1
-	   
-
-	   
-Pirueta derecha x2
-	   
-
-	   
-Pirueta derecha x3
-	   
-
-	   
-Pirueta derecha x4
-	   
-
-	   
-Giro derecho x1
-	   
-
-	   
-Giro derecho x2
-	   
-
-	   
-Giro derecho x3
-	   
-
-	   
-Giro derecho x4
-	   
-
-	   
-Limo@an exprimido
-	   
-
-	   
-Limo@an exprimido x2
-	   
-
-	   
-Limo@an exprimido x3
-	   
-
-	   
-Contorsio@an maestra
-	   
-
-	   
-Lima exprimida
-	   
-
-	   
-Lima exprimida x2
-	   
-
-	   
-Lima exprimida x3
-	   
-
-	   
-Cont. su@apermaestra
-	   
-
-	   
-Furia de Ripto
-	   
-
-	   
-Gnasty Gnorc
-	   
-
-	   
-Salto Half-pipe
-	   
-
-	   
-X5 Flip Frontale
-	   
-
-	   
-X5 Roll A Sinistra
-	   
-
-	   
-X5 Spin A Sinistra
-	   
-
-	   
-X5 Flip Indietro
-	   
-
-	   
-X5 Roll A Destra
-	   
-
-	   
-X5 Spin A Destra
-	   
-
-	   
-Flip X1 Frontale
-	   
-
-	   
-X2 Flip Frontale
-	   
-
-	   
-X3 Flip Frontale
-	   
-
-	   
-X4 Flip Frontale
-	   
-
-	   
-Roll X1 A Sinistra
-	   
-
-	   
-X2 Roll A Sinistra
-	   
-
-	   
-X3 Roll A Sinistra
-	   
-
-	   
-X4 Roll A Sinistra
-	   
-
-	   
-Spin X1 A Sinistra
-	   
-
-	   
-X2 Spin A Sinistra
-	   
-
-	   
-X3 Spin A Sinistra
-	   
-
-	   
-X4 Spin A Sinistra
-	   
-
-	   
-Flip X1 Indietro
-	   
-
-	   
-X2 Flip Indietro
-	   
-
-	   
-X3 Flip Indietro
-	   
-
-	   
-X4 Flip Indietro
-	   
-
-	   
-Roll X1 A Destra
-	   
-
-	   
-X2 Roll A Destra
-	   
-
-	   
-X3 Roll A Destra
-	   
-
-	   
-X4 Roll A Destra
-	   
-
-	   
-Spin X1 A Destra
-	   
-
-	   
-X2 Spin A Destra
-	   
-
-	   
-X3 Spin A Destra
-	   
-
-	   
-X4 Spin A Destra
-	   
-
-	   
-Twisted Lemon
-	   
-
-	   
-X2 Twisted Lemon
-	   
-
-	   
-X3 Twisted Lemon
-	   
-
-	   
-Thrash Master
-	   
-
-	   
-Twisted Lime
-	   
-
-	   
-X2 Twisted Lime
-	   
-
-	   
-X3 Twisted Lime
-	   
-
-	   
-Super Thrash Master
-	   
-
-	   
-Raging Ripto
-	   
-
-Isn't this the wildest skateboard park you've ever seen? Once you've mastered a few tricks, you could score huge points in this place! What do you say I show you some moves? &Learn some tricks? &Of course! &Some other time...
+[200]Isn't this the wildest skateboard park you've ever seen? Once you've mastered a few tricks, you could score huge points in this place! What do you say I show you some moves? &Learn some tricks? &Of course! &Some other time...
 
 Слушай, видал ли ты парк для скейтбординга круче этого? Освоив несколько трюков, ты сможешь зарабатывать очень много очков здесь! Давай я тебе покажу пару вещей, что скажешь? &Изучить новые трюки? &Поехали! &Я и так профи.
 
-No problem, check the place out for yourself. Just meet me back here later!
-
+[444]No problem, check the place out for yourself. Just meet me back here later!
+ 
 Ну ладно, как хочешь. Тогда катайся сам! Давай позже тут встретимся.
-
-Are you ready to learn some tricks and take on the next challenge? &Take the challenge? &Let's go! &No thanks.
-
+ 
+[1137]Are you ready to learn some tricks and take on the next challenge? &Take the challenge? &Let's go! &No thanks.
+ 
 Ты готов освоить мои трюки и перейти к новому испытанию? &Приступить к практике? &Начнём! &А может не надо? 
-	   
-Let's start with something easy. You can jump off the end of ramps by pressing the < button. I'll show you how to do it once, then it's your turn. &[Press < button at top of ramp to jump.
+
+[1025]Let's start with something easy. You can jump off the end of ramps by pressing the < button. I'll show you how to do it once, then it's your turn. &[Press < button at top of ramp to jump.
 
 Займёмся простеньким. Спрыгивай с края нажатием кнопки <. Я покажу тебе разок, а потом твоя очередь.&[Нажми < на краю трамплина, чтобы прыгнуть сильнее.
-
-Just press the < button at the top of the ramp to jump off it. Try jumping as close to the top as possible to get the most hang time.
-
+ 
+[1027]Just press the < button at the top of the ramp to jump off it. Try jumping as close to the top as possible to get the most hang time.
+ 
 Просто нажимай < на самом верху трамплина, чтобы вылететь. Старайся прыгнуть как можно ближе к краю,чтобы зависнуть в воздухе дольше.
-
-OK, now try doing a roll. You can roll in midair by holding down the } button and steering left or right. &[Press < button at top of ramp to jump. &[Hold down } button and steer left or right to roll.
+ 
+[268]OK, now try doing a roll. You can roll in midair by holding down the } button and steering left or right. &[Press < button at top of ramp to jump. &[Hold down } button and steer left or right to roll.
 
 Отлично, теперь попробуем сальто. Вращайся в середине полёта, удерживая } и управляя кнопками вправо или влево. &[Выскочи кнопкой < с края трамплина. &Зажми } в воздухе и крутнись влево или вправо.
 
-This one's cake! Just press the < button to jump off the ramp, then hold down the } button and steer left or right to do a roll. &[Press < button at top of ramp to jump. &[Hold down } button and steer left or right to roll.
-
+[232]This one's cake! Just press the < button to jump off the ramp, then hold down the } button and steer left or right to do a roll. &[Press < button at top of ramp to jump. &[Hold down } button and steer left or right to roll.
+ 
 Это же элементарно, Ватсон! Жми < только у самого края трамплина, затем удерживай } и крутись кнопками влево или вправо.&[Вылети кнопкой < от края трамплина.&Задержи } в полёте и крутись вправо или влево.
-
-Hey, nice roll! Now let's see you pull a flip. Flips are exactly like rolls, only you push up or down instead of left or right. Just jump off the ramp, hold down the } button, and push up or down on the directional pad. &[Press < button to jump off ramp. &[Hold down } button and push & up or down on the directional pad. &[Land on the next ramp.
+ 
+[86]Hey, nice roll! Now let's see you pull a flip. Flips are exactly like rolls, only you push up or down instead of left or right. Just jump off the ramp, hold down the } button, and push up or down on the directional pad. &[Press < button to jump off ramp. &[Hold down } button and push & up or down on the directional pad. &[Land on the next ramp.
 
 Эй, классное сальто! На очереди кувырок. Это почти как сальто, но ты нажимаешь вверх или вниз, вместо влево и вправо. Выпрыгиваешь с трамплина, зажимаешь } и давишь вперёд или назад как при обычной ходьбе. &[Используй < чтобы спрыгнуть. &[Удерживай }, нажимая кнопку направления вверх или вниз. &[Приземлись на следующий трамплин. 
 
-Flips are my signature move! Just jump off the ramp, hold down the } button, and push up or down on the directional pad. Try doing a flip and landing on the next ramp. &[Press < button to jump off ramp. &[Hold down } button and push & up or down on the directional pad. &[Land on the next ramp.
-
+[160]Flips are my signature move! Just jump off the ramp, hold down the } button, and push up or down on the directional pad. Try doing a flip and landing on the next ramp. &[Press < button to jump off ramp. &[Hold down } button and push & up or down on the directional pad. &[Land on the next ramp.
+ 
 Кувырки – моя визитная карточка! Спрыгивай с трамплина как я тебя учил, сразу удержи } и выбери направление вращения назад или вперёд. Старайся сделать это так, чтобы оказаться ровно на следующем трамплине. &[< - толчок. &[} – снятие балансировки в полёте. Вверх или вниз - кувырки. &[Допрыгни до второго трамплина. 
 
-Whoa, you must be a natural! Now let's see if you can pull off a half-pipe spin move. The blue ramps are half-pipes. You can do a spin move by jumping at the top of the blue ramp, then steering left or right in the air. &[Press < button at top of blue ramp to jump. &[Steer left or right in air to spin.
+[112]Whoa, you must be a natural! Now let's see if you can pull off a half-pipe spin move. The blue ramps are half-pipes. You can do a spin move by jumping at the top of the blue ramp, then steering left or right in the air. &[Press < button at top of blue ramp to jump. &[Steer left or right in air to spin.
 
 Да ты прирождённый мастер! Посмотрим, как ты вращаешься в полутрубе. Это такие синие трамплины. Для вращения в полутрубе, прыгни от края синего трамплина и управляй вправо ли влево в воздухе.&[Необходим < для вертикального вращения.&[Кнопки влево и вправо придают крутящий момент.
-
-Just jump at the top of any blue ramp and steer left or right in the air to spin! &[Press < button at top of blue ramp to jump. &[Steer left or right in air to spin.
-
+ 
+[416]Just jump at the top of any blue ramp and steer left or right in the air to spin! &[Press < button at top of blue ramp to jump. &[Steer left or right in air to spin.
+ 
 Просто подпрыгни на верхушке любого синего трамплина и крутнись влево или вправо! &[Нажми < у края. &[Пока воздухе, жми влево или вправо для вращения. 
-
-Alright, you nailed it. Now let's see if you can do a 900! Get as much height as you can, spin two and a half revolutions in the air and land back on the ramp. &[Press < button at top of blue ramp. &[Steer left or right to do 3 spins. &[Land it.
+ 
+[1010]Alright, you nailed it. Now let's see if you can do a 900! Get as much height as you can, spin two and a half revolutions in the air and land back on the ramp. &[Press < button at top of blue ramp. &[Steer left or right to do 3 spins. &[Land it.
 
 Ну что ж, ты пристрелялся. Давай-ка набери 900 очков! Возьми наибольшую высоту, какую только сможешь, крутнись два с половиной раза в воздухе и приземлись на трамплин. &[< - толчок. &[Задержи влево или вправо на 3 вращения. &[Не упади! 
-
-The 900 is a little tricky. You have to jump off the top of the blue ramp, do two and a half revolutions, and land again. &[Press < button at top of blue ramp. &[Steer left or right to do 3 spins. &[Land it, somehow.
+ 
+[247]The 900 is a little tricky. You have to jump off the top of the blue ramp, do two and a half revolutions, and land again. &[Press < button at top of blue ramp. &[Steer left or right to do 3 spins. &[Land it, somehow.
 
 Ну, 900 немного сложновато. Ты должен выпрыгнуть с самого края синего трамплина и сделать хотя бы два с половиной оборота, но при этом ровно съехать вниз. &[На краю: <. &[Сразу же: влево/вправо. &[Остановись вовремя.
 
-Now that was a 900! I have to admit, you've got some skills, Spyro. But before you get too cocky, let's see if you can score some real points on the giant ski ramp. Do whatever moves you want, and see how many points you can get. &[Score 500 points on the giant ski ramp. &[Jump on ramp to do half-pipe moves. &[Don't jump on ramp to do rolls and flips.
-
+[82]Now that was a 900! I have to admit, you've got some skills, Spyro. But before you get too cocky, let's see if you can score some real points on the giant ski ramp. Do whatever moves you want, and see how many points you can get. &[Score 500 points on the giant ski ramp. &[Jump on ramp to do half-pipe moves. &[Don't jump on ramp to do rolls and flips.
+ 
 Вот это было 900! Я признаю, Спайро, что ты получил уже достаточно опыта. Но ты пока не важничай, потому что тебе пора набрать реальных очков вон на том огромном трамплине! Выполняй любые движения и следи, сколько же очков накопилось. &[Выбей 500 очков на крутом самом траплине. &[Подпрыгни на нём как в полутрубе. &[Не совершай кувырки и сальто. 
-
-This one's freestyle, Spyro! Do whatever tricks you want off the ramp. If you jump off the ramp, you can do half-pipe moves. If you don't jump off the ramp, you can do rolls and flips. The harder the trick, the more points you'll score. &[Score 500 points on the giant ski ramp &[Jump on ramp to do half-pipe moves. &[Don't jump on ramp to do rolls and flips.
-
+ 
+[92]This one's freestyle, Spyro! Do whatever tricks you want off the ramp. If you jump off the ramp, you can do half-pipe moves. If you don't jump off the ramp, you can do rolls and flips. The harder the trick, the more points you'll score. &[Score 500 points on the giant ski ramp &[Jump on ramp to do half-pipe moves. &[Don't jump on ramp to do rolls and flips.
+ 
 Спайро, а вот теперь давай упражняться свободным стилем! Делай абсолютно что захочешь после спуска. Прыгнешь - вращайся как в полутрубе. Если проскочишь мимо, можешь выполнять сальто и кувырки. Труднее приём - больше очков. &[Набери 500 на гигантском трамплине. &[Включай мозги, дави на джойстик.
 
-Wow, you learn really fast! Then again, you are being trained by a master boarder... Speaking of which, I was just practicing a nearly impossible new move that I call the 'Gnasty Gnorc'. I had almost pulled it off when I suddenly ran smack into this dragon egg and wiped out! OK, I made that up, but you can have this egg...
+[41]Wow, you learn really fast! Then again, you are being trained by a master boarder... Speaking of which, I was just practicing a nearly impossible new move that I call the 'Gnasty Gnorc'. I had almost pulled it off when I suddenly ran smack into this dragon egg and wiped out! OK, I made that up, but you can have this egg...
 
 Ого, ты и вправду быстро учишься! Хотя верно, тебя же тренирует мастер доски… А я между делом тут практиковал новый, почти невозможный трюк, который назвал в честь Мерзкого Норка. Я почти выполнил его, когда неожиданно врезался в драконье яйцо и вылетел с трека! Ладно, я ещё попробую, а ты пока возьми яичко...
 
-I think you're getting it, just try one more time.
-	   
+[1154]I think you're getting it, just try one more time.
+
 Здесь нужна практика. Попробуй ещё раз!
-	   
-I'm thinking you're ready to try some one-on-one competition. Want to try a freestyle competition for points? &Compete for points? &Let's go! &Later...
-	   
+
+[320]I'm thinking you're ready to try some one-on-one competition. Want to try a freestyle competition for points? &Compete for points? &Let's go! &Later...
+
 Думаю, ты уже готов к соревнованию со мной. Давай так: трюки любые, соревнуемся на очки. Ок? &Соревноваться на очки? &Я победю! &Я ещё не спец...
 
-Well, there's no shame in losing to the master... at least not much shame... Wanna try again? &Compete for points? &Let's go! &Later...
-	   
+[299]Well, there's no shame in losing to the master... at least not much shame... Wanna try again? &Compete for points? &Let's go! &Later...
+
 Ну не стыдись... Ты учителю проиграл, это нормально... почти... Может, сейчас выдет? &Соревноваться на очки? &Беру реванш! &Продую...
-	   
-I can't believe it! How did you get so good already? Who knows, someday you might even break my course record. Naw. Anyway, I guess I should give you this other egg I found. I was going to keep it for a pet, but I can't get it to hatch.
-	   
+
+[65]I can't believe it! How did you get so good already? Who knows, someday you might even break my course record. Naw. Anyway, I guess I should give you this other egg I found. I was going to keep it for a pet, but I can't get it to hatch.
+
 Глазам своим не верю! Как ты так быстро всему научился? Кто знает, может когда-нибудь ты даже побьёшь мой рекорд стадиона... Мда, приехали. Я лучше тебе отдам это яйцо. Я собирался завести питомца, но он всё никак не вылупится.
+ 
+[470]Alright! Whoever scores the most points in the time limit, wins! &[Freestyle competition for two minutes.
 
-Alright! Whoever scores the most points in the time limit, wins! &[Freestyle competition for two minutes.
-	   
 Поехали! Тот, кто наберёт больше всего очков за две минуты, выигрывает! &[Соревнование на очки, 2 минуты.
-	   
-Just come find me when you're ready for a good thrashing!
-	   
+
+[499]Just come find me when you're ready for a good thrashing!
+
 Приходи ко мне, когда будешь настроен на выигрыш!
-	   
-You can go for the course record now, if you want. Whenever you hop on a skateboard, a timer will start. Score as many points as you can until the timer expires or you wipe out. Good luck!
-	   
+
+[138]You can go for the course record now, if you want. Whenever you hop on a skateboard, a timer will start. Score as many points as you can until the timer expires or you wipe out. Good luck!
+
 А теперь иди побей рекорд стадиона, если хочешь. Как только ты прыгнешь на скейтборд, таймер начнёт отсчёт. Набирай как можно больше очков до окончания времени. И постарайся не падать!
-	   
-I was playing catch with my pet wolf, Farley, but I accidentally threw his ball down this hole and he went in after it. Now he's stuck down there. I feel so helpless... sitting up here... listening to his steadily softening whimpers... don't cry, wolf... never cry, wolf...
 
+[46]I was playing catch with my pet wolf, Farley, but I accidentally threw his ball down this hole and he went in after it. Now he's stuck down there. I feel so helpless... sitting up here... listening to his steadily softening whimpers... don't cry, wolf... never cry, wolf...
+ 
 Я играл со своим волчонком Фарлем в мяч, но его я случайно закинул в эту дыру, а Фарль побежал за ним. Он теперь не может выбраться, бедненький. Я чувствую себя таким беспомощным, сидя вот здесь... слушая его волчий хныкающий вой... Не вой, волчонок... луны-то не видно...
+ 
+[110]Hey, you found Farley! How can I ever thank you? I mean, I could give you this old egg, but Farley's been chewing on it and it's kinda slimey... oh well, it's the thought that counts, right?
 
-Hey, you found Farley! How can I ever thank you? I mean, I could give you this old egg, but Farley's been chewing on it and it's kinda slimey... oh well, it's the thought that counts, right?
-	   
 Эй, ты нашёл Фарля! Как же я тебя могу отблагодарить?.. Хотя я мог бы тебе дать это старое яйцо, но Фарль его облизывал и теперь оно скользкое... ну да и ладно,оно же от этого хуже не стало?
