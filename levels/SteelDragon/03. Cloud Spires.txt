@@ -12,7 +12,7 @@ The rhynocs have shut down our cloud generator and I'll never see a rainbow agai
 
 You'd think the Sorceress would want more rain, after what the sun has done to her skin. 
 
-Ты мог бы подумать, что Колдунья захочет еще больше дождей, после того, что солнце сделало с её кожей.  [-14]
+Конечно, Колдунье хочется больше дождей, после того, что солнце сделало с её кожей. [6]
 
 If my wings were big and strong like yours, I could easily glide across here. &[Press < button to jump. &[Then press < button in midair to glide. 
 
@@ -20,7 +20,7 @@ If my wings were big and strong like yours, I could easily glide across here. &[
 
 Oh, you activated the bellows? Maybe I can get the cloud generator working again... 
 
-Ты запустил меха? Может быть, я смогу снова включить наш генератор облаков...  [6]
+Ты запустил меха? Может быть, я снова смогу включить наш генератор облаков...  [6]
 
 The rhynocs must have been using this thing to clog up the cloud generator. 
 
@@ -28,11 +28,11 @@ The rhynocs must have been using this thing to clog up the cloud generator.
 
 Well, well, if it isn't my favorite dragon! The Sorceress has put me in charge of guarding these bellows. However, I suppose I might look the other way if I was distracted by counting gems. &Pay ^^^ gems to activate bellows? &Sure, whatever. &No way, you doofus. 
 
-Так - так, это же мой любимый дракон! Колдунья поставила меня охранять эти меха. Конечно, если я буду занят пересчётом камней, я могу и забыть о мехах... &Заплатить ^^^ камней, чтобы запустить меха? &Да, конечно. &Ни за что.  [38]
+Так - так, это же мой любимый дракон! Колдунья поставила меня охранять эти меха. Конечно, если я буду занят пересчётом камней, я могу, скажем, отвернуться... &Заплатить ^^^ камней, чтобы запустить меха? &Да, конечно. &Ни за что.  [36]
 
 Oooooh yes... precious, precious gems... Well then, Spyro, you may now use the bellows any time you wish. Best of luck on your little egg hunt. 
 
-Ооо да... прекрасные, прекрасные камни... А, ну да, конечно, Спайро, можешь включать меха когда хочешь. Удачи в твоём нелёгком деле!  [11]
+Ооо да... мои прекрасные, прекрасные самоцве-е-еты... А, ну да, конечно, Спайро, можешь включать меха когда пожелаешь. Удачи в твоём нелёгком деле! [-2]
 
 What? NO? What else are you going to do with all those gems? Buy flying lessons? (Heh heh) that was a good one... 
 
@@ -40,7 +40,7 @@ What? NO? What else are you going to do with all those gems? Buy flying lessons?
 
 Sorry, Spyro, it is my sworn duty to make certain no one crosses these bellows. And you know perfectly well that nothing could ever sway me from obeying my sworn duty... that is, ahem, until you have a few more gems. &[Activating bellows costs ^^^ gems. 
 
-Извини, Спайро, это мой долг - охранять эти меха. И ты отлично знаешь, что ничего не может заставить меня отказаться от этого долга... ну может быть, кхм, если бы у тебя было побольше камней... &[Включить меха стоит ^^^ камней.  [22]
+Извини, Спайро, это мой долг - охранять эти меха. И ты отлично знаешь, что ничто не может заставить меня отказаться от этого долга... ну может быть, кхм, если бы у тебя было чуть-чуть побольше камней... &[Включить меха стоит ^^^ камней.  [13]
 
 Heh heh... I haven't made such easy money since the Sorceress bought that mayonaisse for sunscreen. 
 
@@ -56,7 +56,7 @@ Step on the switch to get a fresh sun seed and keep flaming it until you get it 
 
 Now that's what I call a sun! Here, you can have this last sun seed as a souvenir. I think it might be a dud, though. 
 
-Вот теперь у нас есть солнце! Можешь взять последнее солнечное семечко, как сувенир. Возможно, что это семечко плохое.  [-1]
+Вот теперь у нас есть солнце! Можешь взять последнее солнечное семечко, как сувенир. Возможно, это семечко плохое.  [3]
 
 If you can't keep up with the sun seed, remember you can always hold down the > button to charge. &[Press and hold > button to charge forward quickly. 
 
