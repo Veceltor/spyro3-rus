@@ -1,4 +1,4 @@
-﻿You can Hover to get more distance when gliding. Just press the } button at the end of your glide. &[Press } button at the end of your glide to get more distance. 
+ You can Hover to get more distance when gliding. Just press the } button at the end of your glide. &[Press } button at the end of your glide to get more distance. 
 
 Ты можешь парить, чтобы пролететь подальше. Просто нажми } в конце полёта. &[Нажми } в конце полёта, чтобы попасть дальше.  [40]
 
@@ -16,7 +16,7 @@ The rhynocs have boarded up a lot of our doors, but I bet you're strong enough t
 
 My plan worked! That dumb octopus dropped the jail key while he was shaking me! Now I can free my friends... 
 
-Мой план сработал! Этот тупой осьминог обронил ключ от клетки, пока гонялся за мной. Теперь я смогу освободить друзей...  [-12]
+Мой план сработал! Этот тупой осьминог обронил ключ от клетки, пока тряс мной. Теперь я смогу освободить друзей...  [-7]
 
 Oh, I forgot to tell you... one of the rhynocs had this egg in his lunch box... 
 
@@ -108,7 +108,7 @@ Wow! That's the first time Bluto has ever lost! You've got a lot of talent for s
 
 We had a dragon egg for you, but we used it to test our ultra-high-speed-super-fluidity tunnel. The good news is that it made it to the end of the tunnel without a scratch! The bad news is that there's no way to get it back out now. 
 
-У нас было драконье яйцо для тебя, но мы протестировали им наш супер-ультра-скоростной тоннель. Хорошие новости в том, что яйцо добралось до конца туннеля невредимым! Плохие - мы не можем оттуда его достать.  [25]
+У нас было драконье яйцо для тебя, но мы протестировали им наш супер-скоростной-ультра-жидкостной тоннель. Хорошие новости в том, что яйцо добралось до конца туннеля целым и невредимым! Плохие - мы не можем оттуда его достать.  [8]
 
 The tunnel is chock full of rhynocs and floating mines. The only way to retrieve that egg is to defeat every single rhynoc in the tunnel. 
 
