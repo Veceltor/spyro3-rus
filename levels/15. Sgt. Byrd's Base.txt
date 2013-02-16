@@ -1,78 +1,77 @@
-﻿Cpl. Gabrielle 
-Sir! The situation is this, yesterday at 1845 hours the rhynocs invaded. We defended as best we could, sir, but without your leadership we didn't put up an effective resistance. By 1900 hours the rest of the squad was captured and the rhynocs had complete control of the base. 
-Recommend you take the enemy out with your rockets by pressing the { button, sir! 
-One carefully placed rocket blast should take this door down, sir. 
-Sir! I've captured the enemy rations. They won't march far on an empty stomach. 
-Sir! The rhynocs have blocked the way out of this next cave with a security door, and I don't think you'll be able to blast your way through this one. Recommend you land on the weights and carry them to the pressure sensitive security switches either side of the door. When in position press the > button to drop the weight. Press the } button once to look down, press it again to look up, sir! &[Land on item to pick it up. &[The > button drops item. &[Use the } button to change views. 
-Keep fighting the good fight sir! We're almost there, and I'm, uh, right behind you... 
-Mission accomplished. It's great to have you back, sir. 
-Sir! We need to rescue the rest of the squad before we can launch a raid on the Sorceress's castle. 
-Awaiting orders, sir. 
-Sgt. Byrd 
-I have to train the hummingbirds. They must be in peak physical condition if we're going to take on the Sorceress. 
-Don't worry I'll have the hummingbirds whipped into shape in no time. &Leave the level? &Yes &No 
-Tally ho, Spyro, I'm sure I'll see you around! 
-Any time you wanna leave just say so. 
-Don't worry I'll have the hummingbirds whipped into shape in no time. &Level not finished... &Do you really want to leave? &Yes &No 
-Pvt. Claire 
-Thank you, sir. &[Free ^ other hummingbird soldiers. 
-Before I was captured, I recovered this egg from the enemy, sir! 
-Thank you, sir. &[Free 1 other hummingbird soldier. 
-Thank you, sir. 
-Pvt. Nikita 
-I'm ready to be debriefed, sir. &[Free ^ other hummingbird soldiers. 
-Before I was captured, I recovered this egg from the enemy, sir! 
-I'm ready to be debriefed, sir. &[Free 1 other hummingbird soldier. 
-I'm ready to be debriefed, sir. 
-Pvt. Chloe 
-Reporting for duty, sir! &[Free ^ other hummingbird soldiers. 
-Before I was captured, I recovered this egg from the enemy, sir! 
-Reporting for duty, sir! &[Free 1 other hummingbird soldier. 
-Reporting for duty, sir! 
-Pvt. Eloise 
-Request permission to cheer, sir... Hip Hip Hooray! &[Free ^ other hummingbird soldiers. 
-Before I was captured, I recovered this egg from the enemy, sir! 
-Request permission to cheer, sir... Hip Hip Hooray! &[Free 1 other hummingbird soldier. 
-Request permission to cheer, sir... Hip Hip Hooray! 
-Pvt. Helene 
-What are your orders, sir? &[Free ^ other hummingbird soldiers. 
-Before I was captured, I recovered this egg from the enemy, sir! 
-What are your orders, sir? &[Free 1 other hummingbird soldier. 
-What are your orders, sir? 
-
-Капрал Габриэл 
+Cpl. Gabrielle/Капрал Габриэл 
+[60]Sir! The situation is this, yesterday at 1845 hours the rhynocs invaded. We defended as best we could, sir, but without your leadership we didn't put up an effective resistance. By 1900 hours the rest of the squad was captured and the rhynocs had complete control of the base. 
 Сэр! Докладываю ситуацию: вчера в 18:45 носороги напали на нас. Мы защищали базу как могли, сэр, но без вашего руководства мы не сумели оказать им должного сопротивления. Около 19:00 почти весь отряд был захвачен в плен, а носороги взяли полный контроль над базой. 
-Рекомендую вам уничтожать врагов с помощью ваших ракет, нажимая кнопку {, сэр! 
-Один аккуратный выстрел ракетой должен вскрыть эту дверь, сэр. 
-Сэр! Я захватил их склад с едой. Они не смогут долго стоять на пустой желудок. 
+[1085]Recommend you take the enemy out with your rockets by pressing the { button, sir! 
+Рекомендую вам уничтожать врагов с помощью ваших ракет, нажимая кнопку {, сэр!  
+[1117]One carefully placed rocket blast should take this door down, sir. 
+Один аккуратный выстрел ракетой должен вскрыть эту дверь, сэр.
+[432]Sir! I've captured the enemy rations. They won't march far on an empty stomach. 
+Сэр! Я захватил их склад с едой. Они не смогут долго стоять на пустой желудок.
+[38]Sir! The rhynocs have blocked the way out of this next cave with a security door, and I don't think you'll be able to blast your way through this one. Recommend you land on the weights and carry them to the pressure sensitive security switches either side of the door. When in position press the > button to drop the weight. Press the } button once to look down, press it again to look up, sir! &[Land on item to pick it up. &[The > button drops item. &[Use the } button to change views.
 Сэр! Носороги заблокировали путь в следующую пещеру очень прочной дверью, и я не думаю что вы сможете ее пробить. Рекомендую вам подобрать гири и перенести их на выключатели, находящиеся возле двери. Они срабатывают только под очень большим давлением. Когда вы донесете гирю до места, нажмите кнопку > и сбросьте ее. Нажмите кнопку } чтобы посмотреть вниз, и нажмите ее снова чтобы посмотреть вверх, сэр! &[Подлететь к гире и взять ее. &[Кнопка > - сбросить гирю. &[ } - изменить вид. 
-Сэр, вы отлично сражетесь! Мы почти у цели, я буду за вами... 
+[1114]Keep fighting the good fight sir! We're almost there, and I'm, uh, right behind you... 
+Сэр, вы отлично сражетесь! Мы почти у цели, я буду за вами...
+[513]Mission accomplished. It's great to have you back, sir. 
 Миссия завершена, сэр. Хорошо, что вы вернулись. 
-Сэр! Нужно спасти наших, попавших в плен, до того как мы сможем пойти на захват замка Колдуньи. 
+[1091]Sir! We need to rescue the rest of the squad before we can launch a raid on the Sorceress's castle. 
+Сэр! Нужно спасти наших, попавших в плен, до того как мы сможем пойти на захват замка Колдуньи.
+[572]Awaiting orders, sir.
 Жду приказов, сэр. 
-Сержант Бёрд 
+
+Sgt. Byrd/Сержант Бёрд  
+[1100]I have to train the hummingbirds. They must be in peak physical condition if we're going to take on the Sorceress. 
 Я тренирую моих солдат-колибри. Они должны быть в отличной физической форме, если мы хотим захватить Колдунью. 
+[512=1144]Don't worry I'll have the hummingbirds whipped into shape in no time. &Leave the level? &Yes &No 
 Не волнуйся, мои солдаты-колибри придут в форму в кратчайшие сроки. &Выйти из уровня? &Да &Нет 
+[1155]Tally ho, Spyro, I'm sure I'll see you around! 
 Я уверен, мы еще встретимся! 
+[554]Any time you wanna leave just say so. 
 Если хочешь уйти - только скажи. 
+[512=1144]Don't worry I'll have the hummingbirds whipped into shape in no time. &Level not finished... &Do you really want to leave? &Yes &No 
 Не волнуйся, мои солдаты-колибри придут в форму в кратчайшие сроки. &Миссия не завершена. Точно выйти? &Да &Нет 
-Солдат Клар 
-Спасибо, сэр. &[Освободите еще ^ солдат-колибри. 
-В бою я отобрал это яйцо у врага, сэр! 
+
+Pvt. Claire/Солдат Клар 
+[3*]Thank you, sir. &[Free ^ other hummingbird soldiers. 
+Спасибо, сэр. &[Освободите еще ^ солдат-колибри.
+[5*]Before I was captured, I recovered this egg from the enemy, sir!
+В бою я отобрал это яйцо у врага, сэр!  
+[3*]Thank you, sir. &[Free 1 other hummingbird soldier. 
 Спасибо, сэр. &[Освободите последнего солдата. 
+[3*]Thank you, sir. 
 Спасибо, сэр. 
-Солдат Ник 
+
+Pvt. Nikita/Солдат Ник 
+[3*]I'm ready to be debriefed, sir. &[Free ^ other hummingbird soldiers. 
 Я готов докладывать, сэр. &[Освободите еще ^ солдат-колибри. 
+[5*]Before I was captured, I recovered this egg from the enemy, sir! 
 В бою я отобрал это яйцо у врага, сэр! 
+[3*]I'm ready to be debriefed, sir. &[Free 1 other hummingbird soldier. 
 Я готов докладывать, сэр. &[Освободите последнего солдата. 
+[3*]I'm ready to be debriefed, sir.
 Я готов докладывать, сэр. 
-Солдат Эл 
-Разрешите поприветствовать, сэр... Гип-гип - Ура! &[Освободите еще ^ солдат-колибри. 
+
+Pvt. Chloe 
+[3*]Reporting for duty, sir! &[Free ^ other hummingbird soldiers. 
+[5*]Before I was captured, I recovered this egg from the enemy, sir! 
+[3*]Reporting for duty, sir! &[Free 1 other hummingbird soldier. 
+[3*]Reporting for duty, sir! 
+
+Pvt. Eloise/Солдат Эл 
+[3*]Request permission to cheer, sir... Hip Hip Hooray! &[Free ^ other hummingbird soldiers.
+Разрешите поприветствовать, сэр... Гип-гип - Ура! &[Освободите еще ^ солдат-колибри.  
+[5*]Before I was captured, I recovered this egg from the enemy, sir! 
 В бою я отобрал это яйцо у врага, сэр! 
-Разрешите поприветствовать, сэр... Гип-гип - Ура! &[Освободите последнего солдата. 
+[3*]Request permission to cheer, sir... Hip Hip Hooray! &[Free 1 other hummingbird soldier. 
+Разрешите поприветствовать, сэр... Гип-гип - Ура! &[Освободите последнего солдата.
+[3*]Request permission to cheer, sir... Hip Hip Hooray! 
 Разрешите поприветствовать, сэр... Гип-гип - Ура! 
-Солдат Хелен 
-Какие будут приказы, сэр? &[Освободите еще ^ солдат-колибри. 
-В бою я отобрал это яйцо у врага, сэр! 
+
+Pvt. Helene/Солдат Хелен
+[3*]What are your orders, sir? &[Free ^ other hummingbird soldiers. 
+Какие будут приказы, сэр? &[Освободите еще ^ солдат-колибри.
+[5*]Before I was captured, I recovered this egg from the enemy, sir!
+В бою я отобрал это яйцо у врага, сэр!  
+[3*]What are your orders, sir? &[Free 1 other hummingbird soldier. 
 Какие будут приказы, сэр? &[Освободите последнего солдата. 
+[3*]What are your orders, sir? 
 Какие будут приказы, сэр?
