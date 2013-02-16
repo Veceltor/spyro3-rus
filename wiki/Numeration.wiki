@@ -319,7 +319,7 @@
 ||352||104||Clay||Rhynocs are running rampant around here, but I can't get anyone out of the Tiki Lodge long enough to do anything about it.||
 ||353||134||Zoe||Princess Ami showed me a place called Starfish Reef. She says there's an egg hidden in there. I think Sparx should check it out.||
 ||354||136||Bartholomew||This time it will be a 3 round match, and when you win, don't let him send you off with a stupid egg!||
-||355||124||Feng||I'm sure you have many important things to do, but if you could find the time to help please come back.||
+||355||124||Shui||I'm sure you have many important things to do, but if you could find the time to help please come back.||
 ||356||120||Jasper||Oooops, I forgot I hid this egg inside the statue. I hope the explosion didn't hard boil it...||
 ||357||120||Ooga||Here have this. I was going to keep it as a souvenir, but I don't have room in my luggage.||
 ||358||116||Shiny the Firefly||Follow me, Spyro.\ The whirligig awaits you.\ The sky shall be yours!||
