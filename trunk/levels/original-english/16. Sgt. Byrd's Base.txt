@@ -1,4 +1,4 @@
-﻿Cpl. Gabrielle
+Cpl. Gabrielle
 
 Sir! The situation is this, yesterday at 1845 hours the rhynocs invaded. We defended as best we could, sir, but without your leadership we didn't put up an effective resistance. By 1900 hours the rest of the squad was captured and the rhynocs had complete control of the base.
 
@@ -27,6 +27,18 @@ Tally ho, Spyro, I'm sure I'll see you around!
 Any time you wanna leave just say so.
 
 Don't worry I'll have the hummingbirds whipped into shape in no time. &Level not finished... &Do you really want to leave? &Yes &No
+
+Sgt. Byrd 
+
+I have to train the hummingbirds. They must be in peak physical condition if we're going to take on the Sorceress. 
+
+Don't worry I'll have the hummingbirds whipped into shape in no time. &Leave the level? &Yes &No
+
+Tally ho, Spyro, I'm sure I'll see you around! 
+
+Any time you wanna leave just say so. 
+
+Don't worry I'll have the hummingbirds whipped into shape in no time. &Level not finished... &Do you really want to leave? &Yes &No 
 
 Pvt. Claire
 
@@ -77,4 +89,3 @@ Before I was captured, I recovered this egg from the enemy, sir!
 What are your orders, sir? &[Free 1 other hummingbird soldier.
 
 What are your orders, sir?
-
