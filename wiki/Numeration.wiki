@@ -604,7 +604,7 @@
 ||1057||136||Bartholomew||You lost! Oh, some brother you are. I'm never going to see my ball again, am I?||
 ||1058||136||Bartholomew||You lost? But how am I going to get my ball back? You've got to try again.||
 ||1059||160||Deputy Roy||Back again? Well, the Bailey gang is still hidin' out. Ya' ready to take 'em on? ||
-||1060||122||Homer the Firefly||\           You are brave, dragon.\         Much braver than I, by far.\          Here, take this darn egg.||
+||1060||122||Shiny the Firefly||\           You are brave, dragon.\         Much braver than I, by far.\          Here, take this darn egg.||
 ||1061||140||Greta||Hey, look what was in the wocket. They must have been twying to put it into orbit.||
 ||1062||134||Zoe||Sparx has already found the lost egg in Starfish Reef, but if he wants to go back for a swim, I can lead the way.||
 ||1063||166||Agent 9||Woohoo! Time to kick some Sorceress butt!||
