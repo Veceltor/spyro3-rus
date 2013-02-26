@@ -204,3 +204,49 @@
   * Использован моноширный шрифт, поэтому нет необходимости считать {разницу}.
   * Метки: $ – мнение Спайропедии; @ – на это можно рассчитывать в переводах.
   * Количество знаков 3D шрифта (из которого строятся надписи) английского алфавита _может быть не равно_ количеству знаков русского алфавита.
+<hr>
+=Переводчики:=
+Здесь отображено то, чьи версии переводов приходятся на конкретный уровень.
+
+ * 098: Sunrise Spring Home - SteelDragon
+ * 100: Sunny Villa - L
+ * 102: Cloud Spires - L/SteelDragon
+ * 104: Molten Crater - L/Washington
+ * 106: Seashell Shore - SteelDragon
+ * 108: Mushroom Speedway - SteelDragon
+ * 110: Sheila's Alp - SteelDragon
+ * 112: Buzz's Dungeon - SteelDragon
+ * 114: Crawdad Farm - SteelDragon
+ * 116: Midday Garden Home - SteelDragon
+ * 118: Icy Peak - Spyro4evA
+ * 120: Enchanted Towers - Spyro4evA
+ * 122: Spooky Swamp - L
+ * 124: Bamboo Terrace - L
+ * 126: Country Speedway - Spyro4evA
+ * 128: Sgt. Byrd's Base - L
+ * 130: Spike's Arena - SteelDragon
+ * 132: Spider Town
+ * 134: Evening Lake Home - DrWho/Washington
+ * 136: Frozen Altars - DrWho/Washington
+ * 138: Lost Fleet - DrWho/Washington
+ * 140: Fireworks Factory  - DrWho/SteelDragon/Washington
+ * 142: Charmed Ridge - DrWho/Washington
+ * 144: Honey Speedway - DrWho/Spyro4evA/Washington
+ * 146: Bentley's Outpost - DrWho/Washington
+ * 148: Scorch's Pit - DrWho/Washington
+ * 150: Starfish Reef
+ * 152: Midnight Mountain Home - L/DrWho/Washington
+ * 154: Crystal Islands - DrWho/Washington
+ * 156: Desert Ruins - DrWho/Washington
+ * 158: Haunted Tomb - DrWho/Washington
+ * 160: Dino Mines - DrWho/Washington
+ * 162: Harbor Speedway - DrWho/Washington
+ * 164: Agent 9's Lab - DrWho/Washington
+ * 166: Sorceress's Lair - DrWho/Washington
+ * 168: Bugbot Factory
+ * 170: Super Bonus Round - Spyro4evA
+ 
+Примечания:
+
+ * L- переводчик из папки "levels".
+ * На уровнях 132, 150 и 168 нет текста.
