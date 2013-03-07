@@ -1,5 +1,5 @@
 #summary Отправная точка проекта перевода
-#labels Featured
+#labels Deprecated
 
 <br/>
 
