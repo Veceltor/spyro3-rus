@@ -29,7 +29,7 @@ http://klimaleksus.narod2.ru/Files/SOUNDS/source/index.html<br>
 
 *Второстепенные персонажи.*
 ||*№*|| *Персонаж* || *Субфайлы* || *Пример озвучки в jpsxdec*|| *Предполагаемые актёры* ||
-||1||Mayor Leo|| 098, 100 ||381|| Washington/!ShellyPes ||
+||1||Mayor Leo|| 098, 100 ||381|| Washington ||
 || ||Councillor George|| 100 ||~|| ~ ||
 || ||Citizen Paulus|| 100 ||~||~ ||
 || ||Citizen Horace|| 100 ||~|| ~ ||
