@@ -29,7 +29,7 @@ http://klimaleksus.narod2.ru/Files/SOUNDS/source/index.html<br>
 
 *Второстепенные персонажи.*
 ||*№*|| *Персонаж* || *Субфайлы* || *Пример озвучки в jpsxdec*|| *Предполагаемые актёры* ||
-||1||Mayor Leo|| 098, 100 ||381|| Washington ||
+||1||Mayor Leo|| 098, 100 ||381|| Washington||
 || ||Councillor George|| 100 ||~|| ~ ||
 || ||Citizen Paulus|| 100 ||~||~ ||
 || ||Citizen Horace|| 100 ||~|| ~ ||
@@ -75,7 +75,7 @@ http://klimaleksus.narod2.ru/Files/SOUNDS/source/index.html<br>
 || ||Tsai||124||~||~||
 || ||Shui||124||~||~||
 ||13||Bartholomew||124, 136, 146||354|| Amazingmax ||
-||14||Cpl. Gabrielle||128||38||devdoki/Juli/Kate/Sasha/Shahnoza||
+||14||Cpl. Gabrielle||128||38||devdoki/Juli/Kate/Sasha/Shahnoza/Luba||
 ||<font size="2" color="gray">15</font>||Pvt. Claire||128|| || devdoki ||
 || ||Pvt. Nikita||128||~|| ~ ||
 || ||Pvt. Chloe||128||~|| ~ ||
@@ -89,7 +89,7 @@ http://klimaleksus.narod2.ru/Files/SOUNDS/source/index.html<br>
 || ||Errol||136||~||~||
 ||<font size="2" color="#AAAA00">18</font>||Gabrielle||136||
 ||19||Handel||140||107||Pasadena||
-||20||Greta||134, 140||104|| devdoki/Kate/Sasha ||
+||20||Greta||134, 140||104|| devdoki/Kate/Sasha/Luba ||
 ||21||Princess Ami||134, 142||48||devdoki/Juli/Kate/Shahnoza||
 ||<font size="2" color="gray">22</font>||Liz||142||164|| devdoki/Kate/Sasha ||
 || ||Isabelle||142||63||~||
@@ -97,19 +97,19 @@ http://klimaleksus.narod2.ru/Files/SOUNDS/source/index.html<br>
 || ||Eileen||142|| ||~||
 || ||Molly||142|| ||~||
 ||<font size="2" color="#AAAA00">23</font>||Jack||142||185||
-||24||The Great Zamboni||154||95||1CubeStudio/Washington||
+||24||The Great Zamboni||154||95||1CubeStudio/Washington/MrModez||
 || ||The Marvelous Magnifico||154||~||~||
 || ||The Fantastic Frederico||154||~||~||
 || ||The Astounding Arturo||154||~||~||
 || ||The Magnificent Marvello||154||~||~||
 || ||The Amazing Randini||154||~||~||
-||<font size="2" color="#AAAA00">25</font>||Gus||156||52||
+||25||Gus||156||52||ShellyPes||
 ||26||Tara||156||74||devdoki/Juli/Kate/Sasha/Shahnoza||
 ||27||Dan||158||54|| Washington/aleksusklim ||
 || ||Allgeier||158||~||~||
 || ||Jamal||158||~||~||
 || ||Ali||158|| ||~||
-||28||Sheriff Wyatt||160||55|| CubeStudio ||
+||28||Sheriff Wyatt||160||55|| CubeStudio/MrModez ||
 || ||Deputy Roy||160||~||~||
 ||<font size="2" color="gray">29</font>||Deputy Holiday||160|| || CubeStudio ||
 ||30||Professor|| 164 ||114|| Scratch/aleksusklim/Washington ||
