@@ -1,0 +1,96 @@
+﻿<html><head><meta charset="utf-8"><link rel="stylesheet" type="text/css" href="encyclopedia.css"><script type="text/javascript" src="encyclopedia.js"></script></head><body onload="page();"><xmp>
+
+Микро-энциклопедия взлома Spyro1-3
+
+Как пользоваться:
+
+Выберите статью на левой панели.
+Там где вместо названия порядковый номер – пустышки.
+HTML и BB коды не визуализируются, но ссылки http:// активируются.
+Включённый javascript необходим!
+
+Как пополнять:
+
+Перейдите в:
+http://code.google.com/p/spyro3-rus/source/browse/trunk/encyclopedia/settings.htm
+Найдите очередную холостую строчку (звёздочка и номер).
+Вместо номера напишите заголовок статьи.
+Перейдите в:
+http://code.google.com/p/spyro3-rus/source/browse/trunk/encyclopedia/text/
+И нажмите на файл с выбранным номером, затем «Edit file».
+Введите текст статьи вместо «ТЕКСТ СТАТЬИ» и нажмите «Commit».
+
+Теперь как пополнять холостыми номерами:
+
+Обновите SVN-репозиторий, указав адрес
+https://spyro3-rus.googlecode.com/svn/trunk/encyclopedia
+В файл «settings.htm» добавьте новые номера со звёздочками (последний порядковый номер можно увидеть в открытом окне Микро-энциклопедии на левой панели).
+Откройте папку «text».
+Перетащите любой холостой файл (с наибольшим номером) правой кнопкой мышки и выберите пункт
+«SVN Копировать и переименовать версированный элемент сюда»,
+Задайте новый номер для файла, повторите процедуру для всех новых номеров.
+Фиксируйте изменения в Хранилище.
+
+А как был сделан первый такой файл?
+
+Создать текстовый документ и сохранить в UTF-8 с BOM.
+Правый клик > TortoiseSVN > Добавить.
+Свойства файла > Subrevision > Свойства > Создать > Mime-тип > Настраиваемый > написать «text/html» > OK > OK > OK.
+Фиксировать!
+
+Синтаксис и код:
+
+У оглавления:
+{{{
+<html><head><meta charset="utf-8"><link rel="stylesheet" type="text/css" href="encyclopedia.css"><script type="text/javascript" src="encyclopedia.js"></script>  
+</head><base target="page"><body onload="list();">
+
+<xmp>Главная
+
+*1
+*2
+*3
+…
+
+</ xmp></body></html>
+}}}
+
+У страниц:
+{{{
+<html><head><meta charset="utf-8"><link rel="stylesheet" type="text/css" href="..\encyclopedia.css"><script type="text/javascript" src="..\encyclopedia.js"></script></head><body onload="page();"><xmp>
+
+ТЕКСТ СТАТЬИ
+
+</ xmp></body></html>
+}}}
+
+У основного файла:
+{{{
+<html><head><meta charset="utf-8"><link rel="stylesheet" type="text/css" href="encyclopedia.css"><script type="text/javascript" src="encyclopedia.js"></script>
+<title>Микро-энциклопедия взлома Spyro1-3</title></head>
+<frameset rows="*" cols="256,*" border="2" frameborder="yes" framespacing="2">
+<frame src="settings.htm" scrolling="auto" frameborder="yes" bordercolor="black"> 
+<frame name="page" src="home.htm" scrolling="auto" frameborder="yes" bordercolor="black">
+</frameset></body></html>
+}}}
+
+У файла скриптов:
+{{{
+function list(){var i=1;
+document.body.innerHTML='<ol start="0"><li><a href="home.htm">'+document.getElementsByTagName('xmp')[0].innerHTML.replace(/&/g,'&amp;').replace(/\</g,'&lt;').replace(/\>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&apos;').replace(/\*/g,'</a></li><li><a href="text/*.htm">').replace(/\*/g,function(){return i++})+'</a></li></ol>';}
+function page(p){
+document.body.innerHTML='<div><p>'+document.getElementsByTagName('xmp')[0].innerHTML.replace(/&/g,'&amp;').replace(/\</g,'&lt;').replace(/\>/g,'&gt;').replace(/"/g,'&quot;').replace(/(http:\/\/\S+?)\s/g,'<a target="_blank" href="$1">$1</a>').replace(/\x0A/g,'</p><p>').replace(/\x0D/g,'').replace(/\<p\>\<\/p\>/g,'</p><br /><p>')+'</p><p></p><br/></div>';}
+}}}
+
+У таблицы стилей:
+{{{
+body{margin:0;padding:0;font:12pt Arial;}
+li{padding:8px 0}
+div{margin:8px;}
+p{text-indent:14pt;margin:8pt 0}
+a{color:blue;text-decoration:none;}
+a:hover{color:red;}
+}}}
+
+
+</xmp></body></html>
