@@ -1,0 +1,86 @@
+﻿<base>
+<global>
+<hero>
+<en>  Hunter  </en>
+<ru>  @Хантер  </ru>
+<ru>  Лесник  </ru>
+<ru>  </ru>
+<ru>Охотник</ru></hero>
+<hero><en>Bianca</en>
+<ru></ru>
+<ru>@Бианка</ru></hero>
+<hero><en>Noone</en>
+</hero>
+<hero><en>III</en><ru></ru>
+</hero>
+<hero><en>null</en>
+<ru>@</ru>
+<ru></ru></hero>
+</global>
+
+<level>
+<local>
+</local>
+<name>0</name>
+<wad>0</wad>
+<main>
+<text><str>1</str></text>
+<text><str>2</str></text>
+<text><str>3</str></text>
+<text><str>4</str></text>
+</main>
+</level>
+
+<level>
+<local><hero><en><b>&apos;</en></hero>
+<hero><en>Jack</en><ru>Джек</ru><ru>Джекки</ru></hero>
+<hero><en>Jill</en><ru>Джилл</ru><ru>Джилли</ru><ru>@Джиллиан</ru></hero>
+</local>
+
+<name>SSH</name>
+<wad>098</wad>
+<main><text><guy><b>&apos;</guy></text><text>
+<guy>Jack</guy>
+<en>Hello there!</en>
+<ru>Ну здарова!</ru>
+<ru>Hello there!Hello there!Hello there!Hello there!Hello there!Hello there!Hello there!Hello there!Hello there!Hello there!Hello there!Hello there!Hello there!Hello there!Hello there!Hello there!</ru>
+<str>42</str>
+</text>
+<text>
+<str>-</str>
+<guy>Jill</guy>
+<en>en</en>
+<ru>ru</ru>
+<ru>ru2</ru>
+</text>
+
+</main>
+<stage>
+   <info>Подуровень</info>  
+<text>
+<guy>Hunter</guy>
+<en>Hey, Spyro!</en>
+<ru>Эй, Спайро!</ru>
+<ru>@Спайро, эй!</ru>
+<str>512</str>
+</text>
+</stage>
+</level>
+
+
+<level><local>
+<hero><en> I </en></hero></local>
+<name>My</name>
+<wad>22</wad>
+<main><text>
+<guy>I</guy>
+<en>1</en>
+<ru>2</ru>
+<ru>3</ru>
+<ru>4</ru>
+<ru>5</ru>
+<str>3</str>
+</text></main>
+</level>
+
+</base>
