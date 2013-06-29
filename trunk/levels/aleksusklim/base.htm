@@ -12,7 +12,8 @@ TD,TR{text-align:center;}
 #panel *{margin:0;padding:1px;}
 #panel{border:1px solid black;}
 I{margin:8px;display:block;}
-</style><script type="text/javascript">document.write('<h1>Loading');
+H1{display:inline}
+</style><script type="text/javascript">document.write('<h1>Loading</h1>');
 
 var HERO=[];
 var LEVEL=[];
@@ -170,7 +171,7 @@ HERO[n].RU.sort(function(a,b){
 if(a.charAt(0)=='@')return -1;if(b.charAt(0)=='@')return 1;
 return (a>b)});}
 
-document.write('.');
+document.write('<h1>.</h1>');
 
 function base_print(){
 var str,i,j,k,n;
@@ -283,7 +284,7 @@ base_save();
 base_table();
 }}}
 
-document.write('.');
+document.write('<h1>.</h1>');
 
 function getbasetext(Tag){
 if(Tag!=null){
@@ -381,10 +382,9 @@ loc=document.getElementById('locstor');
 str='<table class="clear">';
 for(i=0;i<6;i++)str+='<col width="100">';str+='<col width="170"><tr>';
 for(i=0;i<6;i++){
-str+='<td><input name="btn" type="button" value="Save '+i+'#storage_save('+i+')"><p style="margin:4px;padding:0" id="storage_'+i+'"></p><input name="btn" type="button" value="Load '+i+'#storage_load('+i+')"></td>';}
+str+='<td><input name="btn" type="button" value="Save '+i+'#storage_save('+i+')"><p style="margin:4px;padding:0" id="storage_'+i+'">0</p><input name="btn" type="button" value="Load '+i+'#storage_load('+i+')"></td>';}
 str+='<td><p style="margin:4px;padding:0">Current:</p><p style="margin:4px;padding:0" id="storage_c">0</p></td></tr></table>';
 loc.innerHTML=str;
-for(i=0;i<6;i++)storage_count(i);
 str='<div width="800" style="position:absolute"><center>';
 str+='<table class="table" bgcolor="#FFCCCC"><col width="80"><col width="220"><col width="260"><col width="80"><tr><td colspan="4"><input name="btn" type="button" value="Глобальные персонажи:#editfieldall();"></td></tr>';
 for(i=0;i<HERO.length;i++){
@@ -530,9 +530,10 @@ chk.checked=false;
 opt.style.display='none';}
 opt.onchange=selectfieldclick;
 chk.onchange=selectfieldcheck;}
+for(i=0;i<6;i++)storage_count(i);
 }
 
-document.write('.');
+document.write('<h1>.</h1>');a
 
 function selectfieldcheck(){
 var str,txt,val,j,n,opt,wrk;
@@ -734,7 +735,7 @@ function storage_load(Index){
 base_parse(localStorage['TranslationBase_'+Index]);
 base_table();base_refresh();}
 
-document.write(' OK!</h1>');
+document.write('<h1>&nbsp;OK</h1>');
 
 function mainonload(){
 var URL='base.txt';
