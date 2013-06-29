@@ -1,4 +1,6 @@
-﻿<html><head><style type="text/css">INPUT[type="text"],TEXTAREA,SELECT{border:4px ridge white}
+﻿<html><head><meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>Экспериментальная база данных переводов</title><style type="text/css">
+INPUT[type="text"],TEXTAREA,SELECT{border:4px ridge white}
 INPUT[type="button"]{border:1px solid gray}
 INPUT,TD,SELECT{font:bold 12pt Arial;}
 TEXTAREA,INPUT[size="31"],P{font:bold 14pt Courier New;}
@@ -10,7 +12,7 @@ TD,TR{text-align:center;}
 #panel *{margin:0;padding:1px;}
 #panel{border:1px solid black;}
 I{margin:8px;display:block;}
-</style><script>
+</style><script type="text/javascript">document.write('<h1>Loading');
 
 var HERO=[];
 var LEVEL=[];
@@ -168,6 +170,8 @@ HERO[n].RU.sort(function(a,b){
 if(a.charAt(0)=='@')return -1;if(b.charAt(0)=='@')return 1;
 return (a>b)});}
 
+document.write('.');
+
 function base_print(){
 var str,i,j,k,n;
 str='<base>\n\n<global>\n';
@@ -279,6 +283,8 @@ base_save();
 base_table();
 }}}
 
+document.write('.');
+
 function getbasetext(Tag){
 if(Tag!=null){
 Tag.style.borderColor='blue';
@@ -325,6 +331,9 @@ if(levelhide[i].stage[j])LEVEL[i].STAGE[j].TEXT[n].HIDE=levelhide[i].stage[j].te
 base_table();
 base_save();
 basedebug();
+n=base_print();
+localStorage['TranslationBase_c']=n;
+document.getElementById('storage_c').innerHTML=n.length;
 }
 
 function find_dog(Arr){
@@ -364,10 +373,18 @@ base_table();}
 
 function base_table(Target){
 if(Target)globaltarget=Target;
-var str,i,j,k,n,arr;
+var str,i,j,k,n,arr,loc;
 str='<table><tr><td><input name="btn" type="button" value="\u22D8#base_undo();"></td><td><input name="btn" type="button" value="\u22D9#base_redo();"></td></tr><tr><td colspan="2"><input type="button" onclick="base_refresh();" value="Refresh"></td></tr></table>';
 arr=document.getElementsByName('panel');
 for(i=0;i<arr.length;i++)arr[i].innerHTML=str;
+loc=document.getElementById('locstor');
+str='<table class="clear">';
+for(i=0;i<6;i++)str+='<col width="100">';str+='<col width="170"><tr>';
+for(i=0;i<6;i++){
+str+='<td><input name="btn" type="button" value="Save '+i+'#storage_save('+i+')"><p style="margin:4px;padding:0" id="storage_'+i+'"></p><input name="btn" type="button" value="Load '+i+'#storage_load('+i+')"></td>';}
+str+='<td><p style="margin:4px;padding:0">Current:</p><p style="margin:4px;padding:0" id="storage_c">0</p></td></tr></table>';
+loc.innerHTML=str;
+for(i=0;i<6;i++)storage_count(i);
 str='<div width="800" style="position:absolute"><center>';
 str+='<table class="table" bgcolor="#FFCCCC"><col width="80"><col width="220"><col width="260"><col width="80"><tr><td colspan="4"><input name="btn" type="button" value="Глобальные персонажи:#editfieldall();"></td></tr>';
 for(i=0;i<HERO.length;i++){
@@ -389,9 +406,9 @@ for(k=0;k<LEVEL[n].STAGE.length;k++){
 if(k==0)str+='<table class="table" bgcolor="#AAFFFF"><col width="40"><col width="600"><col width="46"><tr><td colspan="3"><input name="btn" type="button" value="Основной мир:#editfieldall();"></td></tr>';
 else str+='<table class="table" bgcolor="#AAFFAA"><col width="40"><col width="600"><col width="46"><tr><td colspan="3"><input name="btn" type="button" value="Подуровень:#editfieldall();"> &nbsp; <input size="50" name="txt" type="text" value="LEVEL['+n+'].STAGE['+k+'].INFO"> &nbsp; <input name="btn" type="button" value="Del#LEVEL['+n+'].STAGE.splice('+k+',1);base_refresh();"></td></tr>';
 for(j=0;j<LEVEL[n].STAGE[k].TEXT.length;j++){
-str+='<tr><td><input name="show" type="button" value="^^#LEVEL['+n+'].STAGE['+k+'].TEXT['+j+'].HIDE"></td><td colspan="2"><center><table class="clear"><tr><td><input name="dis" type="text" value="str=LEVEL['+n+'].STAGE['+k+'].TEXT['+j+'].GUY"></td><td><input size="4" name="dis" type="text" value="str=LEVEL['+n+'].STAGE['+k+'].TEXT['+j+'].STR"></td><td><input size="31" name="dis" type="text" value="str=LEVEL['+n+'].STAGE['+k+'].TEXT['+j+'].EN.substr(0,30);"></td></tr></table></center></td></tr><tr><td><input name="hide" type="button" value=">>#LEVEL['+n+'].STAGE['+k+'].TEXT['+j+'].HIDE"></td><td><table class="clear"><col width="515"><col width="85"><tr><td><input name="chk" type="checkbox" value="LEVEL['+n+'].STAGE['+k+'].TEXT['+j+'].GUY"><select></select><input name="txt" type="text" value="LEVEL['+n+'].STAGE['+k+'].TEXT['+j+'].GUY"></td><td><input size="4" name="txt" type="text" value="LEVEL['+n+'].STAGE['+k+'].TEXT['+j+'].STR"></td></tr><tr><td colspan="2"><span style="visibility:hidden;position:relative;top:20px;float:left" name="opt"><input type="radio"><p>+88</p></span><textarea wrap="virtual" cols="48" rows="3" name="txt">LEVEL['+n+'].STAGE['+k+'].TEXT['+j+'].EN</textarea></td></tr>';
+str+='<tr><td><input name="show" type="button" value="^^#LEVEL['+n+'].STAGE['+k+'].TEXT['+j+'].HIDE"></td><td colspan="2"><center><table class="clear"><tr><td><input name="dis" type="text" value="str=LEVEL['+n+'].STAGE['+k+'].TEXT['+j+'].GUY"></td><td><input size="4" name="dis" type="text" value="str=LEVEL['+n+'].STAGE['+k+'].TEXT['+j+'].STR"></td><td><input size="31" name="dis" type="text" value="str=LEVEL['+n+'].STAGE['+k+'].TEXT['+j+'].EN.substr(0,30);"></td></tr></table></center></td></tr><tr><td><input name="hide" type="button" value=">>#LEVEL['+n+'].STAGE['+k+'].TEXT['+j+'].HIDE"></td><td><table class="clear"><col width="515"><col width="85"><tr><td><input name="chk" type="checkbox" value="LEVEL['+n+'].STAGE['+k+'].TEXT['+j+'].GUY"><select></select><input name="txt" type="text" value="LEVEL['+n+'].STAGE['+k+'].TEXT['+j+'].GUY"></td><td><input size="4" name="txt" type="text" value="LEVEL['+n+'].STAGE['+k+'].TEXT['+j+'].STR"></td></tr><tr><td colspan="2"><span style="visibility:hidden;position:relative;top:20px;float:left" name="opt"><input type="radio"><p>???</p></span><textarea wrap="virtual" cols="48" rows="3" name="txt">LEVEL['+n+'].STAGE['+k+'].TEXT['+j+'].EN</textarea></td></tr>';
 for(i=0;i<LEVEL[n].STAGE[k].TEXT[j].RU.length;i++){
-str+='<tr><td colspan="2"><span style="position:relative;top:20px;float:left" name="opt"><input name="LEVEL['+n+'].STAGE['+k+'].TEXT['+j+']" type="radio"><p>+88</p></span><textarea wrap="virtual" cols="48" rows="3" name="txt">LEVEL['+n+'].STAGE['+k+'].TEXT['+j+'].RU['+i+']</textarea></td></tr>';}
+str+='<tr><td colspan="2"><span style="position:relative;top:20px;float:left" name="opt"><input name="LEVEL['+n+'].STAGE['+k+'].TEXT['+j+']" type="radio"><p>???</p></span><textarea wrap="virtual" cols="48" rows="3" name="txt">LEVEL['+n+'].STAGE['+k+'].TEXT['+j+'].RU['+i+']</textarea></td></tr>';}
 str+='<tr><td colspan="2"><input name="btn" type="button" value=" + #LEVEL['+n+'].STAGE['+k+'].TEXT['+j+'].RU.push(\'\');base_table();"></td></tr></table></td><td><input name="btn" type="button" value="Del#LEVEL['+n+'].STAGE['+k+'].TEXT.splice('+j+',1);base_refresh();"></td></tr>';}
 str+='<tr><td colspan="3"><input name="btn" type="button" value=" + + #LEVEL['+n+'].STAGE['+k+'].TEXT.push({EN:\'EnglishText\',RU:[],GUY:\'AnyHero\',STR:\'STR\'});base_table();"></td></tr></table><br />';}
 str+='<table class="table" bgcolor="#AAFFAA"><col width="680"><tr><td><input name="btn" type="button" value=" + + + #LEVEL['+n+'].STAGE.push({INFO:\'Sublevel\',TEXT:[]});base_table();"></td></tr></table><br /></center><td><input name="btn" type="button" value="Del#LEVEL.splice('+n+',1);base_refresh();"></td></tr>';}
@@ -514,6 +531,8 @@ opt.style.display='none';}
 opt.onchange=selectfieldclick;
 chk.onchange=selectfieldcheck;}
 }
+
+document.write('.');
 
 function selectfieldcheck(){
 var str,txt,val,j,n,opt,wrk;
@@ -644,6 +663,7 @@ v=Textarea.CODE.substr(0,Textarea.CODE.indexOf('.RU['))+'.EN';
 eval('v='+v+';s='+Textarea.CODE);
 i=v.length;
 g=s.length;
+if(s.charAt(0)=='@')g--;
 i=i-g;
 if(i>0)c='+'+i;else c=i+'';
 if(i>99)c='+++';
@@ -692,7 +712,7 @@ function string_validate(Str,Phase){
 if(Phase){
 return Str.replace(/\\/g,'\\\\').replace(/"/g,'\\"')
 }else{
-return Str.replace(/<\//g,'< /')/*.replace(/\s/g,' ');*/}}
+return Str.replace(/<\//g,'< /').replace(/\s/g,' ');}}
 
 function urlfieldchange(Event){
 Event.target.style.borderColor='';
@@ -700,9 +720,25 @@ if(Event.keyCode==13){
 this.BUTTON.click();
 }}
 
+function storage_count(Index){
+var str=localStorage['TranslationBase_'+Index];
+if((str==undefined)||(str==null)){
+localStorage['TranslationBase_'+Index]='';str='';}
+document.getElementById('storage_'+Index).innerHTML=str.length;}
+
+function storage_save(Index){
+localStorage['TranslationBase_'+Index]=base_print();
+storage_count(Index);base_refresh();}
+
+function storage_load(Index){
+base_parse(localStorage['TranslationBase_'+Index]);
+base_table();base_refresh();}
+
+document.write(' OK!</h1>');
+
 function mainonload(){
 var URL='base.txt';
-document.body.innerHTML='<div name="panel" id="panel" style="position:fixed;right:0;top:0;z-index:99;"></div><table class="clear"><col width="640"><col width="150"><tr><td><input id="url_1" size="60" style="font:normal 12pt Courier New;" type="text" value="'+URL+'" onfocus="this.BUTTON=document.getElementById(\'get_1\');this.onkeydown=urlfieldchange;" onblur="this.onkeydown=null"></td><td><input id="get_1" type="button" value="GET BASE !" onclick="getbase(document.getElementById(\'url_1\'));"></td></tr><tr><td><textarea id="debug" style="font:normal 12pt Courier New;" cols="60" rows="15"></textarea></td><td><i></i><input id="fromtext" type="button" value="Base from text" onclick="getbasetext(document.getElementById(\'debug\'));"><i></i><input id="printed" type="button" value="Print as one line" onclick="basedebug(null,true);"><i></i><input id="printed" type="button" value="Clear base" onclick="base_clear();"><i></i><center><br /><label><input type="checkbox" checked onchange="document.getElementById(\'panel\').style.display=this.checked?\'\':\'none\';">Float panel</label><div name="panel"></div><i></i><input id="printed" type="button" value="Empty history" onclick="base_undoclear();"><p style="padding:0;margin:0" id="undocount"></p></center></td></tr></table><p id="table"></p>';
+document.body.innerHTML='<div name="panel" id="panel" style="position:fixed;right:0;top:0;z-index:99;"></div><table class="clear"><col width="640"><col width="150"><tr><td><input id="url_1" size="60" style="font:normal 12pt Courier New;" type="text" value="'+URL+'" onfocus="this.BUTTON=document.getElementById(\'get_1\');this.onkeydown=urlfieldchange;" onblur="this.onkeydown=null"></td><td><input id="get_1" type="button" value="GET BASE !" onclick="getbase(document.getElementById(\'url_1\'));"></td></tr><tr><td><textarea id="debug" style="font:normal 12pt Courier New;" cols="60" rows="15"></textarea></td><td><i></i><input id="fromtext" type="button" value="Base from text" onclick="getbasetext(document.getElementById(\'debug\'));"><i></i><input id="printed" type="button" value="Print as one line" onclick="basedebug(null,true);"><i></i><input id="printed" type="button" value="Clear base" onclick="base_clear();"><i></i><center><br /><label><input type="checkbox" checked onchange="document.getElementById(\'panel\').style.display=this.checked?\'\':\'none\';">Float panel</label><div name="panel"></div><i></i><input id="printed" type="button" value="Empty history" onclick="base_undoclear();"><p style="padding:0;margin:0" id="undocount"></p></center></td></tr><tr><td id="locstor" colspan="2"></td></tr></table><p id="table"></p>';
 var text,debug,p;
 p=document.getElementById('table');
 base_table(p);
@@ -710,7 +746,11 @@ base_clear();
 debug=document.getElementById('debug');
 basedebug(debug);
 undocount=document.getElementById('undocount');
-base_undoclear();}
+base_undoclear();
+text=localStorage['TranslationBase_c'];
+if((text!=null)&&(text!=undefined)){
+base_parse(text);base_table();base_refresh();}
+}
 
 </script></head><body bgcolor="#CCFFCC">
 <script type="text/javascript">mainonload();</script>
