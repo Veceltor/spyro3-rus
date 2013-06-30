@@ -693,6 +693,7 @@ texatareacheck();
 editfieldblur();}}}
 
 function editfieldblur(){
+if(editedfield==null)return;
 editedfield.style.borderColor='';
 if(editedfield.OPT)editedfield.OPT.disabled=true;
 editedfield.value=editedfield.OLD;
