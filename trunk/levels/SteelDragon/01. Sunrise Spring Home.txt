@@ -136,7 +136,7 @@ Spyro, I've got a special task for Sparx. Meet me back here later! -Zoe
 
 [71]I'm getting paid a fortune to keep Sheila the Kangaroo locked up... heh heh... the pesky animal must have been causing a lot of trouble for that poor Sorceress... I suppose I could accidentally let the kangaroo escape... if you were to pay me, say...a small fee. &Pay ^^^ gems to free Sheila? &Sure. &No thanks. 
 
-Я держу кенгуру Шейлу под замком, и за это мне неплохо платят... хе-хе... это надоедливое животное сильно мешает Колдунье... Замок мог бы и сломаться... скажем... за небольшую плату. &Заплатить ^^^ камней за освобождение? &Конечно. &Нет уж, спасибо.  [62]
+Это просто подарок судьбы - держать Кенгуру Шейлу под замком... хе-хе... это надоедливое животное сильно досаждает Колдунье. Думаю, я мог бы совершенно случайно дать ей сбежать... за небольшую плату, скажем. &Заплатить ^^^ камней за освобождение Шейлы? &Конечно. &Нет, спасибо.
  
 [182]Ahhh, Spyro, I love your sweet naivete... Your kind-hearted nature might be your downfall someday, but for the time being it's making me rich! 
 
