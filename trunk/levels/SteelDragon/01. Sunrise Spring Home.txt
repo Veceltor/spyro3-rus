@@ -1,6 +1,6 @@
 [249]Spyro, I've found an egg, but only Sparx will be able to reach it. There's a small hole that leads to a crawdad farm. I can take him there if he's ready. &Enter Crawdad Farm bonus world? &Yes. &No. 
 
-Спайро, я нашла яйцо, но только Спаркс может достать его. Здесь есть небольшая нора, ведущая к ферме раков. Я могу провести его туда, если он готов. &Войти в бонусный мир Ферму Раков? &Да. &Нет.  [3]
+Спайро, я нашла яйцо, но только Спаркс может достать его. Здесь есть небольшая нора, ведущая на ферму раков. Я могу провести его туда, если он готов. &Войти на Ферму Раков, бонусный мир? &Да. &Нет. 
 
 [403]Sparx has already recovered the egg from the crawdad farm, but he can go back if he wants to practice. &Return to Crawdad Farm bonus world? &Yes. &No. 
  
@@ -8,7 +8,7 @@
  
 [127]Nice work Sparx! You've beaten the Crawdad King and found the lost egg. Not only that but some of the dragon magic seems to have rubbed off on you. Now you can pick up gems when they're even further away from Spyro. 
  
-Отлично, Спаркс! Ты победил Короля Рака и нашел потерянное яйцо. Но и это еще не все, теперь тебе помогает магия драконов. Теперь ты можешь подбирать камни, которые далеко от Спайро.  [33]
+Отлично, Спаркс! Ты победил Короля Раков и нашел потерянное яйцо. Но и это еще не все! Теперь тебе помогает магия драконов, и ты можешь подбирать камни, лежащие далеко от Спайро. 
 
 [291]Your game camera is currently in 'Passive' mode. This mode requires you to control the camera yourself, and moves more slowly. 
  
@@ -48,7 +48,7 @@
 
 [290]This is a superfly powerup Spyro. Whenever you walk through any powerup that looks like this one, it will allow you to fly for a while...
  
-Это усилитель полета, Спайро. Если ты пройдешь в любую арку наподобие этой, ты сможешь немножко полетать... [30] 
+Это - усилитель полета, Спайро. Если ты пройдешь в любую арку наподобие этой, ты сможешь немного полетать... 
  
 [1030]I want to repay you for saving me from that octopus. We can help you use this hot air balloon, if you just bring back someone from each of the other worlds.
  
@@ -60,11 +60,11 @@
  
 [1161]The balloon's all ready, sir! Just jump on! 
  
-Шар абсолютно готов, сэр! Просто запрыгни!  [1]
+Шар абсолютно готов, сэр! Просто запрыгивайте! 
  
 [167]Here I was, about to go for a nice swim at Shell Beach, and my portal just disappeared right in front of me. If you go find some more of those dragon eggs, I bet this portal would turn on again. &[^^ eggs needed to open portal.
  
-Я стоял здесь и уже собирался пойти поплавать на Берег Морской Раковины, но мой портал внезапно исчез прямо передо мной! Если ты найдешь побольше драконьих яиц, я думаю, портал вновь появится. &[^^ яиц нужно для открытия портала. [-2]
+Я собирался пойти поплавать на Берег Морской Раковины, но мой портал внезапно исчез прямо передо мной! Думаю, если ты найдешь больше драконьих яиц, портал вновь появится. &[^^ яиц нужно для открытия портала. 
  
 [453]Yay, my portal is working! I'll see you at the beach! 
 
@@ -72,7 +72,7 @@
 
 [237]I think something is draining the magic out of the world. They say things have been going downhill ever since the dragons left here a thousand years ago. 
  
-Я думаю, что-то отнимает магию у этого мира. Говорят, что с того момента, как драконы ушли отсюда, тысячу лет назад, становится только хуже.  [13]
+Я думаю, что-то отнимает магию у этого мира. Говорят, что с того момента, как драконы ушли отсюда тысячу лет назад, становится только хуже.  [14]
  
 [80]I see an egg at the bottom of this lake. I would go get it, but I don't want to get my fur all wet. Maybe you could get it. You can dive underwater by pressing the > button when you're on the surface, and charge underwater by holding down the > button. &[Press > button to dive underwater &[Press < button to swim &[Hold down > button to charge underwater 
  
@@ -144,7 +144,7 @@ Spyro, I've got a special task for Sparx. Meet me back here later! -Zoe
 
 [220]Well, don't worry, Spyro. Sheila won't stay in jail forever... The Sorceress is thinking about having her executed next Thursday. 
 
-Ну, не расстраивайся, Спайро. Шейла не останется навсегда в клетке... Колдунья подумывает избавиться от неё в следующий вторник.  [1]
+Ну, не расстраивайся, Спайро. Шейла не останется навсегда в клетке... Колдунья подумывает избавиться от неё в следующий четверг.  [1]
 
 [181]The Sorceress has asked me to guard Sheila the Kangaroo. I suppose, if you had a bit more money, I'd be willing to let her escape. Then you could keep her for a pet or something. &[^^^ gems needed to free Sheila.
  
