@@ -1,0 +1,3067 @@
+<base><global>
+<hero><en>Zoe</en></hero>
+<hero><en>Hunter</en></hero>
+<hero><en>Bianca</en></hero>
+<hero><en>-</en></hero>
+<hero><en>Moneybags</en></hero>
+<hero><en>Sheila</en></hero>
+<hero><en>Sgt. Byrd</en></hero>
+<hero><en>Sparx</en></hero>
+<hero><en>Bartholomew</en></hero>
+<hero><en>Bentley</en></hero>
+<hero><en>Agent 9</en></hero>
+</global><level><wad>098</wad><name>Sunrise Spring Home</name><local>
+<hero><en>Snappy the Seal</en></hero>
+<hero><en>Rocky</en></hero>
+<hero><en>Cumulus</en></hero>
+<hero><en>Mayor Leo</en></hero>
+<hero><en>Sheila the Kangaroo</en></hero>
+</local><main>
+<text><str>249</str>
+<en>Spyro, I've found an egg, but only Sparx will be able to reach it. There's a small hole that leads to a crawdad farm. I can take him there if he's ready. &Enter Crawdad Farm bonus world? &Yes. &No.</en>
+<guy>Zoe</guy></text>
+<text><str>403</str>
+<en>Sparx has already recovered the egg from the crawdad farm, but he can go back if he wants to practice. &Return to Crawdad Farm bonus world? &Yes. &No.</en>
+<guy>Zoe</guy></text>
+<text><str>127</str>
+<en>Nice work Sparx! You've beaten the Crawdad King and found the lost egg. Not only that but some of the dragon magic seems to have rubbed off on you. Now you can pick up gems when they're even further away from Spyro.</en>
+<guy>Zoe</guy></text>
+<text><str>0</str>
+<en>Yes.</en>
+<guy>Zoe</guy></text>
+<text><str>0</str>
+<en>No.</en>
+<guy>Zoe</guy></text>
+<text><str>291</str>
+<en>Your game camera is currently in 'Passive' mode. This mode requires you to control the camera yourself, and moves more slowly.</en>
+<guy>Zoe</guy></text>
+<text><str>321</str>
+<en>If you like, I can change the game camera to 'Active' mode. In 'Active' mode, the camera moves much faster. &Change game camera to 'Active' mode?&No.&Yes.</en>
+<guy>Zoe</guy></text>
+<text><str>1174</str>
+<en>OK, I won't change it.</en>
+<guy>Zoe</guy></text>
+<text><str>252</str>
+<en>Your camera is now in 'Active' mode, and will move faster. If you don't like it, come back and see me, or change it yourself by using the Options Menu.</en>
+<guy>Zoe</guy></text>
+<text><str>1103</str>
+<en>Do you like the 'Active' camera mode? If not, I can set it back to the 'Passive' mode. &Change game camera to 'Passive' mode?&No.&Yes.</en>
+<guy>Zoe</guy></text>
+<text><str>330</str>
+<en>OK, I won't change it. Remember, you can change the camera mode yourself by using the Options Menu.</en>
+<guy>Zoe</guy></text>
+<text><str>402</str>
+<en>The game camera is now in 'Passive' mode. If you want me to change it again, just ask!</en>
+<guy>Zoe</guy></text>
+<text><str>134</str>
+<en>I'm sorry, Spyro, but you seem to be playing a hacked version of this game. This may be an illegal copy. Since this copy has been modified, you may experience problems that would not occur on a legal copy.</en>
+<guy>Zoe</guy></text>
+<text><str>106</str>
+<en>Hi Spyro. To look left or right, press the @4L2@0 or @4R2@0 buttons. To quickly center the camera behind you, press the @4L1@0 or @4R1@0 button. You can look all around by holding the } button down. &[Use @0L2@4 and @0R2@4 buttons to rotate camera. &[Press @0L1@4 or @0R1@4 to center the camera. &[Hold } to look around.</en>
+<guy>Zoe</guy></text>
+<text><str>290</str>
+<en>This is a superfly powerup Spyro. Whenever you walk through any powerup that looks like this one, it will allow you to fly for a while...</en>
+<guy>Zoe</guy></text>
+<text><str>1030</str>
+<en>I want to repay you for saving me from that octopus. We can help you use this hot air balloon, if you just bring back someone from each of the other worlds.</en>
+<guy>Snappy the Seal</guy></text>
+<text><str>561</str>
+<en>Let's head on over to the balloon!</en>
+<guy>Snappy the Seal</guy></text>
+<text><str>1161</str>
+<en>The balloon's all ready, sir! Just jump on!</en>
+<guy>Snappy the Seal</guy></text>
+<text><str>167</str>
+<en>Here I was, about to go for a nice swim at Shell Beach, and my portal just disappeared right in front of me. If you go find some more of those dragon eggs, I bet this portal would turn on again. &[^^ eggs needed to open portal.</en>
+<guy>Snappy the Seal</guy></text>
+<text><str>453</str>
+<en>Yay, my portal is working! I'll see you at the beach!</en>
+<guy>Snappy the Seal</guy></text>
+<text><str>237</str>
+<en>I think something is draining the magic out of the world. They say things have been going downhill ever since the dragons left here a thousand years ago.</en>
+<guy>Snappy the Seal</guy></text>
+<text><str>80</str>
+<en>I see an egg at the bottom of this lake. I would go get it, but I don't want to get my fur all wet. Maybe you could get it. You can dive underwater by pressing the > button when you're on the surface, and charge underwater by holding down the > button. &[Press > button to dive underwater &[Press < button to swim &[Hold down > button to charge underwater</en>
+<guy>Hunter</guy></text>
+<text><str>263</str>
+<en>Remember, press the > button to dive underwater. Then, when you are under the surface, hold down the > button to charge. &[Press > button to dive underwater &[Press < button to swim &[Hold down > button to charge underwater</en>
+<guy>Hunter</guy></text>
+<text><str>328</str>
+<en>If you can bring back one person from each of our five worlds, we can help you use the balloon.</en>
+<guy>Rocky</guy></text>
+<text><str>551</str>
+<en>Let's head on over to the balloon.</en>
+<guy>Rocky</guy></text>
+<text><str>351</str>
+<en>This balloon will take you to the great Tiki Lodge in the sky! Just jump on when you're ready.</en>
+<guy>Rocky</guy></text>
+<text><str>1013</str>
+<en>I'm late for a dinner party at the Tiki Lodge, and the portal to my home just stopped working. Maybe the portal will reactivate after a few more dragons hatch. &[^^ eggs needed to open portal.</en>
+<guy>Rocky</guy></text>
+<text><str>362</str>
+<en>At last, my portal is working again! Come visit me at the Tiki Lodge!</en>
+<guy>Rocky</guy></text>
+<text><str>264</str>
+<en>This is a balloon that will take you to a new land, but we can't use it until you bring back one person from each of the five worlds.</en>
+<guy>Cumulus</guy></text>
+<text><str>552</str>
+<en>Let's head on over to the balloon!</en>
+<guy>Cumulus</guy></text>
+<text><str>530</str>
+<en>Hop in the balloon whenever you want, Spyro!</en>
+<guy>Cumulus</guy></text>
+<text><str>313</str>
+<en>I don't know how this balloon works, but I think we can get it working for you if you bring back someone from each of the other worlds.</en>
+<guy>Mayor Leo</guy></text>
+<text><str>1173</str>
+<en>Let's head on over to the balloon!</en>
+<guy>Mayor Leo</guy></text>
+<text><str>1044</str>
+<en>I guess you just hop in the balloon, now... Don't ask me how it works, I just showed up for the punch and cookies, a ha ha ha.</en>
+<guy>Mayor Leo</guy></text>
+<text><str>37</str>
+<en>So... you're the one in charge of rescuing the eggs, huh? Heh heh heh... How sad... Look here, dragon, if you know what's good for you, you'll turn around and crawl back up that hole you came through. Those eggs belong to us now, and I've hidden them in places you'll never find in a thousand years! Besides, even if you could find an egg, our expertly trained armies will dispose of you and take it back. Do I make myself clear? If I find you here again, I am going to be verrrrry angry... and you won't like me when I'm angry...</en>
+<guy>Bianca</guy></text>
+<text><str>0</str>
+<en>Spyro, I've got a special task for Sparx. Meet me back here later!           -Zoe</en>
+<guy>-</guy></text>
+<text><str>71</str>
+<en>I'm getting paid a fortune to keep Sheila the Kangaroo locked up... heh heh... the pesky animal must have been causing a lot of trouble for that poor Sorceress... I suppose I could accidentally let the kangaroo escape... if you were to pay me, say...a small fee. &Pay ^^^ gems to free Sheila? &Sure. &No thanks.</en>
+<guy>Moneybags</guy></text>
+<text><str>182</str>
+<en>Ahhh, Spyro, I love your sweet naivete... Your kind-hearted nature might be your downfall someday, but for the time being it's making me rich!</en>
+<guy>Moneybags</guy></text>
+<text><str>220</str>
+<en>Well, don't worry, Spyro. Sheila won't stay in jail forever... The Sorceress is thinking about having her executed next Thursday.</en>
+<guy>Moneybags</guy></text>
+<text><str>181</str>
+<en>The Sorceress has asked me to guard Sheila the Kangaroo. I suppose, if you had a bit more money, I'd be willing to let her escape. Then you could keep her for a pet or something. &[^^^ gems needed to free Sheila.</en>
+<guy>Moneybags</guy></text>
+<text><str>0</str>
+<en>...</en>
+<guy>Moneybags</guy></text>
+<text><str>43</str>
+<en>Spyro! My my, how funny to see you here! Why, I haven't seen you since we defeated Ripto in Avalar... heh heh... Well, my business went into a slump after you left, so I came here and struck up a nice deal with the local Sorceress. Lovely woman, she is. Seems to be very fond of dragons, too...</en>
+<guy>Moneybags</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Moneybags</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Moneybags</guy></text>
+<text><str>94</str>
+<en>Yo, Spyro! I just found one of those portal thingamajigs that leads to a different world, but you'll have to glide to get across to it. Press the < button to jump, then press the < button again while you're in the air to glide! Just follow me... &[Press < button to jump. &[Press < button in mid-air to glide.</en>
+<guy>Hunter</guy></text>
+<text><str>478</str>
+<en>To get the best glide, press the < button at the very top of your jump.</en>
+<guy>Hunter</guy></text>
+<text><str>1014</str>
+<en>I saw something shiny in that cave over there...let's go check it out! You can get there by hovering. To hover, just press the } button at the end of your glide! &[Press the } button at the end of your glide to hover. &[Hovering will give you extra height and distance.</en>
+<guy>Hunter</guy></text>
+<text><str>166</str>
+<en>To get the best glide distance, press the < button while walking forward, then press it again at the top of your jump. Finally, press the } button just before you get to the landing to hover. &[Pressing the } button gives you extra glide distance!</en>
+<guy>Hunter</guy></text>
+<text><str>498</str>
+<en>Oh, I almost forgot, I found this egg!</en>
+<guy>Hunter</guy></text>
+<text><str>183</str>
+<en>There's definitely something shiny at the bottom of this hole. I was about to jump down there, but I think I hear running water and I hate to get wet. It's a cat thing.</en>
+<guy>Hunter</guy></text>
+<text><str>327</str>
+<en>Hi, Spyro. If you bring someone back from each of the five worlds, we'll have enough weight to pull down this balloon for you.</en>
+<guy>Sheila the Kangaroo</guy></text>
+<text><str>566</str>
+<en>Let's head on over to the balloon!</en>
+<guy>Sheila the Kangaroo</guy></text>
+<text><str>360</str>
+<en>This balloon will take you to a land closer to the Sorceress, Spyro. You can also use it to come back here whenever you want to.</en>
+<guy>Sheila the Kangaroo</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Sheila the Kangaroo</guy></text>
+<text><str>1141</str>
+<en>Thanks for freeing me. Why don't you come visit me in my home world?</en>
+<guy>Sheila the Kangaroo</guy></text>
+</main></level><level><wad>100</wad><name>Sunny Villa</name><local>
+<hero><en>Councillor George</en></hero>
+<hero><en>Citizen Paulus</en></hero>
+<hero><en>Mayor Leo</en></hero>
+<hero><en>Citizen Horace</en></hero>
+<hero><en>Rapunzel</en></hero>
+<hero><en>Marco</en></hero>
+</local><main>
+<text><str>1099</str>
+<en>This rhynoc is too big to charge. You'll have to flame him using the { button.</en>
+<guy>Zoe</guy></text>
+<text><str>1132</str>
+<en>Hi Spyro! Each time a fairy zaps you, like this...</en>
+<guy>Zoe</guy></text>
+<text><str>368</str>
+<en>That means your progress is saved. If you get into trouble you'll return to the last place you got zapped.</en>
+<guy>Zoe</guy></text>
+<text><str>1053</str>
+<en>Oh my! Oh my! Can you help us? Hordes of ferocious rhynocs have overrun our town and kidnapped the mayor.</en>
+<guy>Councillor George</guy></text>
+<text><str>518</str>
+<en>Are you a dragon? I never believed you really existed.</en>
+<guy>Councillor George</guy></text>
+<text><str>524</str>
+<en>Would you like a chicken sandwich? They're very good.</en>
+<guy>Councillor George</guy></text>
+<text><str>468</str>
+<en>Those pesky rhynocs are back again, but I'm sure you'll soon sort them out.</en>
+<guy>Councillor George</guy></text>
+<text><str>1153</str>
+<en>Let me catch my breath and I'll kick that other guy's butt.</en>
+<guy>Citizen Paulus</guy></text>
+<text><str>296</str>
+<en>We showed those two bullies. If they hadn't outnumbered me two to one, I'd have finished them off ages ago.</en>
+<guy>Citizen Paulus</guy></text>
+<text><str>1170</str>
+<en>Have you seen any giant chickens around here?</en>
+<guy>Citizen Paulus</guy></text>
+<text><str>381</str>
+<en>Thank you for rescuing my town. As mayor I award you with one of our famous giant chicken eggs.</en>
+<guy>Mayor Leo</guy></text>
+<text><str>477</str>
+<en>I'm sorry, that was the ugliest chicken I've ever seen.</en>
+<guy>Mayor Leo</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Mayor Leo</guy></text>
+<text><str>531</str>
+<en>Whoo I'm dizzy.</en>
+<guy>Citizen Horace</guy></text>
+<text><str>497</str>
+<en>Thanks for the help, but I think I would have worn him down in a minute.</en>
+<guy>Citizen Horace</guy></text>
+<text><str>1094</str>
+<en>Have you seen any of our giant chickens? The rhynocs have been trying to eat them all.</en>
+<guy>Citizen Horace</guy></text>
+<text><str>495</str>
+<en>Look, a chicken turned up. I hope it's not the only one left.</en>
+<guy>Citizen Horace</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Citizen Horace</guy></text>
+<text><str>0</str>
+<en>To Whom it May Concern: Sheila the Kangaroo is currently otherwise detained -- by me. Please return in a few years.\      -The Sorceress</en>
+<guy>-</guy></text>
+<text><str>0</str>
+<en>Spyro, thanks for dropping by, but I'm currently busy in my home world. Come visit me there.\          -Sheila</en>
+<guy>-</guy></text>
+<text><str>0</str>
+<en>Come on in!\     -Sheila</en>
+<guy>-</guy></text>
+</main><stage><info>1</info>
+<text><str>450</str>
+<en>What! Marco sent you here? I've got a restraining order against him.</en>
+<guy>Rapunzel</guy></text>
+<text><str>540</str>
+<en>If you see Marco please tell him I've moved out.</en>
+<guy>Rapunzel</guy></text>
+<text><str>369</str>
+<en>Hey Spyro, there are rhynocs everywhere. Maybe I can find some peace and quiet at the top of the tower...</en>
+<guy>Sheila</guy></text>
+<text><str>312</str>
+<en>Alas, I have lost my love, guarded by evil rhynocs at the top of yonder tower. Can you rescue her for me?</en>
+<guy>Marco</guy></text>
+</stage><stage><info>2</info>
+<text><str>0</str>
+<en>Attention dragon: if you ever want to see your mangy cat friend again, you had better leave here at once!\     -The Sorceress</en>
+<guy>-</guy></text>
+<text><str>236</str>
+<en>Hi Spyro. I found this gladiator training arena and it makes a pretty cool skate park! Care for a test of your boarding skills? &Start boarding challenge now? &Yes. &No.</en>
+<guy>Hunter</guy></text>
+<text><str>1172</str>
+<en>Are you ready for a challenge now? &Start boarding challenge now? &Yes. &No.</en>
+<guy>Hunter</guy></text>
+<text><str>262</str>
+<en>I bet you can't catch all fifteen of the lizards running around here... Just come back if you want some boarding tips from the master. &[Catch the lizards.</en>
+<guy>Hunter</guy></text>
+<text><str>349</str>
+<en>Yeah, maybe you'd better practice a bit first... Just come back here when you're up for a challenge.</en>
+<guy>Hunter</guy></text>
+<text><str>298</str>
+<en>Having trouble? If you use the < button to jump off the ramps you'll get extra height and distance.</en>
+<guy>Hunter</guy></text>
+<text><str>1031</str>
+<en>Caught all the lizards yet? If you're having trouble catching them, don't be afraid to use your flame breath while on the skateboard.</en>
+<guy>Hunter</guy></text>
+<text><str>361</str>
+<en>Hey that was great! And while you were boarding, I found this in a lizard burrow.</en>
+<guy>Hunter</guy></text>
+<text><str>214</str>
+<en>Now that you've mastered the basics, let's see you do some stunts! Try using the < or } button to jump off ramps and turn in the air...</en>
+<guy>Hunter</guy></text>
+<text><str>440</str>
+<en>This is the most fun I've had since we chased King Flippy on the manta ray.</en>
+<guy>Hunter</guy></text>
+<text><str>161</str>
+<en>Alright, if you can catch all the lizards without wiping out and before time runs out, I  might be able to scrounge up another egg. It's not gonna be easy, though... &Start difficult boarding challenge now? &Yes. &No.</en>
+<guy>Hunter</guy></text>
+<text><str>1124</str>
+<en>If you want to try to catch those lizards, I'll start the clock now. &Start difficult boarding challenge now? &Yes. &No.</en>
+<guy>Hunter</guy></text>
+<text><str>534</str>
+<en>Go get 'em, Spyro!</en>
+<guy>Hunter</guy></text>
+<text><str>535</str>
+<en>Well whenever you're ready, come and talk to me.</en>
+<guy>Hunter</guy></text>
+<text><str>1125</str>
+<en>Awww, too bad... maybe you'll do better this time. &Try difficult boarding challenge again? &Yes. &No.</en>
+<guy>Hunter</guy></text>
+<text><str>371</str>
+<en>Whoa, that was sweet! And look, there was another egg in the lizard burrow.</en>
+<guy>Hunter</guy></text>
+<text><str>123</str>
+<en>You can go for the course record now, if you want. Whenever you hop on a skateboard, a timer will start. Score as many points as you can until the timer expires or you wipe out. Good luck!</en>
+<guy>Hunter</guy></text>
+</stage></level><level><wad>102</wad><name>Cloud Spires</name><local>
+<hero><en>Nimbus</en></hero>
+<hero><en>Cirrus</en></hero>
+<hero><en>Fluffy</en></hero>
+<hero><en>Cumulus</en></hero>
+<hero><en>Stratus</en></hero>
+</local><main>
+<text><str>278</str>
+<en>Remember, to get your longest glide press the < button at the very top of your jump, and use the } button to hover at the end of your jump.</en>
+<guy>Zoe</guy></text>
+<text><str>251</str>
+<en>The metal armor those enemies are wearing protects them from your dragon flame. If you hold down the > button, you can defeat them with your charge attack.</en>
+<guy>Zoe</guy></text>
+<text><str>1097</str>
+<en>The rhynocs have shut down our cloud generator and I'll never see a rainbow again.</en>
+<guy>Nimbus</guy></text>
+<text><str>469</str>
+<en>You'd think the Sorceress would want more rain, after what the sun has done to her skin.</en>
+<guy>Nimbus</guy></text>
+<text><str>414</str>
+<en>If my wings were big and strong like yours, I could easily glide across here. &[Press < button to jump. &[Then press < button in midair to glide.</en>
+<guy>Cirrus</guy></text>
+<text><str>452</str>
+<en>Oh, you activated the bellows? Maybe I can get the cloud generator working again...</en>
+<guy>Fluffy</guy></text>
+<text><str>479</str>
+<en>The rhynocs must have been using this thing to clog up the cloud generator.</en>
+<guy>Fluffy</guy></text>
+<text><str>99</str>
+<en>Well, well, if it isn't my favorite dragon! The Sorceress has put me in charge of guarding these bellows. However, I suppose I might look the other way if I was distracted by counting gems. &Pay ^^^ gems to activate bellows? &Sure, whatever. &No way, you doofus.</en>
+<guy>Moneybags</guy></text>
+<text><str>168</str>
+<en>Oooooh yes... precious, precious gems... Well then, Spyro, you may now use the bellows any time you wish. Best of luck on your little egg hunt.</en>
+<guy>Moneybags</guy></text>
+<text><str>1022</str>
+<en>What? NO? What else are you going to do with all those gems? Buy flying lessons? (Heh heh) that was a good one...</en>
+<guy>Moneybags</guy></text>
+<text><str>81</str>
+<en>Sorry, Spyro, it is my sworn duty to make certain no one crosses these bellows. And you know perfectly well that nothing could ever sway me from obeying my sworn duty... that is, ahem, until you have a few more gems. &[Activating bellows costs ^^^ gems.</en>
+<guy>Moneybags</guy></text>
+<text><str>367</str>
+<en>Heh heh... I haven't made such easy money since the Sorceress bought that mayonaisse for sunscreen.</en>
+<guy>Moneybags</guy></text>
+</main><stage><info>1</info>
+<text><str>1023</str>
+<en>Our sun has gone out. We can make a new one with our lava fusion cauldron and three sun seeds, but they keep burning out before we can get them in the pot.</en>
+<guy>Cumulus</guy></text>
+<text><str>1096</str>
+<en>Step on the switch to get a fresh sun seed and keep flaming it until you get it into the pot.</en>
+<guy>Cumulus</guy></text>
+<text><str>276</str>
+<en>Now that's what I call a sun! Here, you can have this last sun seed as a souvenir. I think it might be a dud, though.</en>
+<guy>Cumulus</guy></text>
+<text><str>350</str>
+<en>If you can't keep up with the sun seed, remember you can always hold down the > button to charge. &[Press and hold > button to charge forward quickly.</en>
+<guy>Cumulus</guy></text>
+</stage><stage><info>2</info>
+<text><str>319</str>
+<en>We usually wake up our rain cloud at the crack of dawn, but these mischievous spirits are stopping our bells from ringing. &[Use the superfly powerup to flame the spirits in the belltowers.</en>
+<guy>Stratus</guy></text>
+<text><str>525</str>
+<en>Do you want this doodad? It fell out of the belfry.</en>
+<guy>Stratus</guy></text>
+</stage></level><level><wad>104</wad><name>Molten Crater</name><local>
+<hero><en>Rocky</en></hero>
+<hero><en>Clay</en></hero>
+<hero><en>Shale</en></hero>
+<hero><en>Stoney</en></hero>
+</local><main>
+<text><str>228</str>
+<en>Be sure to keep your friend Sparx the Dragonfly healthy Spyro. If his health is low, torch a little creature like this slug below me to release a butterfly.</en>
+<guy>Zoe</guy></text>
+<text><str>451</str>
+<en>Here, take this egg. They were giving them away at the Tiki Lodge last night.</en>
+<guy>Rocky</guy></text>
+<text><str>352</str>
+<en>Rhynocs are running rampant around here, but I can't get anyone out of the Tiki Lodge long enough to do anything about it.</en>
+<guy>Clay</guy></text>
+<text><str>365</str>
+<en>Well, it looks like it's just you and me. I'll keep a look out while you sort out the rhynocs.</en>
+<guy>Clay</guy></text>
+<text><str>87</str>
+<en>Spyro, you're just in time! I saw two egg thieves run through this door! Well... actually, they paid me to guard their hideout, but that's irrelevant. I'll happily let you through the gate to chase them down... for, ahem, a small finder's fee... &Pay ^^^ gems to enter the thieves' den? &Ok, ok... &Get lost, loser!</en>
+<guy>Moneybags</guy></text>
+<text><str>412</str>
+<en>Thank you, Spyro, and best of luck catching those dastardly egg thieves.</en>
+<guy>Moneybags</guy></text>
+<text><str>197</str>
+<en>Very well, Spyro, it's up to you... Maybe if we both just hold hands and think happy thoughts, the thieves will decide to return the eggs themselves.</en>
+<guy>Moneybags</guy></text>
+<text><str>98</str>
+<en>Well, Spyro, it's good to see you! This gate I'm guarding happens to be the secret entrance to an egg thief hideout... Of course, I can't let you enter with a clean conscience... At least not without paying a small fee. &[Entering thief hideout costs ^^^ gems.</en>
+<guy>Moneybags</guy></text>
+<text><str>1056</str>
+<en>I guess those egg thieves are going to get what's coming to them... it's too bad... I always sort of liked those guys.</en>
+<guy>Moneybags</guy></text>
+<text><str>0</str>
+<en>Note: Sgt. Byrd is currently on an important mission... to the inside of a cage! Tough luck.\     -The Sorceress</en>
+<guy>-</guy></text>
+<text><str>0</str>
+<en>Would love to visit, old chap, but I've got work to do back at the base. You can check in with me there.     -Sgt. James Byrd</en>
+<guy>-</guy></text>
+<text><str>0</str>
+<en>Step inside, old chum!     -Sgt. James Byrd</en>
+<guy>-</guy></text>
+</main><stage><info>1</info>
+<text><str>481</str>
+<en>Hello Spyro, I'm just off to the Tiki Lodge for some R and R.</en>
+<guy>Sgt. Byrd</guy></text>
+<text><str>126</str>
+<en>I'm playing a game of hide and seek with my friends. If I can't find where they've hidden their heads they won't let me join the Tiki Lodge. Help me put them back together and I'll make you an honorary member.</en>
+<guy>Shale</guy></text>
+<text><str>277</str>
+<en>When you find a head, land on top of it to pick it up. Then fly it over to an idol body to put them back together.</en>
+<guy>Shale</guy></text>
+<text><str>1095</str>
+<en>Take this egg as a sign of your honorary membership in the lodge.</en>
+<guy>Shale</guy></text>
+<text><str>287</str>
+<en>When you've picked up a tiki head, fly over to any body and use the > button to drop the tiki head.</en>
+<guy>Shale</guy></text>
+<text><str>1102</str>
+<en>Well that's never happened before. I hope it's not a bad omen.</en>
+<guy>Shale</guy></text>
+</stage><stage><info>2</info>
+<text><str>318</str>
+<en>Are you the dragon looking for all those eggs? Because I saw a shifty looking character with one over there.</en>
+<guy>Stoney</guy></text>
+<text><str>1054</str>
+<en>Hey, there goes another one. He was really fast...maybe if I activate the supercharge you'll be able to catch him.</en>
+<guy>Stoney</guy></text>
+<text><str>517</str>
+<en>You should catch that thief before he steals something valuable.</en>
+<guy>Stoney</guy></text>
+<text><str>560</str>
+<en>Those guys ought to be locked up.</en>
+<guy>Stoney</guy></text>
+</stage></level><level><wad>106</wad><name>Seashell Shore</name><local>
+<hero><en>Sebastian the Seal</en></hero>
+<hero><en>Stanley the Seal</en></hero>
+<hero><en>Sigmund the Seal</en></hero>
+<hero><en>Sal the Seal</en></hero>
+<hero><en>Stu the Seal</en></hero>
+<hero><en>Snappy the Seal</en></hero>
+<hero><en>Sandy the Seal</en></hero>
+<hero><en>Slappy the Seal</en></hero>
+<hero><en>Smelt the Seal</en></hero>
+</local><main>
+<text><str>388</str>
+<en>You can Hover to get more distance when gliding. Just press the } button at the end of your glide. &[Press } button at the end of your glide to get more distance.</en>
+<guy>Zoe</guy></text>
+<text><str>314</str>
+<en>If you want a quick summary of your progress in a world, you can press the @4SELECT@0 button to open the Atlas page for the world you are in. &[Press @0SELECT@4 button to view Atlas.</en>
+<guy>Zoe</guy></text>
+<text><str>90</str>
+<en>While I was gone, my friends borrowed the rhynocs' submarine... then they took it for a joy ride... and then they smashed it into a big pile of rocks. Oddly enough, the rhynocs failed to see the humor in the story and stuffed my friends in the jail behind you.</en>
+<guy>Sebastian the Seal</guy></text>
+<text><str>380</str>
+<en>The rhynocs have boarded up a lot of our doors, but I bet you're strong enough to smash them down. &[Use charge to smash boards.</en>
+<guy>Sebastian the Seal</guy></text>
+<text><str>297</str>
+<en>My plan worked! That dumb octopus dropped the jail key while he was shaking me! Now I can free my friends...</en>
+<guy>Stanley the Seal</guy></text>
+<text><str>1112</str>
+<en>Oh, I forgot to tell you... one of the rhynocs had this egg in his lunch box...</en>
+<guy>Stanley the Seal</guy></text>
+<text><str>0</str>
+<en>Dear Dragon: If you're looking for that kangaroo, I'm afraid she's not available... EVER!\      -The Sorceress</en>
+<guy>-</guy></text>
+<text><str>0</str>
+<en>I'm still back in my home world with my goat friends. Come on over if you like.\          -Sheila</en>
+<guy>-</guy></text>
+<text><str>0</str>
+<en>Come on in!\     -Sheila</en>
+<guy>-</guy></text>
+<text><str>366</str>
+<en>I can't wait until the rhynocs build a new submarine! Next time it's my turn to drive!</en>
+<guy>Sigmund the Seal</guy></text>
+<text><str>413</str>
+<en>Driving that submarine was a blast! Next time we're going to borrow the rhynocs' speed boat!</en>
+<guy>Sal the Seal</guy></text>
+<text><str>1055</str>
+<en>We never would have crashed that submarine if Sal hadn't tried that hand-brake u-turn during an inverted barrel roll.</en>
+<guy>Stu the Seal</guy></text>
+</main><stage><info>1</info>
+<text><str>133</str>
+<en>Hi, Sheila! The rhynocs have built a fortress on our beach and we're going to blow it to smithereens! We just need you to take out all the turrets for us. We're lighting the bomb now, just make sure to stomp all those turrets before the fuse runs out, OK?</en>
+<guy>Snappy the Seal</guy></text>
+<text><str>289</str>
+<en>Wow! I can't believe I survived that blast! It's a good thing I kept this egg nice and safe in my pocket.</en>
+<guy>Snappy the Seal</guy></text>
+<text><str>550</str>
+<en>Ready to try stomping the turrets again? &Try again? &Yes &No</en>
+<guy>Snappy the Seal</guy></text>
+<text><str>516</str>
+<en>Yippee! I'll light the fuse on the next bomb! &[Stomp all turrets before bomb explodes.</en>
+<guy>Snappy the Seal</guy></text>
+<text><str>480</str>
+<en>No problem. We'll be playing hot potato with this bomb until you come back.</en>
+<guy>Snappy the Seal</guy></text>
+<text><str>399</str>
+<en>Owww... That really smarts... No problem though, we've got more bombs!!!</en>
+<guy>Snappy the Seal</guy></text>
+<text><str>1179</str>
+<en>Our beach is your beach.</en>
+<guy>Sandy the Seal</guy></text>
+<text><str>567</str>
+<en>Stay and get a tan, if you like.</en>
+<guy>Slappy the Seal</guy></text>
+<text><str>221</str>
+<en>Oh, hi, Spyro! Some of my seal friends are trying to take down a rhynoc fortress! I'm about to go and lend a foot... I love the smell of singed rhynoc in the morning!</en>
+<guy>Sheila</guy></text>
+</stage><stage><info>2</info>
+<text><str>121</str>
+<en>Bluto the rhynoc has challenged us to a naval battle. Our speed boat versus his nuclear shark submarine. If we win, we get the dragon egg he's guarding. If we lose, we have to spend a month in K.P.</en>
+<guy>Smelt the Seal</guy></text>
+<text><str>1171</str>
+<en>Whaddya say, do you want to take on Bluto? &Fight the nuclear shark sub? &Yeehah! &You gotta be kidding.</en>
+<guy>Smelt the Seal</guy></text>
+<text><str>1130</str>
+<en>OK, good luck! Just remember, stay away from the sharp end! &[Press the < button to speed up. &[Press the { Button to fire a missile. &[Pick up crates to get more missiles.</en>
+<guy>Smelt the Seal</guy></text>
+<text><str>339</str>
+<en>I don't blame you. I already owe seven years of kitchen duty, and I'm not about to risk getting another month!</en>
+<guy>Smelt the Seal</guy></text>
+<text><str>246</str>
+<en>Wow! That's the first time Bluto has ever lost! You've got a lot of talent for someone so purple... I hope this egg was worth all the trouble.</en>
+<guy>Smelt the Seal</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Smelt the Seal</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Smelt the Seal</guy></text>
+</stage><stage><info>3</info>
+<text><str>90</str>
+<en>While I was gone, my friends borrowed the rhynocs' submarine... then they took it for a joy ride... and then they smashed it into a big pile of rocks. Oddly enough, the rhynocs failed to see the humor in the story and stuffed my friends in the jail behind you.</en>
+<guy>Sebastian the Seal</guy></text>
+<text><str>380</str>
+<en>The rhynocs have boarded up a lot of our doors, but I bet you're strong enough to smash them down. &[Use charge to smash boards.</en>
+<guy>Sebastian the Seal</guy></text>
+<text><str>1004</str>
+<en>We had a dragon egg for you, but we used it to test our ultra-high-speed-super-fluidity tunnel. The good news is that it made it to the end of the tunnel without a scratch! The bad news is that there's no way to get it back out now.</en>
+<guy>Sandy the Seal</guy></text>
+<text><str>288</str>
+<en>The tunnel is chock full of rhynocs and floating mines. The only way to retrieve that egg is to defeat every single rhynoc in the tunnel.</en>
+<guy>Sandy the Seal</guy></text>
+<text><str>275</str>
+<en>This egg has surprisingly good fluid dynamic characteristics. From now on, all of our submarines will be egg-shaped.</en>
+<guy>Sandy the Seal</guy></text>
+<text><str>1111</str>
+<en>You'll have to defeat every single rhynoc in the tunnel before you can recapture the egg.</en>
+<guy>Sandy the Seal</guy></text>
+</stage></level><level><wad>108</wad><name>Mushroom Speedway</name><local>
+</local><main>
+<text><str>0</str>
+<en>Attention dragon: if you ever want to see your mangy cat friend again, you had better leave here at once!\     -The Sorceress</en>
+<guy>-</guy></text>
+<text><str>1052</str>
+<en>Whoooa! A bunch of sheep in flying saucers just came out of nowhere and started blasting up the race course!</en>
+<guy>Hunter</guy></text>
+<text><str>476</str>
+<en>Looks like I'll have to hop in my plane and teach 'em some manners! &Shoot down sheep UFOs? &Go for it! &Looks too dangerous...</en>
+<guy>Hunter</guy></text>
+<text><str>549</str>
+<en>Look out sheep, here I come! &[{ button to fire. &[< or > button for turbo.</en>
+<guy>Hunter</guy></text>
+<text><str>494</str>
+<en>Yeah, when sheep go hi-tech, you gotta watch out!</en>
+<guy>Hunter</guy></text>
+<text><str>1101</str>
+<en>Wooohooooo! Check it out, the squad leader had abducted this egg!</en>
+<guy>Hunter</guy></text>
+<text><str>1191</str>
+<en>Which challenge would you like to play? &Choose a challenge: &Time Attack &Race the Butterflies &Exit level</en>
+<guy>Sparx</guy></text>
+<text><str>144</str>
+<en>Here's a hint. Try completing each challenge in order. Start with the rings, then get all the dandelions, the spiders, and save the butterflies for last. It's not the fastest way, but it is the easiest.</en>
+<guy>Sparx</guy></text>
+<text><str>1021</str>
+<en>Ok, you're going to race the butterflies. You have to fly through ALL of the green checkpoint rings in order. The red dots will lead the way. &[Fly through all green rings &[Use the red dots to guide you.</en>
+<guy>Sparx</guy></text>
+<text><str>559</str>
+<en>Alright, we'll try again later.</en>
+<guy>Sparx</guy></text>
+<text><str>415</str>
+<en>The insects were so impressed with your flying skills they awarded you this egg.</en>
+<guy>Sparx</guy></text>
+<text><str>553</str>
+<en>Wow! You won first prize.</en>
+<guy>Sparx</guy></text>
+<text><str>91</str>
+<en>Now that you've completed the challenge, you could go for your best time. Try cutting corners and charging for extra speed. Also, remember that completing the challenge in order may not be the fastest way, try experimenting.</en>
+<guy>Sparx</guy></text>
+<text><str>105</str>
+<en>You won't win the race without using the blue turbo stars. Try to use as many as possible, even if it means leaving the red dots, but remember to fly though the rings or you'll be disqualified. &[Use the blue turbo stars. &[Fly through all green rings</en>
+<guy>Sparx</guy></text>
+<text><str>165</str>
+<en>Hey Spyro, you don't have to follow the red dots exactly... you can take short cuts between rings. Heres an extra hint, if you fly lower you'll get a little more speed. &[Cut corners between the green rings. &[Flying lower gives you extra speed.</en>
+<guy>Sparx</guy></text>
+<text><str>1012</str>
+<en>Hi Spyro! There are 2 flying challenges available here in Mushroom Speedway. You can either try Time Attack or Race the Butterflies.</en>
+<guy>Sparx</guy></text>
+</main></level><level><wad>110</wad><name>Sheila's Alp</name><local>
+<hero><en>Billy the Mountain Goat</en></hero>
+</local><main>
+<text><str>386</str>
+<en>If you ever forget how to control a character or vehicle, just go to the Pause Menu and select 'Help'.</en>
+<guy>Zoe</guy></text>
+<text><str>186</str>
+<en>Hiya Sheila! While you were gone, a bunch of rhynocs kicked us out of our houses. It's OK though... Bobby, Pete and I are working on a clever plan to take them back.</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>295</str>
+<en>Follow Bobby and Pete up there using your air-hop! It's easy, just press the < button again at the top of your jump. &[Press < at the top of your jump to air-hop.</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>1029</str>
+<en>You see that rhynoc guy up ahead? He's still mad at us for hanging his underpants on top of this tree. We'll just wait over here while you give him a swift kick. &[Press > or { to kick enemies.</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>132</str>
+<en>You can get up really steep cliffs like this one with your double-jump. Press the < button to jump, then press it again exactly when you hit the ground to do the double-jump. Once you've mastered it, you can go anywhere you want! &[Jump again exactly when you land to double-jump</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>238</str>
+<en>Last time we tried to get past this moose, he knocked Billy clean through a wall. If you don't mind, we'll just hang out here while you give him a good kicking.</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>1098</str>
+<en>This next guy is a wuss! You go ahead and take him out, we'll get your back!</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>45</str>
+<en>Those rhynocs have taken over! There'll be no stopping them unless we can smash their huts. Their huts are too big to smash with your kick attack, though. Try using your Stomp attack to smash them instead. I'll confuse them with taunting, while you stomp the huts, OK?</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>1036</str>
+<en>I think my taunting is wearing them down! Remember, just jump and press the triangle button to stomp those huts. &[Smash the huts with your stomp move. &[Eliminate all the blue enemies.</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>511</str>
+<en>Don't worry, I'll just keep kicking this rock until it breaks.</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>467</str>
+<en>Thanks for the help, Sheila! You can have this egg I found in my house.</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>239</str>
+<en>Hey, Sheila, let's play a joke! Take this egg and smash it on Billy's house, OK? I need to get him back for the last time he butted me off the cliff.</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>1073</str>
+<en>Ahh, home at last! Here, I was saving this to make an omelet, but I think you deserve it more.</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>430</str>
+<en>You remember how to stomp, doncha? Just jump, then press the } button in the air. &[To stomp, jump then press }.</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>186</str>
+<en>Hiya Sheila! While you were gone, a bunch of rhynocs kicked us out of our houses. It's OK though... Bobby, Pete and I are working on a clever plan to take them back.</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>295</str>
+<en>Follow Bobby and Pete up there using your air-hop! It's easy, just press the < button again at the top of your jump. &[Press < at the top of your jump to air-hop.</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>1029</str>
+<en>You see that rhynoc guy up ahead? He's still mad at us for hanging his underpants on top of this tree. We'll just wait over here while you give him a swift kick. &[Press > or { to kick enemies.</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>132</str>
+<en>You can get up really steep cliffs like this one with your double-jump. Press the < button to jump, then press it again exactly when you hit the ground to do the double-jump. Once you've mastered it, you can go anywhere you want! &[Jump again exactly when you land to double-jump</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>238</str>
+<en>Last time we tried to get past this moose, he knocked Billy clean through a wall. If you don't mind, we'll just hang out here while you give him a good kicking.</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>1098</str>
+<en>This next guy is a wuss! You go ahead and take him out, we'll get your back!</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>45</str>
+<en>Those rhynocs have taken over! There'll be no stopping them unless we can smash their huts. Their huts are too big to smash with your kick attack, though. Try using your Stomp attack to smash them instead. I'll confuse them with taunting, while you stomp the huts, OK?</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>1036</str>
+<en>I think my taunting is wearing them down! Remember, just jump and press the triangle button to stomp those huts. &[Smash the huts with your stomp move. &[Eliminate all the blue enemies.</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>511</str>
+<en>Don't worry, I'll just keep kicking this rock until it breaks.</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>467</str>
+<en>Thanks for the help, Sheila! You can have this egg I found in my house.</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>239</str>
+<en>Hey, Sheila, let's play a joke! Take this egg and smash it on Billy's house, OK? I need to get him back for the last time he butted me off the cliff.</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>1073</str>
+<en>Ahh, home at last! Here, I was saving this to make an omelet, but I think you deserve it more.</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>430</str>
+<en>You remember how to stomp, doncha? Just jump, then press the } button in the air. &[To stomp, jump then press }.</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>186</str>
+<en>Hiya Sheila! While you were gone, a bunch of rhynocs kicked us out of our houses. It's OK though... Bobby, Pete and I are working on a clever plan to take them back.</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>295</str>
+<en>Follow Bobby and Pete up there using your air-hop! It's easy, just press the < button again at the top of your jump. &[Press < at the top of your jump to air-hop.</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>1029</str>
+<en>You see that rhynoc guy up ahead? He's still mad at us for hanging his underpants on top of this tree. We'll just wait over here while you give him a swift kick. &[Press > or { to kick enemies.</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>132</str>
+<en>You can get up really steep cliffs like this one with your double-jump. Press the < button to jump, then press it again exactly when you hit the ground to do the double-jump. Once you've mastered it, you can go anywhere you want! &[Jump again exactly when you land to double-jump</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>238</str>
+<en>Last time we tried to get past this moose, he knocked Billy clean through a wall. If you don't mind, we'll just hang out here while you give him a good kicking.</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>1098</str>
+<en>This next guy is a wuss! You go ahead and take him out, we'll get your back!</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>45</str>
+<en>Those rhynocs have taken over! There'll be no stopping them unless we can smash their huts. Their huts are too big to smash with your kick attack, though. Try using your Stomp attack to smash them instead. I'll confuse them with taunting, while you stomp the huts, OK?</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>1036</str>
+<en>I think my taunting is wearing them down! Remember, just jump and press the triangle button to stomp those huts. &[Smash the huts with your stomp move. &[Eliminate all the blue enemies.</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>511</str>
+<en>Don't worry, I'll just keep kicking this rock until it breaks.</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>467</str>
+<en>Thanks for the help, Sheila! You can have this egg I found in my house.</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>239</str>
+<en>Hey, Sheila, let's play a joke! Take this egg and smash it on Billy's house, OK? I need to get him back for the last time he butted me off the cliff.</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>1073</str>
+<en>Ahh, home at last! Here, I was saving this to make an omelet, but I think you deserve it more.</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>430</str>
+<en>You remember how to stomp, doncha? Just jump, then press the } button in the air. &[To stomp, jump then press }.</en>
+<guy>Billy the Mountain Goat</guy></text>
+<text><str>329</str>
+<en>Thanks again, Spyro! Now I have to find out what that nasty Sorceress has done to my home while I was locked up.</en>
+<guy>Sheila</guy></text>
+<text><str>418</str>
+<en>Whew, that was fun! I tell you, Spyro, kicking rhynoc butt just never gets old! &Leave the level? &Yes &No</en>
+<guy>Sheila</guy></text>
+<text><str>533</str>
+<en>Goodbye, Spyro, I'm sure I'll see you around!</en>
+<guy>Sheila</guy></text>
+<text><str>1142</str>
+<en>Well, I'm off to clean up the mess those rhynocs left behind.</en>
+<guy>Sheila</guy></text>
+<text><str>417</str>
+<en>I'd better go check on those billy goats again. Last time I left them alone, they ate all the shingles off the roof.</en>
+<guy>Sheila</guy></text>
+<text><str>541</str>
+<en>I still haven't finished getting all the billy goats home yet... &Level not finished... &Do you really want to leave? &Yes &No</en>
+<guy>Sheila</guy></text>
+<text><str>532</str>
+<en>I'll be back as soon as I get all three billy goats home.</en>
+<guy>Sheila</guy></text>
+</main></level><level><wad>112</wad><name>Buzz's Dungeon</name><local>
+</local><main>
+<text><str>250</str>
+<en>When I heard the Sorceress was planning to ambush you, I got here as fast as I could. No worries, though. This wussy green toad will be no match for the two of us!</en>
+<guy>Sheila</guy></text>
+<text><str>496</str>
+<en>If you can charge toad boy into the lava, I think I can finish him off.</en>
+<guy>Sheila</guy></text>
+</main></level><level><wad>114</wad><name>Crawdad Farm</name><local>
+</local><main>
+<text><str>225</str>
+<en>You can also move quickly by charging, like Spyro. To charge, hold down the > button. Use your charge to chase down this fast enemy.</en>
+<guy>Zoe</guy></text>
+<text><str>76</str>
+<en>Now for the hard part. Being a maneuverable dragonfly, you can also slide in any direction. To slide, hold down the @4L1@0 or @4R1@0 button, then move with the analog stick or directional button. Try sliding up and down to hit the targets in this room.</en>
+<guy>Zoe</guy></text>
+<text><str>50</str>
+<en>Are you paying attention Sparx? I told you to use slide to target those crawdads. If you don't learn how to use all your skills you'll never survive the challenges that lie ahead, and Spyro would never forgive me for that. Use the @4L1@0 or @4R1@0 button, then move with the analog stick or directional button.</en>
+<guy>Zoe</guy></text>
+<text><str>58</str>
+<en>On your travels you'll notice butterflies that give you health, just like in the Dragon Worlds. Not only that but some butterflies will give you special powers, though only for a short time. Just eat any powerup butterfly and then press the < button to use that powerup. Your powerup is shown in the top right of the screen.</en>
+<guy>Zoe</guy></text>
+<text><str>173</str>
+<en>You'll be able to deal with these guys much faster if you use the powerup. Just eat any powerup butterfly and then press the < button to use that powerup. Your powerup is shown in the top right of the screen.</en>
+<guy>Zoe</guy></text>
+<text><str>382</str>
+<en>Looks like you're ready Sparx. If you need any more help, just choose the HELP option from the Pause Menu.</en>
+<guy>Zoe</guy></text>
+<text><str>174</str>
+<en>Hello Sparx, maybe before you take on the nasty crawdads I should give you some help. To start let's practice shooting. Press the { button to shoot these targets.</en>
+<guy>Zoe</guy></text>
+<text><str>271</str>
+<en>That looked like it hurt, maybe you should have tried to shoot them like I told you. Just press the { button to shoot the targets.</en>
+<guy>Zoe</guy></text>
+</main></level><level><wad>116</wad><name>Midday Garden Home</name><local>
+<hero><en>Sing Sing</en></hero>
+<hero><en>Shiny</en></hero>
+<hero><en>Jasper</en></hero>
+<hero><en>Doug</en></hero>
+</local><main>
+<text><str>309</str>
+<en>Hi Spyro and Sparx... I've found another lost egg! If Sparx is up to it, he can try to rescue it from Spider Town. &Enter Spider Town bonus world? &Yes. &No.</en>
+<guy>Zoe</guy></text>
+<text><str>306</str>
+<en>I wouldn't want to go back in there with all those creepy spiders...but if Sparx wants to check out Spider Town again, it's fine with me. &Return to Spider Town bonus world? &Yes. &No.</en>
+<guy>Zoe</guy></text>
+<text><str>117</str>
+<en>Excellent work Sparx, and I see that you've gained another new ability. Now if you hold down the @4L1,L2, R1 and R2@0 buttons at the same time, Sparx will point to any treasure still hanging around.</en>
+<guy>Zoe</guy></text>
+<text><str>0</str>
+<en>Yes.</en>
+<guy>Zoe</guy></text>
+<text><str>0</str>
+<en>No.</en>
+<guy>Zoe</guy></text>
+<text><str>111</str>
+<en>Hi Spyro. This is a superflame powerup. You'll find more just like it scattered throughout all the worlds. Why don't you try this one out by using it to break all these planters. I think I saw a rhynoc hide an egg in one of them.</en>
+<guy>Zoe</guy></text>
+<text><str>490</str>
+<en>I've assessed the situation. We need five men to operate the whirligig.</en>
+<guy>Sgt. Byrd</guy></text>
+<text><str>1167</str>
+<en>Quick march Spyro. We're off to the whirligig.</en>
+<guy>Sgt. Byrd</guy></text>
+<text><str>1159</str>
+<en>All systems checked out A-OK. Jump aboard.</en>
+<guy>Sgt. Byrd</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Sgt. Byrd</guy></text>
+<text><str>492</str>
+<en>Thanks for freeing me. Why don't you come visit me in my home world?</en>
+<guy>Sgt. Byrd</guy></text>
+<text><str>489</str>
+<en>We've finished repairing the whirligig, but we need more help to operate it.</en>
+<guy>Sing Sing</guy></text>
+<text><str>545</str>
+<en>Let's head on over to the whirligig.</en>
+<guy>Sing Sing</guy></text>
+<text><str>1158</str>
+<en>You can use the whirligig whenever you are ready.</en>
+<guy>Sing Sing</guy></text>
+<text><str>0</str>
+<en>Spyro, I've got a special task for Sparx. Meet me back here later!           -Zoe</en>
+<guy>-</guy></text>
+<text><str>53</str>
+<en>Okay, dragon, you've managed to survive longer than I expected... but you haven't the slightest idea what sort of dangers lie ahead of you! I suggest you grab your cat friend and whatever eggs you have found and high-tail it back home while you still can... I'm telling you this for your own good, you know...</en>
+<guy>Bianca</guy></text>
+<text><str>342</str>
+<en>When you see a ladder, or walls that look climbable, just jump onto it and you'll grab it with your claws.</en>
+<guy>Hunter</guy></text>
+<text><str>83</str>
+<en>Ahh, my good friend Spyro. The Sorceress caught this naughty bird letting off rockets in her fireworks factory, but I'm willing to release him into your custody... provided you pay his outstanding fines. &Pay ^^^ gems to free the penguin? &Of course. &Forget about it.</en>
+<guy>Moneybags</guy></text>
+<text><str>151</str>
+<en>Heh heh... what a sucker... err, that is... It's a far, far better thing you do today, Spyro, than you have ever done, and... err... well so forth, et cetera, you get the idea...</en>
+<guy>Moneybags</guy></text>
+<text><str>303</str>
+<en>Oh dear Spyro, you really should pay up. I think he's pining for the fjords.</en>
+<guy>Moneybags</guy></text>
+<text><str>332</str>
+<en>Get away from me dragon, you've got no money! Come back when you find some gems... &[^^^ gems needed to free critter</en>
+<guy>Moneybags</guy></text>
+<text><str>0</str>
+<en>...</en>
+<guy>Moneybags</guy></text>
+<text><str>259</str>
+<en>Hey, Spyro! Zoe told me that if we hit that doodad up there, the portal will open. Why don't you try spitting this rock at it?</en>
+<guy>Hunter</guy></text>
+<text><str>1118</str>
+<en>When you've picked up a rock, try using the } button to aim.</en>
+<guy>Hunter</guy></text>
+<text><str>563</str>
+<en>I'll see ya in there later.</en>
+<guy>Hunter</guy></text>
+<text><str>1047</str>
+<en>You need five people\ To help with the whirligig.\ Find one in each world.</en>
+<guy>Shiny</guy></text>
+<text><str>358</str>
+<en>Follow me, Spyro.\ The whirligig awaits you.\ The sky shall be yours!</en>
+<guy>Shiny</guy></text>
+<text><str>304</str>
+<en>Just hop on, Spyro.\ The sky shall be your domain.\ New worlds await you!</en>
+<guy>Shiny</guy></text>
+<text><str>1119</str>
+<en>With guys from the five worlds we can work the whirligig.</en>
+<guy>Jasper</guy></text>
+<text><str>1147</str>
+<en>Hey now, let's head on over to the whirligig.</en>
+<guy>Jasper</guy></text>
+<text><str>1194</str>
+<en>Hop aboard.</en>
+<guy>Jasper</guy></text>
+<text><str>343</str>
+<en>If you can bring back one person from each of our five worlds, we can help you use the whirligig.</en>
+<guy>Doug</guy></text>
+<text><str>1178</str>
+<en>Let's head on over to the whirligig.</en>
+<guy>Doug</guy></text>
+<text><str>1134</str>
+<en>The whirligig is ready to take you far way. Just jump aboard.</en>
+<guy>Doug</guy></text>
+<text><str>490</str>
+<en>I've assessed the situation. We need five men to operate the whirligig.</en>
+<guy>Sgt. Byrd</guy></text>
+<text><str>1167</str>
+<en>Quick march Spyro. We're off to the whirligig.</en>
+<guy>Sgt. Byrd</guy></text>
+<text><str>1159</str>
+<en>All systems checked out A-OK. Jump aboard.</en>
+<guy>Sgt. Byrd</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Sgt. Byrd</guy></text>
+<text><str>492</str>
+<en>Thanks for freeing me. Why don't you come visit me in my home world?</en>
+<guy>Sgt. Byrd</guy></text>
+</main></level><level><wad>118</wad><name>Icy Peak</name><local>
+<hero><en>Doug</en></hero>
+<hero><en>Bob</en></hero>
+<hero><en>Nancy</en></hero>
+</local><main>
+<text><str>212</str>
+<en>Heh heh... I put up ice blocks this morning so Bob wouldn't beat me to the ice fishing hole... If you want to try out the hole, you can borrow this fishing lure I've been using.</en>
+<guy>Doug</guy></text>
+<text><str>443</str>
+<en>Oh, by the way, feel free to use our gondola whenever you want.</en>
+<guy>Doug</guy></text>
+<text><str>334</str>
+<en>I was supposed to meet Doug to go ice fishing today... but rhynocs have blocked the path with ice, so I can't get through.</en>
+<guy>Bob</guy></text>
+<text><str>1046</str>
+<en>I've been trying to clear the way with this cannon, but it doesn't even shoot straight. I haven't been able to hit a dang thing all morning.</en>
+<guy>Bob</guy></text>
+<text><str>1041</str>
+<en>You can hop on the cannon and try shooting the ice block if you want to, but I'm warning you, it's a lot harder than it looks!</en>
+<guy>Bob</guy></text>
+<text><str>483</str>
+<en>Ohhh... you shot the ice block, eh? Must be beginner's luck.</en>
+<guy>Bob</guy></text>
+<text><str>311</str>
+<en>This place is getting too dangerous. If Doug wants to go ice fishing, he'll have to haul his lazy butt down here!</en>
+<guy>Bob</guy></text>
+<text><str>152</str>
+<en>Step right up, Spyro. Behind this door is the single greatest show on earth! That's right! Ice dancing! Season tickets are available, but you'll have to act fast. &Pay ^^^ gems to enter ice rink? &Sure, it's only money. &Take off, hoser!</en>
+<guy>Moneybags</guy></text>
+<text><str>305</str>
+<en>I always knew you were a cultured sort of dragon. Well, step right in, the show's about to start.</en>
+<guy>Moneybags</guy></text>
+<text><str>323</str>
+<en>What? You don't want to pay? What are you saving your money for, another sequel?</en>
+<guy>Moneybags</guy></text>
+<text><str>78</str>
+<en>Just between you and me, Spyro, I'd love to let you into the ice dancing competition for free. Really, I would. Unfortunately, however, the upkeep on my zamboni is costing a fortune, so I'll have to ask you to find more gems before I let you in. &[Admission costs ^^^ gems.</en>
+<guy>Moneybags</guy></text>
+<text><str>491</str>
+<en>I have to hurry in myself. I'm one of the judges for tonight's performance.</en>
+<guy>Moneybags</guy></text>
+</main><stage><info>1</info>
+<text><str>272</str>
+<en>Will you please help me perform my ice dance? These mean rhynoc hockey players keep hogging the ice and all I want to do is dance. &Protect dancer from evil hockey players? &Yes. &No.</en>
+<guy>Nancy</guy></text>
+<text><str>564</str>
+<en>Thanks! Let's go!</en>
+<guy>Nancy</guy></text>
+<text><str>191</str>
+<en>Uh...that's OK. I don't mind getting beaten to a pulp over and over by a bunch of vicious hockey players. I'm sure you have more important things to do anyway.</en>
+<guy>Nancy</guy></text>
+<text><str>484</str>
+<en>That's OK, it didn't hurt as much as it looked. Let's try again! &Try again? &Yes. &No.</en>
+<guy>Nancy</guy></text>
+<text><str>213</str>
+<en>We did it! That was my best performance ever! I guess one of the judges didn't like it, though. He threw this egg at me instead of a rose. Why don't you have it.</en>
+<guy>Nancy</guy></text>
+<text><str>506</str>
+<en>Maybe you can be my ice dancing partner in the next Olympics!</en>
+<guy>Nancy</guy></text>
+<text><str>514</str>
+<en>Fine. I'll just wait for some other dragon to come along.</en>
+<guy>Nancy</guy></text>
+<text><str>565</str>
+<en>Do you want to try again? &Try again? &Yes. &No.</en>
+<guy>Nancy</guy></text>
+<text><str>64</str>
+<en>Tonight is my big ice dance performance, and these hockey players are ruining it! Every time I start my routine, they come in and smack me with their sticks. Oh, I sure wish I had a partner... someone courageous and strong and handsome and... purple... who breathes fire...</en>
+<guy>Nancy</guy></text>
+</stage></level><level><wad>120</wad><name>Enchanted Towers</name><local>
+<hero><en>Pablo</en></hero>
+<hero><en>Ooga</en></hero>
+<hero><en>Jasper</en></hero>
+<hero><en>Mowat</en></hero>
+</local><main>
+<text><str>1008</str>
+<en>Those crummy rhynocs forced us to build a statue of the Sorceress. Then, after we built it, she complained it was too ugly! If you ask me, the statue is much prettier than she is.</en>
+<guy>Pablo</guy></text>
+<text><str>307</str>
+<en>My friend Jasper has a plan to blow the statue to kingdom come, but we'll have to clear out these rhynocs first.</en>
+<guy>Pablo</guy></text>
+<text><str>231</str>
+<en>Yup, that exploding Sorceress statue was Jasper's finest work since 'Rhynoc with TNT Barrel: Four Seconds of Terror'.</en>
+<guy>Pablo</guy></text>
+<text><str>0</str>
+<en>Attention: This hut, and that measly penguin, are declared OFF LIMITS.\     -The Sorceress</en>
+<guy>-</guy></text>
+<text><str>0</str>
+<en>I appreciate you're stopping by, Spyro, but I'm still busy training hummingbirds. Meet me at my home base.     -Sgt. James Byrd</en>
+<guy>-</guy></text>
+<text><str>0</str>
+<en>Step inside, old chum!     -Sgt. James Byrd</en>
+<guy>-</guy></text>
+<text><str>260</str>
+<en>Hello birdy, I was having a lovely vacation with my friend, but he's lost all his bones. Can you find them and put him together?</en>
+<guy>Ooga</guy></text>
+<text><str>1069</str>
+<en>You're doing great, please find the rest of the bones so we can put my friend back together.</en>
+<guy>Ooga</guy></text>
+<text><str>357</str>
+<en>Here have this. I was going to keep it as a souvenir, but I don't have room in my luggage.</en>
+<guy>Ooga</guy></text>
+<text><str>302</str>
+<en>My friend is feeling much better now... Oh, no! He's started his bone dance again...</en>
+<guy>Ooga</guy></text>
+<text><str>1026</str>
+<en>What did you have to come back for? Now he's going to do his whole routine again! Well, here we go...</en>
+<guy>Ooga</guy></text>
+<text><str>310</str>
+<en>Have you found any of my friend's bones? We have to go back to Skelos Badlands, and we can't leave without them.</en>
+<guy>Ooga</guy></text>
+<text><str>57</str>
+<en>Spyro! Are you on vacation too? I was having a lovely time with my friend until the lava toads stole all his bones again. I'd ask you to help, but some of the toads are hiding at the top of the tallest towers and I don't think you can fly that high.</en>
+<guy>Ooga</guy></text>
+<text><str>79</str>
+<en>I'm almost ready to reveal my latest piece of real-time, four-dimensional performance art! I call it 'Hideous Exploding Witch, Number 9'. Now, if you can just light the three rockets around here, my masterpiece shall be complete...</en>
+<guy>Jasper</guy></text>
+<text><str>177</str>
+<en>The world breathlessly awaits my brilliant four-dimensional masterpiece... just light all the rockets and prepare to be amazed by my genius!</en>
+<guy>Jasper</guy></text>
+<text><str>356</str>
+<en>Oooops, I forgot I hid this egg inside the statue. I hope the explosion didn't hard boil it...</en>
+<guy>Jasper</guy></text>
+<text><str>176</str>
+<en>And now, for my latest experiment: 'Blast-Sculpting'! I shall attempt to carve an image of you with a single explosive detonation...</en>
+<guy>Jasper</guy></text>
+<text><str>1107</str>
+<en>Not too bad, eh? Very post-neolithic, wouldn't you say?</en>
+<guy>Jasper</guy></text>
+<text><str>1120</str>
+<en>I'm ready to patrol the towers and the perimeter of the islands whenever you want me to. &Go on patrol &Yes sir! &No, I'm off duty.</en>
+<guy>Sgt. Byrd</guy></text>
+<text><str>558</str>
+<en>It's good to be back in action.</en>
+<guy>Sgt. Byrd</guy></text>
+<text><str>557</str>
+<en>I'll be here when you need me.</en>
+<guy>Sgt. Byrd</guy></text>
+</main><stage><info>1</info>
+<text><str>0</str>
+<en>I've got your slow-witted furball friend in a cage, and you're going to be next!      -The Sorceress</en>
+<guy>-</guy></text>
+<text><str>200</str>
+<en>Isn't this the wildest skateboard park you've ever seen? Once you've mastered a few tricks, you could score huge points in this place! What do you say I show you some moves? &Learn some tricks? &Of course! &Some other time...</en>
+<guy>Hunter</guy></text>
+<text><str>444</str>
+<en>No problem, check the place out for yourself. Just meet me back here later!</en>
+<guy>Hunter</guy></text>
+<text><str>1137</str>
+<en>Are you ready to learn some tricks and take on the next challenge? &Take the challenge? &Let's go! &No thanks.</en>
+<guy>Hunter</guy></text>
+<text><str>1025</str>
+<en>Let's start with something easy. You can jump off the end of ramps by pressing the < button. I'll show you how to do it once, then it's your turn. &[Press < button at top of ramp to jump.</en>
+<guy>Hunter</guy></text>
+<text><str>1027</str>
+<en>Just press the < button at the top of the ramp to jump off it. Try jumping as close to the top as possible to get the most hang time.</en>
+<guy>Hunter</guy></text>
+<text><str>268</str>
+<en>OK, now try doing a roll. You can roll in midair by holding down the } button and steering left or right. &[Press < button at top of ramp to jump. &[Hold down } button and steer left or right to roll.</en>
+<guy>Hunter</guy></text>
+<text><str>232</str>
+<en>This one's cake! Just press the < button to jump off the ramp, then hold down the } button and steer left or right to do a roll. &[Press < button at top of ramp to jump. &[Hold down } button and steer left or right to roll.</en>
+<guy>Hunter</guy></text>
+<text><str>86</str>
+<en>Hey, nice roll! Now let's see you pull a flip. Flips are exactly like rolls, only you push up or down instead of left or right. Just jump off the ramp, hold down the } button, and push up or down on the directional pad. &[Press < button to jump off ramp. &[Hold down } button and push & up or down on the directional pad. &[Land on the next ramp.</en>
+<guy>Hunter</guy></text>
+<text><str>160</str>
+<en>Flips are my signature move! Just jump off the ramp, hold down the } button, and push up or down on the directional pad. Try doing a flip and landing on the next ramp. &[Press < button to jump off ramp. &[Hold down } button and push & up or down on the directional pad. &[Land on the next ramp.</en>
+<guy>Hunter</guy></text>
+<text><str>112</str>
+<en>Whoa, you must be a natural! Now let's see if you can pull off a half-pipe spin move. The blue ramps are half-pipes. You can do a spin move by jumping at the top of the blue ramp, then steering left or right in the air. &[Press < button at top of blue ramp to jump. &[Steer left or right in air to spin.</en>
+<guy>Hunter</guy></text>
+<text><str>416</str>
+<en>Just jump at the top of any blue ramp and steer left or right in the air to spin! &[Press < button at top of blue ramp to jump. &[Steer left or right in air to spin.</en>
+<guy>Hunter</guy></text>
+<text><str>1010</str>
+<en>Alright, you nailed it. Now let's see if you can do a 900! Get as much height as you can, spin two and a half revolutions in the air and land back on the ramp. &[Press < button at top of blue ramp. &[Steer left or right to do 3 spins. &[Land it.</en>
+<guy>Hunter</guy></text>
+<text><str>247</str>
+<en>The 900 is a little tricky. You have to jump off the top of the blue ramp, do two and a half revolutions, and land again. &[Press < button at top of blue ramp. &[Steer left or right to do 3 spins. &[Land it, somehow.</en>
+<guy>Hunter</guy></text>
+<text><str>82</str>
+<en>Now that was a 900! I have to admit, you've got some skills, Spyro. But before you get too cocky, let's see if you can score some real points on the giant ski ramp. Do whatever moves you want, and see how many points you can get. &[Score 500 points on the giant ski ramp. &[Jump on ramp to do half-pipe moves. &[Don't jump on ramp to do rolls and flips.</en>
+<guy>Hunter</guy></text>
+<text><str>92</str>
+<en>This one's freestyle, Spyro! Do whatever tricks you want off the ramp. If you jump off the ramp, you can do half-pipe moves. If you don't jump off the ramp, you can do rolls and flips. The harder the trick, the more points you'll score. &[Score 500 points on the giant ski ramp &[Jump on ramp to do half-pipe moves. &[Don't jump on ramp to do rolls and flips.</en>
+<guy>Hunter</guy></text>
+<text><str>41</str>
+<en>Wow, you learn really fast! Then again, you are being trained by a master boarder... Speaking of which, I was just practicing a nearly impossible new move that I call the 'Gnasty Gnorc'. I had almost pulled it off when I suddenly ran smack into this dragon egg and wiped out! OK, I made that up, but you can have this egg...</en>
+<guy>Hunter</guy></text>
+<text><str>1154</str>
+<en>I think you're getting it, just try one more time.</en>
+<guy>Hunter</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Hunter</guy></text>
+<text><str>320</str>
+<en>I'm thinking you're ready to try some one-on-one competition. Want to try a freestyle competition for points? &Compete for points? &Let's go! &Later...</en>
+<guy>Hunter</guy></text>
+<text><str>299</str>
+<en>Well, there's no shame in losing to the master... at least not much shame... Wanna try again? &Compete for points? &Let's go! &Later...</en>
+<guy>Hunter</guy></text>
+<text><str>65</str>
+<en>I can't believe it! How did you get so good already? Who knows, someday you might even break my course record. Naw. Anyway, I guess I should give you this other egg I found. I was going to keep it for a pet, but I can't get it to hatch.</en>
+<guy>Hunter</guy></text>
+<text><str>470</str>
+<en>Alright! Whoever scores the most points in the time limit, wins! &[Freestyle competition for two minutes.</en>
+<guy>Hunter</guy></text>
+<text><str>499</str>
+<en>Just come find me when you're ready for a good thrashing!</en>
+<guy>Hunter</guy></text>
+<text><str>138</str>
+<en>You can go for the course record now, if you want. Whenever you hop on a skateboard, a timer will start. Score as many points as you can until the timer expires or you wipe out. Good luck!</en>
+<guy>Hunter</guy></text>
+</stage><stage><info>2</info>
+<text><str>46</str>
+<en>I was playing catch with my pet wolf, Farley, but I accidentally threw his ball down this hole and he went in after it. Now he's stuck down there. I feel so helpless... sitting up here... listening to his steadily softening whimpers... don't cry, wolf... never cry, wolf...</en>
+<guy>Mowat</guy></text>
+<text><str>110</str>
+<en>Hey, you found Farley! How can I ever thank you? I mean, I could give you this old egg, but Farley's been chewing on it and it's kinda slimey... oh well, it's the thought that counts, right?</en>
+<guy>Mowat</guy></text>
+</stage></level><level><wad>122</wad><name>Spooky Swamp</name><local>
+<hero><en>Homer the Firefly</en></hero>
+<hero><en>Shiny the Firefly</en></hero>
+<hero><en>Bubba the Firefly</en></hero>
+<hero><en>Basho the Firefly</en></hero>
+<hero><en>Buson the Firefly</en></hero>
+</local><main>
+<text><str>429</str>
+<en>\           That gator was mean.\          I thought I was a goner.\           Thanks for saving me.</en>
+<guy>Homer the Firefly</guy></text>
+<text><str>393</str>
+<en>Our tea lamps are dark.\         Perhaps your hot dragon breath\           could set them aglow.</en>
+<guy>Homer the Firefly</guy></text>
+<text><str>376</str>
+<en>No happier sight\         Have I seen, than a tea lamp\           lit by Dragonflame.</en>
+<guy>Homer the Firefly</guy></text>
+<text><str>424</str>
+<en>\           Beware the water.\         Snapping jaws of piranha\           claim many victims.</en>
+<guy>Homer the Firefly</guy></text>
+<text><str>1060</str>
+<en>\           You are brave, dragon.\         Much braver than I, by far.\          Here, take this darn egg.</en>
+<guy>Shiny the Firefly</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>-</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>-</guy></text>
+<text><str>0</str>
+<en>Come on in.\        -Sheila</en>
+<guy>-</guy></text>
+<text><str>445</str>
+<en>\           When all lamps are lit\          there is a secret in here\            that I will show you.</en>
+<guy>Bubba the Firefly</guy></text>
+<text><str>433</str>
+<en>\           The tea lamps are lit!\         Now I'll tell you the secret\           of what's in this house!</en>
+<guy>Bubba the Firefly</guy></text>
+<text><str>425</str>
+<en>\           A creepy wizard\    lives inside, but hates the light.\           He has awoken.</en>
+<guy>Bubba the Firefly</guy></text>
+<text><str>408</str>
+<en>\           He swore to destroy\        whoever lights the tea lamps.\           Better you than me. &[Use Wizard's bombs against him. &[Avoid Gators.</en>
+<guy>Bubba the Firefly</guy></text>
+<text><str>1071</str>
+<en>\           This door is jammed shut.\            Only the power of gems\             Can hope to move it. &Pay ^^^ gems to open the door? &Sure, just shut up. &No, your haiku poetry stinks.</en>
+<guy>Moneybags</guy></text>
+<text><str>136</str>
+<en>\           You've made a wise choice...\        It will mean more eggs for you...\              And more gems for me. \           Best of all, Spyro...\        I can stop speaking Haiku.\           What a sweet relief!</en>
+<guy>Moneybags</guy></text>
+<text><str>1068</str>
+<en>\           Dad gummit, dragon.\      Just cough up those stinking gems.\           And I can go home.</en>
+<guy>Moneybags</guy></text>
+<text><str>341</str>
+<en>\           I can't let you through.\       You're too poor to pass this door.\           Come back with more cash. &[^^^ gems needed to open door</en>
+<guy>Moneybags</guy></text>
+<text><str>363</str>
+<en>\           Stop talking to me.\         I hate speaking in Haiku.\           Just go find some gems...</en>
+<guy>Moneybags</guy></text>
+</main><stage><info>1</info>
+<text><str>364</str>
+<en>\           This swamp smells so sweet.\        The springtime trees are fragrant.\            I'm off to kick butt.</en>
+<guy>Sheila</guy></text>
+<text><str>153</str>
+<en>\           We have the bombs here.\         We must destroy the egg cage.\             But we just go boom.\ \           Kangaroo can help!\        You can clear the path for us!\           Will Sheila help us? &Help the firefly bombers? &Yes, I love your freestyle Haiku. &Sorry, just passing through.</en>
+<guy>Basho the Firefly</guy></text>
+<text><str>427</str>
+<en>\          If you clear my path\       I can blow up the egg cage.\         Poor, poor captive eggs. &Help the twin? &Yes, of course. &No more Haiku... please!</en>
+<guy>Basho the Firefly</guy></text>
+<text><str>324</str>
+<en>\           The eggs are all free!\          Two dragons are born today!\              Sheila's my hero.</en>
+<guy>Basho the Firefly</guy></text>
+<text><str>1078</str>
+<en>\           Yes! It's bombing time!\         Here I come, my little eggs,\           To free you at last!!</en>
+<guy>Basho the Firefly</guy></text>
+<text><str>1105</str>
+<en>\           We will be waiting.\        When you return to help us,\           We shall bomb again!</en>
+<guy>Basho the Firefly</guy></text>
+<text><str>1086</str>
+<en>\           One egg cage remains.\        Will you now help my brother\           to free the last egg? &Will you help my brother now? &Yes.&No.</en>
+<guy>Basho the Firefly</guy></text>
+<text><str>283</str>
+<en>OW...\           I went boom again.\    Big rocks can be kicked, they say,\        Mushrooms must be stomped. &Help the twin? &Yes.&No.</en>
+<guy>Basho the Firefly</guy></text>
+<text><str>394</str>
+<en>\           Yes! It's bombing time!\         Here I come, my little eggs,\           To free you at last!! &[Kick rocks out of the way. &[Stomp on mushrooms.</en>
+<guy>Basho the Firefly</guy></text>
+<text><str>154</str>
+<en>\           We have the bombs here.\         We must destroy the egg cage.\             But we just go boom.\ \           Kangaroo can help!\        You can clear the path for us!\           Will Sheila help us? &Help the firefly bombers? &Yes, I love your freestyle Haiku. &Sorry, just passing through.</en>
+<guy>Buson the Firefly</guy></text>
+<text><str>428</str>
+<en>\           If you clear my path\        I can blow up the egg cage.\          Poor, poor captive eggs. &Help the twin? &Yes, of course. &No more Haiku... please!</en>
+<guy>Buson the Firefly</guy></text>
+<text><str>325</str>
+<en>\           The eggs are all free!\          Two dragons are born today!\            Sheila's my hero.</en>
+<guy>Buson the Firefly</guy></text>
+<text><str>389</str>
+<en>\           Yes! It's bombing time!\         Here I come, my little eggs,\           To free you at last!!</en>
+<guy>Buson the Firefly</guy></text>
+<text><str>1106</str>
+<en>\           We will be waiting.\        When you return to help us.\           We shall bomb again!</en>
+<guy>Buson the Firefly</guy></text>
+<text><str>1087</str>
+<en>\           One egg cage remains.\        Will you now help my brother\           to free the last egg. &Will you help my brother now? &Yes.&No</en>
+<guy>Buson the Firefly</guy></text>
+<text><str>284</str>
+<en>OW...\           I went boom again.\    Big rocks can be kicked, they say,\        Mushrooms must be stomped. &Help the twin? &Yes.&No.</en>
+<guy>Buson the Firefly</guy></text>
+<text><str>395</str>
+<en>\           Yes! It's bombing time!\          Here I come, my little eggs,\            to free you at last!! &[Kick rocks out of the way. &[Stomp on mushrooms.</en>
+<guy>Buson the Firefly</guy></text>
+</stage></level><level><wad>124</wad><name>Bamboo Terrace</name><local>
+<hero><en>Lei</en></hero>
+<hero><en>Chi Chi</en></hero>
+<hero><en>Feng</en></hero>
+<hero><en>Li</en></hero>
+<hero><en>Tsai</en></hero>
+<hero><en>Ling Ling</en></hero>
+<hero><en>Sing Sing</en></hero>
+<hero><en>Shui</en></hero>
+</local><main>
+<text><str>1148</str>
+<en>Please be careful those rockets are dangerous!</en>
+<guy>Lei</guy></text>
+<text><str>536</str>
+<en>Please would you be so kind as to step aside.</en>
+<guy>Lei</guy></text>
+<text><str>462</str>
+<en>Oh no, I think that water buffalo is going to trample me.</en>
+<guy>Lei</guy></text>
+<text><str>556</str>
+<en>Just let me catch my breath.</en>
+<guy>Lei</guy></text>
+<text><str>449</str>
+<en>If only there were three of us I'm sure we could reach that switch to open the drawbridge.</en>
+<guy>Lei</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Lei</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Lei</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Lei</guy></text>
+<text><str>538</str>
+<en>Help, help!</en>
+<guy>Chi Chi</guy></text>
+<text><str>1164</str>
+<en>Please would you be so kind as to step aside.</en>
+<guy>Chi Chi</guy></text>
+<text><str>461</str>
+<en>If you could rescue Li we'd be able to push this boulder out of the way.</en>
+<guy>Chi Chi</guy></text>
+<text><str>1067</str>
+<en>Pushing that boulder was hard work, but as soon as I've caught my breath I'll return to collecting bamboo.</en>
+<guy>Chi Chi</guy></text>
+<text><str>448</str>
+<en>Wahey! Ahem, sorry the excitement got the better of me.</en>
+<guy>Chi Chi</guy></text>
+<text><str>1070</str>
+<en>We would gladly pull the switch to open the drawbridge, if only there weren't all these nasty creatures chasing us.</en>
+<guy>Feng</guy></text>
+<text><str>1166</str>
+<en>Please would you be so kind as to step aside.</en>
+<guy>Feng</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Feng</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Feng</guy></text>
+<text><str>446</str>
+<en>If only there were three of us I'm sure we could reach that switch to open the drawbridge.</en>
+<guy>Feng</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Feng</guy></text>
+<text><str>435</str>
+<en>Do you mind? I'm trying to avoid being trampled by a water buffalo.</en>
+<guy>Li</guy></text>
+<text><str>1163</str>
+<en>Please would you be so kind as to step aside.</en>
+<guy>Li</guy></text>
+<text><str>1116</str>
+<en>If you could rescue Chi Chi we'd be able to push this boulder out of the way.</en>
+<guy>Li</guy></text>
+<text><str>1066</str>
+<en>Pushing that boulder was hard work, but as soon as I've caught my breath I'll return to collecting bamboo.</en>
+<guy>Li</guy></text>
+<text><str>447</str>
+<en>Wahey! Ahem, sorry the excitment got the better of me.</en>
+<guy>Li</guy></text>
+<text><str>570</str>
+<en>Help!!</en>
+<guy>Tsai</guy></text>
+<text><str>537</str>
+<en>Please would you be so kind as to step aside.</en>
+<guy>Tsai</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Tsai</guy></text>
+<text><str>1115</str>
+<en>I'll be with you momentarily, I just need to rest for a second.</en>
+<guy>Tsai</guy></text>
+<text><str>1104</str>
+<en>If only there were three of us I'm sure we could reach that switch to open the drawbridge.</en>
+<guy>Tsai</guy></text>
+<text><str>0</str>
+<en>To All Explorers: There is no yeti here, and there never was! He was just a myth. As far as you know.      -The Sorceress</en>
+<guy>-</guy></text>
+<text><str>0</str>
+<en>Dreadfully sorry to inconvenience you, Spyro, but I have been detained for the moment. Please come visit my outpost, if it suits you.        -Bentley</en>
+<guy>-</guy></text>
+<text><str>0</str>
+<en>Welcome, most esteemed dragon.        -Bentley</en>
+<guy>-</guy></text>
+<text><str>1070</str>
+<en>We would gladly pull the switch to open the drawbridge, if only there weren't all these nasty creatures chasing us.</en>
+<guy>Feng</guy></text>
+<text><str>1166</str>
+<en>Please would you be so kind as to step aside.</en>
+<guy>Feng</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Feng</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Feng</guy></text>
+<text><str>446</str>
+<en>If only there were three of us I'm sure we could reach that switch to open the drawbridge.</en>
+<guy>Feng</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Feng</guy></text>
+<text><str>97</str>
+<en>Spyro! Rhynocs have been harassing us all day. The workers haven't been able to harvest the bamboo needed for the whirligig to take you to Evening Lake. We've tried asking them to leave, but there's no reasoning with them.</en>
+<guy>Ling Ling</guy></text>
+<text><str>391</str>
+<en>If you could clear the way for Chi Chi and Li they'd most likely be able to push that boulder out of your way.</en>
+<guy>Ling Ling</guy></text>
+<text><str>485</str>
+<en>Thank you ever so much for opening the emergency bridge, Spyro.</en>
+<guy>Ling Ling</guy></text>
+<text><str>562</str>
+<en>Doobedoobedoo.</en>
+<guy>Ling Ling</guy></text>
+<text><str>434</str>
+<en>We would be honored if you would accept this as a token of our appreciation.</en>
+<guy>Sing Sing</guy></text>
+<text><str>333</str>
+<en>Oh! The emergency escape bridge! Why didn't I think of it sooner? I shall open it right away.</en>
+<guy>Sing Sing</guy></text>
+<text><str>1136</str>
+<en>Would you care for a cup of my medicinal herbal tea?</en>
+<guy>Sing Sing</guy></text>
+</main><stage><info>1</info>
+<text><str>1070</str>
+<en>We would gladly pull the switch to open the drawbridge, if only there weren't all these nasty creatures chasing us.</en>
+<guy>Feng</guy></text>
+<text><str>1166</str>
+<en>Please would you be so kind as to step aside.</en>
+<guy>Feng</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Feng</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Feng</guy></text>
+<text><str>446</str>
+<en>If only there were three of us I'm sure we could reach that switch to open the drawbridge.</en>
+<guy>Feng</guy></text>
+<text><str>1070</str>
+<en>We would gladly pull the switch to open the drawbridge, if only there weren't all these nasty creatures chasing us.</en>
+<guy>Feng</guy></text>
+<text><str>1166</str>
+<en>Please would you be so kind as to step aside.</en>
+<guy>Feng</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Feng</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Feng</guy></text>
+<text><str>446</str>
+<en>If only there were three of us I'm sure we could reach that switch to open the drawbridge.</en>
+<guy>Feng</guy></text>
+<text><str>1070</str>
+<en>We would gladly pull the switch to open the drawbridge, if only there weren't all these nasty creatures chasing us.</en>
+<guy>Feng</guy></text>
+<text><str>1166</str>
+<en>Please would you be so kind as to step aside.</en>
+<guy>Feng</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Feng</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Feng</guy></text>
+<text><str>446</str>
+<en>If only there were three of us I'm sure we could reach that switch to open the drawbridge.</en>
+<guy>Feng</guy></text>
+<text><str>205</str>
+<en>Please help us Spyro! My friends are trying to go home after a long shift in the fields, but rotten rhynocs keep knocking them down. Can you save the panda workers? &Flame all rhynocs? &You bet!&Um, sounds too tough for me.</en>
+<guy>Shui</guy></text>
+<text><str>426</str>
+<en>Please, hop aboard. Make sure to toast the rhynocs, but not my friends!</en>
+<guy>Shui</guy></text>
+<text><str>355</str>
+<en>I'm sure you have many important things to do, but if you could find the time to help please come back.</en>
+<guy>Shui</guy></text>
+<text><str>523</str>
+<en>I'm sure you would succeed if you were to try again. &Flame all rhynocs? &Yes.&No.</en>
+<guy>Shui</guy></text>
+<text><str>507</str>
+<en>Please take this shiny egg, it will bring you good luck.</en>
+<guy>Shui</guy></text>
+<text><str>1135</str>
+<en>Would you like to try some of this bamboo, it tastes great.</en>
+<guy>Shui</guy></text>
+<text><str>293</str>
+<en>Thank you for offering to help Spyro, but surely even you wouldn't be able to defeat all those rhynocs until the power up is active.</en>
+<guy>Shui</guy></text>
+<text><str>1070</str>
+<en>We would gladly pull the switch to open the drawbridge, if only there weren't all these nasty creatures chasing us.</en>
+<guy>Feng</guy></text>
+<text><str>1166</str>
+<en>Please would you be so kind as to step aside.</en>
+<guy>Feng</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Feng</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Feng</guy></text>
+<text><str>446</str>
+<en>If only there were three of us I'm sure we could reach that switch to open the drawbridge.</en>
+<guy>Feng</guy></text>
+<text><str>1070</str>
+<en>We would gladly pull the switch to open the drawbridge, if only there weren't all these nasty creatures chasing us.</en>
+<guy>Feng</guy></text>
+<text><str>1166</str>
+<en>Please would you be so kind as to step aside.</en>
+<guy>Feng</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Feng</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Feng</guy></text>
+<text><str>446</str>
+<en>If only there were three of us I'm sure we could reach that switch to open the drawbridge.</en>
+<guy>Feng</guy></text>
+<text><str>1070</str>
+<en>We would gladly pull the switch to open the drawbridge, if only there weren't all these nasty creatures chasing us.</en>
+<guy>Feng</guy></text>
+<text><str>1166</str>
+<en>Please would you be so kind as to step aside.</en>
+<guy>Feng</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Feng</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Feng</guy></text>
+<text><str>446</str>
+<en>If only there were three of us I'm sure we could reach that switch to open the drawbridge.</en>
+<guy>Feng</guy></text>
+<text><str>1070</str>
+<en>We would gladly pull the switch to open the drawbridge, if only there weren't all these nasty creatures chasing us.</en>
+<guy>Feng</guy></text>
+<text><str>1166</str>
+<en>Please would you be so kind as to step aside.</en>
+<guy>Feng</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Feng</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Feng</guy></text>
+<text><str>446</str>
+<en>If only there were three of us I'm sure we could reach that switch to open the drawbridge.</en>
+<guy>Feng</guy></text>
+<text><str>1070</str>
+<en>We would gladly pull the switch to open the drawbridge, if only there weren't all these nasty creatures chasing us.</en>
+<guy>Feng</guy></text>
+<text><str>1166</str>
+<en>Please would you be so kind as to step aside.</en>
+<guy>Feng</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Feng</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Feng</guy></text>
+<text><str>446</str>
+<en>If only there were three of us I'm sure we could reach that switch to open the drawbridge.</en>
+<guy>Feng</guy></text>
+<text><str>1070</str>
+<en>We would gladly pull the switch to open the drawbridge, if only there weren't all these nasty creatures chasing us.</en>
+<guy>Feng</guy></text>
+<text><str>1166</str>
+<en>Please would you be so kind as to step aside.</en>
+<guy>Feng</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Feng</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Feng</guy></text>
+<text><str>446</str>
+<en>If only there were three of us I'm sure we could reach that switch to open the drawbridge.</en>
+<guy>Feng</guy></text>
+<text><str>1070</str>
+<en>We would gladly pull the switch to open the drawbridge, if only there weren't all these nasty creatures chasing us.</en>
+<guy>Feng</guy></text>
+<text><str>1166</str>
+<en>Please would you be so kind as to step aside.</en>
+<guy>Feng</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Feng</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Feng</guy></text>
+<text><str>446</str>
+<en>If only there were three of us I'm sure we could reach that switch to open the drawbridge.</en>
+<guy>Feng</guy></text>
+<text><str>1070</str>
+<en>We would gladly pull the switch to open the drawbridge, if only there weren't all these nasty creatures chasing us.</en>
+<guy>Feng</guy></text>
+<text><str>1166</str>
+<en>Please would you be so kind as to step aside.</en>
+<guy>Feng</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Feng</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Feng</guy></text>
+<text><str>446</str>
+<en>If only there were three of us I'm sure we could reach that switch to open the drawbridge.</en>
+<guy>Feng</guy></text>
+<text><str>1070</str>
+<en>We would gladly pull the switch to open the drawbridge, if only there weren't all these nasty creatures chasing us.</en>
+<guy>Feng</guy></text>
+<text><str>1166</str>
+<en>Please would you be so kind as to step aside.</en>
+<guy>Feng</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Feng</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Feng</guy></text>
+<text><str>446</str>
+<en>If only there were three of us I'm sure we could reach that switch to open the drawbridge.</en>
+<guy>Feng</guy></text>
+<text><str>1070</str>
+<en>We would gladly pull the switch to open the drawbridge, if only there weren't all these nasty creatures chasing us.</en>
+<guy>Feng</guy></text>
+<text><str>1166</str>
+<en>Please would you be so kind as to step aside.</en>
+<guy>Feng</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Feng</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Feng</guy></text>
+<text><str>446</str>
+<en>If only there were three of us I'm sure we could reach that switch to open the drawbridge.</en>
+<guy>Feng</guy></text>
+<text><str>1070</str>
+<en>We would gladly pull the switch to open the drawbridge, if only there weren't all these nasty creatures chasing us.</en>
+<guy>Feng</guy></text>
+<text><str>1166</str>
+<en>Please would you be so kind as to step aside.</en>
+<guy>Feng</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Feng</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Feng</guy></text>
+<text><str>446</str>
+<en>If only there were three of us I'm sure we could reach that switch to open the drawbridge.</en>
+<guy>Feng</guy></text>
+</stage><stage><info>2</info>
+<text><str>463</str>
+<en>Hey, I think I saw some rhynocs run up to the top of that hill with an egg!</en>
+<guy>Bartholomew</guy></text>
+<text><str>390</str>
+<en>Heh, heh, that looked like it hurt. You should try using your spin move to deflect those barrels.</en>
+<guy>Bartholomew</guy></text>
+<text><str>375</str>
+<en>We sure made short work of those rhynocs! Aren't you glad I was here to help you rescue that baby dragon?</en>
+<guy>Bartholomew</guy></text>
+<text><str>1035</str>
+<en>Ah, a fine day for a bit of a walk. I was just heading to the top of my favorite hill...</en>
+<guy>Bentley</guy></text>
+</stage></level><level><wad>126</wad><name>Country Speedway</name><local>
+</local><main>
+<text><str>218</str>
+<en>Spyro, you're not gonna believe this, but there are sheep saucers and space cows all over this place! We gotta stop 'em before they abduct anybody!</en>
+<guy>Hunter</guy></text>
+<text><str>487</str>
+<en>I'm gonna strap on my jetpack and blast some space cows! &Should Hunter go? &Go for it! &What's a space cow?</en>
+<guy>Hunter</guy></text>
+<text><str>1157</str>
+<en>Look out cows, here I come!</en>
+<guy>Hunter</guy></text>
+<text><str>258</str>
+<en>Space cows are ferocious, laser-wielding bovines who show no mercy or pity! We've gotta stop them, Spyro!</en>
+<guy>Hunter</guy></text>
+<text><str>1121</str>
+<en>We got the last one just before he abducted this egg!</en>
+<guy>Hunter</guy></text>
+<text><str>0</str>
+<en>Attention dragon: if you ever want to see your mangy cat friend again, you had better leave here at once!\     -The Sorceress</en>
+<guy>-</guy></text>
+<text><str>1187</str>
+<en>Which challenge would you like to play? &Choose a challenge: &Time Attack &Race the Bi-planes &Quit</en>
+<guy>Sparx</guy></text>
+<text><str>142</str>
+<en>Here's a hint. Try completing each challenge in order. Start with the rings, then get all the tractors, the cows, and save the planes for last. It's not the fastest way, but it is the easiest.</en>
+<guy>Sparx</guy></text>
+<text><str>190</str>
+<en>Well the flying pigs are raring to go, let's get started. You have to fly through ALL of the green checkpoint rings in order. The red dots will lead the way. &[Fly through all green rings. &[Use the red dots to guide you.</en>
+<guy>Sparx</guy></text>
+<text><str>1065</str>
+<en>Aww, do we have to go? I was just kicking back while you were doing all that flying.</en>
+<guy>Sparx</guy></text>
+<text><str>1048</str>
+<en>That was so amazing that everyone in the farmyard clubbed together to buy you this as a reward.</en>
+<guy>Sparx</guy></text>
+<text><str>515</str>
+<en>First place, you're a pretty fancy flyer.</en>
+<guy>Sparx</guy></text>
+<text><str>396</str>
+<en>Aaah, so you're trying for a best time are you? Well good luck.</en>
+<guy>Sparx</guy></text>
+<text><str>1000</str>
+<en>You won't win the race without using the blue turbo stars. Try to use as many as possible, even if it means leaving the red dots, but remember to fly though the rings or you'll be disqualified. &[Use the blue turbo stars. &[Fly through all green rings</en>
+<guy>Sparx</guy></text>
+<text><str>163</str>
+<en>Hey Spyro, you don't have to follow the red dots exactly so you can take short cuts between rings. Heres an extra hint, if you fly lower you'll get a little more speed. &[Cut corners between the green rings. &[Flying lower gives you extra speed.</en>
+<guy>Sparx</guy></text>
+<text><str>118</str>
+<en>Spyro, these are the famous racing grounds known as Country Speedway. They offer two challenges here: a timed obstacle course, or a race against the local speed champions.</en>
+<guy>Sparx</guy></text>
+</main></level><level><wad>128</wad><name>Sgt. Byrd's Base</name><local>
+<hero><en>Pvt. Helene</en></hero>
+<hero><en>Pvt. Eloise</en></hero>
+<hero><en>Pvt. Chloe</en></hero>
+<hero><en>Pvt. Nikita</en></hero>
+<hero><en>Pvt. Claire</en></hero>
+<hero><en>Cpl. Gabrielle</en></hero>
+</local><main>
+<text><str>60</str>
+<en>Sir! The situation is this, yesterday at 1845 hours the rhynocs invaded. We defended as best we could, sir, but without your leadership we didn't put up an effective resistance. By 1900 hours the rest of the squad was captured and the rhynocs had complete control of the base.</en>
+<guy>Cpl. Gabrielle</guy></text>
+<text><str>1085</str>
+<en>Recommend you take the enemy out with your rockets by pressing the { button, sir!</en>
+<guy>Cpl. Gabrielle</guy></text>
+<text><str>1117</str>
+<en>One carefully placed rocket blast should take this door down, sir.</en>
+<guy>Cpl. Gabrielle</guy></text>
+<text><str>432</str>
+<en>Sir! I've captured the enemy rations. They won't march far on an empty stomach.</en>
+<guy>Cpl. Gabrielle</guy></text>
+<text><str>38</str>
+<en>Sir! The rhynocs have blocked the way out of this next cave with a security door, and I don't think you'll be able to blast your way through this one. Recommend you land on the weights and carry them to the pressure sensitive security switches either side of the door. When in position press the > button to drop the weight. Press the } button once to look down, press it again to look up, sir! &[Land on item to pick it up. &[The > button drops item. &[Use the } button to change views.</en>
+<guy>Cpl. Gabrielle</guy></text>
+<text><str>1114</str>
+<en>Keep fighting the good fight sir! We're almost there, and I'm, uh, right behind you...</en>
+<guy>Cpl. Gabrielle</guy></text>
+<text><str>513</str>
+<en>Mission accomplished. It's great to have you back, sir.</en>
+<guy>Cpl. Gabrielle</guy></text>
+<text><str>1091</str>
+<en>Sir! We need to rescue the rest of the squad before we can launch a raid on the Sorceress's castle.</en>
+<guy>Cpl. Gabrielle</guy></text>
+<text><str>572</str>
+<en>Awaiting orders, sir.</en>
+<guy>Cpl. Gabrielle</guy></text>
+<text><str>1100</str>
+<en>I have to train the hummingbirds. They must be in peak physical condition if we're going to take on the Sorceress.</en>
+<guy>Sgt. Byrd</guy></text>
+<text><str>1144</str>
+<en>Don't worry I'll have the hummingbirds whipped into shape in no time. &Leave the level? &Yes &No</en>
+<guy>Sgt. Byrd</guy></text>
+<text><str>1155</str>
+<en>Tally ho, Spyro, I'm sure I'll see you around!</en>
+<guy>Sgt. Byrd</guy></text>
+<text><str>554</str>
+<en>Any time you wanna leave just say so.</en>
+<guy>Sgt. Byrd</guy></text>
+<text><str>512</str>
+<en>Don't worry I'll have the hummingbirds whipped into shape in no time. &Level not finished... &Do you really want to leave? &Yes &No</en>
+<guy>Sgt. Byrd</guy></text>
+<text><str>576</str>
+<en>Thank you, sir. &[Free ^ other hummingbird soldiers.</en>
+<guy>Pvt. Claire</guy></text>
+<text><str>1138</str>
+<en>Before I was captured, I recovered this egg from the enemy, sir!</en>
+<guy>Pvt. Claire</guy></text>
+<text><str>575</str>
+<en>Thank you, sir. &[Free 1 other hummingbird soldier.</en>
+<guy>Pvt. Claire</guy></text>
+<text><str>574</str>
+<en>Thank you, sir.</en>
+<guy>Pvt. Claire</guy></text>
+<text><str>1189</str>
+<en>I'm ready to be debriefed, sir. &[Free ^ other hummingbird soldiers.</en>
+<guy>Pvt. Nikita</guy></text>
+<text><str>504</str>
+<en>Before I was captured, I recovered this egg from the enemy, sir!</en>
+<guy>Pvt. Nikita</guy></text>
+<text><str>1186</str>
+<en>I'm ready to be debriefed, sir. &[Free 1 other hummingbird soldier.</en>
+<guy>Pvt. Nikita</guy></text>
+<text><str>1184</str>
+<en>I'm ready to be debriefed, sir.</en>
+<guy>Pvt. Nikita</guy></text>
+<text><str>1188</str>
+<en>Reporting for duty, sir! &[Free ^ other hummingbird soldiers.</en>
+<guy>Pvt. Chloe</guy></text>
+<text><str>1140</str>
+<en>Before I was captured, I recovered this egg from the enemy, sir!</en>
+<guy>Pvt. Chloe</guy></text>
+<text><str>1185</str>
+<en>Reporting for duty, sir! &[Free 1 other hummingbird soldier.</en>
+<guy>Pvt. Chloe</guy></text>
+<text><str>1183</str>
+<en>Reporting for duty, sir!</en>
+<guy>Pvt. Chloe</guy></text>
+<text><str>488</str>
+<en>Request permission to cheer, sir... Hip Hip Hooray! &[Free ^ other hummingbird soldiers.</en>
+<guy>Pvt. Eloise</guy></text>
+<text><str>1139</str>
+<en>Before I was captured, I recovered this egg from the enemy, sir!</en>
+<guy>Pvt. Eloise</guy></text>
+<text><str>486</str>
+<en>Request permission to cheer, sir... Hip Hip Hooray! &[Free 1 other hummingbird soldier.</en>
+<guy>Pvt. Eloise</guy></text>
+<text><str>1128</str>
+<en>Request permission to cheer, sir... Hip Hip Hooray!</en>
+<guy>Pvt. Eloise</guy></text>
+<text><str>571</str>
+<en>What are your orders, sir? &[Free ^ other hummingbird soldiers.</en>
+<guy>Pvt. Helene</guy></text>
+<text><str>505</str>
+<en>Before I was captured, I recovered this egg from the enemy, sir!</en>
+<guy>Pvt. Helene</guy></text>
+<text><str>569</str>
+<en>What are your orders, sir? &[Free 1 other hummingbird soldier.</en>
+<guy>Pvt. Helene</guy></text>
+<text><str>568</str>
+<en>What are your orders, sir?</en>
+<guy>Pvt. Helene</guy></text>
+</main></level><level><wad>130</wad><name>Spike's Arena</name><local>
+</local><main>
+<text><str>113</str>
+<en>My tactical instincts told me the Sorceress would attack you here, so I flew in to help out. It seems my rocket launchers don't affect this creature, but I can assist you by dropping ammunition. Now get in there and fight the good fight!</en>
+<guy>Sgt. Byrd</guy></text>
+<text><str>392</str>
+<en>If you charge into the lava boulders after I drop them, they'll explode against anything they hit.</en>
+<guy>Sgt. Byrd</guy></text>
+<text><str>442</str>
+<en>Whenever you get low on health, just toast a chicken or two, and you'll soon be ship shape.</en>
+<guy>Sgt. Byrd</guy></text>
+</main></level><level><wad>132</wad><name>Spider Town</name><local>
+</local><main>
+</main></level><level><wad>134</wad><name>Evening Lake Home</name><local>
+<hero><en>Greta</en></hero>
+<hero><en>Princess Ami</en></hero>
+<hero><en>Crazy Ed</en></hero>
+<hero><en>Eugene</en></hero>
+</local><main>
+<text><str>353</str>
+<en>Princess Ami showed me a place called Starfish Reef. She says there's an egg hidden in there. I think Sparx should check it out. &Enter Starfish Reef bonus world? &Yes. &No.</en>
+<guy>Zoe</guy></text>
+<text><str>1062</str>
+<en>Sparx has already found the lost egg in Starfish Reef, but if he wants to go back for a swim, I can lead the way. &Return to Starfish Reef bonus world? &Yes. &No.</en>
+<guy>Zoe</guy></text>
+<text><str>198</str>
+<en>When I saw that giant stingray I thought you were a goner, Sparx, but you sure showed him. Now the magic from the egg has made you even stronger, so you can take one more hit for Spyro.</en>
+<guy>Zoe</guy></text>
+<text><str>0</str>
+<en>Yes.</en>
+<guy>Zoe</guy></text>
+<text><str>0</str>
+<en>No.</en>
+<guy>Zoe</guy></text>
+<text><str>215</str>
+<en>Hi again, Spyro. This powerup can make you invincible, but only for a short while. Use it to get by these flame spitters... you'll find an egg when you get past them.</en>
+<guy>Zoe</guy></text>
+<text><str>0</str>
+<en>Spyro, I've got a special task for Sparx. Meet me back here later!           -Zoe</en>
+<guy>-</guy></text>
+<text><str>39</str>
+<en>Listen to me, dragon... Spyro... this is serious now. The Sorceress is planning a trap for you, and if she catches you... believe me, you don't want to know what she's going to do... Look, I promise to take good care of the rest of the eggs. I mean it. Just take Hunter and go back home before... before... I can't say it, just go!</en>
+<guy>Bianca</guy></text>
+<text><str>0</str>
+<en>Thanks for freeing me. Why don't you come visit me in my home world.</en>
+<guy>Bentley</guy></text>
+<text><str>159</str>
+<en>Heh heh, the Sorceress has a real prize on her hands here... it took two dozen rhynocs to capture this dimwitted furball, so you'd better believe he's not going to get out cheap... &Pay ^^^^ gems to free the creature? &OK. &No deal, dirtbag.</en>
+<guy>Moneybags</guy></text>
+<text><str>156</str>
+<en>Where are you getting all this money, Spyro? ... heh heh... It's not just lying around on the ground, is it? ...err... is it? Ahh, what do I care, it's mine now!</en>
+<guy>Moneybags</guy></text>
+<text><str>397</str>
+<en>Very well then, I was having a rather good time poking him with a stick, anyway.</en>
+<guy>Moneybags</guy></text>
+<text><str>201</str>
+<en>Good grief, dragon, what happened to all your money? How am I supposed to swindle... err.. heh heh... help you, if you can't even find any gems! &[^^^^ gems needed to free creature.</en>
+<guy>Moneybags</guy></text>
+<text><str>0</str>
+<en>...</en>
+<guy>Moneybags</guy></text>
+<text><str>465</str>
+<en>Why don't you ask around the other worlds to see if you can get me some help to build this rocket.</en>
+<guy>Eugene</guy></text>
+<text><str>1160</str>
+<en>The rocket's fueled up and ready to go Spyro.</en>
+<guy>Eugene</guy></text>
+<text><str>180</str>
+<en>I reckon I'm here tuh help ya wit' yer mission, but I don't know nuthin' bout rocket scientry... I'm jest here tuh supply the scrap metal... Ya had better git some more folk tuh help out.</en>
+<guy>Crazy Ed</guy></text>
+<text><str>345</str>
+<en>I guess this hunk a junk is sposed tuh fly... Sure glad I ain't the one gittin' on.</en>
+<guy>Crazy Ed</guy></text>
+<text><str>195</str>
+<en>I've always been really good with machinery. In fact, if you get me a little more help, I could whip up a rocketship in no time. But hurry, OK? I want to get back to my honeymoon!</en>
+<guy>Princess Ami</guy></text>
+<text><str>379</str>
+<en>Hop on, Spyro! Don't worry, fairy engineering has never failed.</en>
+<guy>Princess Ami</guy></text>
+<text><str>75</str>
+<en>I believe the denizens of this land plan to create a rocket propulsion device of some kind in order to help you with your journey. I'll try to be of some assistance, but I'm afraid you'll still need a representative from each world in order to complete the device.</en>
+<guy>Bentley</guy></text>
+<text><str>224</str>
+<en>Hop aboard, Spyro, and boldly go where no dragon has gone before! Well, at least not in a thousand years, at any rate...</en>
+<guy>Bentley</guy></text>
+<text><str>1079</str>
+<en>Thanks for freeing me. Why don't you come visit me in my home world?</en>
+<guy>Bentley</guy></text>
+<text><str>337</str>
+<en>Now that I've wescued the secwet plans we can finish building the wocket. If only I had a little more help.</en>
+<guy>Greta</guy></text>
+<text><str>464</str>
+<en>The wocket is weady for waunch, Spywo. Hop aboard whenever you want.</en>
+<guy>Greta</guy></text>
+</main></level><level><wad>136</wad><name>Frozen Altars</name><local>
+<hero><en>Errol</en></hero>
+<hero><en>Eugene</en></hero>
+<hero><en>Eustace</en></hero>
+<hero><en>Gabrielle</en></hero>
+<hero><en>Alex</en></hero>
+<hero><en>Ernest</en></hero>
+</local><main>
+<text><str>179</str>
+<en>Eustace and I were having a snowman building competition when the Sorceress brought them to life with a spell. Since then they've been stomping around building ice walls and generally causing trouble.</en>
+<guy>Ernest</guy></text>
+<text><str>1051</str>
+<en>What if you tried melting the snowman using the laser? I'd do it myself, but you know, the flippers.</en>
+<guy>Ernest</guy></text>
+<text><str>509</str>
+<en>I knew we should have bought the automated laser defense system.</en>
+<guy>Ernest</guy></text>
+<text><str>1001</str>
+<en>Some bear sold us a laser defense system to protect us from Rhynocs, but with these flippers I can't even turn it on. You'd have no trouble using it though. Just walk inside. When you're done, press the } button and you'll walk back out.</en>
+<guy>Alex</guy></text>
+<text><str>510</str>
+<en>Maybe you could use the laser to melt that ice block as well.</en>
+<guy>Alex</guy></text>
+<text><str>508</str>
+<en>When I get my flippers on that rotten bear...</en>
+<guy>Alex</guy></text>
+<text><str>234</str>
+<en>Welcome to Frozen Altars, Spyro! On behalf of the ice fairies, I want to grant you a special power for as long as you stay in our world.</en>
+<guy>Gabrielle</guy></text>
+<text><str>0</str>
+<en>To All Dragons: DO NOT ENTER! What part of 'no' don't you understand?\     -The Sorceress</en>
+<guy>-</guy></text>
+<text><str>0</str>
+<en>Spyro, I would love to visit with you here at the mountain, but I am off helping my brother. Come to my outpost at your earliest convenience.\       -Bentley</en>
+<guy>-</guy></text>
+<text><str>0</str>
+<en>Welcome, most esteemed dragon.\       -Bentley</en>
+<guy>-</guy></text>
+<text><str>49</str>
+<en>Say, Spyro, you're a sports fan aren't you? As you probably know, Frozen Altars is the birthplace of the great sport of cat hockey. Today's match is sold out, of course, but I just happen to have a spare ticket that I'll sell you for... say... a teensy weensy markup... &Pay ^^^ gems to enter cat hockey rink? &Sure, I love cat hockey. &I'll pass.</en>
+<guy>Moneybags</guy></text>
+<text><str>88</str>
+<en>Head on in, Spyro, it should be a thrilling match! In fact... heh heh.. I've even placed a little wager on the rhynoc team... let's just hope the local team doesn't have any last minute accidents...</en>
+<guy>Moneybags</guy></text>
+<text><str>131</str>
+<en>Off you go, then... But you'll regret it... Many years from now you'll sit on your old dragon haunches and wish with all your might that you could have just one more chance to see a game of cat hockey...</en>
+<guy>Moneybags</guy></text>
+<text><str>242</str>
+<en>You had better hurry up and find some cash, Spyro. Today's cat hockey match is about to start, and I can't let you in without a ticket. &[Entering cat hockey rink costs ^^^ gems.</en>
+<guy>Moneybags</guy></text>
+<text><str>1043</str>
+<en>Heh heh... I hate to spoil the game for you, Spyro, but I've already bribed the local team to forfeit to the rhynocs.</en>
+<guy>Moneybags</guy></text>
+<text><str>473</str>
+<en>It would be easy to get up to that treasure if you had something to stand on.</en>
+<guy>Eustace</guy></text>
+<text><str>274</str>
+<en>An ice block, yeah that's what you need to reach that treasure. Now how are we going to get one around here?</en>
+<guy>Eustace</guy></text>
+<text><str>377</str>
+<en>Brrr, I don't know why but I feel reaaalllly cold.</en>
+<guy>Eustace</guy></text>
+<text><str>261</str>
+<en>Thanks for helping out, Spyro. Why don't you take this. The rhynocs were trying to fry it with a laser, but you stopped them just in time.</en>
+<guy>Eugene</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Eugene</guy></text>
+</main><stage><info>1</info>
+<text><str>253</str>
+<en>Ahh, Spyro. I have just received word from my little brother, he appears to be having some trouble with a yeti.</en>
+<guy>Bentley</guy></text>
+<text><str>315</str>
+<en>That dumb yeti took my ball. I told him to give it back or you'd kick his lousy butt, but he wouldn't listen. &Fight yeti? &Yes. &No.</en>
+<guy>Bartholomew</guy></text>
+<text><str>1032</str>
+<en>I knew you'd do it. Go and show him not to mess with us. Remember to block his high punches, and hit him low when he tries to block. &[Use the > button for a quick jab. &[Use the < button for a body blow. &[Use the { button for the big hookaroo. &[Use the } button to block high. &[Bentley blocks low automatically.</en>
+<guy>Bartholomew</guy></text>
+<text><str>519</str>
+<en>But how will I get my ball back now?</en>
+<guy>Bartholomew</guy></text>
+<text><str>1072</str>
+<en>heh heh heh... You really showed him... Hey, wait a minute this isn't my ball!</en>
+<guy>Bartholomew</guy></text>
+<text><str>455</str>
+<en>You should go back and kick his butt again! Make him give me my ball back. &Fight yeti again? &Yes. &No.</en>
+<guy>Bartholomew</guy></text>
+<text><str>354</str>
+<en>This time it will be a 3 round match, and when you win, don't let him send you off with a stupid egg!</en>
+<guy>Bartholomew</guy></text>
+<text><str>265</str>
+<en>But.. but my ball bwaaaaa.</en>
+<guy>Bartholomew</guy></text>
+<text><str>1143</str>
+<en>Only two more rounds to go, you're doing great.</en>
+<guy>Bartholomew</guy></text>
+<text><str>542</str>
+<en>This is the last round, finish him off.</en>
+<guy>Bartholomew</guy></text>
+<text><str>419</str>
+<en>Hey!!! This isn't my ball, it's just another stupid egg!</en>
+<guy>Bartholomew</guy></text>
+<text><str>1058</str>
+<en>You lost? But how am I going to get my ball back? You've got to try again. &Try fighting yeti again? &Yes. &No.</en>
+<guy>Bartholomew</guy></text>
+<text><str>1057</str>
+<en>You lost! Oh, some brother you are. I'm never going to see my ball again, am I? &Try fighting yeti again? &Yes. &No.</en>
+<guy>Bartholomew</guy></text>
+<text><str>400</str>
+<en>Oh... I found my ball, I'd forgotten I lent it to Eugene yesterday. No harm done, right?</en>
+<guy>Bartholomew</guy></text>
+</stage><stage><info>2</info>
+<text><str>244</str>
+<en>I challenged a rhynoc to a traditional game of cat hockey, but I think I sprained my flipper during training. Would you mind taking my place? &Will you play cat hockey? &Yes. &No.</en>
+<guy>Errol</guy></text>
+<text><str>472</str>
+<en>Great, freeze the cats and push them into my goal to score. &[Push frozen cats into the blue goal. &[First one with 5 cats wins.</en>
+<guy>Errol</guy></text>
+<text><str>1108</str>
+<en>But if I can't find anyone to play for me I'll forfeit the championship.</en>
+<guy>Errol</guy></text>
+<text><str>1122</str>
+<en>Don't waste time talking to me, he's gonna score.</en>
+<guy>Errol</guy></text>
+<text><str>1110</str>
+<en>Well done, I think you deserve to keep the champion's cup.</en>
+<guy>Errol</guy></text>
+<text><str>439</str>
+<en>You gave that rhynoc such a drubbing he's retired from the sport for good.</en>
+<guy>Errol</guy></text>
+<text><str>1093</str>
+<en>You should ask for a rematch. I think that guy sprayed catnip in his goal. &Are you ready to play again? &Yes. &No.</en>
+<guy>Errol</guy></text>
+<text><str>294</str>
+<en>That rhynoc has been gloating ever since he beat you, but I think it was just a fluke. You should ask for a rematch! &Are you ready to play again? &Yes. &No.</en>
+<guy>Errol</guy></text>
+</stage></level><level><wad>138</wad><name>Lost Fleet</name><local>
+<hero><en>Crazy Ed</en></hero>
+</local><main>
+<text><str>196</str>
+<en>Be careful, roun' dese parts, li'l dragon! Dere be more ghosts in dis here shipyard den I kin shake me pick at! Durned shame, too, 'cause I was mighty close tuh findin' me treasure.</en>
+<guy>Crazy Ed</guy></text>
+<text><str>1080</str>
+<en>I reckon me treasure be thisaway... But we'll hafta blast through this bloomin' ship tuh git to it!</en>
+<guy>Crazy Ed</guy></text>
+<text><str>378</str>
+<en>'Nother dad burned ship in the way o' me treasure... Wouldja mind blastin' this one too?</en>
+<guy>Crazy Ed</guy></text>
+<text><str>437</str>
+<en>Wouldja lookit that! Some fool hid a dang gum egg in me treasure.</en>
+<guy>Crazy Ed</guy></text>
+</main><stage><info>1</info>
+<text><str>172</str>
+<en>Dese here waters used to be my favorite divin' spot, but I can't get any loot with dese subs patrollin' around. Think you kin pilot dis here sub I bought for scrap? &Ride the sub? &Yes. &No.</en>
+<guy>Crazy Ed</guy></text>
+<text><str>137</str>
+<en>Alrighty then. Press the < button to speed on up, and when you get a sub in your sights, the torpedo will start to lock on. If you get a good lock-on, fire away with the { button. &[Press < to speed up. &[Wait for red circles to lock on. &[Fire with { button!</en>
+<guy>Crazy Ed</guy></text>
+<text><str>1129</str>
+<en>Ah, dad gum, I gis I'll hafta git it workin' muhself.</en>
+<guy>Crazy Ed</guy></text>
+<text><str>273</str>
+<en>Well, I'll be durned! You've got some mean sub-drivin' skills. Why don't you 'ave dis here egg as a re-ward.</en>
+<guy>Crazy Ed</guy></text>
+<text><str>108</str>
+<en>Hoooohoooo, at last, the acid lake is safe fer swimmin' agin'! I wish I could re-ward ya better, but all I gots left is dis 'ere other egg. Maybe dere'll be something better in dis one.</en>
+<guy>Crazy Ed</guy></text>
+<text><str>147</str>
+<en>Well, I hate t' ask yer help again, but dere be even more subs that durn come outta nowheres. If you could blast 'em, I could use dis acid lake as muh swimmin' hole again. &Blast some more subs? &Yes. &No.</en>
+<guy>Crazy Ed</guy></text>
+<text><str>529</str>
+<en>Darn tootin'! Git on little dragon! &[Press < to speed up. &[Wait for red circles to lock on. &[Fire with { button!</en>
+<guy>Crazy Ed</guy></text>
+<text><str>548</str>
+<en>Well, come back whenevers y' like.</en>
+<guy>Crazy Ed</guy></text>
+<text><str>1149</str>
+<en>Ya kin ride the sub just for fun, if ya like. &Ride the sub for cheap thrills? &Yes. &No.</en>
+<guy>Crazy Ed</guy></text>
+<text><str>1146</str>
+<en>Okey Dokey, take good care of 'er, y' here?</en>
+<guy>Crazy Ed</guy></text>
+<text><str>1175</str>
+<en>Well, come back whenevers y' like.</en>
+<guy>Crazy Ed</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Crazy Ed</guy></text>
+</stage><stage><info>2</info>
+<text><str>0</str>
+<en>Awwwww, poor wittle dragon... did your friend go bye-bye? Now, now, don't worry... you'll soon be JOINING HIM!     -The Sorceress</en>
+<guy>-</guy></text>
+<text><str>89</str>
+<en>Spyro, you're just in time! A rhynoc skateboard gang has challenged us to a race. They said you're slower than a Molten Crater fire slug. I stuck up for you, though! I told them I've seen some pretty fast fire slugs.</en>
+<guy>Hunter</guy></text>
+<text><str>398</str>
+<en>So, are you ready to race these guys? They bet us an egg that you won't win! &Race the rhynocs? &Bring 'em on! &Some other time...</en>
+<guy>Hunter</guy></text>
+<text><str>125</str>
+<en>Right on! You can use my special racing board. Every time you do a trick, it builds up turbo charge. You can use your turbos at any time by pressing the > button. Good luck! &[Do tricks to get turbos. &[Use turbos by pressing the > button. &[Beat all rhynocs in 3 lap race.</en>
+<guy>Hunter</guy></text>
+<text><str>336</str>
+<en>Awww, shucks... I thought you'd want to race 'em. Well, just come talk to me if you change your mind.</en>
+<guy>Hunter</guy></text>
+<text><str>204</str>
+<en>Sheesh, what happened? I could beat these guys with my tail tied behind my back! I hope you do better this time, or we'll never live it down... &Race the rhynocs? &Bring 'em on! &Some other time...</en>
+<guy>Hunter</guy></text>
+<text><str>539</str>
+<en>Alright! Let 'em have it! &[Do tricks to get turbos. &[Use turbos by pressing the > button. &[Beat all rhynocs in 3 lap race.</en>
+<guy>Hunter</guy></text>
+<text><str>338</str>
+<en>Awww, shucks... I thought you'd want to race 'em. Well, just come talk to me if you change your mind.</en>
+<guy>Hunter</guy></text>
+<text><str>245</str>
+<en>Yeeesss!! You schooled 'em like a bunch of dizzy, one-toed sand gnorcs! ... Oh yeah, I guess we won this egg, too.</en>
+<guy>Hunter</guy></text>
+<text><str>120</str>
+<en>Now that the rhynocs are gone, do you want to try a real challenge? I know you're fast, but I bet you can't defeat all the crabs on the course and still beat me in a race! Want to give it a shot? &Accept Hunter's challenge? &You're on, pal! &No dice...</en>
+<guy>Hunter</guy></text>
+<text><str>1113</str>
+<en>Alright! Eat my skate-dust, sucker! &[Defeat all crabs on the course &[Beat Hunter in 3 lap race</en>
+<guy>Hunter</guy></text>
+<text><str>1039</str>
+<en>Heh heh, what's the matter, getting chicken on me? Bwaaak bwaaak bwaaaaaak! Bwak bwaak bwak bwak bwaaaaaaaaaak!</en>
+<guy>Hunter</guy></text>
+<text><str>482</str>
+<en>So, are you ready to take my challenge? &Accept Hunter's challenge? &You're on, pal! &No dice...</en>
+<guy>Hunter</guy></text>
+<text><str>457</str>
+<en>Alright! Eat my skate-dust, sucker! &[Defeat all crabs on the course &[Beat Hunter in 3 lap race</en>
+<guy>Hunter</guy></text>
+<text><str>1040</str>
+<en>Heh heh, you're just chicken aren't you? Bwaaak bwaaak bwaaaaaak! Bwak bwaak bwak bwak bwaaaaaaaaaak!</en>
+<guy>Hunter</guy></text>
+<text><str>266</str>
+<en>OK, you beat me Spyro, but you didn't get all the crabs. A dragon of your pedigree should really be able to do both!</en>
+<guy>Hunter</guy></text>
+<text><str>456</str>
+<en>Woooohooo! I'm still the speed king of the world!</en>
+<guy>Hunter</guy></text>
+<text><str>122</str>
+<en>Sheesh, I can't believe you beat me! You must have been practicing the whole time I thought you were looking for eggs... Hey, speaking of which, one of those crabs was guarding this one...</en>
+<guy>Hunter</guy></text>
+<text><str>370</str>
+<en>You might be able to beat me at skateboarding, but I still get all the chicks.</en>
+<guy>Hunter</guy></text>
+</stage></level><level><wad>140</wad><name>Fireworks Factory</name><local>
+<hero><en>Handel</en></hero>
+<hero><en>Greta</en></hero>
+</local><main>
+<text><str>0</str>
+<en>Dear Spirow, or whatever your name is, GIVE IT UP! I've got the monkey, and I'm not giving it back.\     Love,\     The Sorceress</en>
+<guy>-</guy></text>
+<text><str>0</str>
+<en>Sorry... lab taken over... rhynocs everywhere...\       -Agent 9</en>
+<guy>-</guy></text>
+<text><str>0</str>
+<en>Come on in, it's laser time!\        -Agent 9</en>
+<guy>-</guy></text>
+<text><str>104</str>
+<en>Oh hewwo, it's good to see you again, Spywo. That naughty sorcewess has stolen the pwofessor's wocket plans and I'm on a secwet mission to find them. Handel was supposed to meet me here but I can't find him anywhere. Maybe you could help?</en>
+<guy>Greta</guy></text>
+<text><str>243</str>
+<en>It looks like you'll have to use this cannon to get across here, simply climb aboard. As for me I just have to fwee my mind...</en>
+<guy>Greta</guy></text>
+<text><str>326</str>
+<en>It looks like the sorcewess has already used the plans to build her own wocket. We have to destwoy it. Just follow me.</en>
+<guy>Greta</guy></text>
+<text><str>1061</str>
+<en>Hey, look what was in the wocket. They must have been twying to put it into orbit.</en>
+<guy>Greta</guy></text>
+<text><str>1081</str>
+<en>If you see Handel tell him I've gone back to Evening Lake to finish work on the pwofessor's wocket.</en>
+<guy>Greta</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Greta</guy></text>
+</main><stage><info>1</info>
+<text><str>235</str>
+<en>Uh oh. You'll have to use this combo powerup to take out these fire dwagons. It will allow you to superfwy and superfwame at the same time. &[Defeat the two flying fire dragons &[The fire dragons will grow back their tails when left alone.</en>
+<guy>Handel</guy></text>
+<text><str>1109</str>
+<en>Here have this. I fished it out of the molten wava.</en>
+<guy>Handel</guy></text>
+<text><str>344</str>
+<en>You can't afford to waste any time Spywo. If you leave the fire dwagons alone their tails will gwo back.</en>
+<guy>Handel</guy></text>
+<text><str>528</str>
+<en>I knew those monsters would be no match for you.</en>
+<guy>Handel</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Handel</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Handel</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Handel</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Handel</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Handel</guy></text>
+</stage><stage><info>2</info>
+<text><str>1020</str>
+<en>Hey Spyro, I'm helping a kid called Handel recover some secret rocket plans the Sorceress stole. You know I'm always ready to kick some rhynoc booty.</en>
+<guy>Agent 9</guy></text>
+<text><str>107</str>
+<en>Hi, Agent 9! Behind those doors are some pwetty scary ninjas! I bet you could use your sharp shooter skills to take them out. Wemember, pwess the { button to shoot and use @4L1@0 and @4R1@0 to dodge left and wight. &[Defeat the ninjas to find the baby dragon egg. &[Press the } button to enter sniper mode &[Use @0L1@4 and @0R1@4 to zoom in and out while in sniper mode</en>
+<guy>Handel</guy></text>
+<text><str>359</str>
+<en>Thanks for wescuing me, you'd better look after this egg before the whynocs twy to blow that up too.</en>
+<guy>Handel</guy></text>
+<text><str>438</str>
+<en>Thanks for helping me Agent 9. Those whynocs never knew what hit them.</en>
+<guy>Handel</guy></text>
+</stage><stage><info>3</info>
+<text><str>285</str>
+<en>I think I can see an egg behind you, but it's out of weach. You'll have to take the long way wound through all these whynocs to get to it.</en>
+<guy>Handel</guy></text>
+<text><str>1152</str>
+<en>Watch out for that wava, it looks super hot.</en>
+<guy>Handel</guy></text>
+</stage></level><level><wad>142</wad><name>Charmed Ridge</name><local>
+<hero><en>Jack</en></hero>
+<hero><en>Isabelle</en></hero>
+<hero><en>Liz</en></hero>
+<hero><en>Molly</en></hero>
+<hero><en>Princess Ami</en></hero>
+<hero><en>Eileen</en></hero>
+<hero><en>Alicia</en></hero>
+</local><main>
+<text><str>1090</str>
+<en>There's no time to lose! Prince Azrael and his cat armies are about to steal our poor princess!</en>
+<guy>Alicia</guy></text>
+<text><str>346</str>
+<en>Hurry, Spyro! If we don't get to the castle right away, the princess will be forced to marry that loser, Prince Azrael!</en>
+<guy>Eileen</guy></text>
+<text><str>158</str>
+<en>Well, Spyro, today is your lucky day! The wizards and I have worked out a little deal. If you simply pay a small toll, they'll be happy to raise these steps and let you pass. &Pay ^^^ gems to raise the steps? &Yes. &No.</en>
+<guy>Moneybags</guy></text>
+<text><str>1009</str>
+<en>You have chosen wisely, Spyro. I'll tell the wizards to raise the steps immediately... And, err, best of luck rescuing that princess, or whatever it is you're up to...</en>
+<guy>Moneybags</guy></text>
+<text><str>194</str>
+<en>Suit yourself, Spyro... but every time I think of that poor, poor fairy princess being captured by those villainous wizards, I simply break down in tears.</en>
+<guy>Moneybags</guy></text>
+<text><str>178</str>
+<en>Say, Spyro, if you had a bit more money, I think I could make a deal with the wizards to raise these steps. I'm afraid that's the only way you'll be able to get to the castle. &[^^^ gems needed to use steps.</en>
+<guy>Moneybags</guy></text>
+<text><str>207</str>
+<en>You know, come to think of it, the wizards only agreed to raise the steps. They never said they wouldn't lower them again... heh heh... Those guys are pretty clever, aren't they?</en>
+<guy>Moneybags</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>-</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>-</guy></text>
+<text><str>0</str>
+<en>Step inside, old chum!    -Sgt. James Byrd</en>
+<guy>-</guy></text>
+<text><str>48</str>
+<en>Ohh... hee hee... Hi, Spyro! Isn't Prince Azrael just the dreamiest? The other fairies and wizards won't let us get married, so we're going to elope! ... By the way, Azrael says you can have this egg if you don't tell anyone where we went!</en>
+<guy>Princess Ami</guy></text>
+<text><str>401</str>
+<en>I just saw Prince Azrael run into the castle! We have to stop him before he reaches the princess!</en>
+<guy>Molly</guy></text>
+<text><str>164</str>
+<en>Spyro, we urgently need your help! The evil cat wizards of Felinia have stormed our castle and captured our princess! If we don't stop them right away, they'll force her to marry Prince Azrael!</en>
+<guy>Liz</guy></text>
+</main><stage><info>1</info>
+<text><str>51</str>
+<en>Good day, Spyro! I'd like to stay and chat, but I'm late for a... err... an engagement with a fairy friend of mine... err... she's just a friend, you understand... it's a strictly platonic relationship... it's certainly not a violation of military protocol whatsoever... What? What are you giving me that look for?</en>
+<guy>Sgt. Byrd</guy></text>
+<text><str>63</str>
+<en>Where have you been, James? We were supposed to meet in the temple an hour ago! And don't give me that old 'matters of national security' line again! ... I guess it doesn't matter, though... the whole temple is full of nasty cat witches, anyway. We'll just have to call off our date... that is, unless you want to battle the witches...</en>
+<guy>Isabelle</guy></text>
+<text><str>203</str>
+<en>So, I see those rocket launchers aren't just for show after all... Well, I just hope your accuracy is better than your punctuality, because there are still a lot more witches in the temple.</en>
+<guy>Isabelle</guy></text>
+<text><str>202</str>
+<en>I must admit, James, I am impressed... There are still a few witches left, though, and this time they mean business! They even turned the floor into deadly blue ooze. Oh, be careful, ok?</en>
+<guy>Isabelle</guy></text>
+<text><str>155</str>
+<en>You did it, James!!! I knew you weren't the leader of the Hummingbird Resistance Movement for nothing! Now we have the temple all to ourselves... but first, I have a present for you...</en>
+<guy>Isabelle</guy></text>
+</stage><stage><info>2</info>
+<text><str>1050</str>
+<en>According to legends, there's a golden goose at the top of this here mountain. I want to be the first person to the top, so I can grab it!</en>
+<guy>Jack</guy></text>
+<text><str>1089</str>
+<en>By the way, if you can't figure out what to do next, we can always start over. &Start the puzzle over? &Yes. &No.</en>
+<guy>Jack</guy></text>
+<text><str>547</str>
+<en>OK, here are your seeds again.</en>
+<guy>Jack</guy></text>
+<text><str>1168</str>
+<en>Well, good luck. It's got me stumped.</en>
+<guy>Jack</guy></text>
+<text><str>185</str>
+<en>I just bought some insta-sprout-ultra-super-grow seeds from a bear with a bag of gems. He said they were magic, but I can't make them do anything. You can have a couple, if you like.</en>
+<guy>Jack</guy></text>
+<text><str>317</str>
+<en>At last! I've found the legendary golden goose! You can have another one of its eggs for a souvenir!</en>
+<guy>Jack</guy></text>
+<text><str>1151</str>
+<en>That's the ugliest goose I've ever seen!</en>
+<guy>Jack</guy></text>
+<text><str>1050</str>
+<en>According to legends, there's a golden goose at the top of this here mountain. I want to be the first person to the top, so I can grab it!</en>
+<guy>Jack</guy></text>
+<text><str>1089</str>
+<en>By the way, if you can't figure out what to do next, we can always start over. &Start the puzzle over? &Yes. &No.</en>
+<guy>Jack</guy></text>
+<text><str>547</str>
+<en>OK, here are your seeds again.</en>
+<guy>Jack</guy></text>
+<text><str>1168</str>
+<en>Well, good luck. It's got me stumped.</en>
+<guy>Jack</guy></text>
+<text><str>185</str>
+<en>I just bought some insta-sprout-ultra-super-grow seeds from a bear with a bag of gems. He said they were magic, but I can't make them do anything. You can have a couple, if you like.</en>
+<guy>Jack</guy></text>
+<text><str>233</str>
+<en>pant... pant... I found this egg on the way up here... I think it was laid by a golden goose! We'll have to keep going... We're almost to the top!</en>
+<guy>Jack</guy></text>
+<text><str>493</str>
+<en>You've been doing great so far, why don't you take two more seeds?</en>
+<guy>Jack</guy></text>
+<text><str>1150</str>
+<en>If you get stuck, we can always restart this section. &Restart this part of puzzle? &Yes. &No.</en>
+<guy>Jack</guy></text>
+<text><str>546</str>
+<en>OK, here are your seeds again.</en>
+<guy>Jack</guy></text>
+<text><str>286</str>
+<en>OK, best of luck! These here thinking puzzles are too tough for me. I prefer action gameplay.</en>
+<guy>Jack</guy></text>
+</stage></level><level><wad>144</wad><name>Honey Speedway</name><local>
+</local><main>
+<text><str>0</str>
+<en>Attention dragon: if you ever want to see your mangy cat friend again, you had better leave here at once!\     -The Sorceress</en>
+<guy>-</guy></text>
+<text><str>1190</str>
+<en>Which challenge would you like to play? &Choose a challenge: &Time Attack &Race the Bumblebees &Exit Level</en>
+<guy>Sparx</guy></text>
+<text><str>61</str>
+<en>The easiest way to complete this time attack is to fly through all the honeycombs first, then pass through the bee-hives, then defeat the bees, and save the boat riding bears for last. Once you've solved it that way, you can always find ways to solve it faster.</en>
+<guy>Sparx</guy></text>
+<text><str>193</str>
+<en>You're opponents are a gang of giant bumblebees this time! The red dots will mark the course. Make sure to fly through each of the green rings. &[Fly through all green rings &[Use the red dots to guide you.</en>
+<guy>Sparx</guy></text>
+<text><str>436</str>
+<en>Are you done already? Too bad, I was having fun watching...</en>
+<guy>Sparx</guy></text>
+<text><str>475</str>
+<en>Yippee! We won another egg for defeating the time trial!</en>
+<guy>Sparx</guy></text>
+<text><str>1042</str>
+<en>We won an egg for first prize! Those dumblebees should have known better than to challenge a dragon to a flying race.</en>
+<guy>Sparx</guy></text>
+<text><str>474</str>
+<en>Going for the speed record, huh? Good luck!</en>
+<guy>Sparx</guy></text>
+<text><str>206</str>
+<en>Remember to go for every blue turbo star that you can, even if it means straying from the course. Just don't miss any rings, or you'll be disqualified. &[Use the blue turbo stars. &[Fly through all green rings</en>
+<guy>Sparx</guy></text>
+<text><str>103</str>
+<en>Remember, you don't have to follow the red dots exactly. Try to take short cuts between rings when you can. Also, for the fastest speed, always try to fly as low as you can. &[Cut corners between the green rings. &[Flying lower gives you extra speed.</en>
+<guy>Sparx</guy></text>
+<text><str>192</str>
+<en>Honeycomb Speedway is home to the fastest racing bees in the world. It's also one of the only speedways that operates at night!</en>
+<guy>Sparx</guy></text>
+<text><str>157</str>
+<en>Look out, Spyro, there's a really big sheep UFO around here, and it's trying to get me! I snatched up a dragon egg it was trying to abduct, and now it wants revenge!</en>
+<guy>Hunter</guy></text>
+<text><str>1123</str>
+<en>You wait here, I'll lure the UFO down the river of honey! &Should Hunter go for it? &Go ahead, I'll cover you! &Nah, it's no big deal.</en>
+<guy>Hunter</guy></text>
+<text><str>1169</str>
+<en>OK, here I go!</en>
+<guy>Hunter</guy></text>
+<text><str>1092</str>
+<en>I don't know, Spyro, I've never seen a sheep UFO this mad before...</en>
+<guy>Hunter</guy></text>
+<text><str>269</str>
+<en>Ha ha! Did you see that? Nobody outraces a cheetah! And look, I didn't even drop the egg!</en>
+<guy>Hunter</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Hunter</guy></text>
+</main></level><level><wad>146</wad><name>Bentley's Outpost</name><local>
+</local><main>
+<text><str>169</str>
+<en>I will gladly help you on your quest, Spyro, but first I must attend to my young sibling. I'm afraid he may have gotten himself into trouble during my absence.</en>
+<guy>Bentley</guy></text>
+<text><str>1131</str>
+<en>It's good to know that Bartholomew is out of harm's way. &Leave the level? &Yes. &No.</en>
+<guy>Bentley</guy></text>
+<text><str>248</str>
+<en>I will sojourn amongst the worlds and if I find any eggs I'll do my utmost to recover them for you.</en>
+<guy>Bentley</guy></text>
+<text><str>387</str>
+<en>Ah well, I must return to my humble abode, for the time being.</en>
+<guy>Bentley</guy></text>
+<text><str>454</str>
+<en>I'm afraid I still have to attend to the safety of young Bartholomew. &Level not finished... &Do you really want to leave? &Yes. &No.</en>
+<guy>Bentley</guy></text>
+<text><str>385</str>
+<en>Well I'd love to leave with you but I still have to look after Bartholomew.</en>
+<guy>Bentley</guy></text>
+<text><str>1038</str>
+<en>I'm afraid my home is still infested with rhynocs, I'll return when they are dealt with.</en>
+<guy>Bentley</guy></text>
+<text><str>409</str>
+<en>Hey bro! It'd be really cool if you smashed that boulder. A swift smack should do the trick.</en>
+<guy>Bartholomew</guy></text>
+<text><str>1049</str>
+<en>C'mon, c'mon just press the { button to swing your club. I wanna see it break into a million pieces.</en>
+<guy>Bartholomew</guy></text>
+<text><str>1088</str>
+<en>I heard those big bullies calling you a wuss. You're not going to let them get away with that are you?</en>
+<guy>Bartholomew</guy></text>
+<text><str>335</str>
+<en>If you use your spin move to deflect the snowball into the gong I bet we can make the roof cave in.</en>
+<guy>Bartholomew</guy></text>
+<text><str>347</str>
+<en>We have to get the timing just right. Press the > button to spin your club when I throw a snowball.</en>
+<guy>Bartholomew</guy></text>
+<text><str>411</str>
+<en>It took me forever to train those seals to throw snowballs. Now they've gone and turned on me!</en>
+<guy>Bartholomew</guy></text>
+<text><str>466</str>
+<en>Oh no, another seal, and this one looks really mean.</en>
+<guy>Bartholomew</guy></text>
+<text><str>410</str>
+<en>Another gong, great. I bet we can cause an avalanche with this one!</en>
+<guy>Bartholomew</guy></text>
+<text><str>308</str>
+<en>A stinkin' rhynoc has blocked the way with this box. It shouldn't be any problem for you to push it out of the way though.</en>
+<guy>Bartholomew</guy></text>
+<text><str>282</str>
+<en>Pushing that block is easy for a big guy like you. Just stand next to the block and push forward on the directional button.</en>
+<guy>Bartholomew</guy></text>
+<text><str>1033</str>
+<en>Hey brainiac, you're supposed to be smart. Why don't you try pushing those blocks around to bridge that gap?</en>
+<guy>Bartholomew</guy></text>
+<text><str>501</str>
+<en>Thanks bro! Here's a little something for your rock collection.</en>
+<guy>Bartholomew</guy></text>
+<text><str>543</str>
+<en>Hey you're in the way. Move it!</en>
+<guy>Bartholomew</guy></text>
+</main></level><level><wad>148</wad><name>Scorch's Pit</name><local>
+</local><main>
+<text><str>44</str>
+<en>This might be our last stand, Spyro. The Sorceress plans to use this monster to destroy every iota of her opposition, beginning with the two of us. Alas, there is no time for ruminating, a battle awaits us... I will endeavor to assist you by means of a steady provision of combustible projectiles.</en>
+<guy>Bentley</guy></text>
+</main></level><level><wad>150</wad><name>Starfish Reef</name><local>
+</local><main>
+</main></level><level><wad>152</wad><name>Midnight Mountain Home</name><local>
+</local><main>
+<text><str>270</str>
+<en>This portal has been sealed with the strongest magic I've ever seen. You'll need all the dragon eggs and all the gems from each world to break the seal.</en>
+<guy>Zoe</guy></text>
+<text><str>219</str>
+<en>Sparx can help you find the rest of the gems. When you hold down @4L1, L2, R1, and R2@0 at the same time, he will point to the nearest treasure in that area.</en>
+<guy>Zoe</guy></text>
+<text><str>1028</str>
+<en>Once you complete Sparx's special tasks in Sunrise Spring Home and Midday Garden Home, he will gain new abilities that will make collecting gems much easier!</en>
+<guy>Zoe</guy></text>
+<text><str>199</str>
+<en>Just before you kicked the Sorceress's big, fat, ugly butt she built a factory to make robotic bugs to fight Sparx, but I don't think they're any match for him. &Enter Bugbot Factory bonus world? &Yes. &No.</en>
+<guy>Zoe</guy></text>
+<text><str>373</str>
+<en>That's it Sparx, you've found all the lost eggs, but you can still go back to the Bugbot Factory if you like. &Return to Bugbot Factory bonus world? &Yes. &No.</en>
+<guy>Zoe</guy></text>
+<text><str>119</str>
+<en>That last egg must have had some extra magic, because it gave Sparx two new abilities. Now he can break open treasure chests, and, using the Atlas, he can warp you to any level. Just select the level you want and press the > button.</en>
+<guy>Zoe</guy></text>
+<text><str>0</str>
+<en>Yes.</en>
+<guy>Zoe</guy></text>
+<text><str>0</str>
+<en>No.</en>
+<guy>Zoe</guy></text>
+<text><str>0</str>
+<en>Thanks for freeing me. Why don't you come visit me in my home world.</en>
+<guy>Agent 9</guy></text>
+<text><str>96</str>
+<en>Well, well, Spyro, look what I have here. It's a life-size space monkey action figure, complete with a fully operational laser! I'd love to let him out so you can play with him, but the Sorceress seems to think he's a menace. &Pay ^^^^ gems to free the monkey? &Release him. &Nah, you can keep him.</en>
+<guy>Moneybags</guy></text>
+<text><str>1011</str>
+<en>Heh heh, you've always had a weakness for helping silly little creatures, haven't you, Spyro? Ah well, I suppose there couldn't be any harm in letting him out, could there?</en>
+<guy>Moneybags</guy></text>
+<text><str>187</str>
+<en>You don't want to free him? Ahhh, what's the matter, little dragon? Are you just jealous that no one has ever made an action figure out of you?</en>
+<guy>Moneybags</guy></text>
+<text><str>59</str>
+<en>Hello there, Spyro, how do you like my new space monkey action figure? Incredibly life-like, don't you think? You'd almost think he was actually intelligent, heh heh. I suppose I might consider selling him to you... but you'll have to come up with a bit more cash first. &[^^^^ gems needed to free critter</en>
+<guy>Moneybags</guy></text>
+<text><str>0</str>
+<en>...</en>
+<guy>Moneybags</guy></text>
+<text><str>42</str>
+<en>Don't worry, Spyro, I won't be needing any more of your money... Now, now, don't look so surprised! I found one of the dragon eggs, and I'm going to sell it for a fortune back in Avalar! Errr... uh oh... why are you looking at me like that? I... errr... heh heh... I've got to be going now! Toodles!</en>
+<guy>Moneybags</guy></text>
+<text><str>67</str>
+<en>...pant pant... Drat! ...pant pant... Double drat! ...pant pant... Drat drat drat drat drat drat drat! ... pant pant... I never knew dragons were so fast... That's it... I give up... I'm retiring to Spooky Swamp to become a haiku poet...</en>
+<guy>Moneybags</guy></text>
+<text><str>70</str>
+<en>Spyro, I know you don't trust me, but I want to help you stop the Sorceress. There's a way to open a hidden portal to her lair, but it'll take some very strong magic... If you can find more of the dragon eggs, I think my magic will be strong enough to open the portal. I'll come find you when you have enough eggs, okay?</en>
+<guy>Bianca</guy></text>
+<text><str>143</str>
+<en>You did it, Spyro! You found enough of the dragon eggs for me to unlock the portal. Once I've opened it, you can confront the Sorceress whenever you're ready... but be careful, she'll be expecting you...</en>
+<guy>Bianca</guy></text>
+<text><str>348</str>
+<en>Good luck, Spyro... and watch out, she's very powerful and very sneaky.</en>
+<guy>Bianca</guy></text>
+<text><str>70</str>
+<en>Spyro, I know you don't trust me, but I want to help you stop the Sorceress. There's a way to open a hidden portal to her lair, but it'll take some very strong magic... If you can find more of the dragon eggs, I think my magic will be strong enough to open the portal. I'll come find you when you have enough eggs, okay?</en>
+<guy>Bianca</guy></text>
+<text><str>143</str>
+<en>You did it, Spyro! You found enough of the dragon eggs for me to unlock the portal. Once I've opened it, you can confront the Sorceress whenever you're ready... but be careful, she'll be expecting you...</en>
+<guy>Bianca</guy></text>
+<text><str>348</str>
+<en>Good luck, Spyro... and watch out, she's very powerful and very sneaky.</en>
+<guy>Bianca</guy></text>
+<text><str>0</str>
+<en>Spyro, I've got a special task for Sparx. Meet me back here later!           -Zoe</en>
+<guy>-</guy></text>
+</main></level><level><wad>154</wad><name>Crystal Islands</name><local>
+<hero><en>The Amazing Randini</en></hero>
+<hero><en>The Great Zamboni</en></hero>
+<hero><en>The Magnificent Marvello</en></hero>
+<hero><en>The Astounding Arturo</en></hero>
+<hero><en>The Fantastic Frederico</en></hero>
+<hero><en>The Marvelous Magnifico</en></hero>
+</local><main>
+<text><str>73</str>
+<en>Spyro, did you know I happen to be a very talented amateur magician? My specialty is the, err... 'Amazing Extending Bridge' trick. I'd love to show you, but I need a small donation first... for my expenses, you understand... &Pay ^^^^ gems to cross the bridge? &Not again... Ok, fine... &I'm happy over here.</en>
+<guy>Moneybags</guy></text>
+<text><str>255</str>
+<en>Very good. Errr... let's see... 'Hocus Pocus, Zigglety Zen, Make This Bridge Get Long Again!'</en>
+<guy>Moneybags</guy></text>
+<text><str>280</str>
+<en>You shouldn't anger a magician, Spyro. I just might decide to turn you into a blue hedgehog or something.</en>
+<guy>Moneybags</guy></text>
+<text><str>47</str>
+<en>Hmph... These gnomes think they're so talented... I happen to know a pretty good magic trick, myself! It's called the... incredible... magical... err, extending bridge trick. However, you'll need a few more gems to make a donation... After all, I am just a poor, starving amateur magician... &[Crossing bridge costs ^^^^ gems.</en>
+<guy>Moneybags</guy></text>
+<text><str>1075</str>
+<en>I'm afraid the show's over, Spyro. Why don't you go play with the gnomes? I think they look lonely.</en>
+<guy>Moneybags</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>-</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>-</guy></text>
+<text><str>0</str>
+<en>Welcome, most esteemed dragon.\        -Bentley</en>
+<guy>-</guy></text>
+<text><str>115</str>
+<en>Shhh! Spyro, don't tell anyone but we've stolen some magic from the Sorceress. We're hiding here whilst we practice using it. Unfortunately we've had a bit of an accident and turned everything into crystal, and it seems to have aggravated the indiginous creatures.</en>
+<guy>The Marvelous Magnifico</guy></text>
+<text><str>1156</str>
+<en>I really think I'm beginning to get the hang of this magic malarkey.</en>
+<guy>The Marvelous Magnifico</guy></text>
+<text><str>279</str>
+<en>Acrabadabar...no...acrabadadoo...no, no, that isn't right. Just hold on a minute I'll get it.</en>
+<guy>The Marvelous Magnifico</guy></text>
+<text><str>1018</str>
+<en>All this magic is just misdirection you know. Which is why I'm going to start that whirlwind over there... ABRACADABRA!</en>
+<guy>The Fantastic Frederico</guy></text>
+<text><str>1016</str>
+<en>Ok, I'll show you again. If you watch carefully maybe you'll be able to see how it's done... ABRACADABRA!</en>
+<guy>The Fantastic Frederico</guy></text>
+<text><str>431</str>
+<en>I'm working on a new trick now, but I've left the whirlwind going in case you need to use it.</en>
+<guy>The Fantastic Frederico</guy></text>
+<text><str>1126</str>
+<en>I've been working on a great new magic trick, but this bear keeps spoiling it.</en>
+<guy>The Astounding Arturo</guy></text>
+<text><str>189</str>
+<en>Well, I suppose I could show you my new trick. As long as you promise not to tell the Great Zamboni, he steals all my best work... ALAKAZAM!</en>
+<guy>The Astounding Arturo</guy></text>
+<text><str>405</str>
+<en>Did you tell the Great Zamboni? That charlatan has been stealing my tricks again.</en>
+<guy>The Astounding Arturo</guy></text>
+<text><str>1074</str>
+<en>Here, you can have this. I was going to use it in a trick, but my magic just keeps bouncing off.</en>
+<guy>The Magnificent Marvello</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>The Magnificent Marvello</guy></text>
+<text><str>95</str>
+<en>Would you like to see a magic trick? Watch carefully, as you can see there is nothing up my left sleeve, nothing up my right sleeve, but now with a wave of my hands and the magic word... ALAKAZAM!</en>
+<guy>The Great Zamboni</guy></text>
+<text><str>1015</str>
+<en>You want to see the trick again? Well, alright but I want you to know this isn't as easy as it looks... ALAKAZAM!</en>
+<guy>The Great Zamboni</guy></text>
+<text><str>421</str>
+<en>Hey, I finally seem to have got the hang of this, those crystals have stayed up for ages.</en>
+<guy>The Great Zamboni</guy></text>
+</main><stage><info>1</info>
+<text><str>1002</str>
+<en>Good evening Spyro. The Amazing Randini is about to put on a display of prestidigitation. I've heard that it's quite impressive so I'm going to watch the show.</en>
+<guy>Bentley</guy></text>
+<text><str>241</str>
+<en>I'm afraid my magic show seems to have over excited the moles. They need a good bonk on the head to calm them down, and you look like just the man to help. &Bash the moles? &Yes &No</en>
+<guy>The Amazing Randini</guy></text>
+<text><str>406</str>
+<en>A light tap on the head should sort them out, but watch out for my friends, they're trying to burrow after them. &[Bash the moles with your club. &[Don't bash the gnomes.</en>
+<guy>The Amazing Randini</guy></text>
+<text><str>460</str>
+<en>Well I hope the moles calm down soon, I've created a fantastic new trick I want to show them.</en>
+<guy>The Amazing Randini</guy></text>
+<text><str>322</str>
+<en>The moles are still a little over excited and I can't start my next performance unitl they calm down, are you sure you can't help? &Bash the moles? &Yes &No</en>
+<guy>The Amazing Randini</guy></text>
+<text><str>423</str>
+<en>I don't think you should be wasting time talking to me, those moles are still going crazy.</en>
+<guy>The Amazing Randini</guy></text>
+<text><str>407</str>
+<en>Well that didn't do it. See they've got themselves all worked up into a tizzy. You'll have to try again. &Try to bash the moles again? &Yes &No</en>
+<guy>The Amazing Randini</guy></text>
+<text><str>1082</str>
+<en>Well done, and look, one of my friends dug up this whilst chasing the moles.</en>
+<guy>The Amazing Randini</guy></text>
+<text><str>1064</str>
+<en>I'm afraid I've had to cancel my next performance. One of the moles ate all my magic cards.</en>
+<guy>The Amazing Randini</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>The Amazing Randini</guy></text>
+</stage></level><level><wad>156</wad><name>Desert Ruins</name><local>
+<hero><en>Tara</en></hero>
+<hero><en>Gus</en></hero>
+</local><main>
+<text><str>52</str>
+<en>Hello, you must be Spyro! A lot of people are talking about all the things you've done for them... Do you think you could help find my girlfriend, Tara? She went off to raid the Tomb of the Stone Golem, and I haven't seen her since. I'd go look inside the tomb myself, but, you know, there's all these scorpions and stuff.</en>
+<guy>Gus</guy></text>
+<text><str>56</str>
+<en>Well, Spyro, I bet you're glad to see me! It just happens that I know the, err... password to open the door to the Tomb of the Stone Golem... but, err... it seems to have slipped my mind for the moment... if you know what I mean. &Pay ^^^ gems to learn password? &OK, fine. &Some other time.</en>
+<guy>Moneybags</guy></text>
+<text><str>240</str>
+<en>Heh heh, very well then, the password to open the tomb is... are you ready? ... heh heh... 'Gullible'.</en>
+<guy>Moneybags</guy></text>
+<text><str>227</str>
+<en>It's just as well, I've heard there are enough riches inside this tomb to pay a dragon's ransom... err... so to speak.</en>
+<guy>Moneybags</guy></text>
+<text><str>140</str>
+<en>I am dreadfully sorry, Spyro, but I can't let common riff raff into the Tomb of the Stone Golem. Only the crustiest of the upper crust may pass through here. &[Entering tomb costs ^^^ gems.</en>
+<guy>Moneybags</guy></text>
+<text><str>1019</str>
+<en>OK, there was no password. I was standing in front of the wall switch. What are you going to do, sue me?</en>
+<guy>Moneybags</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>-</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>-</guy></text>
+<text><str>0</str>
+<en>Come on in!\     -Sheila</en>
+<guy>-</guy></text>
+<text><str>74</str>
+<en>Well, well, look at you... showing up here to raid the tomb, after I've done all the work. I spend all day pressing switches and shoving boxes around, and you just waltz in here expecting to claim the treasure! Well, you might as well have it. It only turned out to be a lousy egg, anyway.</en>
+<guy>Tara</guy></text>
+<text><str>422</str>
+<en>I'll be going now. After all, a girl of my abundant talents has to keep herself busy.</en>
+<guy>Tara</guy></text>
+</main><stage><info>1</info>
+<text><str>223</str>
+<en>Hi, Spyro! Haven't seen you in a while. I'm just off for a bit of a walkabout, right now. You know, sometimes you just long for the simple, old-fashioned pleasures of yesteryear, doncha?</en>
+<guy>Sheila</guy></text>
+</stage><stage><info>2</info>
+<text><str>1007</str>
+<en>I've been training my new pet manta ray to carry the latest technology super-high-impact underwater missile launchers! Wanna ride him, and try blastin' some sharks? &Ride manta ray and shoot sharks? &Yes &No</en>
+<guy>Hunter</guy></text>
+<text><str>281</str>
+<en>Just watch out for the shark riders. They're carrying the latest JX-5 underwater tracking ammunition.</en>
+<guy>Hunter</guy></text>
+<text><str>208</str>
+<en>What, you're not afraid of a few robotic sharks, are you? Or is it the rhynocs with ultra-explosive JX-5 tracking ammo that have you worried?</en>
+<guy>Hunter</guy></text>
+<text><str>404</str>
+<en>Try not to get hit by the exploding ammo, OK? I don't want to scare off my new pet.</en>
+<guy>Hunter</guy></text>
+<text><str>93</str>
+<en>Nice shootin', comrade! Where'd you learn to aim like that? Oh, by the way, Bianca wanted me to give you this egg. She says she accidentally turned it into a woolly mammoth for five minutes, but it should still be ok.</en>
+<guy>Hunter</guy></text>
+<text><str>1133</str>
+<en>You can ride the manta ray around just for fun, if you like. &Ride the manta ray for fun? &You bet! &Maybe later.</en>
+<guy>Hunter</guy></text>
+<text><str>1182</str>
+<en>Ready to try again? &Ride manta ray and shoot sharks? &Yes &No</en>
+<guy>Hunter</guy></text>
+<text><str>520</str>
+<en>Right on, go get 'em! &[{ button to fire. &[< or > button for turbo.</en>
+<guy>Hunter</guy></text>
+<text><str>211</str>
+<en>What, you're not afraid of a few robotic sharks, are you? Or is it the rhynocs with ultra-explosive JX-5 tracking ammo that have you worried?</en>
+<guy>Hunter</guy></text>
+<text><str>573</str>
+<en>Have fun!</en>
+<guy>Hunter</guy></text>
+<text><str>1006</str>
+<en>OK. By the way, if you see Bianca around, can you tell her to meet me here? I... uh... promised I'd give her scuba lessons once the sharks were gone.</en>
+<guy>Hunter</guy></text>
+</stage></level><level><wad>158</wad><name>Haunted Tomb</name><local>
+<hero><en>Ali</en></hero>
+<hero><en>Jamal</en></hero>
+<hero><en>Allgeier</en></hero>
+<hero><en>Dan</en></hero>
+</local><main>
+<text><str>54</str>
+<en>Ahhh, yet another dare-devil adventurer has come to rob our catacombs of loot! Let's just hope you're made of tougher stuff than the last guy... If you can survive the trials of our catacombs and answer my riddle, we will give you a prize befitting your efforts.</en>
+<guy>Dan</guy></text>
+<text><str>130</str>
+<en>Here is my riddle:\ I am a vessel without hinges, lock or lid,\ yet, within my walls, a golden treasure is hid.\ What am I?</en>
+<guy>Dan</guy></text>
+<text><str>1045</str>
+<en>Don't try to answer the riddle now. You'll need to save your breath to survive the trials of the catacombs.</en>
+<guy>Dan</guy></text>
+<text><str>0</str>
+<en>GET LOST, DRAGON! There is no 'Agent 9'. Take your conspiracy theories and go back where you came from!\      -The Sorceress</en>
+<guy>-</guy></text>
+<text><str>0</str>
+<en>Lab's full o' rhynocs... gotta help professor...\        -Agent 9</en>
+<guy>-</guy></text>
+<text><str>0</str>
+<en>Come on in, it's laser time!\        -Agent 9</en>
+<guy>-</guy></text>
+<text><str>1017</str>
+<en>I see you've managed to survive the trials of the catacombs. Now let's find out if your wits are as quick as your feet. Do you remember the riddle?</en>
+<guy>Allgeier</guy></text>
+<text><str>209</str>
+<en>I am a vessel without hinges, lock or lid,\ yet, within my walls, a golden treasure is hid.\ What am I? &A bone &An egg &A treasure chest &A bandicoot</en>
+<guy>Allgeier</guy></text>
+<text><str>1003</str>
+<en>Hmmmm... have you heard that one before? I never thought you'd get it. Very well, a bargain is a bargain. You may have the dragon egg that I was guarding from the Sorceress.</en>
+<guy>Allgeier</guy></text>
+<text><str>316</str>
+<en>Sorry, dragon, that's completely wrong. You can try again, but you'll never get it by merely guessing.</en>
+<guy>Allgeier</guy></text>
+<text><str>216</str>
+<en>I've waited seven thousand years for someone to solve that riddle... Now I can finally head off to Seashell Shore to bury some bones!</en>
+<guy>Allgeier</guy></text>
+</main><stage><info>1</info>
+<text><str>171</str>
+<en>The first round of the annual demolition hovercraft competition is about to begin! There is room for one more contestant, but you'll have to answer a riddle to qualify.</en>
+<guy>Jamal</guy></text>
+<text><str>175</str>
+<en>The riddle is this:\ If one dragon can lay one egg in twelve years, how long would it take for 100 dragons to lay 100 eggs? &The answer: &1200 years &100 years &twelve years &1 year</en>
+<guy>Jamal</guy></text>
+<text><str>331</str>
+<en>Very impressive! That is correct. Good luck in the demolition hovercraft competition. &[Use the { button for a straight shot &[Use the > button for a lob shot &[Use @0L1@4 and @0R1@4 to dodge left and right.</en>
+<guy>Jamal</guy></text>
+<text><str>128</str>
+<en>Oooh, I am terribly sorry, but that is incorrect. Unless you can solve the riddle, we cannot trust you behind the controls of something so dangerous as a fully loaded demolition hovercraft.</en>
+<guy>Jamal</guy></text>
+<text><str>109</str>
+<en>That was indeed a battle for the ages! You're the first dragon to win the competition in over a thousand years. I proudly present you this year's grand prize...</en>
+<guy>Jamal</guy></text>
+<text><str>230</str>
+<en>Well, well, that was a fierce battle indeed... Please accept this prize for winning the first round...</en>
+<guy>Jamal</guy></text>
+<text><str>124</str>
+<en>You may now enter the championship round... However, this is an exceedingly dangerous sport. Might I suggest you quit while you're still in one piece? &Enter the final round? &Bring it on! &I'm outta here.</en>
+<guy>Jamal</guy></text>
+<text><str>229</str>
+<en>My my, such a brave reptile you are... but you'll need much more than bravery to win the championship... &[Use the { button for a straight shot &[Use the > button for a lob shot &[Use @0L1@4 and @0R1@4 to dodge left and right.</en>
+<guy>Jamal</guy></text>
+<text><str>1127</str>
+<en>Very well, then. I will reserve your spot in case you change your mind.</en>
+<guy>Jamal</guy></text>
+</stage><stage><info>2</info>
+<text><str>68</str>
+<en>Behind this door lie the five deadly trials of King Rover. No one has ever survived all five. In fact, it is so dangerous that I cannot let you through this first door unless you are able to solve my riddle...</en>
+<guy>Ali</guy></text>
+<text><str>222</str>
+<en>Here's the riddle:\ I follow you wherever you go,\ but the more of me you take,\ the more you leave behind.\ &What am I? &a shadow &time &a giant lizard &footsteps</en>
+<guy>Ali</guy></text>
+<text><str>254</str>
+<en>My my, you're quite clever for someone with so little fashion sense... You may proceed to the first trial.</en>
+<guy>Ali</guy></text>
+<text><str>226</str>
+<en>I'm sorry, my simian friend, but that was not even close. Perhaps you would prefer to go play with a nice bouncy ball.</en>
+<guy>Ali</guy></text>
+<text><str>69</str>
+<en>One of those dogs with the funny hats put a curse on me, just 'cause I shot him in the butt a couple times. He said he turned my tail into a snake. Does it look like a snake to you? It does feel kinda funny, come to think of it. Hoo boy, that dog's gonna pay!</en>
+<guy>Agent 9</guy></text>
+</stage></level><level><wad>160</wad><name>Dino Mines</name><local>
+<hero><en>Deputy Roy</en></hero>
+<hero><en>Deputy Holiday</en></hero>
+<hero><en>Sheriff Wyatt</en></hero>
+</local><main>
+<text><str>0</str>
+<en>Dear pest, go home and the monkey walks. In the meantime, this office is CLOSED.\      - The Sorceress.</en>
+<guy>-</guy></text>
+<text><str>0</str>
+<en>Sorry, can't be here now. Gotta shoot some rhynocs.\         -Agent 9</en>
+<guy>-</guy></text>
+<text><str>0</str>
+<en>Come on in, it's laser time!\        -Agent 9</en>
+<guy>-</guy></text>
+<text><str>55</str>
+<en>Well, gosh darn it Spyro. I came in here to check on my prisoner only to find out he'd somehow got away again. Then, when I came in to look around for clues, one o' them rowdy dinosaurs went and locked me in. Now they're out there causin' all sorts o' trouble and there's not a thing I can do about it.</en>
+<guy>Sheriff Wyatt</guy></text>
+<text><str>1005</str>
+<en>Well I'll be, so that's how my prisoners keep escaping! Here take this dinosaur egg away before it hatches and causes more trouble. I think it must have been the runt of the litter though.</en>
+<guy>Sheriff Wyatt</guy></text>
+<text><str>372</str>
+<en>Jumpin' jehosephat, that's the cutest lookin' dinosaur I ever did see.</en>
+<guy>Sheriff Wyatt</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Sheriff Wyatt</guy></text>
+</main><stage><info>1</info>
+<text><str>256</str>
+<en>One of them dinosaurs threw an egg down this flooded mine shaft. I'd get it back for you, but I ain't such a strong swimmer.</en>
+<guy>Deputy Holiday</guy></text>
+<text><str>502</str>
+<en>That was some mighty fine swimmin', young dragon.</en>
+<guy>Deputy Holiday</guy></text>
+<text><str>441</str>
+<en>It's mighty dangerous down there. You oughta watch out you don't get hurt.</en>
+<guy>Deputy Holiday</guy></text>
+<text><str>55</str>
+<en>Well, gosh darn it Spyro. I came in here to check on my prisoner only to find out he'd somehow got away again. Then, when I came in to look around for clues, one o' them rowdy dinosaurs went and locked me in. Now they're out there causin' all sorts o' trouble and there's not a thing I can do about it.</en>
+<guy>Sheriff Wyatt</guy></text>
+<text><str>1005</str>
+<en>Well I'll be, so that's how my prisoners keep escaping! Here take this dinosaur egg away before it hatches and causes more trouble. I think it must have been the runt of the litter though.</en>
+<guy>Sheriff Wyatt</guy></text>
+<text><str>372</str>
+<en>Jumpin' jehosephat, that's the cutest lookin' dinosaur I ever did see.</en>
+<guy>Sheriff Wyatt</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Sheriff Wyatt</guy></text>
+<text><str>55</str>
+<en>Well, gosh darn it Spyro. I came in here to check on my prisoner only to find out he'd somehow got away again. Then, when I came in to look around for clues, one o' them rowdy dinosaurs went and locked me in. Now they're out there causin' all sorts o' trouble and there's not a thing I can do about it.</en>
+<guy>Sheriff Wyatt</guy></text>
+<text><str>1005</str>
+<en>Well I'll be, so that's how my prisoners keep escaping! Here take this dinosaur egg away before it hatches and causes more trouble. I think it must have been the runt of the litter though.</en>
+<guy>Sheriff Wyatt</guy></text>
+<text><str>372</str>
+<en>Jumpin' jehosephat, that's the cutest lookin' dinosaur I ever did see.</en>
+<guy>Sheriff Wyatt</guy></text>
+<text><str>0</str>
+<en>-</en>
+<guy>Sheriff Wyatt</guy></text>
+</stage><stage><info>2</info>
+<text><str>84</str>
+<en>If you'd just calm down for a second and stop all that whoopin' and hollerin' I could tell you what's goin on. The Bailey gang are holed up in them buildings over there. You're gonna have to go in there an' flush 'em out. &Take on the Bailey gang? &Darn tootin'. &No Sir.</en>
+<guy>Deputy Roy</guy></text>
+<text><str>1193</str>
+<en>Well good luck to ya'.</en>
+<guy>Deputy Roy</guy></text>
+<text><str>471</str>
+<en>Well, I'll just try to hold 'em off until some more help arrives.</en>
+<guy>Deputy Roy</guy></text>
+<text><str>1059</str>
+<en>Back again? Well, the Bailey gang is still hidin' out. Ya' ready to take 'em on? &Take on the Bailey gang? &Yessiree'. &Nope.</en>
+<guy>Deputy Roy</guy></text>
+<text><str>521</str>
+<en>That darn Bailey gang! &Try again? &Yessiree. &Nope.</en>
+<guy>Deputy Roy</guy></text>
+<text><str>210</str>
+<en>I don't know why the Bailey gang was trying so hard to steal this egg, that's not like them at all. I reckon someone must have put them up to it.</en>
+<guy>Deputy Roy</guy></text>
+<text><str>300</str>
+<en>The sheriff promised me I could be a deputy. So I'm off to help clear out all the dinosaurs.</en>
+<guy>Agent 9</guy></text>
+</stage></level><level><wad>162</wad><name>Harbor Speedway</name><local>
+</local><main>
+<text><str>1181</str>
+<en>Which challenge would you like to play? &Choose a challenge: &Time Attack &Race the Blue-Footed Boobies &Exit Level</en>
+<guy>Sparx</guy></text>
+<text><str>100</str>
+<en>The easiest way to beat this time trial is to do it in the following order: seagulls, arches, lobsters, fish. Complete each one before moving on to the next.</en>
+<guy>Sparx</guy></text>
+<text><str>129</str>
+<en>The red dots mark the race course, and you have to fly through ALL of the green checkpoint rings. The blue stars will give you a speed boost so fly through as many of them as you can. &[Fly through all green rings &[Fly through blue stars for a speed boost</en>
+<guy>Sparx</guy></text>
+<text><str>458</str>
+<en>I hope we come back soon. I love Harbor Speedway.</en>
+<guy>Sparx</guy></text>
+<text><str>146</str>
+<en>Wow, you just beat the Harbor Speedway time trial! Only a handful of racers in the world have ever done that! I can't wait to tell the other dragons back home...</en>
+<guy>Sparx</guy></text>
+<text><str>149</str>
+<en>The birds said they didn't feel too bad losing to a dragon. After all, people say dragons used to own all the speed records here, a thousand years ago.</en>
+<guy>Sparx</guy></text>
+<text><str>544</str>
+<en>Good luck getting the course record!</en>
+<guy>Sparx</guy></text>
+<text><str>141</str>
+<en>Go through every single blue turbo star that you can, even if it means straying from the course. Just remember not to miss any rings, or you'll be disqualified. &[Use the blue turbo stars. &[Fly through all green rings</en>
+<guy>Sparx</guy></text>
+<text><str>101</str>
+<en>Remember, you don't have to follow the red dots exactly. Try to take short cuts between rings when you can. Also, for the fastest speed, always try to fly as low as you can. &[Cut corners between the green rings. &[Flying lower gives you extra speed.</en>
+<guy>Sparx</guy></text>
+<text><str>62</str>
+<en>This is the world-famous Harbor Speedway, the most elite of all race courses! Only the world's top racers are allowed to compete here. The local champions are a group of blue-footed boobies who have never lost a race before.</en>
+<guy>Sparx</guy></text>
+<text><str>66</str>
+<en>Where do these flying sheep saucers keep coming from? I just saw another one grab an egg and fly off! This one's super fast, but his saucer is damaged and it's leaving smoke rings... I think I can keep up with him as long as I can make it through the rings...</en>
+<guy>Hunter</guy></text>
+<text><str>1177</str>
+<en>I'm gonna chase him down! &Should Hunter chase the sheep UFO? &Hurry up, already! &Nah, it's only an egg.</en>
+<guy>Hunter</guy></text>
+<text><str>1180</str>
+<en>I'll be right back!</en>
+<guy>Hunter</guy></text>
+<text><str>459</str>
+<en>WHAT? You're kidding! We gotta hurry, he's getting away!</en>
+<guy>Hunter</guy></text>
+<text><str>301</str>
+<en>YES!!! That was close! The egg popped out just before the saucer crash landed!</en>
+<guy>Hunter</guy></text>
+</main></level><level><wad>164</wad><name>Agent 9's Lab</name><local>
+<hero><en>Professor</en></hero>
+</local><main>
+<text><str>114</str>
+<en>Ahh, Agent 9, my favorite pupil... welcome back to my island laboratory! I'm afraid rhynocs have taken over the whole island... perhaps you could stop them before they destroy all my research.</en>
+<guy>Professor</guy></text>
+<text><str>188</str>
+<en>Ah, it'll be just like old times! Try shooting these dummies to get warmed up, but... err, be careful, I think a rhynoc might be hiding among them... &[Shoot all dummies, and the occasional rhynoc...</en>
+<guy>Professor</guy></text>
+<text><str>170</str>
+<en>A vast number of rhynocs are waiting to ambush us as soon as I lower this force field. I expect they'll keep coming until you shoot the red panic button next to the door where they come out. &[Shoot the red panic button to lock the rhynocs in.</en>
+<guy>Professor</guy></text>
+<text><str>139</str>
+<en>There's another door at the end of this beach, and rhynocs will keep coming out until you shoot the red panic button. Work your way up the beach by dodging and using the natural cover on the right side. &[Use @0L1@4 and @0R1@4 to dodge left and right. &[Shoot the rhynocs to reach the door and retake the beach!</en>
+<guy>Professor</guy></text>
+<text><str>1083</str>
+<en>You'll need to take out all the rhynocs to secure the beach... and don't forget to dodge! &[Shoot the red panic button &[Eliminate all rhynocs &[Use @0L1@4 and @0R1@4 to dodge</en>
+<guy>Professor</guy></text>
+<text><str>145</str>
+<en>These indicators show that a bunch of rhynocs are hiding behind the display screen. I'll switch on the view pedestal, and you shoot them as they attack! I recommend using your sniper mode. &[Shoot the rhynocs as they appear in front of the screen. &[Press the } button to enter sniper mode.</en>
+<guy>Professor</guy></text>
+<text><str>340</str>
+<en>Try not to fall off the pedestal. I recommend using sniper mode to take out these targets. &[Press the } button to enter sniper mode.</en>
+<guy>Professor</guy></text>
+<text><str>267</str>
+<en>You cleared them out! Let's see what kind of shape the machine room is in... I have a feeling the rhynocs haven't been keeping it too clean.</en>
+<guy>Professor</guy></text>
+<text><str>150</str>
+<en>Just as I thought, the machine room is overrun with birds. To target the birds in their nests, you'll want to use sniper mode, then zoom in for pinpoint accuracy. &[Press the } button to enter sniper mode. &[Use @0L1@4 and @0R1@4 to zoom in and out while in sniper mode.</en>
+<guy>Professor</guy></text>
+<text><str>257</str>
+<en>Nice work, Agent 9! Err, I'm not sure if this is a bird egg or dragon egg... what do you think?</en>
+<guy>Professor</guy></text>
+<text><str>148</str>
+<en>The lab's clear, and it smells better in here already! Follow me outside, where I expect we'll find some rhynocs wearing armor. You'll need a more powerful weapon to defeat them.</en>
+<guy>Professor</guy></text>
+<text><str>1037</str>
+<en>By my calculations, the bombs in this handy vending machine should be highly effective against armor. Give it a shot. &[Press the > button to throw bombs. &[To carefully aim your throw, press and hold down the > button.</en>
+<guy>Professor</guy></text>
+<text><str>500</str>
+<en>Just a few more enemies left! You can do it!</en>
+<guy>Professor</guy></text>
+<text><str>384</str>
+<en>Thank you very much for saving my laboratory. Now I can resume thinking...</en>
+<guy>Professor</guy></text>
+<text><str>383</str>
+<en>Now I can switch the gravitonometric generator back on. I hope no birds got in there...</en>
+<guy>Professor</guy></text>
+<text><str>77</str>
+<en>What was that? Did you see a rhynoc? I thought I saw a rhynoc! Oooooh, take it from me, Spyro, never spend a week in a cage.  Uh, huh, next thing you know your whole island will be knee deep in rhynocs. Well, gotta go, Mr. Laser Blaster and I have a whole lotta work to do.</en>
+<guy>Agent 9</guy></text>
+<text><str>72</str>
+<en>Ooooooh weeee, I love the sizzle of a high energy laser on the back end of a rhynoc. Too bad the Sorceress didn't send more of 'em, I was really getting into the zone. Well, now that my island is safe again I guess I'll have to go rhynoc hunting elsewhere... Are you headed out? &Leave the level? &Yes &No</en>
+<guy>Agent 9</guy></text>
+<text><str>1192</str>
+<en>See ya later, alligator!</en>
+<guy>Agent 9</guy></text>
+<text><str>1176</str>
+<en>I'm just going to patrol the island one last time...</en>
+<guy>Agent 9</guy></text>
+<text><str>1034</str>
+<en>Hiya, Spyro... I'm just off to patrol the island again, you know, in case any rhynocs decided to come crawling back...</en>
+<guy>Agent 9</guy></text>
+<text><str>526</str>
+<en>I still haven't finished clearing the rhynocs off the island... &Level not finished... &Do you really want to leave? &Yes &No</en>
+<guy>Agent 9</guy></text>
+<text><str>420</str>
+<en>I'll be back when I've wiped out the last of the rhynoc menace!</en>
+<guy>Agent 9</guy></text>
+</main></level><level><wad>166</wad><name>Sorceress's Lair</name><local>
+</local><main>
+<text><str>1063</str>
+<en>Woohoo! Time to kick some Sorceress butt!</en>
+<guy>Agent 9</guy></text>
+</main></level><level><wad>168</wad><name>Bugbot Factory</name><local>
+</local><main>
+</main></level><level><wad>170</wad><name>Super Bonus Round</name><local>
+</local><main>
+<text><str>292</str>
+<en>Hey, you finally made it, Spyro! Hunter was a little worried about you when you went off to fight the Sorceress, but I always knew you'd beat her.</en>
+<guy>Bianca</guy></text>
+<text><str>135</str>
+<en>This place is where the Sorceress kept all her treasure, but after she was defeated a bunch of thieves came and stole it. If you can catch the thieves, you're more than welcome to keep the treasure!</en>
+<guy>Bianca</guy></text>
+<text><str>1024</str>
+<en>Oh, by the way, Hunter is around here somewhere. He's been tinkering with one of his new toys all day, and he wants to show it off. You should go see him!</en>
+<guy>Bianca</guy></text>
+<text><str>503</str>
+<en>I hope the rest of the dragons will come back here someday.</en>
+<guy>Bianca</guy></text>
+</main><stage><info>1</info>
+<text><str>102</str>
+<en>Hi, Spyro! Did you see Bianca? She was really worried about you when you went off to fight the Sorceress. It was pretty funny. She tries to play it cool, but she was scared stiff until you came back safe.</en>
+<guy>Hunter</guy></text>
+<text><str>1077</str>
+<en>I just finished fixing up an old submarine! Why don't you try taking it for a spin? &Ride the sub? &Right on! &A little later.</en>
+<guy>Hunter</guy></text>
+<text><str>555</str>
+<en>Great! Hop aboard!</en>
+<guy>Hunter</guy></text>
+<text><str>522</str>
+<en>Sure, come back whenever you want to ride it!</en>
+<guy>Hunter</guy></text>
+<text><str>1165</str>
+<en>Wanna take my sub for a spin? &Ride the sub? &Right on! &A little later.</en>
+<guy>Hunter</guy></text>
+</stage><stage><info>2</info>
+<text><str>40</str>
+<en>Check it out, this is the world's fastest turbo-snowboard course! The local champions are the Sasquatch Six, a gang of yeti's on souped up snow-discs. I bet that you could outrace the lot of 'em! If you win, we get a huge pile of treasure! If you lose, I have to slick down the whole course with my tongue.</en>
+<guy>Hunter</guy></text>
+<text><str>1162</str>
+<en>So, ready to race? &Start the race? &Let's go! &Not yet.</en>
+<guy>Hunter</guy></text>
+<text><str>1076</str>
+<en>Right on! Just don't lose, or my tongue's gonna be a popsicle.</en>
+<guy>Hunter</guy></text>
+<text><str>1145</str>
+<en>Aw, c'mon, you can take these guys!</en>
+<guy>Hunter</guy></text>
+<text><str>374</str>
+<en>I think my tongue is frozen. You'd better not lose again! &Start the race? &Let's go! &Not yet.</en>
+<guy>Hunter</guy></text>
+<text><str>527</str>
+<en>OK, good luck this time.</en>
+<guy>Hunter</guy></text>
+<text><str>1084</str>
+<en>Yeah, let's wait for my tongue to thaw first.</en>
+<guy>Hunter</guy></text>
+<text><str>85</str>
+<en>YEEESSSSSSS! You schooled 'em like a bunch of frost-bitten, flat-footed, molasses-eating, lead-pants-wearing, cross-eyed glacier-trolls riding slabs of plywood with sandpaper on the bottom!!! ... And we won some shiny stuff, too.</en>
+<guy>Hunter</guy></text>
+</stage><stage><info>3</info>
+<text><str>217</str>
+<en>I don't know how she did it, Spyro, but the Sorceress must have survived that last battle! She's been waiting here all this time, saving up her magic to destroy you!</en>
+<guy>Bianca</guy></text>
+<text><str>116</str>
+<en>Your best chance to defeat her is to borrow my flying saucer. I've cast some spells on it to give it extra firepower and unlimited flying time... but the rest is going to be up to you... You've come this far, Spyro, I know you can beat her!</en>
+<guy>Bianca</guy></text>
+</stage></level></base>
