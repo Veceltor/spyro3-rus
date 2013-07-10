@@ -1,4 +1,5 @@
 #summary Сопоставление текста номерам.
+#labels Deprecated
 
 ||Номер||Субфайл||Герой||Фраза|| 
 ||37||098||Bianca||So... you're the one in charge of rescuing the eggs, huh? Heh heh heh... How sad... Look here, dragon, if you know what's good for you, you'll turn around and crawl back up that hole you came through. Those eggs belong to us now, and I've hidden them in places you'll never find in a thousand years! Besides, even if you could find an egg, our expertly trained armies will dispose of you and take it back. Do I make myself clear? If I find you here again, I am going to be verrrrry angry... and you won't like me when I'm angry...|| 
