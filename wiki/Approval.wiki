@@ -9,242 +9,467 @@
 
 ==Sunrise Spring Worlds==
 <tt><font size="3">
+
   * Sunrise Spring Home
   * Дом Утренней Долины
   * Дом Утреннего Родника $ @
+  * Дом Ранней Весны ¶
+  * Дом Солнечного Истока ¶
+  * Солнечный Домик ¶
 
   * Sunny Villa
-  * Яркое Село @
+  * Яркое Село
   * Солнечная Вилла $
+  * Вилла Солнц ¶
+  * Солле Вилла
+  * Вилла Санни ¶
+  * Вилла Солнца ¶
 
   * Cloud Spires###
   * Высокие Горы
-  * Страна Облаков @
+  * Страна Облаков ¶
   * Облачные Шпили $
+  * Облака Спаик ¶
+  * Облака ¶
 
   * Molten Crater##
   * Жаркий Вулкан
   * Жаркий Кратер @
   * Расплавленный Кратер $
+  * Кратер Молтен ¶
+  * Горячий Кратер ¶
+  * Кратер ¶
 
   * Seashell Shore#
   * Берег Ракушек @
   * Берег Морской Раковины $
+  * Берег Раковин ¶
+  * Морской Берег ¶
+  * Побережье ¶
 
   * Mushroom Speedway##
   * Грибная Трасса @
   * Грибной Спидвей $
+  * Трасса Грибов ¶
+  * Грибной Спидвэй ¶
+  * Автострада ¶
 
   * Sheila's Alp###
-  * Альпы Шейлы $ @
+  * Альпы Шейлы $ @ ¶
+  * Вершины Шейлы ¶
+  * Гора Шейлы ¶
 
   * Buzz's Dungeon#
   * Темница Базза @
   * Подземелье Базза $
+  * Темница Буза ¶
+  * Тюрьма Базза ¶
+  * Темница ¶
 
   * Crawdad Farm###
   * Раковая Ферма
   * Ферма Раков @
   * Ферма Большого Рака $
+  * Ферма Кродад ¶
+  * Ферма ¶ ¶
+
 </font></tt>
 ==Midday Garden Worlds==
 <tt><font size="3">
+
   * Midday Garden Home#
-  * Дом Дневного Сада
-  * Полуденных Садов $ @
+  * Дом Дневного Сада ¶
+  * Дом Полуденных Садов $ @
+  * Дом в Саду ¶
+  * Садовый Домик ¶
 
   * Icy Peak###
   * Ледовик
   * Ледяной Пик $ @
+  * Айсберг ¶
+  * Ледяной Пик ¶
+  * Снега ¶
 
   * Enchanted Towers###
   * Магические Башни
   * Зачарованные Башни
   * Башни Колдуньи
   * Заколдованные Башни $ @
+  * Башня Ведьм ¶
+  * Заколдованные Башни ¶
+  * Башни ¶
 
   * Spooky Swamp###
   * Тихое Болото @
   * Опасная Топь
   * Зловещее Болото $
+  * Болото Духов ¶
+  * Болото Спуки ¶
+  * Болото ¶
 
   * Bamboo Terrace#
   * Улица Бамбука @
-  * Бамбуковая Терраса $
+  * Бамбуковая Терраса $ ¶
+  * Терраса Бамбук ¶ ¶
 
   * Country Speedway###
   * Городская Трасса
   * Сельская Трасса @
   * Деревенская Трасса
   * Сельский Спидвей $
+  * Трасса Кантри ¶
+  * Страна ¶
+  * Автострада ¶
 
   * Sgt. Byrd's Base###
   * База Серж. Бёрда @
   * База Сержанта Бэрда $
+  * База Срж. Барда ¶
+  * База Бэрда ¶
+  * База Серж. Берда ¶
 
   * Spike's Arena##
-  * Арена Спайка $ @
+  * Арена Спайка $ @ ¶ ¶
+  * Арена ¶
 
   * Spider Town
   * Город Пауков $ @
+  * Пауки ¶
+  * Город Паука ¶
+  * Дом Паука ¶
+
 </font></tt>
 ==Evening Lake Worlds==
 <tt><font size="3">
+
   * Evening Lake Home##
   * Дом Вечерних Озёр
-  * Дом Вечернего Озера $ @
+  * Дом Вечернего Озера $ @ ¶
+  * Дом у Озера ¶
+  * Дом На Озере ¶
 
   * Frozen Altars##
   * Зимние Алтари @
   * Снежные Земли
   * Ледяные Алтари
   * Замороженные Алтари $
+  * Морозный Алтарь ¶
+  * Замороженный Алтарь ¶
+  * Алтари ¶
 
   * Lost Fleet#
   * Битый Флот @
   * Погибшая Флотилия $
+  * Флот ¶
+  * Потерянный Флот ¶ ¶
 
   * Fireworks Factory##
   * Фабрика Хлопушек
   * Фабрика Салютов
   * Фабрика Фейерверков $ @
+  * Фейерверк Завод ¶
+  * Завод Фейерверков ¶
+  * Завод Петард ¶
 
   * Charmed Ridge##
   * Пики Чародеев @
   * Чарующие пики
   * Очаровательный Кряж $
+  * Вершины ¶
+  * Горы ¶
+  * Гребень ¶
 
   * Honey Speedway#
-  * Медовая Трасса @
+  * Медовая Трасса @ ¶
   * Медовый Спидвей $
+  * Сладкая Дорога ¶
+  * Автострада ¶
 
   * Bentley's Outpost##
   * Сторожка Бентли @
   * Застава Бентли $
+  * Пост Бентли ¶ ¶
+  * Аванпост Бентлея ¶
 
   * Scorch's Pit###
-  * Яма Скорча @
+  * Яма Скорча @ ¶
   * Впадина Скорча $
+  * Пит Скорча ¶
+  * Шахта ¶
 
   * Starfish Reef##
   * Риф Кораллов @
   * Коралловый Риф
   * Риф Морской Звезды $
+  * Морские рифы ¶
+  * Риф Звезды ¶
+  * Морской Риф ¶
+
 </font></tt>
 ==Midnight Mountain Worlds==
 <tt><font size="3">
+
   * Midnight Mountain Home#
   * Дом Полуночного Хребта
   * Дом Полуночной Горы $ @
+  * Дом Полночной Горы ¶
+  * Дом На Горе ¶
+  * Горный Домик ¶
 
   * Crystal Islands
   * Алмазная Земля
-  * Кристальные Острова $ @
+  * Кристальные Острова $ @ ¶ ¶
+  * Кристальный Остров ¶
 
   * Desert Ruins###
   * Пустынные руины @
   * Пустыня Руин
   * Пустынные Развалины $
+  * Руины ¶ ¶ ¶
 
   * Haunted Tomb###
   * Cтарый склеп
   * Древний Гроб
   * Склеп мумий @
   * Неспокойная Гробница $
+  * Гробницы ¶
+  * Кладбище ¶
+  * Могила ¶
 
   * Dino Mines#
-  * Дино-Шахты @
+  * Дино-Шахты @ ¶
   * Шахты Динозавров $
+  * Дино Норы ¶
+  * Шахты ¶
+
 
   * Harbor Speedway
   * Морская трасса @
   * Портовый Спидвей $
+  * Трасса Гавань ¶
+  * Гавань Быстрая ¶
+  * Автострада ¶
 
   * Agent 9's Lab##
-  * Лаб. Агента 9 @
-  * Лаборатория Агента 9 $
+  * Лаб. Агента 9 @ ¶
+  * Лаборатория Агента 9 $ ¶
+  * Агент 9 ¶
 
   * Sorceress's Lair###
   * Ведьмино Логово
   * Логово Колдуньи $ @
+  * Дом Колдуньи ¶
+  * Дом Ведьм ¶
+  * Дом Колдуна ¶
 
   * Bugbot Factory#
   * Завод Робожука @
   * Фабрика Робожуков $
+  * Фабрика Жуков ¶
+  * Фабрика Багбот ¶
+  * Фабрика ¶
 
   * Super Bonus Round##
   * Раунд Супер Бонус @
   * Сокровищница Колдуньи $
+  * Супер Бонус ¶
+  * Супер Приз ¶
+  * Призовой Круг ¶
+
 </font></tt>
 =Персонажи=
 <tt><font size="3">
-  * Hunter
+
+  * Hunter#
   * Охотник
-  * Хантер $ @
+  * Хантер $
   * Лесник
   * Гепард
   * Ловец
   * Гюнтер
   * Чувак
 
-  * Moneybags
+  * Moneybags##
   * Манибег
   * Кошельков
   * Денежник
   * Толстосум $ @
 
-  * Sorceress
+  * Sorceress##
   * Колдунья $ @
   * Ведьма
+
+  * Zoe
+  * Зои $
+  * Зоя @
+
+  * Bianca#
+  * Бианка $ @
+  * Бьянка
+
+  * Sheila#
+  * Шейла $ @
+
+  * Sgt. Byrd
+  * Серж. Бёрд
+  * Серж. Бэрд $
+  * Кап. Птыц @
+
+  * Sparx##
+  * Спаркс $ @
+
+  * Bartholomew
+  * Бартоломью $
+  * Бартоломей
+  * Варфоломей
+  * Бартоломео
+
+  * Bentley
+  * Бентли $ @
+
+  * Agent 9
+  * Агент 9 $ @
+
+</font></tt>
+==Имена всех побочных героев==
+<tt><font size="3">
+
+  * Alex
+  * Ali
+  * Alicia
+  * Allgeier
+  * Basho the Firefly
+  * Billy the Mountain Goat
+  * Bob
+  * Bobby the Mountain Goat
+  * Bubba the Firefly
+  * Buson the Firefly
+  * Chi Chi
+  * Cirrus
+  * Citizen Horace
+  * Citizen Paulus
+  * Clay
+  * Councillor George
+  * Cpl. Gabrielle
+  * Crazy Ed
+  * Cumulus
+  * Dan
+  * Deputy Holiday
+  * Deputy Roy
+  * Doug
+  * Eileen
+  * Ernest
+  * Errol
+  * Eugene
+  * Eustace
+  * Feng
+  * Fluffy
+  * Gabrielle
+  * Greta
+  * Gus
+  * Handel
+  * Homer the Firefly
+  * Isabelle
+  * Jack
+  * Jamal
+  * Jasper
+  * Lei
+  * Li
+  * Ling Ling
+  * Liz
+  * Marco
+  * Mayor Leo
+  * Molly
+  * Mowat
+  * Nancy
+  * Nimbus
+  * Ooga
+  * Pablo
+  * Pete the Mountain Goat
+  * Princess Ami
+  * Professor
+  * Pvt. Chloe
+  * Pvt. Claire
+  * Pvt. Eloise
+  * Pvt. Helene
+  * Pvt. Nikita
+  * Rapunzel
+  * Rocky
+  * Sal the Seal
+  * Sandy the Seal
+  * Sebastian the Seal
+  * Shale
+  * Sheriff Wyatt
+  * Shiny
+  * Shiny the Firefly
+  * Shui
+  * Sigmund the Seal
+  * Sing Sing
+  * Slappy the Seal
+  * Smelt the Seal
+  * Snappy the Seal
+  * Stanley the Seal
+  * Stoney
+  * Stratus
+  * Stu the Seal
+  * Tara
+  * The Amazing Randini
+  * The Astounding Arturo
+  * The Fantastic Frederico
+  * The Great Zamboni
+  * The Magnificent Marvello
+  * The Marvelous Magnifico
+  * Tsai
+
 </font></tt>
 
 =Примечания:=
-
   * Значком "#" отмечаются дополнительные свободные места.
   * Использован моноширный шрифт, поэтому нет необходимости считать {разницу}.
-  * Метки: $ – мнение Спайропедии; @ – на это можно рассчитывать в переводах.
+  * Метки: $ – мнение Спайропедии; @ – на это можно рассчитывать в переводах; ¶ – пиратский вариант.
   * Количество знаков 3D шрифта (из которого строятся надписи) английского алфавита _может быть не равно_ количеству знаков русского алфавита.
 <hr>
+
 =Переводчики:=
 Здесь отображено то, чьи версии переводов приходятся на конкретный уровень.
 
- * 098: Sunrise Spring Home - SteelDragon
- * 100: Sunny Villa - L
- * 102: Cloud Spires - L/SteelDragon
- * 104: Molten Crater - L/Washington
- * 106: Seashell Shore - SteelDragon
- * 108: Mushroom Speedway - SteelDragon
- * 110: Sheila's Alp - SteelDragon
- * 112: Buzz's Dungeon - SteelDragon
- * 114: Crawdad Farm - SteelDragon
- * 116: Midday Garden Home - SteelDragon
- * 118: Icy Peak - Spyro4evA
- * 120: Enchanted Towers - Spyro4evA
- * 122: Spooky Swamp - L
- * 124: Bamboo Terrace - L
- * 126: Country Speedway - Spyro4evA
- * 128: Sgt. Byrd's Base - L
- * 130: Spike's Arena - SteelDragon
- * 132: Spider Town
- * 134: Evening Lake Home - DrWho/Washington
- * 136: Frozen Altars - DrWho/Washington
- * 138: Lost Fleet - DrWho/Washington
- * 140: Fireworks Factory  - DrWho/SteelDragon/Washington
- * 142: Charmed Ridge - DrWho/Washington
- * 144: Honey Speedway - DrWho/Spyro4evA/Washington
- * 146: Bentley's Outpost - DrWho/Washington
- * 148: Scorch's Pit - DrWho/Washington
- * 150: Starfish Reef
- * 152: Midnight Mountain Home - L/DrWho/Washington
- * 154: Crystal Islands - DrWho/Washington
- * 156: Desert Ruins - DrWho/Washington
- * 158: Haunted Tomb - DrWho/Washington
- * 160: Dino Mines - DrWho/Washington
- * 162: Harbor Speedway - DrWho/Washington
- * 164: Agent 9's Lab - DrWho/Washington
- * 166: Sorceress's Lair - DrWho/Washington
- * 168: Bugbot Factory
- * 170: Super Bonus Round - Spyro4evA
+||098||Sunrise Spring Home||!SteelDragon||
+||100||Sunny Villa – L / alteya||
+||102||Cloud Spires||L / !SteelDragon||
+||104||Molten Crater||L / Washington||
+||106||Seashell Shore||!SteelDragon||
+||108||Mushroom Speedway||!SteelDragon||
+||110||Sheila's Alp||!SteelDragon||
+||112||Buzz's Dungeon||!SteelDragon||
+||114||Crawdad Farm||!SteelDragon||
+||116||Midday Garden Home||!SteelDragon||
+||118||Icy Peak||Spyro4evA||
+||120||Enchanted Towers||Spyro4evA||
+||122||Spooky Swamp||aleksusklim||
+||124||Bamboo Terrace||L||
+||126||Country Speedway||Spyro4evA||
+||128||Sgt. Byrd's Base||L||
+||130||Spike's Arena||!SteelDragon||
+||132||Spider Town||||
+||134||Evening Lake Home||!DrWho / Washington||
+||136||Frozen Altars||!DrWho / Washington||
+||138||Lost Fleet||!DrWho / Washington||
+||140||Fireworks Factory ||!DrWho / !SteelDragon / Washington||
+||142||Charmed Ridge||!DrWho / Washington||
+||144||Honey Speedway||!DrWho / Spyro4evA / Washington||
+||146||Bentley's Outpost||!DrWho / Washington||
+||148||Scorch's Pit||!DrWho / Washington||
+||150||Starfish Reef||||
+||152||Midnight Mountain Home||L / !DrWho / Washington||
+||154||Crystal Islands||!DrWho / Washington||
+||156||Desert Ruins||!DrWho / Washington||
+||158||Haunted Tomb||!DrWho / Washington||
+||160||Dino Mines||!DrWho / Washington||
+||162||Harbor Speedway||!DrWho / Washington||
+||164||Agent 9's Lab||!DrWho / Washington||
+||166||Sorceress's Lair||!DrWho / Washington||
+||168||Bugbot Factory||||
+||170||Super Bonus Round||Spyro4evA||
  
 Примечания:
 
