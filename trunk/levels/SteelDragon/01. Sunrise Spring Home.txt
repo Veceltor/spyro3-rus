@@ -76,11 +76,11 @@
  
 [80]I see an egg at the bottom of this lake. I would go get it, but I don't want to get my fur all wet. Maybe you could get it. You can dive underwater by pressing the > button when you're on the surface, and charge underwater by holding down the > button. &[Press > button to dive underwater &[Press < button to swim &[Hold down > button to charge underwater 
  
-Я вижу яйцо на дне озера. Я бы вытащил его, но не хочу промокнуть. Может быть, ты сможешь достать его. Ты можешь нырнуть под воду, нажав >, когда ты на суше, и ускориться, держа >. &[Нажми >, чтобы нырнуть &[Нажми <, чтобы плыть &[Держи >, чтобы ускориться  [99]
+Я вижу яйцо на дне озера. Я бы его вытащил, но мне не хочется промокнуть. А вот ты бы его достал. Прыгай в воду и ныряй, нажав >, держи > - и ты ускоришься. &[Нажми >, чтобы нырнуть &[Нажми <, чтобы плыть &[Держи >, чтобы ускориться. 
  
 [263]Remember, press the > button to dive underwater. Then, when you are under the surface, hold down the > button to charge. &[Press > button to dive underwater &[Press < button to swim &[Hold down > button to charge underwater 
 
-Запомни, нажми >, чтобы нырнуть. Далее, когда ты уже под водой, держи кнопку >, чтобы ускориться. &[Нажми кнопку >, чтобы нырнуть &[Нажми кнопку <, чтобы плыть &[Держи кнопку > чтобы ускориться  [30]
+Запомни, нажми кнопку > чтобы нырнуть. А когда ты уже под водой, держи >, чтобы ускориться. &[Нажми кнопку >, чтобы нырнуть &[Нажми кнопку <, чтобы плыть &[Держи кнопку > чтобы ускориться 
 
 [328]If you can bring back one person from each of our five worlds, we can help you use the balloon. 
  
@@ -156,27 +156,27 @@ Spyro, I've got a special task for Sparx. Meet me back here later! -Zoe
 
 [94]Yo, Spyro! I just found one of those portal thingamajigs that leads to a different world, but you'll have to glide to get across to it. Press the < button to jump, then press the < button again while you're in the air to glide! Just follow me... &[Press < button to jump. &[Press < button in mid-air to glide. 
 
-Йоу, Спайро! Я только что нашел одну из этих штуковин - порталов, которые ведут в другие миры, но тебе нужно полететь, чтобы попасть к нему. Нажми < для прыжка, потом нажми её снова когда находишься в воздухе, чтобы лететь! Просто следуй за мной... &[Нажми < для прыжка. &[Нажми < в воздухе, чтобы лететь.  [4]
+Йоу, Спайро! Я тут нашел одну из этих штуковин - порталов, которые ведут в другие миры, но до него еще нужно долететь. Нажми < для прыжка, когда будешь в воздухе, нажми его снова, чтобы лететь! Двигай за мной. &[Нажми < для прыжка. &[Нажми < в воздухе, чтобы лететь. 
 
 [478]To get the best glide, press the < button at the very top of your jump. 
  
-Для лучшего результата, нажми кнопку < на самом верху твоего прыжка. [4]
+Чтобы пролететь дальше, жми <, когда подпрыгнешь повыше.
  
 [1014]I saw something shiny in that cave over there...let's go check it out! You can get there by hovering. To hover, just press the } button at the end of your glide! &[Press the } button at the end of your glide to hover. &[Hovering will give you extra height and distance.
  
-Я вижу что-то блестящее вон в той пещере... давай посмотрим, что это! Ты можешь попасть туда, паря в воздухе. Для этого просто нажми кнопку } в конце полёта! &[Нажми кнопку } в конце полета, чтобы парить. &[Это поможет тебе пролететь выше и дальше. [21]\
+Я вижу что-то блестящее вон в той пещере... давай посмотрим, что это! Чтобы попасть туда, надо активней поработать крыльями. Для этого просто нажми кнопку } в конце полёта! &[Нажми кнопку } в конце полета, чтобы взмахнуть крыльями. &[Ты пролетишь выше и дальше. 
  
 [166]To get the best glide distance, press the < button while walking forward, then press it again at the top of your jump. Finally, press the } button just before you get to the landing to hover. &[Pressing the } button gives you extra glide distance! 
  
-Чтобы лететь дальше, нажми кнопку <, когда идешь, потом нажми её еще раз на верху прыжка. Наконец, нажми кнопку }, когда уже идешь на посадку. &[Нажатие кнопки } удлиняет полёт! [71]
+Чтобы пролететь как можно дальше, нажимай кнопку <, когда двигаешься вперед, потом нажми её еще раз, когда подпрыгнешь повыше. Затем нажимай кнопку }, когда уже идешь на посадку. &[Нажатие кнопки } удлиняет полёт! 
  
 [498]Oh, I almost forgot, I found this egg!
 
-О, я совсем забыл, я нашел это яйцо! [2]
+Ой, чуть не забыл, я же нашел это яйцо! 
 
 [183]There's definitely something shiny at the bottom of this hole. I was about to jump down there, but I think I hear running water and I hate to get wet. It's a cat thing.
 
-На дне этой дыры определённо что-то блестит. Я уже хотел прыгнуть в неё, но услышал, как внизу журчит вода. А я ненавижу намокать, это проблема всех кошек. [14]
+На дне этой дыры точно что-то блестит. Я уж было собрался туда прыгнуть, но услышал, как внизу журчит вода. А я ненавижу намокать, это проблема всех кошек. 
  
 [327]Hi, Spyro. If you bring someone back from each of the five worlds, we'll have enough weight to pull down this balloon for you.
 
