@@ -1,0 +1,115 @@
+﻿
+~~002~~
+
+
+New Game
+
+Save Game
+
+Cancel
+
+SLOT 1
+
+SLOT 2
+
+MEMORY CARD slot 1
+
+MEMORY CARD slot 2
+
+Press } to recheck
+
+Load Game
+
+Select an icon
+
+EMPTY
+
+Confirm
+
+Accessing
+MEMORY CARDS
+Please wait...
+
+MEMORY CARD
+is not inserted.
+Start a new game anyway?
+
+MEMORY CARD
+is not inserted.
+
+You will not be able to
+save your game.
+Start a new game anyway?
+
+Please select a
+MEMORY CARD
+
+This MEMORY CARD does
+not contain a Spyro 3
+save block. Do you want
+to create one?
+
+Creating save block.
+Do not remove
+MEMORY CARD.
+
+This MEMORY CARD
+is not formatted.
+Do you want to
+format it?
+
+Formatting MEMORY CARD.
+Do not remove
+MEMORY CARD.
+
+Saving.
+Do not remove
+MEMORY CARD.
+
+This save game
+is already in use.
+Do you wish to
+overwrite it?
+
+Loading.
+Do not remove
+MEMORY CARD.
+
+An error has occurred.
+The data on this
+MEMORY CARD
+may be corrupt.
+
+This MEMORY CARD
+is full. This game
+requires 1 free block.
+
+Would you like to
+save your game?
+
+Would you like to
+save to the same game?
+
+To correct the error,
+try saving again.
+Would you like to
+try again?
+
+
+~~070~~
+
+
+Saving
+Do not remove MEMORY CARD
+Saved successfully
+
+Auto save unavailable
+No save game selected
+MEMORY CARD has been removed
+MEMORY CARD has changed
+
+SAVE ERROR
+Save data may be damaged
+
+GAME OVER
+Press Start
