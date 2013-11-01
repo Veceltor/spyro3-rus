@@ -1,0 +1,195 @@
+Spyro, I've found an egg, but only Sparx will be able to reach it. There's a small hole that leads to a crawdad farm. I can take him there if he's ready. &Enter Crawdad Farm bonus world? &Yes. &No.
+
+Спайро, я нашла яйцо, но только Спаркс может достать его. Есть небольшая нора, что ведет на ферму раков. Я могу провести его туда, если он готов. &Войти на Ферму Раков, бонусный мир? &Да. &Нет.
+
+Sparx has already recovered the egg from the crawdad farm, but he can go back if he wants to practice. &Return to Crawdad Farm bonus world? &Yes. &No.
+
+Спаркс уже спас яйцо из фермы раков, но он может зайти туда еще раз, если хочет потренироваться. &Вернуться в бонусный мир Ферму Раков? &Да. &Нет.
+
+Nice work Sparx! You've beaten the Crawdad King and found the lost egg. Not only that but some of the dragon magic seems to have rubbed off on you. Now you can pick up gems when they're even further away from Spyro.
+
+Отлично, Спаркс! Ты одолел Короля-Рака и нашел потерянное яйцо. Но и это еще не все! Кажется, на тебе отразилась магия драконов. Теперь ты будешь подбирать даже те камни, что далеко от Спайро.
+
+Your game camera is currently in 'Passive' mode. This mode requires you to control the camera yourself, and moves more slowly.
+
+Камера сейчас в пассивном режиме. Это означает, что управлять камерой нужно самостоятельно, и она поворачивается медленно.
+
+If you like, I can change the game camera to 'Active' mode. In 'Active' mode, the camera moves much faster. &Change game camera to 'Active' mode?&No.&Yes.
+
+Если хочешь, я могу переключить камеру в активный режим. Тогда она станет двигаться гораздо быстрее. &Включить активный режим камеры?&Нет.&Да.
+
+OK, I won't change it.
+
+Хорошо, я не буду этого делать.
+
+Your camera is now in 'Active' mode, and will move faster. If you don't like it, come back and see me, or change it yourself by using the Options Menu.
+
+Активному дракону – активная камера. Но если ты не согласен, то вернись ко мне, и я с радостью всё снова испорчу. Ну или копайся в настройках сам!
+
+Do you like the 'Active' camera mode? If not, I can set it back to the 'Passive' mode. &Change game camera to 'Passive' mode?&No.&Yes.
+
+Тебе понравилась "активная" камера? Если нет, то я могу включить старый пассивный режим. &Изменить режим камеры на пассивный?&Нет.&Да.
+
+OK, I won't change it. Remember, you can change the camera mode yourself by using the Options Menu.
+
+Хорошо, я не буду его изменять, но ты всегда можешь переключить режим камеры в настройках.
+
+The game camera is now in 'Passive' mode. If you want me to change it again, just ask!
+
+Игровая камера теперь в пассивном режиме. Захочешь поменять – просто попроси!
+
+I'm sorry, Spyro, but you seem to be playing a hacked version of this game. This may be an illegal copy. Since this copy has been modified, you may experience problems that would not occur on a legal copy.
+
+Я сожалею, Спайро, но ты играешь во взломанную версию игры. Она может быть пиратской копией. Так как она взломана, ты можешь столкнуться с проблемами, которых нет в лицензионной копии игры.
+
+Hi Spyro. To look left or right, press the @4L2@0 or @4R2@0 buttons. To quickly center the camera behind you, press the @4L1@0 or @4R1@0 button. You can look all around by holding the } button down. &[Use @0L2@4 and @0R2@4 buttons to rotate camera. &[Press @0L1@4 or @0R1@4 to center the camera. &[Hold } to look around.
+
+Привет, Спайро. Для того, чтобы посмотреть влево или вправо, нажми кнопки @4L2@0 или @4R2@0. Чтобы быстро поставить камеру позади себя, нажми @4L1@0 или @4R1@0. Осматривайся с помощью }. &Используй @0L2@4 и @0R2@4 для поворота камеры. &[Нажми @0L1@4 или @0R1@4 для отцентровки камеры. &[Держи }, чтобы осмотреться.
+
+This is a superfly powerup Spyro. Whenever you walk through any powerup that looks like this one, it will allow you to fly for a while...
+
+Это - усилитель полета, Спайро. Если ты пройдешь в любую арку наподобие этой, ты сможешь немного полетать...
+
+I want to repay you for saving me from that octopus. We can help you use this hot air balloon, if you just bring back someone from each of the other worlds.
+
+Ты спас меня от осьминога, и в ответ я бы хотел помочь тебе с воздушным шаром. Только приведи кого-нибудь из остальных миров.
+
+Let's head on over to the balloon!
+
+Пойдем к шару, все только тебя и ждут!
+
+The balloon's all ready, sir! Just jump on!
+
+Шар абсолютно готов, сэр! Просто запрыгивайте!
+
+Here I was, about to go for a nice swim at Shell Beach, and my portal just disappeared right in front of me. If you go find some more of those dragon eggs, I bet this portal would turn on again. &[^^ eggs needed to open portal.
+
+Я было собирался искупаться на Пляже Ракушек, как мой портал внезапно исчез прямо передо мной! Может, если ты найдешь больше драконьих яиц, он снова появится. &[^^ яиц откроют портал. 
+
+Yay, my portal is working! I'll see you at the beach!
+
+Вау, мой портал работает! Увидимся на пляже!
+
+I think something is draining the magic out of the world. They say things have been going downhill ever since the dragons left here a thousand years ago.
+
+По ходу, что-то выкачивает магию из этого мира. Говорят, все пошло наперекосяк с тех пор, как тыщу лет назад отсюда ушли драконы.
+
+I see an egg at the bottom of this lake. I would go get it, but I don't want to get my fur all wet. Maybe you could get it. You can dive underwater by pressing the > button when you're on the surface, and charge underwater by holding down the > button. &[Press > button to dive underwater &[Press < button to swim &[Hold down > button to charge underwater
+
+Я вижу яйцо на дне озера. Я бы его вытащил, но мне не хочется промокнуть. А вот ты бы его достал. Прыгай в воду и ныряй, нажав >, держи > - и ты ускоришься. &[Нажми >, чтобы нырнуть &[Нажми <, чтобы плыть &[Держи >, чтобы ускориться.
+
+Remember, press the > button to dive underwater. Then, when you are under the surface, hold down the > button to charge. &[Press > button to dive underwater &[Press < button to swim &[Hold down > button to charge underwater
+
+Запомни, чтобы нырнуть, нажми кнопку >. А когда ты уже под водой, держи > - и ты ускоришься. &[Нажими >, чтобы нырнуть &[Нажимай кнопку <, чтобы плыть &[Держи >, если хочешь ускориться.
+
+If you can bring back one person from each of our five worlds, we can help you use the balloon.
+
+Если приведёшь сюда по жителю каждого из пяти миров, мы поможем тебе с шаром. 
+
+Let's head on over to the balloon.
+
+Пойдём к шару, все уже заждались.
+
+This balloon will take you to the great Tiki Lodge in the sky! Just jump on when you're ready.
+
+Шар доставит тебя к великой небесной Ложе Тики! Просто запрыгивай, когда будешь готов.
+
+I'm late for a dinner party at the Tiki Lodge, and the portal to my home just stopped working. Maybe the portal will reactivate after a few more dragons hatch. &[^^ eggs needed to open portal.
+
+Я опаздываю на званый обед в Ложе Тики, а портал к моему дому попросту захлопнулся. Может, если вылупится еще несколько дракончиков, он снова откроется? &[^^ яиц отворят портал. 
+
+At last, my portal is working again! Come visit me at the Tiki Lodge!
+
+Ну наконец, портал снова открыт! Навести меня в Ложе Тики!
+
+This is a balloon that will take you to a new land, but we can't use it until you bring back one person from each of the five worlds.
+
+Этот шар может доставить тебя в другие края, но его не получится опустить, пока ты не приведёшь по одному обитателю из каждого мира.
+
+Let's head on over to the balloon!
+
+Пойдем к шару, все только тебя и ждут!
+
+Hop in the balloon whenever you want, Spyro!
+
+Запрыгивай в корзину когда захочешь, Спайро!
+
+I don't know how this balloon works, but I think we can get it working for you if you bring back someone from each of the other worlds.
+
+Я без понятия, как устроен этот шар, но похоже, что на нём можно взлететь, если ты приведёшь сюда кого-нибудь из других миров.
+
+Let's head on over to the balloon!
+
+Пойдем к шару, все только тебя и ждут!
+
+I guess you just hop in the balloon, now... Don't ask me how it works, I just showed up for the punch and cookies, a ha ha ha.
+
+Наверное, нужно просто запрыгнуть в корзину... Не спрашивай, как эта штука летает, я просто изображал бурную деятельность за печеньки, ха-ха-ха.
+
+So... you're the one in charge of rescuing the eggs, huh? Heh heh heh... How sad... Look here, dragon, if you know what's good for you, you'll turn around and crawl back up that hole you came through. Those eggs belong to us now, and I've hidden them in places you'll never find in a thousand years! Besides, even if you could find an egg, our expertly trained armies will dispose of you and take it back. Do I make myself clear? If I find you here again, I am going to be verrrrry angry... and you won't like me when I'm angry...
+
+Так-с... Так это ты тот самый спасатель яиц, ха? Хе-хе-хе... Какая драма... Смотри сюда, дракоша, если тебе не нужны неприятности, ты развернёшься и почешешь обратно через дыру, из которой ты вылез. Яйца наши, и я спрятала их так, что ты их и за тысячу лет не отыщешь! А если вдруг и найдёшь, наша профессиональная армия мигом их отберёт, предварительно смешав тебя с грязью. Усёк? Если мы ещё раз встретимся здесь, я ооочень разозлюсь... а когда я зла, тебе лучше не попадаться мне на глаза...
+
+Spyro, I've got a special task for Sparx. Meet me back here later! -Zoe
+
+Спайро, у меня особое поручение для Спаркса. Встретимся здесь позже! -Зоя 
+
+I'm getting paid a fortune to keep Sheila the Kangaroo locked up... heh heh... the pesky animal must have been causing a lot of trouble for that poor Sorceress... I suppose I could accidentally let the kangaroo escape... if you were to pay me, say...a small fee. &Pay ^^^ gems to free Sheila? &Sure. &No thanks.
+
+Мне неплохо платят за то, что я держу Кенгуру Шейлу под замком... хе-хе... это надоедливое животное сильно досаждает Колдунье. Думаю, я мог бы совершенно случайно дать ей сбежать... за небольшую плату, скажем. &Заплатить ^^^ камней за освобождение Шейлы? &Конечно. &Нет уж, спасибо.
+
+Ahhh, Spyro, I love your sweet naivete... Your kind-hearted nature might be your downfall someday, but for the time being it's making me rich!
+
+Ах, Спайро, твоя наивность прекрасна... Твоя добрая натура может подвести тебя когда-нибудь, но сейчас она делает меня богатым!
+
+Well, don't worry, Spyro. Sheila won't stay in jail forever... The Sorceress is thinking about having her executed next Thursday.
+
+Ну, не расстраивайся, Спайро. Шейла не останется навсегда в клетке... Колдунья подумывает избавиться от неё в следующий четверг.
+
+The Sorceress has asked me to guard Sheila the Kangaroo. I suppose, if you had a bit more money, I'd be willing to let her escape. Then you could keep her for a pet or something. &[^^^ gems needed to free Sheila.
+
+Я охраняю кенгуру Шейлу по просьбе Колдуньи. Мне бы захотелось помочь ей сбежать, если у тебя было побольше денег. Она может быть твоим питомцем... Или еще кем-нибудь... &[^^^ камней нужно для освобождения Шейлы.
+
+Spyro! My my, how funny to see you here! Why, I haven't seen you since we defeated Ripto in Avalar... heh heh... Well, my business went into a slump after you left, so I came here and struck up a nice deal with the local Sorceress. Lovely woman, she is. Seems to be very fond of dragons, too...
+
+Спайро! Мой дорогой, как здорово увидеть тебя здесь! Мы не виделись с тех пор, как разгромили Рипто в Аваларе... хе-хе... Конечно, с твоим уходом мой бизнес прогорел, и вот я пришел сюда и заключил дивную сделочку с местной Колдуньей. Какая женщина... Кажется, она тоже без ума от драконов...
+
+Yo, Spyro! I just found one of those portal thingamajigs that leads to a different world, but you'll have to glide to get across to it. Press the < button to jump, then press the < button again while you're in the air to glide! Just follow me... &[Press < button to jump. &[Press < button in mid-air to glide.
+
+Йоу, Спайро! Я тут нашел одну из этих штуковин - порталов, которые ведут в другие миры, но до него еще нужно долететь. Нажми < для прыжка, когда будешь в воздухе, нажми его снова, чтобы лететь! Двигай за мной. &[Нажми < для прыжка. &[Нажми < в воздухе, чтобы лететь.
+
+To get the best glide, press the < button at the very top of your jump.
+
+Чтобы пролететь дальше, жми <, когда подпрыгнешь повыше.
+
+I saw something shiny in that cave over there...let's go check it out! You can get there by hovering. To hover, just press the } button at the end of your glide! &[Press the } button at the end of your glide to hover. &[Hovering will give you extra height and distance.
+
+Я видел что-то блестящее вон в той пещере... давай посмотрим, что это! Чтобы попасть туда, надо активней поработать крыльями. Для этого просто нажми кнопку } в конце полёта! &[Нажми кнопку } в конце полета, чтобы взмахнуть крыльями. &[Ты пролетишь выше и дальше.
+
+To get the best glide distance, press the < button while walking forward, then press it again at the top of your jump. Finally, press the } button just before you get to the landing to hover. &[Pressing the } button gives you extra glide distance!
+
+Чтобы пролететь как можно дальше, нажимай кнопку <, когда двигаешься вперед, потом нажми её еще раз, когда подпрыгнешь повыше. Затем нажимай кнопку }, когда уже идешь на посадку. &[Нажатие кнопки } удлиняет полёт!
+
+Oh, I almost forgot, I found this egg!
+
+Ой, чуть не забыл, я же нашел это яйцо!
+
+There's definitely something shiny at the bottom of this hole. I was about to jump down there, but I think I hear running water and I hate to get wet. It's a cat thing.
+
+На дне этой дыры точно что-то блестит. Я уж было собрался туда прыгнуть, но услышал, как внизу журчит вода. А я ненавижу намокать. Кошачьи заморочки.
+
+Hi, Spyro. If you bring someone back from each of the five worlds, we'll have enough weight to pull down this balloon for you.
+
+Привет, Спайро. Если бы ты привел ещё кого-нибудь, мы бы весили достаточно, чтобы спустить сюда шар.
+
+Let's head on over to the balloon!
+
+Пойдем к шару, все только тебя и ждут!
+
+This balloon will take you to a land closer to the Sorceress, Spyro. You can also use it to come back here whenever you want to.
+
+Этот шар принесет тебя в мир ближе к Колдунье, Спайро. Еще ты можешь вернуться на нем сюда, когда захочешь.
+
+Thanks for freeing me. Why don't you come visit me in my home world?
+
+Спасибо за освобождение. Навестишь меня в моём мире?
