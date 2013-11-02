@@ -1,0 +1,117 @@
+You can Hover to get more distance when gliding. Just press the } button at the end of your glide. &[Press } button at the end of your glide to get more distance.
+
+Ты можешь парить, чтобы пролететь подальше. Просто нажми } в конце полёта. &[Нажми } в конце полёта, чтобы попасть дальше.
+
+If you want a quick summary of your progress in a world, you can press the @4SELECT@0 button to open the Atlas page for the world you are in. &[Press @0SELECT@4 button to view Atlas.
+
+Если хочешь узнать о своих успехах, нажми @4SELECT@0, тогда откроется Атлас на странице того мира,в котором ты находишься. &[Нажми @0SELECT@4, чтобы открыть Атлас.
+
+While I was gone, my friends borrowed the rhynocs' submarine... then they took it for a joy ride... and then they smashed it into a big pile of rocks. Oddly enough, the rhynocs failed to see the humor in the story and stuffed my friends in the jail behind you.
+
+Пока меня не было, мои друзья стащили подлодку носорогов... ну, погоняли на ней... а потом врезались в здоровенный риф. Как ни странно, носороги не поняли юмора и запихнули моих друзей в клетку позади тебя.
+
+The rhynocs have boarded up a lot of our doors, but I bet you're strong enough to smash them down. &[Use charge to smash boards.
+
+Носороги заколотили тут добрую половину дверей, но я уверен, тебе хватит сил их разнести. &[Выбей доски с разбега
+
+My plan worked! That dumb octopus dropped the jail key while he was shaking me! Now I can free my friends...
+
+Сработало! Этот тупой осьминожка выронил ключ от клетки, пока пытался меня защекотать. Теперь я смогу освободить друзей...
+
+Oh, I forgot to tell you... one of the rhynocs had this egg in his lunch box...
+
+О, я совсем забыл сказать... кто-то из носорогов хотел пообедать этим яйцом...
+
+Dear Dragon: If you're looking for that kangaroo, I'm afraid she's not available... EVER!\ -The Sorceress
+
+Дорогой Дракоша: Если ищешь кенгуру - сожалею, она вне зоны доступа... НАВЕКИ!\ -Колдунья
+
+I'm still back in my home world with my goat friends. Come on over if you like.\ -Sheila
+
+Я до сих пор помогаю моим друзьям - козлам. Приходи ко мне, если захочешь.\ -Шейла
+
+Come on in!\ -Sheila
+
+Заходи!\ - Шейла
+
+I can't wait until the rhynocs build a new submarine! Next time it's my turn to drive!
+
+Жду не дождусь, когда же носороги построят новую подлодку! Чур, я буду за рулём!
+
+Driving that submarine was a blast! Next time we're going to borrow the rhynocs' speed boat!
+
+Езда на подлодке – просто бомба! В следующий раз возьмем у них скоростную лодку!
+
+We never would have crashed that submarine if Sal hadn't tried that hand-brake u-turn during an inverted barrel roll. 
+
+Мы бы и не разбили подлодку, если бы Сэл не решил проверить ручной тормоз во время обратной бочки с разворотом.
+
+Hi, Sheila! The rhynocs have built a fortress on our beach and we're going to blow it to smithereens! We just need you to take out all the turrets for us. We're lighting the bomb now, just make sure to stomp all those turrets before the fuse runs out, OK?
+
+Привет, Шейла! Носороги построили крепость на нашем пляже, и мы собираемся разнести её на мелкие кусочки! Тебе лишь нужно разрушить башни с пушками. Мы поджигаем бомбы, а ты сломай все пушки до того как фитиль прогорит, ладно?
+
+Wow! I can't believe I survived that blast! It's a good thing I kept this egg nice and safe in my pocket.
+
+Ох! Поверить не могу, я пережил взрыв! Хорошо, что это яйцо лежит целехонько у меня в кармане.
+
+Ready to try stomping the turrets again? &Try again? &Yes &No
+
+Попробуешь снова разрушить башни с пушками? &Попробовать ещё? &Да &Нет
+
+Иииии! Я подожгу фитиль еще одной бомбы! &[Разбей все пушки, пока бомба не взорвалась.
+
+No problem. We'll be playing hot potato with this bomb until you come back.
+
+Без проблем, мы поиграем в "горячую картошку" с бомбой, пока ты не вернёшься.
+
+Owww... That really smarts... No problem though, we've got more bombs!!!
+
+А-ай... Как больно... Ничего, у нас еще полно бомб!!!
+
+Our beach is your beach.
+
+Наш пляж - твой пляж.
+
+Stay and get a tan, if you like.
+
+Позагорай, если хочешь.
+
+Oh, hi, Spyro! Some of my seal friends are trying to take down a rhynoc fortress! I'm about to go and lend a foot... I love the smell of singed rhynoc in the morning!
+
+О, привет, Спайро! Мои друзья пытаются разрушить крепость носорогов! Думаю, им не справиться без моих ног... Люблю запах жареных носорогов по утрам!
+
+Bluto the rhynoc has challenged us to a naval battle. Our speed boat versus his nuclear shark submarine. If we win, we get the dragon egg he's guarding. If we lose, we have to spend a month in K.P.
+
+Носорог Блуто вызвал нас на морской бой. Наша скоростная лодка против его ядерной подлодки-акулы. Если выиграем, он отдаст драконье яйцо, которое охраняет. Если проиграем, мы месяц будем в К.Р.
+
+Whaddya say, do you want to take on Bluto? &Fight the nuclear shark sub? &Yeehah! &You gotta be kidding.
+
+Нучёкак, хочешь всыпать Блуто? &Сразиться с ядерной подлодкой? &Дааа! &Шутишь что ли?
+
+OK, good luck! Just remember, stay away from the sharp end! &[Press the < button to speed up. &[Press the { Button to fire a missile. &[Pick up crates to get more missiles.
+
+Да, покажи ему, где раки зимуют! И держись подальше от акульей морды! &[Жми < для ускорения. &[Нажимай { для запуска ракеты. &[Подбирай ящики с ракетами.
+
+I don't blame you. I already owe seven years of kitchen duty, and I'm not about to risk getting another month!
+
+Ладно, ты не виноват. Просто я кухонный раб на семь лет вперёд, и получать ещё месяц мне ни к чему!
+
+Wow! That's the first time Bluto has ever lost! You've got a lot of talent for someone so purple... I hope this egg was worth all the trouble.
+
+Ого! Впервые в жизни Блуто проиграл! А ты весьма способный для... настолько пурпурного. Надеюсь, яйцо хоть стоило того.
+
+We had a dragon egg for you, but we used it to test our ultra-high-speed-super-fluidity tunnel. The good news is that it made it to the end of the tunnel without a scratch! The bad news is that there's no way to get it back out now.
+
+У нас было драконье яйцо для тебя, но мы протестировали им наш супер-высокоскоростной-ультра-жидкостной тоннель. Хорошая новость - яйцо добралось до конца туннеля без единой царапинки! Плохая - мы не можем его оттуда достать.
+
+The tunnel is chock full of rhynocs and floating mines. The only way to retrieve that egg is to defeat every single rhynoc in the tunnel.
+
+В туннеле полно носорогов и плавучих мин. Достать яйцо можно только убрав оттуда всех носорогов.
+
+This egg has surprisingly good fluid dynamic characteristics. From now on, all of our submarines will be egg-shaped.
+
+У этого яйца поразительно хорошая обтекаемость. Отныне, все наши подлодки будут в форме яиц.
+
+You'll have to defeat every single rhynoc in the tunnel before you can recapture the egg.
+
+Нужно избавиться от носорогов в туннеле, только тогда можно вытащить яйцо.
