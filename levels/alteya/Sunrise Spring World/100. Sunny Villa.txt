@@ -1,4 +1,5 @@
 This rhynoc is too big to charge. You'll have to flame him using the { button.
+
 Этот носорог великоват для твоих рогов. Подожги его, нажав кнопку {.
 
 Hi Spyro! Each time a fairy zaps you, like this...
@@ -146,6 +147,7 @@ Well whenever you're ready, come and talk to me.
 Как будешь готов, скажи мне.
 
 Awww, too bad... maybe you'll do better this time. &Try difficult boarding challenge again? &Yes. &No.
+
 Оой, отстой...Может, в этот раз получится? &Попробовать еще? &Да &Нет
 
 Whoa, that was sweet! And look, there was another egg in the lizard burrow.
