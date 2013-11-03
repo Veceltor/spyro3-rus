@@ -20,7 +20,7 @@ My plan worked! That dumb octopus dropped the jail key while he was shaking me! 
 
 Oh, I forgot to tell you... one of the rhynocs had this egg in his lunch box...
 
-О, я совсем забыл сказать... кто-то из носорогов хотел пообедать этим яйцом...
+О, вылетело из головы. Мне попалось это яйцо в тарелке у одного носорога...
 
 Dear Dragon: If you're looking for that kangaroo, I'm afraid she's not available... EVER!\ -The Sorceress
 
@@ -28,7 +28,7 @@ Dear Dragon: If you're looking for that kangaroo, I'm afraid she's not available
 
 I'm still back in my home world with my goat friends. Come on over if you like.\ -Sheila
 
-Я до сих пор помогаю моим друзьям - козлам. Приходи ко мне, если захочешь.\ -Шейла
+Я всё ещё помогаю моим козлятам. Присоединяйся, если хочешь.\ -Шейла
 
 Come on in!\ -Sheila
 
@@ -52,11 +52,13 @@ Hi, Sheila! The rhynocs have built a fortress on our beach and we're going to bl
 
 Wow! I can't believe I survived that blast! It's a good thing I kept this egg nice and safe in my pocket.
 
-Ох! Поверить не могу, я пережил взрыв! Хорошо, что это яйцо лежит целехонько у меня в кармане.
+Ох! Поверить не могу, я пережил взрыв! Хорошо, что это яйцо лежит целехонько у меня в кармане.
 
 Ready to try stomping the turrets again? &Try again? &Yes &No
 
 Попробуешь снова разрушить башни с пушками? &Попробовать ещё? &Да &Нет
+
+Yippee! I'll light the fuse on the next bomb! &[Stomp all turrets before bomb explodes.
 
 Иииии! Я подожгу фитиль еще одной бомбы! &[Разбей все пушки, пока бомба не взорвалась.
 
@@ -66,7 +68,7 @@ No problem. We'll be playing hot potato with this bomb until you come back.
 
 Owww... That really smarts... No problem though, we've got more bombs!!!
 
-А-ай... Как больно... Ничего, у нас еще полно бомб!!!
+А-ай... КАКАЯ БОООЛЬ! Ничего, у нас еще полно бомб!!!
 
 Our beach is your beach.
 
