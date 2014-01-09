@@ -1,0 +1,199 @@
+PRESS START
+
+НАЖМИ СТАРТ
+
+New Game
+
+Начать
+
+Save Game
+
+Сохранить
+
+Cancel
+
+Отмена
+
+SLOT 1
+
+СЛОТ 1
+
+SLOT 2
+
+СЛОТ 2
+
+slot 1
+
+слот 1
+
+slot 2
+
+слот 1
+
+Press } to recheck
+
+Нажми } - назад
+
+Load Game
+
+Загрузить
+
+Select an icon
+
+Выбери иконку:
+
+EMPTY
+
+ПУСТО
+
+Confirm
+
+Этот
+
+Accessing
+
+Читаю
+
+Please wait...
+
+Подожди...
+
+is not inserted.
+
+не вставлен.
+
+Start a new game anyway?
+
+Всё же начать игру?
+
+You will not be able to
+
+Ты не сможешь
+
+save your game.
+
+сохранить игру.
+
+Please select a
+
+Выбери
+
+This MEMORY CARD does
+
+Этот ЧИП ПАМЯТИ не
+
+not contain a Spyro 3
+
+содержит сохранения
+
+save block. Do you want
+
+СПАЙРО 3. Хочешь
+
+to create one?
+
+создать новое?
+
+Creating save block.
+
+Создаю сохранение.
+
+Do not remove
+
+Не вынимай
+
+This MEMORY CARD
+
+Этот ЧИП ПАМЯТИ
+
+is not formatted.
+
+не размечен.
+
+Do you want to
+
+Разметить?
+
+format it?
+
+
+
+Formatting MEMORY CARD.
+
+Размечаю ЧИП ПАМЯТИ.
+
+Saving.
+
+Запись.
+
+This save game
+
+Это сохранение
+
+is already in use.
+
+уже используется.
+
+Do you wish to
+
+Желаешь
+
+overwrite it?
+
+перезаписать?
+
+Loading.
+
+Чтение.
+
+An error has occurred.
+
+Ошибка. Данные, что
+
+The data on this
+
+записаны на этот
+
+may be corrupt.
+
+повреждены.
+
+is full. This game
+
+заполнен. Нужен
+
+requires 1 free block.
+
+хотя бы 1 пустой блок.
+
+Would you like to
+
+Желаешь
+
+save your game?
+
+сохранить игру?
+
+save to the same game?
+
+перезаписать игру?
+
+To correct the error,
+
+Что-то не получается.
+
+try saving again.
+
+
+
+try again?
+
+Ещё раз?
+
+MEMORY CARDS
+
+ЧИПЫ ПАМЯТИ
+
+MEMORY CARD
+
+ЧИП ПАМЯТИ 
