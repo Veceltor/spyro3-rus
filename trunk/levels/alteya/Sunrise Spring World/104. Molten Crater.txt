@@ -4,11 +4,11 @@ Be sure to keep your friend Sparx the Dragonfly healthy Spyro. If his health is 
 
 Here, take this egg. They were giving them away at the Tiki Lodge last night.
 
-Вот тебе яйцо. Прошлой ночью их раздавали в Tiki Lodge.
+Вот тебе яйцо. Прошлой ночью их раздавали в Ложе Тики.
 
 Rhynocs are running rampant around here, but I can't get anyone out of the Tiki Lodge long enough to do anything about it.
 
-Здесь буянят носороги, но мне некого позвать из Тики Лодж хоть что-то с этим поделать.
+Здесь буянят носороги, но мне некого позвать из Ложи хоть что-то с этим поделать.
 
 Well, it looks like it's just you and me. I'll keep a look out while you sort out the rhynocs.
 
@@ -73,3 +73,15 @@ You should catch that thief before he steals something valuable.
 Those guys ought to be locked up.
 
 Тем парням пора за решётку.
+
+Note: Sgt. Byrd is currently on an important mission... to the inside of a cage! Tough luck.\     -The Sorceress
+
+Внимание: Сержант Бёрд сейчас на очень важной миссии... в клетке! Как жаль.\ -Колдунья 
+
+Would love to visit, old chap, but I've got work to do back at the base. You can check in with me there.     -Sgt. James Byrd
+
+Рад бы повидаться, старина, но я сейчас работаю на базе. Ты можешь навестить меня там. -Сержант Джеймс Бёрд
+
+Step inside, old chum!     -Sgt. James Byrd
+
+Заходи, старина! -Сержант Джеймс Бёрд 
