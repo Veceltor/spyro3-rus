@@ -1,10 +1,10 @@
 You can Hover to get more distance when gliding. Just press the } button at the end of your glide. &[Press } button at the end of your glide to get more distance.
 
-Ты можешь парить, чтобы пролететь подальше. Просто нажми } в конце полёта. &[Нажми } в конце полёта, чтобы попасть дальше.
+Ты можешь взмахнуть крыльями, чтобы повысить дальность полёта. Просто нажми } в конце. &[Перед самым приземлением жми }, и попадёшь чуть дальше.
 
 If you want a quick summary of your progress in a world, you can press the @4SELECT@0 button to open the Atlas page for the world you are in. &[Press @0SELECT@4 button to view Atlas.
 
-Если хочешь узнать о своих успехах, нажми @4SELECT@0, тогда откроется Атлас на странице того мира,в котором ты находишься. &[Нажми @0SELECT@4, чтобы открыть Атлас.
+Если хочешь узнать о своих успехах, нажми @4SELECT@0, тогда откроется Атлас на странице того мира, в котором ты находишься. &[Нажми @0SELECT@4, чтобы открыть Атлас.
 
 While I was gone, my friends borrowed the rhynocs' submarine... then they took it for a joy ride... and then they smashed it into a big pile of rocks. Oddly enough, the rhynocs failed to see the humor in the story and stuffed my friends in the jail behind you.
 
@@ -22,15 +22,15 @@ Oh, I forgot to tell you... one of the rhynocs had this egg in his lunch box...
 
 О, вылетело из головы. Мне попалось это яйцо в тарелке у одного носорога...
 
-Dear Dragon: If you're looking for that kangaroo, I'm afraid she's not available... EVER!\ -The Sorceress
+Dear Dragon: If you're looking for that kangaroo, I'm afraid she's not available... EVER!\      -The Sorceress
 
 Дорогой Дракоша: Если ищешь кенгуру - сожалею, она вне зоны доступа... НАВЕКИ!\ -Колдунья
 
-I'm still back in my home world with my goat friends. Come on over if you like.\ -Sheila
+I'm still back in my home world with my goat friends. Come on over if you like.\          -Sheila
 
 Я всё ещё помогаю моим козлятам. Присоединяйся, если хочешь.\ -Шейла
 
-Come on in!\ -Sheila
+Come on in!\     -Sheila
 
 Заходи!\ - Шейла
 
@@ -40,9 +40,9 @@ I can't wait until the rhynocs build a new submarine! Next time it's my turn to 
 
 Driving that submarine was a blast! Next time we're going to borrow the rhynocs' speed boat!
 
-Езда на подлодке – просто бомба! В следующий раз возьмем у них скоростную лодку!
+Гонять на подлодке – просто бомба! В следующий раз возьмем у них гоночный катер!
 
-We never would have crashed that submarine if Sal hadn't tried that hand-brake u-turn during an inverted barrel roll. 
+We never would have crashed that submarine if Sal hadn't tried that hand-brake u-turn during an inverted barrel roll.
 
 Мы бы и не разбили подлодку, если бы Сэл не решил проверить ручной тормоз во время обратной бочки с разворотом.
 
@@ -68,7 +68,7 @@ No problem. We'll be playing hot potato with this bomb until you come back.
 
 Owww... That really smarts... No problem though, we've got more bombs!!!
 
-А-ай... КАКАЯ БОООЛЬ! Ничего, у нас еще полно бомб!!!
+А-ай... Какая бо-о-оль! Ничего, у нас еще полно бомб!!!
 
 Our beach is your beach.
 
@@ -100,7 +100,7 @@ I don't blame you. I already owe seven years of kitchen duty, and I'm not about 
 
 Wow! That's the first time Bluto has ever lost! You've got a lot of talent for someone so purple... I hope this egg was worth all the trouble.
 
-Ого! Впервые в жизни Блуто проиграл! А ты весьма способный для... настолько пурпурного. Надеюсь, яйцо хоть стоило того.
+Ого! Впервые Блуто проиграл! А ты весьма способный... для настолько пурпурного. Надеюсь, яйцо хоть того стоило.
 
 We had a dragon egg for you, but we used it to test our ultra-high-speed-super-fluidity tunnel. The good news is that it made it to the end of the tunnel without a scratch! The bad news is that there's no way to get it back out now.
 

@@ -1,3 +1,15 @@
+Remember, to get your longest glide press the < button at the very top of your jump, and use the } button to hover at the end of your jump.
+
+Не забудь, чтобы лететь дальше, нажимай < в самом пике прыжка, а в конце полёта нажми }, чтобы подняться повыше.
+
+The metal armor those enemies are wearing protects them from your dragon flame. If you hold down the > button, you can defeat them with your charge attack.
+
+Стальная броня этих врагов защищает их от твоего пламени. Ты справишься с ними, если протаранишь их с разбега, нажав >.
+
+If my wings were big and strong like yours, I could easily glide across here. &[Press < button to jump. &[Then press < button in midair to glide.
+
+Были б мои крылышки большими и сильными, как твои, я бы запросто тут пролетел. &[Нажми < и подпрыгни. В прыжке нажми его снова, чтобы перелететь.
+
 The rhynocs have shut down our cloud generator and I'll never see a rainbow again.
 
 Носороги заглушили наш генератор облаков, и я больше никогда не увижу радугу.
@@ -16,11 +28,11 @@ The rhynocs must have been using this thing to clog up the cloud generator.
 
 Well, well, if it isn't my favorite dragon! The Sorceress has put me in charge of guarding these bellows. However, I suppose I might look the other way if I was distracted by counting gems. &Pay ^^^ gems to activate bellows? &Sure, whatever. &No way, you doofus.
 
-Так - так, это же мой любимый дракон! Колдунья поставила меня охранять эти меха. Конечно, я могу, скажем, отвернуться... если буду занят пересчетом камней... &Заплатить ^^^ камней, чтобы запустить меха? &Да, конечно. &За кого ты меня держишь?
+Так-так, это же мой любимый дракон! Колдунья поставила меня охранять эти меха. Конечно, я могу, скажем, отвернуться... если буду занят пересчетом камней... &Заплатить ^^^ камней, чтобы запустить меха? &Да, конечно. &За кого ты меня держишь?
 
 Oooooh yes... precious, precious gems... Well then, Spyro, you may now use the bellows any time you wish. Best of luck on your little egg hunt.
 
-Ооо да... мои прекрасные, прекрасные самоцве-е-еты... А, ну да, конечно, Спайро, можешь залезать на меха когда пожелаешь. Удачи в погоне за яичками!
+Ооо да... мои прелестные, прелестные самоцве-е-еты... А, ну да, конечно, Спайро, можешь залезать на меха когда пожелаешь. Удачи в погоне за яичками!
 
 What? NO? What else are you going to do with all those gems? Buy flying lessons? (Heh heh) that was a good one...
 
@@ -28,7 +40,7 @@ What? NO? What else are you going to do with all those gems? Buy flying lessons?
 
 Sorry, Spyro, it is my sworn duty to make certain no one crosses these bellows. And you know perfectly well that nothing could ever sway me from obeying my sworn duty... that is, ahem, until you have a few more gems. &[Activating bellows costs ^^^ gems.
 
-Прости, Спайро, но это мой долг — стоять на страже мехов. И ты отлично знаешь, что ничто и никогда не может заставить меня отступиться! ...ну разве что, кхм, если бы у тебя было чуть-чуть побольше сверкающих камешков... &[Подкуп обойдется в ^^^ камней.
+Прости, Спайро, но это мой долг - стоять на страже мехов. И ты отлично знаешь, что ничто и никогда не может заставить меня отступиться! ...ну разве что, кхм, если бы у тебя было чуть-чуть побольше сверкающих камешков... &[Подкуп обойдется в ^^^ камней.
 
 Heh heh... I haven't made such easy money since the Sorceress bought that mayonaisse for sunscreen.
 
@@ -36,7 +48,7 @@ Heh heh... I haven't made such easy money since the Sorceress bought that mayona
 
 Our sun has gone out. We can make a new one with our lava fusion cauldron and three sun seeds, but they keep burning out before we can get them in the pot.
 
-Наше солнце потухло. Мы можем создать новое, сплавив три солнечных зернышка в котле с лавой, но они сгорают прежде, чем мы донесем их до котла.
+Наше солнце потухло. Мы можем зажечь новое, забросив три солнечных зернышка в котёл лавосинтеза, но они сгорают прежде, чем мы донесем их до котла.
 
 Step on the switch to get a fresh sun seed and keep flaming it until you get it into the pot.
 
@@ -52,7 +64,7 @@ If you can't keep up with the sun seed, remember you can always hold down the > 
 
 We usually wake up our rain cloud at the crack of dawn, but these mischievous spirits are stopping our bells from ringing. &[Use the superfly powerup to flame the spirits in the belltowers.
 
-Обычно мы будим дождевое облако на рассвете, но эти проказливые духи мешают нашим колоколам звенеть.&[Используй бонус суперполёта и подожги духов в колокольных башнях.
+Обычно мы будим дождевое облако на рассвете, но эти проказливые духи мешают нашим колоколам звенеть.&[Используй усилитель полёта и подожги духов в колокольных башнях. 
 
 Do you want this doodad? It fell out of the belfry.
 
