@@ -1,0 +1,624 @@
+#summary Перевод уровня Lost Fleet
+
+
+=  Справка по редактированию = 
+ 
+Ничего не дописывать просто так!
+
+Всё содержимое страницы *обязательно* должно быть скопировано с <u>форума</u>.
+
+
+== Концепция ==
+
+  * Перечисляем фразы в порядке [http://spyro3-rus.googlecode.com/svn/trunk/levels/aleksusklim/English.txt списка].
+  * Формат по образцу (а по синтаксису есть [HelpWikiHtml справка]).
+  * У каждого редактора будет свой цвет и шаблон.
+  * Комментарии под каждой фразой в хронологическом порядке или по цитированию.
+  * Не обсуждать правки здесь: ни на странице, ни в комментариях к ней!
+  * После добавления правки на форму по возможности сразу внести её сюда.
+  * Не удалять и не исправлять (кроме форматирования) текст! Только добавлять.
+
+
+== Шаблоны ==
+
+Редактируя свой шаблон, делайте автозамену по всей странице, все применения шаблона должны быть одинаковыми.
+
+||<font title="aleksusklim" color="green" face="Arial">aleksusklim</font>||`<font title="aleksusklim" color="green" face="Arial">aleksusklim</font>`||
+||<font title="alteya" color="red" face="Arial">alteya</font>||`<font title="alteya" color="red" face="Arial">alteya</font>`||
+||<font title="Томас" color="blue" face="Arial">Томас</font>||`<font title="Томас" color="blue" face="Arial">Томас</font>`||
+||<font title="steeldragon" color="purple" face="Arial">steeldragon</font>||`<font title="steeldragon" color="purple" face="Arial">steeldragon</font>`||
+||<font title="Spyro" size="3" face="Courier New">Spyro</font>||`<font title="Spyro" size="3" face="Courier New">Spyro</font>`||
+||<font title="Перевод" size="3" face="Courier New">Перевод</font>||`<font title="Перевод" size="3" face="Courier New">Перевод</font>`||
+
+Шаблон «Spyro» для оригиналов текста, а «Перевод» – для наисвежайшей полноценной версии перевода (при полнотекстовых правках снимать, окрашивая в цвета автора, и перекрашивать вложенным тегом новый вараинт).
+
+
+= Текст = 
+
+
+== Crazy Ed == 
+
+=== 196 ===
+<font title="Spyro" size="3" face="Courier New">
+Be careful, roun' dese parts, li'l dragon! Dere be more ghosts in dis here shipyard den I kin shake me pick at! Durned shame, too, 'cause I was mighty close tuh findin' me treasure.
+</font>
+
+<font title="alteya" color="red" face="Arial">
+Осторожнее тута, дракоша! Здеся да вокруг корабля, шо я хочу взломать, куча привядений! И других опасностей, которые точняк приведут меня к сокровищам. 
+
+Тряхануть, пошарить, облазить, порыскать и тд 
+
+В этой или одной из двух следующих реплик надо бы "сокровища" заменить на "клад". Или "клад" это только то, что зарыто в земле? 
+</font>
+
+<font title="aleksusklim" color="green" face="Arial">
+Какая разница? Главное что пиратский. 
+</font>
+
+<font title="Томас" color="blue" face="Arial">
+(пока чистый смысл, ещё даже не пыталась заточить под Эдовский стиль) 
+
+Уж привидений на этом кладбище кораблей – как (собак нерезаных)! Ядрён батон, а я ведь был уже ух как близок, почти нашёл этот клад! 
+
+more den I kin shake me pick at = more than one can shake a stick at, только вместо палки (stick) у него кирка (pick) 
+
+То есть, как и в случае с dragon’s ransom у Толстосума, сюда нужно какое-нибудь перекрученное выражение, подходящее нашему психу! 
+</font>
+
+<font title="aleksusklim" color="green" face="Arial">
+«Be careful, around these parts, little dragon! There be more ghosts in this here shipyard than I can shake me pick at! Durned shame, too, 'cause I was mighty close to finding my treasure.» 
+
+Насчёт «Durned shame» и «shake me pick at» не уверен. 
+Кроме очевидных искажений, он часто употребляет «me» вместо «my». 
+
+Наша фраза слишком короткая. Приведений не просто куча, а «больше чем я могу» что-то там сделать? 
+</font>
+
+<font title="alteya" color="red" face="Arial">
+Для «more than one can shake a stick at» нашла в словаре аналоги «конца краю не видно» и уже предложенное Томас «как собак нерезаных». То есть, я думаю, не обязательно переводить именно буквально «больше чем я могу что-то там сделать», можно просто взять русскую поговорку и переиначить ее на корабельно-пираццкую тему. Ну, например «как акул нерезаных», или «как [кого-то там] нетопленных». Есть интересные идеи, кого можно недорезать-недотопить? Только надо, чтобы по количеству слогов и ударению совпадало с «собаками». Ну или хотя бы по ударению – на последний слог. Потому что, например «как карасЕй нерезаных» звучит нормально, несмотря на лишний слог, а вот «как крАбов нерезаных» - выбивается, именно из-за ударения. (Я только про ударение и слоги, а не про уместность крабов-карасей). 
+Нужно прям такое словцо, чтоб прям «карамба!». Ну вы поняли. 
+
+<font title="Перевод" size="3" face="Courier New">
+Остарожнее тута, дракоша! Уж привядений на ентом кораблёвом кладбише как акул нерезаных! Ядрён батон, а ведь я был ужо ух как близко, пошти што ухапал свои сокровиша. 
+</font>
+
+Вместо "кладбиша" можно "свалку", к примеру.
+</font>
+
+=== 1080 ===
+<font title="Spyro" size="3" face="Courier New">
+I reckon me treasure be thisaway... But we'll hafta blast through this bloomin' ship tuh git to it!
+</font>
+
+<font title="alteya" color="red" face="Arial">
+Сокровища где-то тута. Попробуй стрельнуть в тот крест. 
+
+Стрелянуть 
+</font>
+
+<font title="aleksusklim" color="green" face="Arial">
+«I reckon my treasure be this way... But we'll have to blast through this blooming ship to get to it!» 
+
+Опять палим задания, да? Про крест ни слова, лишь про то что надо разнести корабль. 
+Почему «blooming» не знаю, может это созвучие. 
+</font>
+
+<font title="alteya" color="red" face="Arial">
+Нашла, что это эвфемизм для слова “bloody”, у которого есть и буквальный перевод «кровавый/окровавленный» и другой, начиная от «проклятый/чертов» заканчивая «долбанный» и всеми ему созвучными словами, которые лучше тут не приводить, ибо пункт 2.5. 
+
+<font title="Перевод" size="3" face="Courier New">
+Мой клад хде-то тута, уж не сумлевайся. Но надыть стрелянуть вона в тот треклятущий корабель, штоб до нево докандыбать.
+</font>
+</font>
+
+=== 378 ===
+<font title="Spyro" size="3" face="Courier New">
+'Nother dad burned ship in the way o' me treasure... Wouldja mind blastin' this one too?
+</font>
+
+<font title="alteya" color="red" face="Arial">
+Мне дед рассказывал, что сокровища в том корабле. Стрельни и по нему, а? 
+
+пальни 
+
+Или можно "пальни" в предыдущую фразу, а здесь сделать "стреляни". 
+</font>
+
+<font title="aleksusklim" color="green" face="Arial">
+«Another dead burned ship in the way to my treasure… Would you mind blast in this one too?» 
+
+Эй, алё, какой дед! Он вообще-то говорит, что путь к сокровищам преградил ещё один погибший сгоревший корабль. 
+</font>
+
+<font title="Томас" color="blue" face="Arial">
+Ыщо один дохлый кораблик на пути к моим сокровищам… 
+(опять же, только суть) 
+
+Хотя про деда даже симпатичней смотрится! 
+</font>
+
+<font title="alteya" color="red" face="Arial">
+Эта фраза, похоже, не звучит. По крайней мере, я раза три-четыре проходила уровень, и всегда одно и то же: Эд прыгает на корабль, несется к его носу, и тычет пальцем в намалеванный крест, стоя при этом своей кормой к дракону. И стоит он так, пока ты не прострелишь дыру во втором корабле, в которую наш кладоискатель тут же сигает. Даже если изловчиться и встать на кончик «кораблёвого» носа, прямо перед носом Эда, то все равно – ноль реакции, диалог не начинается, треугольник неактивен. 
+
+<font title="Перевод" size="3" face="Courier New">
+Ыщо один горелый дохлый кораблик на пути к моим сокровишам… Мож и по нему тожа бомбанёшь?
+</font>
+</font>
+
+=== 437 ===
+<font title="Spyro" size="3" face="Courier New">
+Wouldja lookit that! Some fool hid a dang gum egg in me treasure.
+</font>
+
+<font title="alteya" color="red" face="Arial">
+Глянь! Какой-то дурак положил сюда яйцо заместо сокровищ. 
+
+Ну ты глянь - ? 
+
+Дурень / дурила 
+</font>
+
+<font title="Томас" color="blue" face="Arial">
+Ишь ты глянь?? 
+
+Дурень!.. Нет, дурила… Ещё мне нравится обалдуй, если что… 
+
+А давайте у него «шо» везде заменим на «што»? Визуально градус неадеквата сохраняется, зато избавляемся от ассоциаций с Одессой и президентом Украины! 
+</font>
+
+<font title="aleksusklim" color="green" face="Arial">
+«Would you look at that! Some fool hid a dang gum egg in my treasure.» 
+
+Насчёт «dang gum» не уверен. Но тоже что-то в стиле «бесполезное яйцо». 
+</font>
+
+<font title="alteya" color="red" face="Arial">
+Давайте, я не против.
+
+Dang – эвфемизм к слову «damn». Для «gum» не нашла ничего подходящего, самое близкое: «мешать/портить». Ну общий смысл и так ясен. 
+
+<font title="Перевод" size="3" face="Courier New">
+Ишь ты глянь! Какой-то дурила подсунул сюды енто паршивленное яицо заместо мояво сокровиша.
+</font>
+</font>
+
+=== 172 ===
+<font title="Spyro" size="3" face="Courier New">
+Dese here waters used to be my favorite divin' spot, but I can't get any loot with dese subs patrollin' around. Think you kin pilot dis here sub I bought for scrap? &Ride the sub? &Yes. &No.
+</font>
+
+<font title="alteya" color="red" face="Arial">
+Я любил плавать в этом кислотном озере, но таперича не могу - здеся подлодки плавают. Мож, используешь мою саб-марину, шоб их убрать? &Использовать субмарину? &Да. &Нет. 
+
+Возьмешь 
+
+погрузиться/забраться на/в подлодку 
+
+"плавать-плавают": по-моему это повторение может прикольно звучать. 
+</font>
+
+<font title="aleksusklim" color="green" face="Arial">
+Это принимается. Но теряем «патрулируют» и забыли «пилотирование»… 
+
+«This here waters used to be my favorite diving spot, but I can't get any loot with this subs patrolling around. Think you can pilot this here sub I bought for scrap?» 
+
+Там нет «чтоб их убрать» (а я хотел было предложить «шоб йих ушарахать»), там лишь «что я купил за лом» (FTL: иногда лом дороже денег!) 
+</font>
+
+<font title="alteya" color="red" face="Arial">
+А как вставить «пилотирование» в эту просторечно-коверканную фразу? Да и вообще немного затрудняюсь с этой репликой.
+
+А «плавать-плавают» предлагаю написать «пылавать-пылавают»
+</font>
+
+<font title="aleksusklim" color="green" face="Arial">
+Да!
+
+<font title="Перевод" size="3" face="Courier New">
+Ты знаш как я полюбливал пылавать в маём кислётном озерэ, но таперича не могу – здеся подлодки патрилируюца. Мож, порулиш мою саб-марину, шо я за барахло вымянял? 
+</font>
+</font>
+
+=== 137 ===
+<font title="Spyro" size="3" face="Courier New">
+Alrighty then. Press the < button to speed on up, and when you get a sub in your sights, the torpedo will start to lock on. If you get a good lock-on, fire away with the { button. &[Press < to speed up. &[Wait for red circles to lock on. &[Fire with { button!
+</font>
+
+<font title="alteya" color="red" face="Arial">
+Тада лады. Жми <, шоб ускоряться, и когда, и когда лодка будет в зоне видимости, появится прицел. Как прицелишься хорошенько, стреляй нажатием {. &[Нажми < для ускорения. &[Жди, пока все круги не станут красными. &[ { - стрелять. 
+
+Тада лады. Гони <, и когда лодка будет у тебя прям под носом, появится прицел. Как прицелишься хорошенько, жахни кнопкой {. &[Нажимай < для ускорения. &[Жди, пока все круги не станут красными. &[ { - открыть огонь! 
+
+Будет звучать как "гони крестом" 
+</font>
+
+<font title="aleksusklim" color="green" face="Arial">
+Отлично!
+
+(в расшифровке не нуждается, обучалку они значит нормально написали…) 
+</font>
+
+=== 1129 ===
+<font title="Spyro" size="3" face="Courier New">
+Ah, dad gum, I gis I'll hafta git it workin' muhself.
+</font>
+
+<font title="alteya" color="red" face="Arial">
+Ах, ну чё, буду без озера теперь жить. 
+
+Там что-то вроде «I guess(?) I'll have to get it working myself», насколько я догадываюсь: 
+
+Ах, ну чё, видать мне самому надыть с этим разобраться. 
+
+Вместо "разобраться" неплохо бы подобрать другое прикольное словечко. 
+</font>
+
+<font title="aleksusklim" color="green" face="Arial">
+«I guess I'll have to get it working myself.» («dad gum» не знаю, но помню у Толстосума даже похожее в Spooky Swamp было). 
+
+«разобраться» = «разобрася»/« разобраца»? 
+</font>
+
+<font title="alteya" color="red" face="Arial">
+Разбораца?
+</font>
+
+=== 273 ===
+<font title="Spyro" size="3" face="Courier New">
+Well, I'll be durned! You've got some mean sub-drivin' skills. Why don't you 'ave dis here egg as a re-ward.
+</font>
+
+<font title="alteya" color="red" face="Arial">
+У, я впечатлён! Ты мошь управлять этой штукой. Чё б те не взять яйцо, ну типа награда такая. 
+</font>
+
+<font title="Томас" color="blue" face="Arial">
+«мошь» - «могёшь»? 
+</font>
+
+<font title="aleksusklim" color="green" face="Arial">
+«Why don't you have this here egg as a reward.» (про «durned» не знаю). 
+
+А «mean sub-drivin' skills» это «сногсшибательные навыки вождения подлодки»? Надо хоть чем-то донести. Например, «Ну ты вообще оказывается можешь…» или ещё ближе к тексту. 
+
+И там что-то грубее чем «впечатлён»? «Офигеваю», «тащусь»? 
+</font>
+
+<font title="alteya" color="red" face="Arial">
+<font title="Перевод" size="3" face="Courier New">
+У, ну я тащуся! Ты прям так зашибенно могёшь упыравлять ентой штукой. Чё б тябе не взять яицо, ну типа награда такая. 
+</font>
+
+«Чё», как мне кажется, должно звучать почти как «що», мы же его таким "шокающим" сделали. А еще как вариант, сделать "г" слегка "украинским".
+</font>
+
+<font title="aleksusklim" color="green" face="Arial">
+Всё к этому и идёт.
+</font>
+
+=== 108 ===
+<font title="Spyro" size="3" face="Courier New">
+Hoooohoooo, at last, the acid lake is safe fer swimmin' agin'! I wish I could re-ward ya better, but all I gots left is dis 'ere other egg. Maybe dere'll be something better in dis one.
+</font>
+
+<font title="alteya" color="red" face="Arial">
+Ууууу-ху, наконец-то кислотное озеро безопасно! Я б тя наградил получше, но у мя нет ничё, окромя другого яйца. Ну, всё ж лучше, чем ваще ничего. 
+
+А «озеро свободно для плавания» в пробах — это появилось до или после «озеро безопасно»? 
+</font>
+
+<font title="aleksusklim" color="green" face="Arial">
+Что? Не знаю. Но одиночное «безопасно» разве доносит «for swimming»? 
+
+«at last, the acid lake is safe for swimming again! I wish I could reward you better, but all I got is left is this here other egg. Maybe there'll be something better in this one.» 
+</font>
+
+<font title="alteya" color="red" face="Arial">
+«in this one» - это он про что именно? Про яйцо, или с намеком, что в озере может быть что-то ценное? 
+</font>
+
+<font title="aleksusklim" color="green" face="Arial">
+А вот это я сам не знаю. Надеялся, что вы знаете…
+</font>
+
+<font title="alteya" color="red" face="Arial">
+<font title="Перевод" size="3" face="Courier New">
+Ууууу-ху, ну накынец можна пылавать в кисылотном озере! Я б тя нагырадил полуше, но у мя нет ничаво, окромя другого яица. 
+
+Ну всё ж луше, чем ваще без ничаво. / Ну мож здеся тябе попадёса ыщо што полуше.
+</font>
+</font>
+
+<font title="aleksusklim" color="green" face="Arial">
+Пока держим оба.
+</font>
+
+=== 147 ===
+<font title="Spyro" size="3" face="Courier New">
+Well, I hate t' ask yer help again, but dere be even more subs that durn come outta nowheres. If you could blast 'em, I could use dis acid lake as muh swimmin' hole again. &Blast some more subs? &Yes. &No.
+</font>
+
+<font title="alteya" color="red" face="Arial">
+Не хочу тя опять напрягать, но будто из ниоткуда тута появилось ещё больше субмарин. Коли сможешь их подорвать, я смогу опять плавать в моём озере. 
+
+Будто прям из ниоткуда 
+"опять плавать в моем озере" хотелось бы перефразировать, но пока вариантов нет. 
+</font>
+
+<font title="aleksusklim" color="green" face="Arial">
+«я буду дальше держать его за персональный бассейничек»? 
+
+«Well, I hate to ask your help again, but there be even more subs that durn come outta nowheres. If you could blast them, I could use this acid lake as my swimming hole again.» 
+</font>
+
+<font title="alteya" color="red" face="Arial">
+Слушайте, нарыла прикольное слово «ещёжды», синоним к «опять / снова / еще раз». 
+
+<font title="Перевод" size="3" face="Courier New">
+Ух, не хощу ыщёжды тя напрыгать, но будта прям из ниоткудыва тута появилося ыщо больше сабымарин. Ежыли смогёшь йих ушарахать, я и дальше буду дыржать енто озерко за свой самыличный бассейничек.
+</font>
+</font>
+
+=== 529 ===
+<font title="Spyro" size="3" face="Courier New">
+Darn tootin'! Git on little dragon! &[Press < to speed up. &[Wait for red circles to lock on. &[Fire with { button!
+</font>
+
+<font title="alteya" color="red" face="Arial">
+Запуливайся, дракоша! &[Нажми < для ускорения. &[Жди, пока все круги не станут красными. &[ { - стрелять. 
+</font>
+
+<font title="aleksusklim" color="green" face="Arial">
+«Get on little dragon!» 
+
+«Darn tootin'» – не знаю. Добавим к началу «Анудавай!» ? 
+</font>
+
+<font title="alteya" color="red" face="Arial">
+<font title="Перевод" size="3" face="Courier New">
+«А ну-кысь! Запуливайся, дракоша!»
+</font>
+</font>
+
+=== 548 ===
+<font title="Spyro" size="3" face="Courier New">
+Well, come back whenevers y' like.
+</font>
+
+<font title="alteya" color="red" face="Arial">
+Возвращайся, када хош. 
+</font>
+
+<font title="aleksusklim" color="green" face="Arial">
+Фраза повторяется дважды, не знаю почему. 
+</font>
+
+<font title="alteya" color="red" face="Arial">
+Один раз он это говорит в ответ на отказ «ещёжды» помочь ему с подлодками. Второй – когда отказываешься покататься «джаст фор фан». 
+
+<font title="Перевод" size="3" face="Courier New">
+«Лады, притопывай, ежели перыдумаешь» 
+</font>
+</font>
+
+=== 1149 ===
+<font title="Spyro" size="3" face="Courier New">
+Ya kin ride the sub just for fun, if ya like. &Ride the sub for cheap thrills? &Yes. &No.
+</font>
+
+<font title="alteya" color="red" face="Arial">
+Можш покататься на сабе прост так. &Покататься на субмарине ради веселья? &Да. &Нет. 
+
+Вопрос я бы тоже хотела поменять. Над ним еще подумаю. 
+</font>
+
+<font title="Томас" color="blue" face="Arial">
+&Хочешь покататься просто так, пощекотать нервы? 
+</font>
+
+<font title="alteya" color="red" face="Arial">
+Вообще неплохо. И подходит к thrills. Правда, не понятно, зачем там это слово изначально - что там такого нервощекотательного, в пустом озере, пусть и кислотном? Ну да это на совести разработчиков.
+</font>
+
+<font title="Томас" color="blue" face="Arial">
+...Может замкнутое кислотное пространство? Опасность разгерметизации? Одиночество, в конце концов. Игрокам, ясное дело, море по колено, а дракончику в этой адской подлодке - каково ему там?
+</font>
+
+<font title="aleksusklim" color="green" face="Arial">
+«You can ride the sub just for fun, if you like.» 
+
+«just for fun» как-то традиционно переводится? 
+</font>
+
+<font title="alteya" color="red" face="Arial">
+Забавы ради, ради интереса, ради шутки, из спортивного интереса, просто так. 
+
+«Покытатса/покытаса» - ?
+</font>
+
+<font title="aleksusklim" color="green" face="Arial">
+Да, и «забавы ради» пойдёт.
+</font>
+
+=== 1146 ===
+<font title="Spyro" size="3" face="Courier New">
+Okey Dokey, take good care of 'er, y' here?
+</font>
+
+<font title="alteya" color="red" face="Arial">
+Ладненько, заботься о ней, угу? 
+
+Из рифмовок приходит на ум только "ладушки-оладушки". Ну это так, просто к слову.
+</font>
+
+<font title="Томас" color="blue" face="Arial">
+Класс-класс-класс! 
+</font>
+
+<font title="aleksusklim" color="green" face="Arial">
+«take good care of her, you here?» 
+(это он точно про свою подлодку?) 
+</font>
+
+<font title="alteya" color="red" face="Arial">
+Не знаю. Но говорит он это, когда соглашаешься кататься не пользы ради, а удовольствия для.
+
+А мы что, вставим «оладушки»?
+</font>
+
+<font title="aleksusklim" color="green" face="Arial">
+Ну да. Можно через «щ».
+</font>
+
+=== 1175 ===
+<font title="Spyro" size="3" face="Courier New">
+Well, come back whenevers y' like.
+</font>
+
+<font title="alteya" color="red" face="Arial">
+<font title="Перевод" size="3" face="Courier New">
+«Ну тады ворощайся, када хош»
+</font>
+</font>
+
+<font title="aleksusklim" color="green" face="Arial">
+Ещё две фразы пирата: 
+</font>
+
+=== 180 ===
+
+<font title="Spyro" size="3" face="Courier New">
+I reckon I'm here tuh help ya wit' yer mission, but I don't know nuthin' bout rocket scientry... I'm jest here tuh supply the scrap metal... Ya had better git some more folk tuh help out. 
+</font>
+
+<font title="aleksusklim" color="green" face="Arial">
+«I reckon I’m here to help you with your mission, but I don't know nothing about `*` rocket scientry… I'm just here to supply the scrap metal… You had better get some more folk to help out.» 
+
+(Насчёт «scientry» не уверен, на месте звёздочки в озвучке непонятный слог). 
+</font>
+
+<font title="steeldragon" color="purple" face="Arial">
+Это "rocket science". 100%. 
+
+"rocket science" - что-то очень сложное
+</font>
+
+<font title="alteya" color="red" face="Arial">
+Вот что говорит urbandictionary: 
+«Scientry - The word someone uses in place of science, because it is to early in the morning to speak correctly» 
+
+А для rocket science нашла такие переводы: 
+высшая математика (перен.); китайская грамота; ракетостроение; нечто сложное,требующее неординарных умственных усилий; запутанная тема; сложный предмет. 
+
+Прикольно, что фраза используется одновременно и в прямом и в переносном смысле. В который раз ставлю плюс разработчикам.
+</font>
+
+=== 345 ===
+
+<font title="Spyro" size="3" face="Courier New">
+I guess this hunk a junk is sposed tuh fly... Sure glad I ain't the one gittin' on. 
+</font>
+
+<font title="aleksusklim" color="green" face="Arial">
+I guess this hunk a junk is supposed to fly… Sure glad I ain't the one getting on. 
+
+(«the one getting on» – рифма?)
+</font>
+
+== Sorceress ==
+
+<font title="Spyro" size="3" face="Courier New">
+Awwwww, poor wittle dragon... did your friend go bye-bye? Now, now, don't worry... you'll soon be JOINING HIM!     -The Sorceress
+</font>
+
+== Hunter == 
+
+=== 89 ===
+<font title="Spyro" size="3" face="Courier New">
+Spyro, you're just in time! A rhynoc skateboard gang has challenged us to a race. They said you're slower than a Molten Crater fire slug. I stuck up for you, though! I told them I've seen some pretty fast fire slugs.
+</font>
+
+=== 398 ===
+<font title="Spyro" size="3" face="Courier New">
+So, are you ready to race these guys? They bet us an egg that you won't win! &Race the rhynocs? &Bring 'em on! &Some other time...
+</font>
+
+=== 125 ===
+<font title="Spyro" size="3" face="Courier New">
+Right on! You can use my special racing board. Every time you do a trick, it builds up turbo charge. You can use your turbos at any time by pressing the > button. Good luck! &[Do tricks to get turbos. &[Use turbos by pressing the > button. &[Beat all rhynocs in 3 lap race.
+</font>
+
+=== 336 ===
+<font title="Spyro" size="3" face="Courier New">
+Awww, shucks... I thought you'd want to race 'em. Well, just come talk to me if you change your mind.
+</font>
+
+=== 204 ===
+<font title="Spyro" size="3" face="Courier New">
+Sheesh, what happened? I could beat these guys with my tail tied behind my back! I hope you do better this time, or we'll never live it down... &Race the rhynocs? &Bring 'em on! &Some other time...
+</font>
+
+=== 539 ===
+<font title="Spyro" size="3" face="Courier New">
+Alright! Let 'em have it! &[Do tricks to get turbos. &[Use turbos by pressing the > button. &[Beat all rhynocs in 3 lap race.
+</font>
+
+=== 338 ===
+<font title="Spyro" size="3" face="Courier New">
+Awww, shucks... I thought you'd want to race 'em. Well, just come talk to me if you change your mind.
+</font>
+
+=== 245 ===
+<font title="Spyro" size="3" face="Courier New">
+Yeeesss!! You schooled 'em like a bunch of dizzy, one-toed sand gnorcs! ... Oh yeah, I guess we won this egg, too.
+</font>
+
+=== 120 ===
+<font title="Spyro" size="3" face="Courier New">
+Now that the rhynocs are gone, do you want to try a real challenge? I know you're fast, but I bet you can't defeat all the crabs on the course and still beat me in a race! Want to give it a shot? &Accept Hunter's challenge? &You're on, pal! &No dice...
+</font>
+
+=== 1113 ===
+<font title="Spyro" size="3" face="Courier New">
+Alright! Eat my skate-dust, sucker! &[Defeat all crabs on the course &[Beat Hunter in 3 lap race
+</font>
+
+=== 1039 ===
+<font title="Spyro" size="3" face="Courier New">
+Heh heh, what's the matter, getting chicken on me? Bwaaak bwaaak bwaaaaaak! Bwak bwaak bwak bwak bwaaaaaaaaaak!
+</font>
+
+=== 482 ===
+<font title="Spyro" size="3" face="Courier New">
+So, are you ready to take my challenge? &Accept Hunter's challenge? &You're on, pal! &No dice...
+</font>
+
+=== 457 ===
+<font title="Spyro" size="3" face="Courier New">
+Alright! Eat my skate-dust, sucker! &[Defeat all crabs on the course &[Beat Hunter in 3 lap race
+</font>
+
+=== 1040 ===
+<font title="Spyro" size="3" face="Courier New">
+Heh heh, you're just chicken aren't you? Bwaaak bwaaak bwaaaaaak! Bwak bwaak bwak bwak bwaaaaaaaaaak!
+</font>
+
+=== 266 ===
+<font title="Spyro" size="3" face="Courier New">
+OK, you beat me Spyro, but you didn't get all the crabs. A dragon of your pedigree should really be able to do both!
+</font>
+
+=== 456 ===
+<font title="Spyro" size="3" face="Courier New">
+Woooohooo! I'm still the speed king of the world!
+</font>
+
+=== 122 ===
+<font title="Spyro" size="3" face="Courier New">
+Sheesh, I can't believe you beat me! You must have been practicing the whole time I thought you were looking for eggs... Hey, speaking of which, one of those crabs was guarding this one...
+</font>
+
+=== 370 ===
+<font title="Spyro" size="3" face="Courier New">
+You might be able to beat me at skateboarding, but I still get all the chicks.
+</font>
