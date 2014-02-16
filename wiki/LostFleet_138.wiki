@@ -21,14 +21,15 @@
 
 == Шаблоны ==
 
-Редактируя свой шаблон, делайте автозамену по всей странице, все применения шаблона должны быть одинаковыми.
+Редактируя свой шаблон, делайте автозамену по всей странице, все применения шаблона должны быть одинаковыми. Можете менять не только цвет, но и сам шрифт!
 
 ||<font title="aleksusklim" color="green" face="Arial">aleksusklim</font>||`<font title="aleksusklim" color="green" face="Arial">aleksusklim</font>`||
-||<font title="alteya" color="red" face="Arial">alteya</font>||`<font title="alteya" color="red" face="Arial">alteya</font>`||
+||<font title="alteya" color="purple" face="Arial">alteya</font>||`<font title="alteya" color="purple" face="Arial">alteya</font>`||
 ||<font title="Томас" color="blue" face="Arial">Томас</font>||`<font title="Томас" color="blue" face="Arial">Томас</font>`||
-||<font title="steeldragon" color="purple" face="Arial">steeldragon</font>||`<font title="steeldragon" color="purple" face="Arial">steeldragon</font>`||
+||<font title="steeldragon" color="red" face="Arial">steeldragon</font>||`<font title="steeldragon" color="red" face="Arial">steeldragon</font>`||
+||<font title="nihonjin" color="maroon" face="Arial">nihonjin</font>||`<font title="nihonjin" color="maroon" face="Arial">nihonjin</font>`||
 ||<font title="Spyro" size="3" face="Courier New">Spyro</font>||`<font title="Spyro" size="3" face="Courier New">Spyro</font>`||
-||<font title="Перевод" size="3" face="Courier New">Перевод</font>||`<font title="Перевод" size="3" face="Courier New">Перевод</font>`||
+||<b><font title="Перевод" size="3" face="Courier New">Перевод</font></b>||`<b><font title="Перевод" size="3" face="Courier New">Перевод</font></b>`||
 
 Шаблон «Spyro» для оригиналов текста, а «Перевод» – для наисвежайшей полноценной версии перевода (при полнотекстовых правках снимать, окрашивая в цвета автора, и перекрашивать вложенным тегом новый вараинт).
 
@@ -43,7 +44,7 @@
 Be careful, roun' dese parts, li'l dragon! Dere be more ghosts in dis here shipyard den I kin shake me pick at! Durned shame, too, 'cause I was mighty close tuh findin' me treasure.
 </font>
 
-<font title="alteya" color="red" face="Arial">
+<font title="alteya" color="purple" face="Arial">
 Осторожнее тута, дракоша! Здеся да вокруг корабля, шо я хочу взломать, куча привядений! И других опасностей, которые точняк приведут меня к сокровищам. 
 
 Тряхануть, пошарить, облазить, порыскать и тд 
@@ -74,13 +75,13 @@ more den I kin shake me pick at = more than one can shake a stick at, тольк
 Наша фраза слишком короткая. Приведений не просто куча, а «больше чем я могу» что-то там сделать? 
 </font>
 
-<font title="alteya" color="red" face="Arial">
+<font title="alteya" color="purple" face="Arial">
 Для «more than one can shake a stick at» нашла в словаре аналоги «конца краю не видно» и уже предложенное Томас «как собак нерезаных». То есть, я думаю, не обязательно переводить именно буквально «больше чем я могу что-то там сделать», можно просто взять русскую поговорку и переиначить ее на корабельно-пираццкую тему. Ну, например «как акул нерезаных», или «как [кого-то там] нетопленных». Есть интересные идеи, кого можно недорезать-недотопить? Только надо, чтобы по количеству слогов и ударению совпадало с «собаками». Ну или хотя бы по ударению – на последний слог. Потому что, например «как карасЕй нерезаных» звучит нормально, несмотря на лишний слог, а вот «как крАбов нерезаных» - выбивается, именно из-за ударения. (Я только про ударение и слоги, а не про уместность крабов-карасей). 
 Нужно прям такое словцо, чтоб прям «карамба!». Ну вы поняли. 
 
-<font title="Перевод" size="3" face="Courier New">
+<b><font title="Перевод" size="3" face="Courier New">
 Остарожнее тута, дракоша! Уж привядений на ентом кораблёвом кладбише как акул нерезаных! Ядрён батон, а ведь я был ужо ух как близко, пошти што ухапал свои сокровиша. 
-</font>
+</font></b>
 
 Вместо "кладбиша" можно "свалку", к примеру.
 </font>
@@ -90,7 +91,7 @@ more den I kin shake me pick at = more than one can shake a stick at, тольк
 I reckon me treasure be thisaway... But we'll hafta blast through this bloomin' ship tuh git to it!
 </font>
 
-<font title="alteya" color="red" face="Arial">
+<font title="alteya" color="purple" face="Arial">
 Сокровища где-то тута. Попробуй стрельнуть в тот крест. 
 
 Стрелянуть 
@@ -103,12 +104,12 @@ I reckon me treasure be thisaway... But we'll hafta blast through this bloomin' 
 Почему «blooming» не знаю, может это созвучие. 
 </font>
 
-<font title="alteya" color="red" face="Arial">
+<font title="alteya" color="purple" face="Arial">
 Нашла, что это эвфемизм для слова “bloody”, у которого есть и буквальный перевод «кровавый/окровавленный» и другой, начиная от «проклятый/чертов» заканчивая «долбанный» и всеми ему созвучными словами, которые лучше тут не приводить, ибо пункт 2.5. 
 
-<font title="Перевод" size="3" face="Courier New">
+<b><font title="Перевод" size="3" face="Courier New">
 Мой клад хде-то тута, уж не сумлевайся. Но надыть стрелянуть вона в тот треклятущий корабель, штоб до нево докандыбать.
-</font>
+</font></b>
 </font>
 
 === 378 ===
@@ -116,7 +117,7 @@ I reckon me treasure be thisaway... But we'll hafta blast through this bloomin' 
 'Nother dad burned ship in the way o' me treasure... Wouldja mind blastin' this one too?
 </font>
 
-<font title="alteya" color="red" face="Arial">
+<font title="alteya" color="purple" face="Arial">
 Мне дед рассказывал, что сокровища в том корабле. Стрельни и по нему, а? 
 
 пальни 
@@ -137,12 +138,12 @@ I reckon me treasure be thisaway... But we'll hafta blast through this bloomin' 
 Хотя про деда даже симпатичней смотрится! 
 </font>
 
-<font title="alteya" color="red" face="Arial">
+<font title="alteya" color="purple" face="Arial">
 Эта фраза, похоже, не звучит. По крайней мере, я раза три-четыре проходила уровень, и всегда одно и то же: Эд прыгает на корабль, несется к его носу, и тычет пальцем в намалеванный крест, стоя при этом своей кормой к дракону. И стоит он так, пока ты не прострелишь дыру во втором корабле, в которую наш кладоискатель тут же сигает. Даже если изловчиться и встать на кончик «кораблёвого» носа, прямо перед носом Эда, то все равно – ноль реакции, диалог не начинается, треугольник неактивен. 
 
-<font title="Перевод" size="3" face="Courier New">
+<b><font title="Перевод" size="3" face="Courier New">
 Ыщо один горелый дохлый кораблик на пути к моим сокровишам… Мож и по нему тожа бомбанёшь?
-</font>
+</font></b>
 </font>
 
 === 437 ===
@@ -150,7 +151,7 @@ I reckon me treasure be thisaway... But we'll hafta blast through this bloomin' 
 Wouldja lookit that! Some fool hid a dang gum egg in me treasure.
 </font>
 
-<font title="alteya" color="red" face="Arial">
+<font title="alteya" color="purple" face="Arial">
 Глянь! Какой-то дурак положил сюда яйцо заместо сокровищ. 
 
 Ну ты глянь - ? 
@@ -172,14 +173,14 @@ Wouldja lookit that! Some fool hid a dang gum egg in me treasure.
 Насчёт «dang gum» не уверен. Но тоже что-то в стиле «бесполезное яйцо». 
 </font>
 
-<font title="alteya" color="red" face="Arial">
+<font title="alteya" color="purple" face="Arial">
 Давайте, я не против.
 
 Dang – эвфемизм к слову «damn». Для «gum» не нашла ничего подходящего, самое близкое: «мешать/портить». Ну общий смысл и так ясен. 
 
-<font title="Перевод" size="3" face="Courier New">
+<b><font title="Перевод" size="3" face="Courier New">
 Ишь ты глянь! Какой-то дурила подсунул сюды енто паршивленное яицо заместо мояво сокровиша.
-</font>
+</font></b>
 </font>
 
 === 172 ===
@@ -187,7 +188,7 @@ Dang – эвфемизм к слову «damn». Для «gum» не нашла
 Dese here waters used to be my favorite divin' spot, but I can't get any loot with dese subs patrollin' around. Think you kin pilot dis here sub I bought for scrap? &Ride the sub? &Yes. &No.
 </font>
 
-<font title="alteya" color="red" face="Arial">
+<font title="alteya" color="purple" face="Arial">
 Я любил плавать в этом кислотном озере, но таперича не могу - здеся подлодки плавают. Мож, используешь мою саб-марину, шоб их убрать? &Использовать субмарину? &Да. &Нет. 
 
 Возьмешь 
@@ -205,7 +206,7 @@ Dese here waters used to be my favorite divin' spot, but I can't get any loot wi
 Там нет «чтоб их убрать» (а я хотел было предложить «шоб йих ушарахать»), там лишь «что я купил за лом» (FTL: иногда лом дороже денег!) 
 </font>
 
-<font title="alteya" color="red" face="Arial">
+<font title="alteya" color="purple" face="Arial">
 А как вставить «пилотирование» в эту просторечно-коверканную фразу? Да и вообще немного затрудняюсь с этой репликой.
 
 А «плавать-плавают» предлагаю написать «пылавать-пылавают»
@@ -214,9 +215,9 @@ Dese here waters used to be my favorite divin' spot, but I can't get any loot wi
 <font title="aleksusklim" color="green" face="Arial">
 Да!
 
-<font title="Перевод" size="3" face="Courier New">
+<b><font title="Перевод" size="3" face="Courier New">
 Ты знаш как я полюбливал пылавать в маём кислётном озерэ, но таперича не могу – здеся подлодки патрилируюца. Мож, порулиш мою саб-марину, шо я за барахло вымянял? 
-</font>
+</font></b>
 </font>
 
 === 137 ===
@@ -224,7 +225,7 @@ Dese here waters used to be my favorite divin' spot, but I can't get any loot wi
 Alrighty then. Press the < button to speed on up, and when you get a sub in your sights, the torpedo will start to lock on. If you get a good lock-on, fire away with the { button. &[Press < to speed up. &[Wait for red circles to lock on. &[Fire with { button!
 </font>
 
-<font title="alteya" color="red" face="Arial">
+<font title="alteya" color="purple" face="Arial">
 Тада лады. Жми <, шоб ускоряться, и когда, и когда лодка будет в зоне видимости, появится прицел. Как прицелишься хорошенько, стреляй нажатием {. &[Нажми < для ускорения. &[Жди, пока все круги не станут красными. &[ { - стрелять. 
 
 Тада лады. Гони <, и когда лодка будет у тебя прям под носом, появится прицел. Как прицелишься хорошенько, жахни кнопкой {. &[Нажимай < для ускорения. &[Жди, пока все круги не станут красными. &[ { - открыть огонь! 
@@ -243,7 +244,7 @@ Alrighty then. Press the < button to speed on up, and when you get a sub in your
 Ah, dad gum, I gis I'll hafta git it workin' muhself.
 </font>
 
-<font title="alteya" color="red" face="Arial">
+<font title="alteya" color="purple" face="Arial">
 Ах, ну чё, буду без озера теперь жить. 
 
 Там что-то вроде «I guess(?) I'll have to get it working myself», насколько я догадываюсь: 
@@ -259,7 +260,7 @@ Ah, dad gum, I gis I'll hafta git it workin' muhself.
 «разобраться» = «разобрася»/« разобраца»? 
 </font>
 
-<font title="alteya" color="red" face="Arial">
+<font title="alteya" color="purple" face="Arial">
 Разбораца?
 </font>
 
@@ -268,7 +269,7 @@ Ah, dad gum, I gis I'll hafta git it workin' muhself.
 Well, I'll be durned! You've got some mean sub-drivin' skills. Why don't you 'ave dis here egg as a re-ward.
 </font>
 
-<font title="alteya" color="red" face="Arial">
+<font title="alteya" color="purple" face="Arial">
 У, я впечатлён! Ты мошь управлять этой штукой. Чё б те не взять яйцо, ну типа награда такая. 
 </font>
 
@@ -284,10 +285,10 @@ Well, I'll be durned! You've got some mean sub-drivin' skills. Why don't you 'av
 И там что-то грубее чем «впечатлён»? «Офигеваю», «тащусь»? 
 </font>
 
-<font title="alteya" color="red" face="Arial">
-<font title="Перевод" size="3" face="Courier New">
+<font title="alteya" color="purple" face="Arial">
+<b><font title="Перевод" size="3" face="Courier New">
 У, ну я тащуся! Ты прям так зашибенно могёшь упыравлять ентой штукой. Чё б тябе не взять яицо, ну типа награда такая. 
-</font>
+</font></b>
 
 «Чё», как мне кажется, должно звучать почти как «що», мы же его таким "шокающим" сделали. А еще как вариант, сделать "г" слегка "украинским".
 </font>
@@ -301,7 +302,7 @@ Well, I'll be durned! You've got some mean sub-drivin' skills. Why don't you 'av
 Hoooohoooo, at last, the acid lake is safe fer swimmin' agin'! I wish I could re-ward ya better, but all I gots left is dis 'ere other egg. Maybe dere'll be something better in dis one.
 </font>
 
-<font title="alteya" color="red" face="Arial">
+<font title="alteya" color="purple" face="Arial">
 Ууууу-ху, наконец-то кислотное озеро безопасно! Я б тя наградил получше, но у мя нет ничё, окромя другого яйца. Ну, всё ж лучше, чем ваще ничего. 
 
 А «озеро свободно для плавания» в пробах — это появилось до или после «озеро безопасно»? 
@@ -313,7 +314,7 @@ Hoooohoooo, at last, the acid lake is safe fer swimmin' agin'! I wish I could re
 «at last, the acid lake is safe for swimming again! I wish I could reward you better, but all I got is left is this here other egg. Maybe there'll be something better in this one.» 
 </font>
 
-<font title="alteya" color="red" face="Arial">
+<font title="alteya" color="purple" face="Arial">
 «in this one» - это он про что именно? Про яйцо, или с намеком, что в озере может быть что-то ценное? 
 </font>
 
@@ -321,12 +322,12 @@ Hoooohoooo, at last, the acid lake is safe fer swimmin' agin'! I wish I could re
 А вот это я сам не знаю. Надеялся, что вы знаете…
 </font>
 
-<font title="alteya" color="red" face="Arial">
-<font title="Перевод" size="3" face="Courier New">
+<font title="alteya" color="purple" face="Arial">
+<b><font title="Перевод" size="3" face="Courier New">
 Ууууу-ху, ну накынец можна пылавать в кисылотном озере! Я б тя нагырадил полуше, но у мя нет ничаво, окромя другого яица. 
 
 Ну всё ж луше, чем ваще без ничаво. / Ну мож здеся тябе попадёса ыщо што полуше.
-</font>
+</font></b>
 </font>
 
 <font title="aleksusklim" color="green" face="Arial">
@@ -338,7 +339,7 @@ Hoooohoooo, at last, the acid lake is safe fer swimmin' agin'! I wish I could re
 Well, I hate t' ask yer help again, but dere be even more subs that durn come outta nowheres. If you could blast 'em, I could use dis acid lake as muh swimmin' hole again. &Blast some more subs? &Yes. &No.
 </font>
 
-<font title="alteya" color="red" face="Arial">
+<font title="alteya" color="purple" face="Arial">
 Не хочу тя опять напрягать, но будто из ниоткуда тута появилось ещё больше субмарин. Коли сможешь их подорвать, я смогу опять плавать в моём озере. 
 
 Будто прям из ниоткуда 
@@ -351,12 +352,12 @@ Well, I hate t' ask yer help again, but dere be even more subs that durn come ou
 «Well, I hate to ask your help again, but there be even more subs that durn come outta nowheres. If you could blast them, I could use this acid lake as my swimming hole again.» 
 </font>
 
-<font title="alteya" color="red" face="Arial">
+<font title="alteya" color="purple" face="Arial">
 Слушайте, нарыла прикольное слово «ещёжды», синоним к «опять / снова / еще раз». 
 
-<font title="Перевод" size="3" face="Courier New">
+<b><font title="Перевод" size="3" face="Courier New">
 Ух, не хощу ыщёжды тя напрыгать, но будта прям из ниоткудыва тута появилося ыщо больше сабымарин. Ежыли смогёшь йих ушарахать, я и дальше буду дыржать енто озерко за свой самыличный бассейничек.
-</font>
+</font></b>
 </font>
 
 === 529 ===
@@ -364,7 +365,7 @@ Well, I hate t' ask yer help again, but dere be even more subs that durn come ou
 Darn tootin'! Git on little dragon! &[Press < to speed up. &[Wait for red circles to lock on. &[Fire with { button!
 </font>
 
-<font title="alteya" color="red" face="Arial">
+<font title="alteya" color="purple" face="Arial">
 Запуливайся, дракоша! &[Нажми < для ускорения. &[Жди, пока все круги не станут красными. &[ { - стрелять. 
 </font>
 
@@ -374,10 +375,10 @@ Darn tootin'! Git on little dragon! &[Press < to speed up. &[Wait for red circle
 «Darn tootin'» – не знаю. Добавим к началу «Анудавай!» ? 
 </font>
 
-<font title="alteya" color="red" face="Arial">
-<font title="Перевод" size="3" face="Courier New">
+<font title="alteya" color="purple" face="Arial">
+<b><font title="Перевод" size="3" face="Courier New">
 «А ну-кысь! Запуливайся, дракоша!»
-</font>
+</font></b>
 </font>
 
 === 548 ===
@@ -385,7 +386,7 @@ Darn tootin'! Git on little dragon! &[Press < to speed up. &[Wait for red circle
 Well, come back whenevers y' like.
 </font>
 
-<font title="alteya" color="red" face="Arial">
+<font title="alteya" color="purple" face="Arial">
 Возвращайся, када хош. 
 </font>
 
@@ -393,12 +394,12 @@ Well, come back whenevers y' like.
 Фраза повторяется дважды, не знаю почему. 
 </font>
 
-<font title="alteya" color="red" face="Arial">
+<font title="alteya" color="purple" face="Arial">
 Один раз он это говорит в ответ на отказ «ещёжды» помочь ему с подлодками. Второй – когда отказываешься покататься «джаст фор фан». 
 
-<font title="Перевод" size="3" face="Courier New">
+<b><font title="Перевод" size="3" face="Courier New">
 «Лады, притопывай, ежели перыдумаешь» 
-</font>
+</font></b>
 </font>
 
 === 1149 ===
@@ -406,7 +407,7 @@ Well, come back whenevers y' like.
 Ya kin ride the sub just for fun, if ya like. &Ride the sub for cheap thrills? &Yes. &No.
 </font>
 
-<font title="alteya" color="red" face="Arial">
+<font title="alteya" color="purple" face="Arial">
 Можш покататься на сабе прост так. &Покататься на субмарине ради веселья? &Да. &Нет. 
 
 Вопрос я бы тоже хотела поменять. Над ним еще подумаю. 
@@ -416,7 +417,7 @@ Ya kin ride the sub just for fun, if ya like. &Ride the sub for cheap thrills? &
 &Хочешь покататься просто так, пощекотать нервы? 
 </font>
 
-<font title="alteya" color="red" face="Arial">
+<font title="alteya" color="purple" face="Arial">
 Вообще неплохо. И подходит к thrills. Правда, не понятно, зачем там это слово изначально - что там такого нервощекотательного, в пустом озере, пусть и кислотном? Ну да это на совести разработчиков.
 </font>
 
@@ -430,7 +431,7 @@ Ya kin ride the sub just for fun, if ya like. &Ride the sub for cheap thrills? &
 «just for fun» как-то традиционно переводится? 
 </font>
 
-<font title="alteya" color="red" face="Arial">
+<font title="alteya" color="purple" face="Arial">
 Забавы ради, ради интереса, ради шутки, из спортивного интереса, просто так. 
 
 «Покытатса/покытаса» - ?
@@ -445,7 +446,7 @@ Ya kin ride the sub just for fun, if ya like. &Ride the sub for cheap thrills? &
 Okey Dokey, take good care of 'er, y' here?
 </font>
 
-<font title="alteya" color="red" face="Arial">
+<font title="alteya" color="purple" face="Arial">
 Ладненько, заботься о ней, угу? 
 
 Из рифмовок приходит на ум только "ладушки-оладушки". Ну это так, просто к слову.
@@ -460,7 +461,7 @@ Okey Dokey, take good care of 'er, y' here?
 (это он точно про свою подлодку?) 
 </font>
 
-<font title="alteya" color="red" face="Arial">
+<font title="alteya" color="purple" face="Arial">
 Не знаю. Но говорит он это, когда соглашаешься кататься не пользы ради, а удовольствия для.
 
 А мы что, вставим «оладушки»?
@@ -475,10 +476,10 @@ Okey Dokey, take good care of 'er, y' here?
 Well, come back whenevers y' like.
 </font>
 
-<font title="alteya" color="red" face="Arial">
-<font title="Перевод" size="3" face="Courier New">
+<font title="alteya" color="purple" face="Arial">
+<b><font title="Перевод" size="3" face="Courier New">
 «Ну тады ворощайся, када хош»
-</font>
+</font></b>
 </font>
 
 <font title="aleksusklim" color="green" face="Arial">
@@ -497,13 +498,13 @@ I reckon I'm here tuh help ya wit' yer mission, but I don't know nuthin' bout ro
 (Насчёт «scientry» не уверен, на месте звёздочки в озвучке непонятный слог). 
 </font>
 
-<font title="steeldragon" color="purple" face="Arial">
+<font title="steeldragon" color="red" face="Arial">
 Это "rocket science". 100%. 
 
 "rocket science" - что-то очень сложное
 </font>
 
-<font title="alteya" color="red" face="Arial">
+<font title="alteya" color="purple" face="Arial">
 Вот что говорит urbandictionary: 
 «Scientry - The word someone uses in place of science, because it is to early in the morning to speak correctly» 
 
