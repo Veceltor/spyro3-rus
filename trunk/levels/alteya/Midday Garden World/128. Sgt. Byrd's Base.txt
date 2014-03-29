@@ -1,0 +1,119 @@
+Sir! The situation is this, yesterday at 1845 hours the rhynocs invaded. We defended as best we could, sir, but without your leadership we didn't put up an effective resistance. By 1900 hours the rest of the squad was captured and the rhynocs had complete control of the base.
+
+Сэр! Докладываю ситуацию: вчера в 18:45 к нам вторглись носороги. Мы обороняли базу как могли, сэр, но без вашего командования мы не сумели оказать им должного сопротивления. Около 19:00 почти весь отряд был захвачен в плен, а противник взял полный контроль над базой.
+
+Recommend you take the enemy out with your rockets by pressing the { button, sir!
+
+Рекомендую вам ликвидировать неприятеля с помощью ваших ракет, нажимая кнопку {, сэр! 
+
+One carefully placed rocket blast should take this door down, sir.
+
+Один прицельный выстрел ракетой должен вскрыть эту дверь, сэр. 
+
+Sir! I've captured the enemy rations. They won't march far on an empty stomach.
+
+Сэр! Я захватила их склад с продовольствием. Враг не сможет долго стоять на пустой желудок. 
+
+Sir! The rhynocs have blocked the way out of this next cave with a security door, and I don't think you'll be able to blast your way through this one. Recommend you land on the weights and carry them to the pressure sensitive security switches either side of the door. When in position press the > button to drop the weight. Press the } button once to look down, press it again to look up, sir! &[Land on item to pick it up. &[The > button drops item. &[Use the } button to change views.
+
+Сэр! Носороги заблокировали выход в следующую пещеру бронированной дверью, и я не думаю, что вам удастся пробить такую. Рекомендую вам подобрать гири и перенести их на детекторы давления, расположенные по обеим сторонам от двери. После захода с гирей на цель, нажмите > и сбросьте её. Нажмите }, чтобы посмотреть вниз, и снова }, чтобы смотреть вперёд, сэр! &[Подлети к гире и возьми её. &[Кнопка > - сбросить гирю. &[ } - изменить вид.
+
+Keep fighting the good fight sir! We're almost there, and I'm, uh, right behind you...
+
+Не прекращайте боевых действий, сэр. Враг будет разбит, победа будет за нами...
+
+Mission accomplished. It's great to have you back, sir.
+
+Боевая задача выполнена, сэр. Как же здорово, что вы вернулись, сэр.
+
+Sir! We need to rescue the rest of the squad before we can launch a raid on the Sorceress's castle.
+
+Нужно освободить других солдат из плена, прежде чем мы сможем совершить налёт на замок Колдуньи.
+
+Awaiting orders, sir.
+
+Жду приказов, сэр.
+
+I have to train the hummingbirds. They must be in peak physical condition if we're going to take on the Sorceress.
+
+Моя задача – обучать солдат-колибри. Они должны быть в отличной физической форме, если мы намерены ударить по Колдунье.
+
+Don't worry I'll have the hummingbirds whipped into shape in no time. &Leave the level? &Yes &No
+
+Отставить беспокойство. Мои солдаты-колибри мигом будут в надлежащем состоянии. &Выйти из уровня? &Да &Нет
+
+Tally ho, Spyro, I'm sure I'll see you around!
+
+Ать-два, Спайро! Мы еще непременно встретимся!
+
+Any time you wanna leave just say so.
+
+Если хочешь уйти - только скажи.
+
+Don't worry I'll have the hummingbirds whipped into shape in no time. &Level not finished... &Do you really want to leave? &Yes &No
+
+Отставить беспокойство. Мои солдаты-колибри придут в форму в кратчайшие сроки. &Миссия не завершена. &Выйти? &Да &Нет 
+
+Thank you, sir. &[Free ^ other hummingbird soldiers.
+
+Благодарю, сэр. &[Освободи еще ^ солдат-колибри. 
+
+Thank you, sir. &[Free 1 other hummingbird soldier.
+
+Благодарю, сэр. &[Освободи еще 1 солдата-колибри. 
+
+Thank you, sir.
+
+Благодарю, сэр.
+
+Before I was captured, I recovered this egg from the enemy, sir!
+
+До своего пленения я отобрала это яйцо у противника, сэр!
+
+I'm ready to be debriefed, sir. &[Free ^ other hummingbird soldiers.
+
+Готова докладывать, сэр. &[Освободи еще ^ солдат-колибри.
+
+I'm ready to be debriefed, sir. &[Free 1 other hummingbird soldier.
+
+Готова докладывать, сэр. &[Освободи еще 1 солдата-колибри.
+
+I'm ready to be debriefed, sir.
+
+Готова докладывать, сэр.
+
+Reporting for duty, sir! &[Free ^ other hummingbird soldiers.
+
+Прибыла на службу, сэр! &[Освободи еще ^ солдат-колибри.
+
+Reporting for duty, sir! &[Free 1 other hummingbird soldier.
+
+Прибыла на службу, сэр! &[Освободи еще 1 солдата-колибри.
+
+Reporting for duty, sir!
+
+Прибыла на службу, сэр!
+
+Request permission to cheer, sir... Hip Hip Hooray! &[Free ^ other hummingbird soldiers.
+
+Разрешите выразить радость, сэр... Гип-гип - Ура! &[Освободи еще ^ солдат-колибри.
+
+Request permission to cheer, sir... Hip Hip Hooray! &[Free 1 other hummingbird soldier.
+
+Разрешите выразить радость, сэр... Гип-гип - Ура! &[Освободи еще 1 солдата-колибри.
+
+Request permission to cheer, sir... Hip Hip Hooray!
+
+Разрешите выразить радость, сэр... Гип-гип - Ура!
+
+What are your orders, sir? &[Free ^ other hummingbird soldiers.
+
+Какие будут приказы, сэр? &[Освободи еще ^ солдат-колибри. 
+
+What are your orders, sir? &[Free 1 other hummingbird soldier.
+
+Какие будут приказы, сэр? &[Освободи еще 1 солдата-колибри. 
+
+What are your orders, sir?
+
+Какие будут приказы, сэр?
