@@ -1,10 +1,10 @@
 If you ever forget how to control a character or vehicle, just go to the Pause Menu and select 'Help'.
 
-Помни, что где бы ты ни оказался - ты всегда можешь узнать про управление в пункте 'помощь'.
+Помни, куда бы тебя не занесло - ты всегда можешь прочитать справку по управлению в пункте 'помощь' меню паузы.
 
 Hiya Sheila! While you were gone, a bunch of rhynocs kicked us out of our houses. It's OK though... Bobby, Pete and I are working on a clever plan to take them back.
 
-Эй, Шейла! Пока тебя не было, банда носорогов выставила нас из дома. Ну ничего... Мы с Бобби и Петей продумываем хитрый план, чтобы их отвоевать.
+Халлё, Шейла! Пока тебя не было, банда носорогов выставила нас из дома. Ну ничего... Мы с Бобби и Петей продумываем хитрый план, чтобы их отвоевать.
 
 Follow Bobby and Pete up there using your air-hop! It's easy, just press the < button again at the top of your jump. &[Press < at the top of your jump to air-hop.
 
@@ -20,7 +20,7 @@ You can get up really steep cliffs like this one with your double-jump. Press th
 
 Last time we tried to get past this moose, he knocked Billy clean through a wall. If you don't mind, we'll just hang out here while you give him a good kicking.
 
-В прошлый раз, как Билли пробирался мимо, этот лось лягнул его и начисто прошиб стену.  Ничего, если мы постоим туточки, пока ты поучишь его хорошим манерам?
+В прошлый раз, как мы хотели пробраться мимо этого лося, он вбил Билли в стену. Ничего, если мы постоим туточки, пока ты поучишь его хорошим манерам?
 
 This next guy is a wuss! You go ahead and take him out, we'll get your back!
 
@@ -28,7 +28,7 @@ This next guy is a wuss! You go ahead and take him out, we'll get your back!
 
 Those rhynocs have taken over! There'll be no stopping them unless we can smash their huts. Their huts are too big to smash with your kick attack, though. Try using your Stomp attack to smash them instead. I'll confuse them with taunting, while you stomp the huts, OK?
 
-Носороги кишмя кишат! Нам их не остановить, пока целы их домики. Но хижины чересчур большие, просто так не развалятся. Так что попробуй их растоптать. А я подразню носорогов, пока ты будешь разрушать их жилище, идет?
+Носороги кишмя кишат! Нам их не остановить, пока не разрушены их хижины. Но они чересчур большие, просто так не развалятся. Так что попробуй эти домики растоптать. А я подразню носорогов, пока ты будешь разносить их жилище, идет?
 
 I think my taunting is wearing them down! Remember, just jump and press the triangle button to stomp those huts. &[Smash the huts with your stomp move. &[Eliminate all the blue enemies.
 
@@ -44,7 +44,7 @@ Thanks for the help, Sheila! You can have this egg I found in my house.
 
 Hey, Sheila, let's play a joke! Take this egg and smash it on Billy's house, OK? I need to get him back for the last time he butted me off the cliff.
 
-Эй, Шейла, давай-ка пошутим! Возьми это яйцо и разбей его об дом Билли, ок? Хочу поквитаться с ним за то, что он спихнул меня с обрыва.
+Эй, Шейла, давай-ка пошутим! Возьми это яйцо и разбей его об дом Билли, ладно? Хочу поквитаться с ним за то, что он спихнул меня с обрыва.
 
 Ahh, home at last! Here, I was saving this to make an omelet, but I think you deserve it more.
 
@@ -76,8 +76,8 @@ I'd better go check on those billy goats again. Last time I left them alone, the
 
 I still haven't finished getting all the billy goats home yet... &Level not finished... &Do you really want to leave? &Yes &No
 
-Я пока не отвела всех трех козлов по домам... &Уровень не завершён... &Ты действительно хочешь уйти? &Да &Нет
+Я пока не отвела всех трех козликов по домам... &Уровень не завершён... &Ты действительно хочешь уйти? &Да &Нет
 
 I'll be back as soon as I get all three billy goats home.
 
-Я вернусь, как только провожу моих козлов по домам.
+Я вернусь, как только все козлики окажутся в своих домах.
