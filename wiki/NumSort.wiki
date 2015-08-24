@@ -1,5 +1,5 @@
 #summary Временный отсортированный список
-#labels Deprecated
+#labels Was-Deprecated
 
 ||67||Moneybags||...pant pant... Drat! ...pant pant... Double drat! ...pant pant... Drat drat drat drat drat drat drat! ... pant pant... I never knew dragons were so fast... That's it... I give up... I'm retiring to Spooky Swamp to become a haiku poet...||
 ||1068||Moneybags||\ Dad gummit, dragon.\ Just cough up those stinking gems.\ And I can go home.||
