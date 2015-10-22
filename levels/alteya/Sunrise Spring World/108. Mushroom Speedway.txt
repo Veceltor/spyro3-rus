@@ -1,63 +1,19 @@
-Attention dragon: if you ever want to see your mangy cat friend again, you had better leave here at once!\     -The Sorceress
-
-Внимание дракон: если ты хочешь еще хоть когда-нибудь увидать любимого паршивого кота, тебе лучше немедленно уйти отсюда!\ -Колдунья 
-
-Whoooa! A bunch of sheep in flying saucers just came out of nowhere and started blasting up the race course!
+﻿Whoooa! A bunch of sheep in flying saucers just came out of nowhere and started blasting up the race course!
 
 Что зааа! Кучка овечек в летающих тарелках появилась прям из ниоткуда и стала тут все разносить!
 
 Looks like I'll have to hop in my plane and teach 'em some manners! &Shoot down sheep UFOs? &Go for it! &Looks too dangerous...
 
-Придется мне сесть в самолет и поучить их хорошим манерам! &Сбить летающие тарелки? &Дуй за ними! &Пахнет жареным...
+Придется мне сесть в самолет и поучить их хорошим манерам! &Мне посбивать летающие тарелки? &Дуй за ними! &Пахнет жареным...
 
 Look out sheep, here I come! &[{ button to fire. &[< or > button for turbo.
 
-Держитесь, овечки, я иду! Нажми &[{, чтобы стрелять. Кнопка &[< или > - турбо.
+Держитесь, овечки, я иду! &[Нажми {, чтобы стрелять. &[Кнопка < или > - ускорение.
 
 Yeah, when sheep go hi-tech, you gotta watch out!
 
-Да уж, стоит остерегаться высокотехнологичных овец!
+Да уж, стоит остерегаться продвинутых на всю голову овечек.
 
 Wooohooooo! Check it out, the squad leader had abducted this egg!
 
-Яяяхууу! Глянь-ка, главарь их шайки собрался присвоить яйцо!
-
-Which challenge would you like to play? &Choose a challenge: &Time Attack &Race the Butterflies &Exit level
-
-Какое испытание ты предпочитаешь? &Выбери испытание: &Гонка на время &Перегони бабочек &Выйти
-
-Here's a hint. Try completing each challenge in order. Start with the rings, then get all the dandelions, the spiders, and save the butterflies for last. It's not the fastest way, but it is the easiest.
-
-Даю тебе подсказку. Лучше проходить все испытания по очереди. Начни с колец, потом сбей все одуванчики, всех пауков, и в конце спаси бабочек. Это не самый быстрый способ, но он легче всего.
-
-Ok, you're going to race the butterflies. You have to fly through ALL of the green checkpoint rings in order. The red dots will lead the way. &[Fly through all green rings &[Use the red dots to guide you.
-
-Сейчас ты будешь соревноваться с бабочками. Тебе нужно пролететь сквозь ВСЕ зеленые кольца по порядку. Красные точки помогут тебе сориентироваться. &[Пролети через все зеленые кольца &[Ориентируйся по красным точкам.
-
-Alright, we'll try again later.
-
-Хорошо, мы попробуем позже.
-
-The insects were so impressed with your flying skills they awarded you this egg.
-
-Ты так поразил насекомых своим полетом, что они наградили тебя вот этим яйцом.
-
-Wow! You won first prize.
-
-Вау! Ты выиграл золотой приз.
-
-Now that you've completed the challenge, you could go for your best time. Try cutting corners and charging for extra speed. Also, remember that completing the challenge in order may not be the fastest way, try experimenting.
-
-Сейчас, когда ты уже прошёл испытание, можешь посоревноваться во времени. Попробуй срезать углы и бежать для большей скорости. Также вспомни, что прохождение испытаний по порядку может быть не так быстро, экспериментируй.
-
-You won't win the race without using the blue turbo stars. Try to use as many as possible, even if it means leaving the red dots, but remember to fly though the rings or you'll be disqualified. &[Use the blue turbo stars. &[Fly through all green rings
-
-Ты не выиграешь без применения синих звёзд скорости. Попробуй пролететь через столько звезд, сколько сможешь, даже если это означает сойти с пути, но не забудь пролетать через кольца, или же тебя дисквалифицируют. &[Используй синие звёзды скорости. &[Пролети через все зелёные кольца
-
-Hey Spyro, you don't have to follow the red dots exactly... you can take short cuts between rings. Heres an extra hint, if you fly lower you'll get a little more speed. &[Cut corners between the green rings. &[Flying lower gives you extra speed.
-
-Эй, Спайро, тебе не нужно следовать по точкам в точности... можно срезать путь между кольцами. Дам еще подсказку, если ты полетишь ниже, это добавит тебе скорости. &[Срезай углы между зелёными кольцами. &[Полет ниже добавляет скорости.
-
-Hi Spyro! There are 2 flying challenges available here in Mushroom Speedway. You can either try Time Attack or Race the Butterflies.
-
-Привет, Спайро! Здесь, в Грибном Спидвее, есть 2 соревнования. Ты можешь попробовать обогнать бабочек или гонку на время.
+Яяяхууу! Глянь-ка, главарь их шайки хотел присвоить это яйцо!

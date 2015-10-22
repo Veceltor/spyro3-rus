@@ -1,0 +1,131 @@
+Be careful, roun' dese parts, li'l dragon! Dere be more ghosts in dis here shipyard den I kin shake me pick at! Durned shame, too, 'cause I was mighty close tuh findin' me treasure.
+
+Остарожнее тута, дракоша! Уж привядений на ентом кораблёвом кладбише как акул нерезаных! Ядрён батон, а ведь я был ужо ух как близко, пошти што ухапал свои сокровиша.
+
+I reckon me treasure be thisaway... But we'll hafta blast through this bloomin' ship tuh git to it!
+
+Мой клад хде-то тута, уж не сумлевайся. Но надыть стрелянуть вона в тот треклятущий корабель, штоб до нево докандыбать.
+
+'Nother dad burned ship in the way o' me treasure... Wouldja mind blastin' this one too?
+
+Ёксель-парадоксель, ыщо один подгорелый пирацкий кораблик на пути к моим сокровишам… Мож и по нему тожа бомбанёшь?
+
+Wouldja lookit that! Some fool hid a dang gum egg in me treasure.
+
+Ишь ты глянь! Какой-то дурила подсунул сюды енто паршивленное яицо заместо мояво сокровиша.
+
+Dese here waters used to be my favorite divin' spot, but I can't get any loot with dese subs patrollin' around. Think you kin pilot dis here sub I bought for scrap? &Ride the sub? &Yes. &No.
+
+Ты знаш как я полюбливал пылавать в моём кисылотном озыре, но таперича не могу – здеся подлодки патрилируюца. Мож, порулиш мою сабымарину, што я за барахло вымянял? &Погрузишься в подлодку? &Да. &Нет.
+
+Alrighty then. Press the < button to speed on up, and when you get a sub in your sights, the torpedo will start to lock on. If you get a good lock-on, fire away with the { button. &[Press < to speed up. &[Wait for red circles to lock on. &[Fire with { button!
+
+Тада лады. Гони <, и когда лодка будет у тебя прям под носом, появится прицел. Как прицелишься хорошенько, жахни кнопкой {. &[Нажимай < для ускорения. &[Жди, пока все круги не станут красными. &[ { - открыть огонь!
+
+Ah, dad gum, I gis I'll hafta git it workin' muhself.
+
+Ах, ну чё, видать мне самому надыть с этим разбораца.
+
+Well, I'll be durned! You've got some mean sub-drivin' skills. Why don't you 'ave dis here egg as a re-ward.
+
+У, ну я тащуся! Ты прям так зашибенно могёшь упыравлять ентой штукой. Чё б тябе не взять яицо, ну типа награда такая.
+
+Hoooohoooo, at last, the acid lake is safe fer swimmin' agin'! I wish I could re-ward ya better, but all I gots left is dis 'ere other egg. Maybe dere'll be something better in dis one.
+
+Ууууу-ху, ну накынец можна пылавать в кисылотном озыре! Я б тя нагырадил полуше, но у мя нет ничаво, окромя другого яица. Ну мож внутря няво тябе какой сурприз попадёса.
+
+Well, I hate t' ask yer help again, but dere be even more subs that durn come outta nowheres. If you could blast 'em, I could use dis acid lake as muh swimmin' hole again. &Blast some more subs? &Yes. &No.
+
+Ух, не хощу ыщёжды тя напрыгать, но будта прям из ниоткудыва тута появилося ыщо больше сабымарин. Ежыли смогёшь йих ушарахать, я и дальше буду дыржать енто озерко за свой самыличный бассейничек. &Погрузишься в подлодку? &Да. &Нет.
+
+Darn tootin'! Git on little dragon! &[Press < to speed up. &[Wait for red circles to lock on. &[Fire with { button!
+
+А ну-кысь! Запуливайся, дракоша! &[Нажми < для ускорения. &[Жди, пока все круги не станут красными. &[ { - стрелять.
+
+Well, come back whenevers y' like.
+
+Лады, притопывай, ежыли перыдумаешь.
+
+Ya kin ride the sub just for fun, if ya like. &Ride the sub for cheap thrills? &Yes. &No.
+
+Можш покататься на сабе прост забавы ради, ежыли хош. &Хочешь покататься просто так, пощекотать нервы? &Да. &Нет.
+
+Okey Dokey, take good care of 'er, y' here?
+
+Ладушки-оладушки, заботься о ней, угу?
+
+Well, come back whenevers y' like.
+
+Ну тады ворощайся, када хош.
+
+Spyro, you're just in time! A rhynoc skateboard gang has challenged us to a race. They said you're slower than a Molten Crater fire slug. I stuck up for you, though! I told them I've seen some pretty fast fire slugs.
+
+Спайро, ты прям вовремя! На нас тут наехала банда носорогов-скейтеров. Они стали гнать, что ты медленнее огненного слизня из Molten Crater! Но я вписался за тебя! Я им ответил, что их самих и дохлый слизняк по скорости уделает!
+
+So, are you ready to race these guys? They bet us an egg that you won't win! &Race the rhynocs? &Bring 'em on! &Some other time...
+
+Ну чё, погоняешь носорогов? Они поставили яйцо на твой проигрыш! &Обгонишь их всех? &Подавай их сюда! &Не, в другой раз…
+
+Right on! You can use my special racing board. Every time you do a trick, it builds up turbo charge. You can use your turbos at any time by pressing the > button. Good luck! &[Do tricks to get turbos. &[Use turbos by pressing the > button. &[Beat all rhynocs in 3 lap race.
+
+Давай! Можешь взять мою навороченную гоночную доску. Каждый твой трюк будет заряжать сопла. Можешь использовать топливо, нажав кнопку >. Удачи! &[Делай трюки, чтобы восполнить горючее &[> - включить турбоускорение &[Обгони всех носорогов за 3 круга.
+
+Awww, shucks... I thought you'd want to race 'em. Well, just come talk to me if you change your mind.
+
+Отстой... Я-то думал, ты захочешь поставить их на место. Ладно, приходи, если передумаешь.
+
+Sheesh, what happened? I could beat these guys with my tail tied behind my back! I hope you do better this time, or we'll never live it down... &Race the rhynocs? &Bring 'em on! &Some other time...
+
+Эй, чё за дела? Да я бы их и задним ходом сделал! Надеюсь, в этот раз ты не подкачаешь, а то нам никогда не отделаться от такого позора. &Обгонишь их всех? &Подавай их сюда! &Не, в другой раз…
+
+Alright! Let 'em have it! &[Do tricks to get turbos. &[Use turbos by pressing the > button. &[Beat all rhynocs in 3 lap race.
+
+Вперёд! Задай им жару! &[Делай трюки, чтобы зарядить скейт &[ Сжигай топливо нажатием > &[Трюки пополняют запас горючего &[> - ускориться &[Обгони всех носорогов за 3 круга.
+
+Awww, shucks... I thought you'd want to race 'em. Well, just come talk to me if you change your mind.
+
+Ооу, чёрт… А я надеялся, что тебе захочется прищучить этих носорогов. Ну, если вдруг надумаешь - приходи.
+
+Yeeesss!! You schooled 'em like a bunch of dizzy, one-toed sand gnorcs! ... Oh yeah, I guess we won this egg, too.
+
+Иии-да! Ты сделал их, как упоротых пропесоченных однорогих гнорков!.. Ах, да, кажись, мы ещё и яйцо отхватили.
+
+Now that the rhynocs are gone, do you want to try a real challenge? I know you're fast, but I bet you can't defeat all the crabs on the course and still beat me in a race! Want to give it a shot? &Accept Hunter's challenge? &You're on, pal! &No dice...
+
+Теперь, когда носороги умотали, хочешь реальной гонки? Знаю, ты быстрый, но тебе точно не сбить всех крабов на пути и при этом ещё обогнать меня! Или ты так не считаешь? &Посоревнуешься с Хантером? &А то ж! &Не, безмазняк...
+
+Alright! Eat my skate-dust, sucker! &[Defeat all crabs on the course &[Beat Hunter in 3 lap race
+
+Погнали! Отведай-ка пыли, сосунок! &[Уничтожь всех крабов на трассе &[Одолей Хантера за 3 круга
+
+Heh heh, what's the matter, getting chicken on me? Bwaaak bwaaak bwaaaaaak! Bwak bwaak bwak bwak bwaaaaaaaaaak!
+
+Хе-хе, в чём дело, овечка? Струсил от одного моего вида? Бе-е-е-бе-е-бе-е! Бе-е-е-бе-е-бе-е!
+
+So, are you ready to take my challenge? &Accept Hunter's challenge? &You're on, pal! &No dice...
+
+Ну чё, готов со мной гоняться? &Примешь вызов Хантера? &Ты уже проиграл, приятель! &Не-а...
+
+Alright! Eat my skate-dust, sucker! &[Defeat all crabs on the course &[Beat Hunter in 3 lap race
+
+Погнали! Отведай-ка пыли, сосунок! &[Уничтожь всех крабов на трассе &[Одолей Хантера за 3 круга 
+
+Heh heh, you're just chicken aren't you? Bwaaak bwaaak bwaaaaaak! Bwak bwaak bwak bwak bwaaaaaaaaaak!
+
+Хе-хе, овечка, пожуй, что ли, травку на лужайке? Бе-е-е-бе-е-бе-е! Бе-е-е-бе-е-бе-е!
+
+OK, you beat me Spyro, but you didn't get all the crabs. A dragon of your pedigree should really be able to do both!
+
+Лады, Спайро, ты побил меня, но крабы-то целы. Такому крутому дракону типа тебя должно быть по силам и то, и это!
+
+Woooohooo! I'm still the speed king of the world!
+
+Ууу-ху! Я всё ещё мировой король скорости.
+
+Sheesh, I can't believe you beat me! You must have been practicing the whole time I thought you were looking for eggs... Hey, speaking of which, one of those crabs was guarding this one...
+
+Ё-моё, поверить не могу, что ты меня сделал! Да ты видать нехило натренировался… А я-то думал, что ты яйца ищешь.... О, кстати, о яйцах: один из крабов охранял вот это вот...
+
+You might be able to beat me at skateboarding, but I still get all the chicks.
+
+Может ты и обошёл меня в скейтинге, но зато все кошечки мои.

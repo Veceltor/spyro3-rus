@@ -1,14 +1,14 @@
 Please be careful those rockets are dangerous!
 
-Прошу, будьте осторожны. Эти ракеты весьма опасны! 
+Прошу, будьте осторожны. Эти ракеты весьма опасны!
 
 Please would you be so kind as to step aside.
 
-Будьте любезны, отойдите в сторону.
+Пожалуйста, не могли бы вы отойти в сторонку?
 
 Oh no, I think that water buffalo is going to trample me.
 
-Ой-ой, как бы не оказаться у буйвола под копытами. 
+Ой-ой, как бы не оказаться у буйвола под копытами.
 
 Just let me catch my breath.
 
@@ -22,13 +22,17 @@ Help, help!
 
 На помощь!
 
+Please would you be so kind as to step aside.
+
+Будьте любезны, отойдите в сторону.
+
 If you could rescue Li we'd be able to push this boulder out of the way.
 
-Если вы выручите панду Ли, мы сможем отодвинуть этот камень с дороги.
+Если вы выручите панду Ли, мы сможем отодвинуть этот камень с дороги.
 
 Pushing that boulder was hard work, but as soon as I've caught my breath I'll return to collecting bamboo.
 
-Очень трудно катить такой валун. Но я сейчас отдышусь и вернусь к сбору бамбука. 
+Очень трудно катить такой валун. Я чуточку отдышусь и продолжу собирать бамбук.
 
 Wahey! Ahem, sorry the excitement got the better of me.
 
@@ -38,49 +42,57 @@ We would gladly pull the switch to open the drawbridge, if only there weren't al
 
 Мы бы с радостью опустили разводной мост, если бы за нами не гонялись эти гадкие создания.
 
+Please would you be so kind as to step aside.
+
+Можно вас попросить немножечко отойти?
+
+If only there were three of us I'm sure we could reach that switch to open the drawbridge.
+
+Если бы нас было трое, мы бы с лёгкостью опустили мост с помощью того рычага.
+
 Do you mind? I'm trying to avoid being trampled by a water buffalo.
 
+Вы здоровы? Я тут как бы стараюсь не попасть под копыта настырному буйволу.
 
+Please would you be so kind as to step aside.
+
+Прошу вас, немного отойдите. 
 
 If you could rescue Chi Chi we'd be able to push this boulder out of the way.
 
-Если бы вы спасли Чи Чи, мы смогли бы откатить этот валун в сторону.
+Если вы спасёте Чи Чи, мы смогли бы откатить этот валун в сторону.
 
 Help!!
 
-Спасите!
+Спасите!!
+
+Please would you be so kind as to step aside.
+
+Будьте так добры, отойдите в сторону.
 
 I'll be with you momentarily, I just need to rest for a second.
 
 Я сейчас же подойду, только капельку отдышусь.
 
-To All Explorers: There is no yeti here, and there never was! He was just a myth. As far as you know. -The Sorceress
+If only there were three of us I'm sure we could reach that switch to open the drawbridge.
 
-
-
-Dreadfully sorry to inconvenience you, Spyro, but I have been detained for the moment. Please come visit my outpost, if it suits you. -Bentley
-
-
-
-Welcome, most esteemed dragon. -Bentley
-
-
+Как только нас будет трое, мы запросто дотянемся до рычага, опускающего мост.
 
 Spyro! Rhynocs have been harassing us all day. The workers haven't been able to harvest the bamboo needed for the whirligig to take you to Evening Lake. We've tried asking them to leave, but there's no reasoning with them.
 
-Спайро! Нас целый день изводят носороги. Рабочие были не в силах собрать бамбук для вертолёта, который доставил бы тебя в мир Вечернего Озера. Мы просили их уйти, но они нас совсем не слушают.
+Спайро! Нас целый день изводят носороги. Рабочие были не в силах собрать бамбук для ветролёта, который доставил бы тебя в мир Вечернего Озера. Мы просили их уйти, но они нас совсем не слушают.
 
 If you could clear the way for Chi Chi and Li they'd most likely be able to push that boulder out of your way.
 
-
+Если ты расчистишь путь для Чи Чи и Ли, то, скорее всего, они смогут откатить с дороги тот большой валун.
 
 Thank you ever so much for opening the emergency bridge, Spyro.
 
-Я вам очень благодарен за то, что вы открыли запасной мост.
+Я вам очень благодарен за то, что вы открыли запасной мост, Спайро.
 
 Doobedoobedoo.
 
-Тра-ля-ля.
+Тили-тили, трали-вали.
 
 We would be honored if you would accept this as a token of our appreciation.
 
@@ -90,13 +102,9 @@ Oh! The emergency escape bridge! Why didn't I think of it sooner? I shall open i
 
 А! Запасной мост! Как я раньше не вспомнил? Сейчас же его открою.
 
-Would you care for a cup of my medicinal herbal tea?
-
-Не хотите ли чашечку моего целебного травяного чая?
-
 Please help us Spyro! My friends are trying to go home after a long shift in the fields, but rotten rhynocs keep knocking them down. Can you save the panda workers? &Flame all rhynocs? &You bet!&Um, sounds too tough for me.
 
-Прошу, помогите нам, Спайро! Мои друзья хотят вернуться домой после долгой работы в поле, но эти бесчестные носороги сталкивают их вниз. Вы можете дать защиту бедным пандам? &Спалить носорогов? &А то ж! &Э, чё-то как-то трудновато. 
+Прошу,помогите нам, Спайро!Мои друзья хотят вернуться домой после долгой работы в поле, но эти бесчестные носороги сталкивают их вниз. Вы ведь защитите бедных панд? &Спалишь носорогов? &А то ж! &Э, чё-то как-то трудновато.
 
 Please, hop aboard. Make sure to toast the rhynocs, but not my friends!
 
@@ -104,7 +112,7 @@ Please, hop aboard. Make sure to toast the rhynocs, but not my friends!
 
 I'm sure you have many important things to do, but if you could find the time to help please come back.
 
-Конечно же, у вас много неотложных дел. Но если вы найдёте чуточку времени, прошу, вспомните о нас. 
+Конечно же, у вас много неотложных дел. Но если вы найдёте чуточку времени, прошу, вспомните о нас.
 
 I'm sure you would succeed if you were to try again. &Flame all rhynocs? &Yes.&No.
 
@@ -112,24 +120,24 @@ I'm sure you would succeed if you were to try again. &Flame all rhynocs? &Yes.&N
 
 Please take this shiny egg, it will bring you good luck.
 
-Прошу вас, возьмите это сияющее яйцо, оно принесет удачу. 
+Прошу вас, возьмите яйцо. Его сияние приносит удачу.
 
 Would you like to try some of this bamboo, it tastes great.
 
 Не желаете ли отведать бамбука? Он удивительно вкусен.
 
-Thank you for offering to help Spyro, but surely even you wouldn't be able to defeat all those rhynocs until the power up is active.
-
-Благодарю за старание помочь, Спайро, но даже тебе не одолеть всех носорогов, пока ты не воспользуешься усилителем пламени.
-
 Hey, I think I saw some rhynocs run up to the top of that hill with an egg!
+
+Эй, я тут видал, как носороги утащили яйцо на вершину этой горы!
+
 Heh, heh, that looked like it hurt. You should try using your spin move to deflect those barrels.
 
-
+Хе-хе, кажись больно, да? Крути дубинкой, чтобы отбиваться от бочек.
 
 We sure made short work of those rhynocs! Aren't you glad I was here to help you rescue that baby dragon?
 
-
+Да уж, задали мы трёпку этим носорожкам! Ты чё, недоволен, что я помогал тебе спасать малютку дракона, а?
 
 Ah, a fine day for a bit of a walk. I was just heading to the top of my favorite hill...
 
+Ох, чудесный день для небольшой прогулки. Я как раз собирался взобраться на вершину своего любимого пригорочка…

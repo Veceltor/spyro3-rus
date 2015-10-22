@@ -1,0 +1,75 @@
+Princess Ami showed me a place called Starfish Reef. She says there's an egg hidden in there. I think Sparx should check it out. &Enter Starfish Reef bonus world? &Yes. &No.
+
+Принцесса Ами показала мне тут одно местечко, оно называется Риф Морской Звезды. По её словам, там спрятано яйцо. Думаю, Спарксу следовало бы это проверить. &Посетишь Риф Морской Звезды? &Да. &Нет.
+
+Sparx has already found the lost egg in Starfish Reef, but if he wants to go back for a swim, I can lead the way. &Return to Starfish Reef bonus world? &Yes. &No.
+
+Спаркс уже нашёл яйцо на Рифе Морской Звезды, но если ему хочется вернуться и просто поплавать, я покажу ему путь. &Вернёшься на Риф Морской Звезды? &Да. &Нет.
+
+When I saw that giant stingray I thought you were a goner, Sparx, but you sure showed him. Now the magic from the egg has made you even stronger, so you can take one more hit for Spyro.
+
+Когда я увидела этого гигантского ската, я уж было решила, что тебе конец, Спаркс, но ты ему показал. Магия драконьего яйца сделала тебя ещё сильнее, и теперь ты можешь защищать Спайро от четырёх ударов.
+
+Hi again, Spyro. This powerup can make you invincible, but only for a short while. Use it to get by these flame spitters... you'll find an egg when you get past them.
+
+Привет ещё раз, Спайро. Этот усилитель сделает тебя неуязвимым, но на короткое время. С его помощью ты сможешь миновать жародуи... за которыми ты найдёшь яйцо.
+
+Spyro, I've got a special task for Sparx. Meet me back here later!           -Zoe
+
+Спайро, у меня особое поручение для Спаркса. Встретимся здесь позже! -Зоя
+
+Heh heh, the Sorceress has a real prize on her hands here... it took two dozen rhynocs to capture this dimwitted furball, so you'd better believe he's not going to get out cheap... &Pay ^^^^ gems to free the creature? &OK. &No deal, dirtbag.
+
+Хе-хе, у Колдуньи на руках чистый клад... ей понадобилось две дюжины носорогов, чтобы поймать это волосатое чучело, и поверь мне, она не отпустит его дёшево... &Заплатишь ^^^^ камней за это существо? &Лады. &Никакой сделки, Грязносум.
+
+Where are you getting all this money, Spyro? ... heh heh... It's not just lying around on the ground, is it? ...err... is it? Ahh, what do I care, it's mine now!
+
+Где ты берёшь все эти деньги, Спайро? ... хе-хе... Они же не валяются на земле, правда?.. э-э... правда же? Ой, да какая разница, они ведь теперь мои!
+
+Very well then, I was having a rather good time poking him with a stick, anyway.
+
+Тогда ладно. В любом случае, тыкать в него палкой довольно весело.
+
+Good grief, dragon, what happened to all your money? How am I supposed to swindle... err.. heh heh... help you, if you can't even find any gems! &[^^^^ gems needed to free creature.
+
+Горе-то какое, дракон, что с твоими деньгами?Ну и как мне тебя облапо... э-э... хе-хе... помочь тебе, если у тебя за душой ни камешка! &[нужно ^^^^ камней, чтобы купить существо.
+
+Why don't you ask around the other worlds to see if you can get me some help to build this rocket.
+
+Почему бы тебе не поискать в других мирах кого-нибудь, кто помог бы мне собрать ракету?
+
+The rocket's fueled up and ready to go Spyro.
+
+Ракета заправлена и к взлёту готова, Спайро.
+
+I reckon I'm here tuh help ya wit' yer mission, but I don't know nuthin' bout rocket scientry... I'm jest here tuh supply the scrap metal... Ya had better git some more folk tuh help out.
+
+Я б те подсобил с ентой твоей мисяей, но я жы ничаво не шарю в замудрёных ракетах-драндулетах… Я ток жылязяк малясь притащил... Ты б позвал сюды каво, штоб помогли те, што ли.
+
+I guess this hunk a junk is sposed tuh fly... Sure glad I ain't the one gittin' on.
+
+Кажыся, ентот кусок барахлища ыщо и пыдняться должен… Ух, хорошось, не мне на ём лятеть.
+
+I've always been really good with machinery. In fact, if you get me a little more help, I could whip up a rocketship in no time. But hurry, OK? I want to get back to my honeymoon!
+
+Мне всегда хорошо давалась инженерия. Так что, если ты найдешь мне несколько помощников, я смогу соорудить космический корабль в два счёта. Но поторопись, ладненько? А то у меня ещё медовый месяц!
+
+Hop on, Spyro! Don't worry, fairy engineering has never failed.
+
+Запрыгивай, Спайро! Не бойся, приборы фей никогда не подведут.
+
+I believe the denizens of this land plan to create a rocket propulsion device of some kind in order to help you with your journey. I'll try to be of some assistance, but I'm afraid you'll still need a representative from each world in order to complete the device.
+
+Я полагаю, что обитатели сих земель задумали собрать в некотором роде ракетный двигатель, дабы помочь твоему путешествию. Я окажу посильное содействие, но, боюсь, тебе понадобятся жители каждого из миров, чтобы завершить создание устройства.
+
+Hop aboard, Spyro, and boldly go where no dragon has gone before! Well, at least not in a thousand years, at any rate...
+
+На борт, Спайро, и бесстрашно следуй туда, где драконов ещё не бывало! Ну, по крайней мере, за последнее тысячелетие…
+
+Now that I've wescued the secwet plans we can finish building the wocket. If only I had a little more help.
+
+Тепель, когда я велнула секлетные челтежи, можно достлоить лакету. Только мне нужны помощники.
+
+The wocket is weady for waunch, Spywo. Hop aboard whenever you want.
+
+Лакета готова к запуску, Спайло. Забилайся в любое влемя.
