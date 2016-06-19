@@ -1,0 +1,29 @@
+0) Zoe
+1) Zoe
+2) Foreman Bob
+4) Hulagirl Stella
+6) Foreman Bud
+
+0-0] To aim the camera left or right, press the @4L2@0 or @4R2@0 button.
+0-2] turn all these blocks yellow. If you have trouble, come back and talk to me. &[Solve three giant idol puzzles. &[The first puzzle is to turn all blocks yellow. &[Ask foreman Bud for help.
+1-0] Those @4metal shields@0 are making enemies invulnerable to your flame attack. If you press and hold the > button, you can defeat them with your @4charge attack@0.
+1-2] turn all these blocks yellow. If you have trouble, come back and talk to me. &[Solve three giant idol puzzles. &[The first puzzle is to turn all blocks yellow. &[Ask foreman Bud for help.
+2-0] Spyro, the idols we were carving have come to life. They've locked us out of our temples and stolen our food!
+2-1] The workers can break the locks if they can get to the doors.
+3-1] Spyro, you're pretty tough. If you ever want a permanent job, we've got a place for you here. For the moment, I want you to have this talisman.
+4-0] Thanks for coming to the rescue and all Spyro, but you'll need to activate the @4supercharge powerup@0 to help.
+4-1] You need to activate the @4supercharge powerup@0 to rescue me... &[Defeat 8 enemies to activate the supercharge & powerup.
+4-2] It's fabulous to see you Spyro! Now that the @4supercharge powerup@0 is active, you can charge through the pedestals and send the dancing hulagirls over here to help me! &[Use supercharge powerup. &[Charge through the stone pedestals.
+4-3] Look at that, the hulagirls' rain dance blew up that idol like a roman candle! Now I can pursue that dancing career I've dreamed of. Take this orb, it could help you go places.
+4-5] Send those lazy hulagirls over here to do a dance! &[Use supercharge powerup. &[Charge through all the pedestals in one go!
+5-1] This idol says he's hungry, and won't be satisfied until he's swallowed 10 fish. He's got a sensitive stomach, so watch what kind of fish you feed him. &[Flame fish to feed the idol. &[The idol is very picky...
+5-2] The idol is still hungry... &[Flame fish to feed the idol. &[Watch out for red fish...
+5-3] OK Spyro, just one more puzzle to go. I'll meet you over by the colored stones for your final challenge.
+6-0] I've been locked in here with all our tools, and the giant idol heads won't let the workers in unless we can solve the three puzzles they've given us.
+6-1] The first puzzle is to turn all these blocks yellow. If you have trouble, come back and talk to me. &[Solve three giant idol puzzles. &[The first puzzle is to turn all blocks yellow. &[Ask foreman Bud for help.
+6-2] Jump on the blocks to change their color to yellow. &Would you like me to reset the puzzle?&Yes&Nope
+6-3] Let's start over. &[Jump on blocks to change them. &[Turn all blocks yellow.
+6-5] Wow, Spyro, you did it...I mean, I knew you could do it! Now meet me at the pond for the next challenge.
+6-6] Nice job, Spyro. You're pretty smart for a dragon. All I have to give you is this shiny thing I found in our tool box.
+7-1] If you jump on these stones in the correct order, you will solve the puzzle. I only know what the first one is. It's up to you to figure the rest out. &[Jump on the stones in the correct order.
+7-2] If you jump on these stones in the correct order, you will solve the puzzle. &[Jump on the stones in the correct order.

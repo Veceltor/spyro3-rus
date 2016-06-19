@@ -1,0 +1,103 @@
+81) Zoe
+94) Zoe
+163) Moneybags
+181) Hunter
+197) Hunter
+198) Hunter
+199) Hunter
+200) Hunter
+201) Hunter
+211) Moneybags
+217) Elora
+235) Elora
+264) Elora
+265) Elora
+
+81-0] @4Sparx@0, the dragonfly following you around, is your @4health indicator@0, Spyro. The brighter he is, the more hit points you have.
+94-0] You're well on your way, Spyro. Keep collecting talismans to help us defeat Ripto before he can take over Avalar.
+94-1] Oh, and keep collecting those orbs too. The Professor thinks they will help you get back to the Dragon World. `
+163-0] Say, Spyro, you see this wall here? I bet you're dying to know what's on the other side. If only I had a few more gems, I might be able to remember how to lower the wall... &Pay ^^^ gems to lower the wall?&alright&no way
+163-1] Hmmm... yes, the sparkling beauty of those gems seems to have jogged my memory.
+163-2] OK, but as far as you know, the portal to Dragon Shores could be just on the other side of this wall... and there's only one way to find out. Ta-ta!
+163-3] Well, well... good to see you Spyro! I used to remember how to lower this wall behind me, but I seem to have temporarily forgotten. If you had more money, it might jog my memory. &[Need ^^^ gems to lower wall.
+163-4] Ok, ok, ok... so it's not the portal to Dragon Shores. Aquaria Towers is still a lovely place. Why, I have a home there myself!
+181-0] Your @4game camera@0 is currently in @4'Passive'@0 mode. This mode requires you to control the camera yourself, and moves more slowly.
+181-1] OK, all done. The camera will move faster now. If you don't like it this way, come back and see me, or change it yourself by using the @4Options@0 Menu.
+181-2] OK, I won't change it. Remember, you can change the camera mode yourself by using the @4Options@0 Menu.
+181-3] Are you enjoying the @4'Active'@0 camera mode? If you don't like it, I can set it back to the @4'Passive'@0 mode. &Change game camera to 'Passive' mode?&Yes&No
+181-4] OK, all done. The camera is in @4'Passive'@0 mode now. If you want me to change it again, just ask.
+181-5] OK, I won't change it. Remember, you can change the camera mode yourself by using the @4Options@0 Menu.
+181-6] If you like, I can change the @4game camera@0 to use @4'Active'@0 mode. In @4'Active'@0 mode, the camera moves much faster. &Change game camera to 'Active' mode?&No&Yes
+197-0] Hi, Spyro. You look like you're pretty agile. Let's try putting it to a test. See if you can get up this first step. Press <, and hold it down to get more hang time.
+197-1] Remember, press and hold < to get the highest possible jump.
+197-2] OK, not bad. Now, to make this next jump, you'll have to @4glide@0. Press < to jump, then press < again at the top of your jump to get the maximum glide distance.
+197-3] Remember, press < to jump, then press < again @4at the top of your jump@0 to get the longest glide.
+197-4] Nice job. Now, try to do a @4hover@0. Press < to @4jump@0, then press < again to @4glide@0, then when you reach the end of your glide press } to @4hover@0. Hovering will give you extra height and distance.
+197-5] To @4hover@0, press } during your glide. Make sure to wait until you are near your target before you hover. Don't forget to @4press forward@0 on the D-pad or the analog stick when you hover!
+197-6] Very good! Now, for the hardest leap of all. You'll have to give this one everything you've got. Get a walking start, @4jump@0, @4glide@0, and @4hover@0 just before you get to the edge of the platform. Don't forget to press forward on the D-pad or analog stick when you hover.
+197-7] This one's tricky. Walk to the edge, press < to @4jump@0, press < again at the top of your jump, then press } when you get almost to the edge of the platform. Don't forget to @4press forward@0 on the D-pad or analog stick when you hover!
+197-8] Wow. You're a pretty good athlete. If I hadn't lost my running shoes, I'd take you on for real. For now here's an orb for your collection.
+197-9] I'm just taking a break right now.  I've got to rest for the next big race in Ocean Speedway...
+198-0] Hi, Spyro. You look like you're pretty agile. Let's try putting it to a test. See if you can get up this first step. Press <, and hold it down to get more hang time.
+198-1] Remember, press and hold < to get the highest possible jump.
+198-2] OK, not bad. Now, to make this next jump, you'll have to @4glide@0. Press < to jump, then press < again at the top of your jump to get the maximum glide distance.
+198-3] Remember, press < to jump, then press < again @4at the top of your jump@0 to get the longest glide.
+198-4] Nice job. Now, try to do a @4hover@0. Press < to @4jump@0, then press < again to @4glide@0, then when you reach the end of your glide press } to @4hover@0. Hovering will give you extra height and distance.
+198-5] To @4hover@0, press } during your glide. Make sure to wait until you are near your target before you hover. Don't forget to @4press forward@0 on the D-pad or the analog stick when you hover!
+198-6] Very good! Now, for the hardest leap of all. You'll have to give this one everything you've got. Get a walking start, @4jump@0, @4glide@0, and @4hover@0 just before you get to the edge of the platform. Don't forget to press forward on the D-pad or analog stick when you hover.
+198-7] This one's tricky. Walk to the edge, press < to @4jump@0, press < again at the top of your jump, then press } when you get almost to the edge of the platform. Don't forget to @4press forward@0 on the D-pad or analog stick when you hover!
+198-8] Wow. You're a pretty good athlete. If I hadn't lost my running shoes, I'd take you on for real. For now here's an orb for your collection.
+198-9] I'm just taking a break right now.  I've got to rest for the next big race in Ocean Speedway...
+198-10] /
+199-0] Hi, Spyro. You look like you're pretty agile. Let's try putting it to a test. See if you can get up this first step. Press <, and hold it down to get more hang time.
+199-1] Remember, press and hold < to get the highest possible jump.
+199-2] OK, not bad. Now, to make this next jump, you'll have to @4glide@0. Press < to jump, then press < again at the top of your jump to get the maximum glide distance.
+199-3] Remember, press < to jump, then press < again @4at the top of your jump@0 to get the longest glide.
+199-4] Nice job. Now, try to do a @4hover@0. Press < to @4jump@0, then press < again to @4glide@0, then when you reach the end of your glide press } to @4hover@0. Hovering will give you extra height and distance.
+199-5] To @4hover@0, press } during your glide. Make sure to wait until you are near your target before you hover. Don't forget to @4press forward@0 on the D-pad or the analog stick when you hover!
+199-6] Very good! Now, for the hardest leap of all. You'll have to give this one everything you've got. Get a walking start, @4jump@0, @4glide@0, and @4hover@0 just before you get to the edge of the platform. Don't forget to press forward on the D-pad or analog stick when you hover.
+199-7] This one's tricky. Walk to the edge, press < to @4jump@0, press < again at the top of your jump, then press } when you get almost to the edge of the platform. Don't forget to @4press forward@0 on the D-pad or analog stick when you hover!
+199-8] Wow. You're a pretty good athlete. If I hadn't lost my running shoes, I'd take you on for real. For now here's an orb for your collection.
+199-9] I'm just taking a break right now.  I've got to rest for the next big race in Ocean Speedway...
+199-10] /
+200-0] Hi, Spyro. You look like you're pretty agile. Let's try putting it to a test. See if you can get up this first step. Press <, and hold it down to get more hang time.
+200-1] Remember, press and hold < to get the highest possible jump.
+200-2] OK, not bad. Now, to make this next jump, you'll have to @4glide@0. Press < to jump, then press < again at the top of your jump to get the maximum glide distance.
+200-3] Remember, press < to jump, then press < again @4at the top of your jump@0 to get the longest glide.
+200-4] Nice job. Now, try to do a @4hover@0. Press < to @4jump@0, then press < again to @4glide@0, then when you reach the end of your glide press } to @4hover@0. Hovering will give you extra height and distance.
+200-5] To @4hover@0, press } during your glide. Make sure to wait until you are near your target before you hover. Don't forget to @4press forward@0 on the D-pad or the analog stick when you hover!
+200-6] Very good! Now, for the hardest leap of all. You'll have to give this one everything you've got. Get a walking start, @4jump@0, @4glide@0, and @4hover@0 just before you get to the edge of the platform. Don't forget to press forward on the D-pad or analog stick when you hover.
+200-7] This one's tricky. Walk to the edge, press < to @4jump@0, press < again at the top of your jump, then press } when you get almost to the edge of the platform. Don't forget to @4press forward@0 on the D-pad or analog stick when you hover!
+200-8] Wow. You're a pretty good athlete. If I hadn't lost my running shoes, I'd take you on for real. For now here's an orb for your collection.
+200-9] I'm just taking a break right now.  I've got to rest for the next big race in Ocean Speedway...
+200-10] /
+201-0] Hiya, Spyro! Ripto smashed this bridge, so I guess you'll have to @4glide@0 across it. Press < to @4jump@0, then press < again while you're still in the air to glide.
+201-1] Remember, press < once to @4jump@0, then press < again to @4glide@0.
+211-0] Hello there, Spyro. Would you like to learn to swim underwater? I suppose I could teach you, for... ahem... a small fee. &Pay ^^^ gems to learn how to swim underwater?&Yes Please&No Thanks
+211-1] Great! OK, when you jump in the water, you can use the D-pad to move around the surface. Use > to @4dive@0 underwater. When you are @4underwater@0, use < to @4paddle@0, and > to @4charge@0.
+211-2] OK, you don't have to learn to swim yet, but you won't get far in Avalar until you do...
+211-3] Sorry, Spyro, I'd love to teach you how to @4swim underwater@0, but not as much as I'd love to take your treasure. &[Underwater swimming costs ^^^ gems.
+211-4] Remember, to @4dive@0 underwater, press >. When you are underwater, press < to @4paddle@0, or > to @4charge@0.
+217-0] Spyro, this is the home world called Summer Forest. There are portals to many of the Avalar worlds around here. Unfortunately, Ripto has taken over the castle and we need your help. Start by retrieving the @4talismans@0 from each of the worlds you go to.
+217-1] Check your guidebook by pressing the @4START@0 button and choosing the @4Guidebook@0 option to see which talismans you have collected.
+217-3] Would you like me to take you to a world where you can find a new talisman? &Go to new portal?&Yes&No
+217-4] Great! I'll take you to a new portal!
+217-5] OK, come find me if you ever need help finding a world where you haven't got the talisman.
+235-0] Hi, Spyro! This Talisman Door will only open if you have @4all six@0 Summer Forest @4talismans@0. Once the door is open, Ripto and Crush will be waiting in the dungeon.
+235-1] Well done, Spyro. Now that you have six talismans, this door will open!
+235-2] OK, Spyro, jump through that hole in the floor to get down to Crush's Dungeon. I'll help you by tossing sheep through the hole if I can catch them. Good luck!
+235-3] Would you like me to take you to a world where you can find a new talisman? &Go to new portal?&Yes&No
+235-4] Great! I'll take you to a new portal!
+235-5] OK, come find me if you ever need help finding a world where you haven't got the talisman.
+264-0] Spyro, this is a high-powered portal. It will only work if you're carrying three or more orbs.
+264-1] Nice work, Spyro... The orbs you're carrying have activated this special portal. You won't find a talisman in the Ocean Speedway, but if you're fast, you'll get lots of treasure! Have fun!
+264-2] This is one of Hunter's favorite speedways.
+264-3] Would you like me to take you to a world where you can find a new talisman? &Go to new portal?&Yes&No
+264-4] Great! I'll take you to a new portal!
+264-5] OK, come find me if you ever need help finding a world where you haven't got the talisman.
+265-0] I saw something shiny at the top of this wall. You could probably get it, but you'll have to learn how to @4climb@0 first.
+265-1] There's something shiny at the top of this wall. Maybe you could climb up and get it?
+265-2] Once you can @4climb@0, this wall should be no problem.
+265-3] Would you like me to take you to a world where you can find a new talisman? &Go to new portal?&Yes&No
+265-4] Great! I'll take you to a new portal!
+265-5] OK, come find me if you ever need help finding a world where you haven't got the talisman.
