@@ -1,0 +1,42 @@
+0) Kludgie the Icebuilder
+1) Iggy the Icebuilder
+2) Kludgie the Icebuilder
+3) Kludgie the Icebuilder
+4) Iggy the Icebuilder
+5) Iggy the Icebuilder
+6) Iggy the Icebuilder
+8) Oggy the Icebuilder
+9) Oggy the Icebuilder
+10) Oggy the Icebuilder
+11) Moneybags
+12) Shaman Tik
+13) Shaman Tok
+14) Chief Shaman Tuk
+
+0-0] Spyro, the Ice Wizards have imprisoned our leader, Shaman Tuk. Can you help us rescue him? It is urgent! He has our tickets to tonight's hockey game in Colossus Valley!
+0-1] If you get on the catapult, we'll help you across the chasm!
+1-0] Watch...we'll help you climb this wall up ahead!
+2-0] Spyro, the Ice Wizards have imprisoned our leader, Shaman Tuk. Can you help us rescue him? It is urgent! He has our tickets to tonight's hockey game in Colossus Valley!
+2-1] If you get on the catapult, we'll help you across the chasm!
+3-0] Spyro, the Ice Wizards have imprisoned our leader, Shaman Tuk. Can you help us rescue him? It is urgent! He has our tickets to tonight's hockey game in Colossus Valley!
+3-1] If you get on the catapult, we'll help you across the chasm!
+4-0] Watch...we'll help you climb this wall up ahead!
+5-0] Watch...we'll help you climb this wall up ahead!
+6-0] Watch...we'll help you climb this wall up ahead!
+8-0] Thanks, Spyro! Just hold tight for a second, and look out below!
+9-0] Thanks, Spyro! Just hold tight for a second, and look out below!
+10-0] Thanks, Spyro! Just hold tight for a second, and look out below!
+11-0] Hello there, Spyro. I could arrange for you to cross this bridge for...ahem...a small fee. &Pay ^^^ gems to cross the bridge?&Yes Please&No Thanks
+11-1] Thank you, Spyro! Now I can buy that condo in Hurricos that I've been wanting for so long. Go ahead across the bridge!
+11-2] OK. I'll be here if you change your mind.
+11-3] Sorry, Spyro, it looks like you can't afford to cross the bridge yet. Come back and see me when you have collected more treasure. &[Crossing bridge costs ^^^ gems.
+11-4] Be careful on the other side of that bridge. I don't want anything bad to happen to my favorite customer.
+12-0] This whole area is infested with creepy draclets. You might be able to help us get rid of them...if you could fly... &[Defeat 15 enemies to activate powerup.
+12-1] We used to give guided tours of these caves, but now they are infested with multiplying draclets. It's only a matter of time before they take over our whole village. Do you think you can get rid of them for us? &Help eliminate the draclets? &Sure!&Looks too scary.
+12-2] Great! But remember, you have to catch them all quickly because if any are left alive they will continue to multiply! &[Flame all draclets. &[Use the superfly powerup.
+12-3] OK, I understand. It's a very tough job. Some of our bravest villagers have already been eaten.
+12-4] You have saved us all from a grisly fate. Please accept this orb as a small token of our thanks...
+12-5] I'll also make sure you get free snow cones whenever you visit us.
+13-0] I lost my pet snow leopard. I was busy fishing, and when I turned around, he was gone. I hope George didn't get eaten by the draclets. &[Bring back the snow leopard.
+13-1] You found George! I'm so glad he's safe. I'll be sure to pay more attention to him from now on. All I have with me is this round shiny thing I caught while I was fishing. You can have it if you like.
+14-0] Ow! You'd think those guys could've got me out of here without rolling a two ton snowball onto my head. Here, take this crystal... I traded some hockey tickets for it.

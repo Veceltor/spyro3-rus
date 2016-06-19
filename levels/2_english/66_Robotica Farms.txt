@@ -1,0 +1,18 @@
+0) Farmer GreeneBeene
+1) Farmer Applebee
+2) Farmer Barleycorn
+3) Farmer John
+
+0-0] Howdee, Spyro. These here pests have infested our farm. Could you find the time to help us get rid of 'em?
+0-1] Them bugs are mighty tough... I reckon you'd need to shoot some of 'em out of the sky with that there pea-shot.
+0-2] Find your way over to the giant bug lamp and turn it on so we can zap any more invading pests.
+1-0] These darn bugs are makin' a joke of my expensive robot scarecrows! Can you chase 'em down and flame 'em Spyro? &[Flame the bugs.
+1-1] Aagh, look at those bugs! I'd swear they were makin' fun of me! &[Flame the bugs.
+1-2] My fields are safe from those flyin' vermin, Spyro. Take this doodad I done dug up yesterday.
+1-3] Gosh-darn-it!! The birds are back! Can you see fit to giving it another go Spyro...? &[Flame the birds again.
+1-4] These birds sure seem faster than the others too... &[Flame the fast birds.
+1-5] Ah, that'll do 'em Spyro. Good work. Here, take this last orb of mine.
+2-0] I used to drive my tractor all around the farm, but some fool robot blocked the path up. Do you think you could knock 'em down with a bit of a supercharge? &[Clear the tractor path.
+2-1] You look as useless as me without this here powerup...
+2-2] A fine piece of steerin' that was, dragon. Here, take this thing-a-ma-jig I found in the cow pen.
+3-0] Way to go, Spyro! Them varmints won't be comin' near our crops now. Can I offer you a reward?

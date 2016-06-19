@@ -1,0 +1,36 @@
+0) Colonel Blub
+1) Sergeant Tub
+2) Bo Peep
+4) Private Romeo
+5) Juliet
+6) Professor
+7) Professor
+8) Corporal Glug
+
+0-0] OK Spyro, looks like we've got us a bit of a situation here. The Breezebuilders have got us pinned down and we've been waiting for a volunteer to blow up their munitions building. Looks like you're it.
+1-0] Dang cannon just ain't working for me. Do you think you can blast that bird, soldier? Jump up here and give it a try.
+1-1] Just hop up onto the cannon and take out that bird!
+1-2] Nice shootin!
+1-3] The cannon's all yours if you want it.
+2-0] My name is Little Bo Peep, and I have lost my cowleks. With these battles going on all of the time, they keep running away. Can you help me get them back into my pen? &[Get 5 cowleks into the pen.
+2-1] Spyro, can you help me get the cowleks back into their pen? &[Get 5 cowleks into the pen.
+2-2] Thanks Spyro. Here's a little something, you know, for the effort.
+2-3] I'm still waiting for those 7 cowleks. &[Get 2 more cowleks into the pen
+2-4] Well I am impressed. You got all 7 cowleks for me. Here's a fair reward.
+2-6] There are two more cowleks out there somewhere, but I haven't seen them in days... &[Get 2 more cowleks into the pen.
+4-0] What light from yonder window breaks? That window up there dummy. The Professor said he was working on a way to help me get back with Juliet, but I haven't seen him in a long time. &[Find the professor.
+4-2] You've reunited me with Juliet! Now we can take our honeymoon in Colossus Springs and see the idols!
+5-0] Romeo, Romeo, Wherefore art thou, Romeo. Oh, there's Romeo! You can have this, I don't need it anymore.
+5-1] How I've missed my Romeo. If he wasn't so short, we'd get married.
+6-0] Well done, my boy. Here are 2 more seeds to get you the rest of the way.
+6-1] Misplaced your seeds, have you? I can make all the plants shrink again if you'd like to start over. &Would you like to start over?&Yes, please&Never mind
+6-3] Off you go then.
+6-4] Here you go. Be more careful with these.
+6-5] Well done, my boy. Here are 2 more seeds to get you the rest of the way. Oh, and take this with you, if you don't mind. It's been cluttering up my pockets.
+7-0] Spyro, my boy. I've got a magic bean, er, I mean seed for you in here somewhere. Ah, here it is. Why don't you plant it in the ground and see what grows?
+7-1] Misplaced your seeds, have you? I can make all the plants shrink again if you'd like to start over. &Would you like to start over?&Yes, please&Never mind
+7-3] Off you go then.
+7-4] Here you go. Be more careful with this one.
+7-5] Do you know the square root of 22,341?
+7-6] Aiming the seed by holding down the } button will make this easier... Oh, and if you ever need your seed back, just flame the plant, and it will turn back into a seed again. &[Plant seeds to climb to Juliet.
+8-0] Wow. What an explosion! It sure is a good thing I had my helmet on. Oh yeah, the Colonel wanted me to give this talisman to you if you got through the Breezebuilder defenses. Good job, soldier!

@@ -1,0 +1,52 @@
+0) Greta
+1) Greta
+2) Bombo the Flagkeeper
+4) Bombo the Flagkeeper
+5) Bombo the Flagkeeper
+6) Hunter
+7) Handel
+9) Greta
+
+0-0] Hewwo Spywo. My bwother Handel and I have been sent here to bwow up this castle, but Handel got caught by these evil soldiers and I'm stuck out here.
+0-1] I think there's a switch in the tower that will open the door and raise the fwag giving the castle the 'all clear' sign.
+0-3] If you can open the doors that bwock the way, I can find Handel and we can compwete our super secwet spy mission.
+1-0] Hewwo Spywo. My bwother Handel and I have been sent here to bwow up this castle, but Handel got caught by these evil soldiers and I'm stuck out here.
+1-1] I think there's a switch in the tower that will open the door and raise the fwag giving the castle the 'all clear' sign.
+1-3] If you can open the doors that bwock the way, I can find Handel and we can compwete our super secwet spy mission.
+2-0] So, you want that flag, eh, dragon? Well two can play at this bombing game. Let's go! &[Avoid Flagkeeper's bombs. &[Return flag to Handel.
+2-1] Ha, you won't beat me, dragon! &Care to try again?&Bring it on!&Keep your silly flag.
+2-2] Alright then, let's go!
+2-3] I knew you couldn't beat me!
+2-4] Still after my flags, dragon? &[Avoid Flagkeeper's bombs. &[Return flag to Handel.
+2-5] You won't get my last flag so easily, purple beast!
+4-0] So, you want that flag, eh, dragon? Well two can play at this bombing game. Let's go! &[Avoid Flagkeeper's bombs. &[Return flag to Handel.
+4-1] Ha, you won't beat me, dragon! &Care to try again?&Bring it on!&Keep your silly flag.
+4-2] Alright then, let's go!
+4-3] I knew you couldn't beat me!
+4-4] Still after my flags, dragon? &[Avoid Flagkeeper's bombs. &[Return flag to Handel.
+4-5] You won't get my last flag so easily, purple beast!
+5-0] So, you want that flag, eh, dragon? Well two can play at this bombing game. Let's go! &[Avoid Flagkeeper's bombs. &[Return flag to Handel.
+5-1] Ha, you won't beat me, dragon! &Care to try again?&Bring it on!&Keep your silly flag.
+5-2] Alright then, let's go!
+5-3] I knew you couldn't beat me!
+5-4] Still after my flags, dragon? &[Avoid Flagkeeper's bombs. &[Return flag to Handel.
+5-5] You won't get my last flag so easily, purple beast!
+6-0] The monkeys have escaped from the Avalar Zoo, and I've been sent here to catch 'em... But they keep throwing coconuts at me, and it hurts! Can you help me out? &Do you want to give it a shot?&Sure&No way
+6-1] Great! Just charge the tree before I get hit. I'll be able to catch the monkeys as they fall. Follow me. &[Knock monkeys out of trees.
+6-2] Okay, I'll just wait until a more courageous purple dragon comes along.
+6-3] Oww! Looks like you could use another try at this. &Shall we try it again? &Yes&No
+6-4] Thanks for your help, Spyro. Please take this...one of the monkeys had it.
+6-5] Were those monkeys or apes?
+6-6] Back again? &Are you ready to help catch monkeys? &yes&no
+7-0] Hey Spyro, we need those flags to prove our secret mission was successful...but the Flagkeeper keeps stealing them! If you can knock the Flagkeeper down, you could bring the flags back!
+7-1] My secret decoder ring says that this powerup thing should help you. &[Shoot Flagkeeper off flagpole. &[Return to Handel with flags.
+7-2] My ugly sister was supposed to get the flags. I'm a much better secret agent. &[Shoot Flagkeeper off flagpole. &[Return to Handel with flags.
+7-3] Great! But there are still two flags out there...
+7-4] You're so close Spyro, just one more flag.
+7-5] Great job, Agent Spyro!! How can we repay you for your efforts? How about this orb that I found in the sand?
+7-6] My sister says you're a great secret agent, Spyro. Activate this powerup and we can do some spying together!
+7-7] Have you seen my sister Greta? She's ugly with pigtails...
+7-8] Great! But there are still two flags out there...
+7-9] You're so close Spyro, just one more flag.
+9-0] Spywo, you make a gweat secwet agent! Now Handel and I can compwete our mission. By the way, you can have this tawisman. I stole it when the soldiers weren't looking.
+9-1] Have you seen my bwother Handel? He's stupid and wearing an ugwy shirt.

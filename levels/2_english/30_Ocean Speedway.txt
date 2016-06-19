@@ -1,0 +1,9 @@
+0) Queen Finny
+
+0-0] Welcome to the Ocean Speedway. Come back and see me after you have completed the entire course. Remember, you have to complete the course without touching the water.
+0-1] I guess now you think you're pretty good. Well let's see if you're as good as the current champion. &Are you ready for a race?&Start Race&No Thanks
+0-2] Alright, Spyro. Meet the course champion. In order to win the race, you must fly through all the rings. Beware, if Hunter flies through a ring first, the ring will start to shrink. &[Follow Hunter through rings.
+0-3] That's just fine. You can come back anytime.
+0-4] It's not as easy as you thought, is it? Are you ready to try again? &Are you ready to try again?&Start Race&No Thanks
+0-5] Great job, Spyro. That was some excellent flying.
+0-6] Great job, Spyro. That was some excellent flying.

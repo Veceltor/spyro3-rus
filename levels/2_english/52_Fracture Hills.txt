@@ -1,0 +1,58 @@
+0) Hunter
+1) Alchemist
+2) Satyr
+3) Satyr
+4) Satyr
+5) Satyr
+6) Satyr
+7) Satyr
+8) Lila the Faun
+9) Krista the Faun
+10) Spinner the Faun
+11) Sheila the Faun
+
+0-0] 'Just stand still,' he says... 'I'll turn your boots to gold,' he says... Oh hi Spyro. You're a sight for sore eyes! I'd appreciate it mightily if you could locate that Alchemist... he owes me a favor.
+0-2] Man do my feet feel better! Would you look after this for me?
+0-3] We have to get all of them at once, or they'll just invite more of their friends. Let's go! &[Headbash Earthshapers after Hunter shoots them.
+0-4] We make a great team! Here, I was going to give this to the Alchemist but I'm a bit annoyed at him at the moment.
+0-5] All right. When I shoot an Earthshaper with an arrow, you @4headbash@0 him before he gets back up. Remember, headbash by jumping and then pressing the } button.
+0-6] Come back and meet me here when you've learned how to @4headbash@0, and we can kick some Earthshaper butt together!
+0-7] As long as you're here, would you like to help me take out these stubborn Earthshapers? &Kick Earthshaper butt?&Yes&No
+0-8] OK, come back later and we'll finish them off!
+0-9] Want to try again?&Try again?&Yes&No
+1-0] I've been experimenting with this potion... I'd like to test it out but the Earthshapers out there have made going out a bit difficult. Could you kindly offer me an escort? &Escort the Alchemist?&Yes&No
+1-1] Great! Just keep those Earthshapers away from me and I'll take this potion to Hunter. &[Protect the alchemist from the Earthshapers.
+1-2] Hmm, I really thought my potion would turn that rock into gold. Perhaps a touch more salt...
+1-3] OK, I'll be waiting here, but Hunter will be very angry with me if I don't get this potion to him soon!
+1-4] Will you escort me past those Earthshapers? &Escort the Alchemist?&Yes&No
+2-0] Thank you for releasing me. There are still some Satyrs trapped in stone.
+2-1] It's great to be free! Now there is only one Satyr left to rescue.
+2-2] Now that you have rescued all the Satyrs in Fracture Hills, you ought to go into the temple.
+2-3] Music can calm the savage beast...and bagpipe music can break solid rock!
+3-0] Thank you for releasing me. There are still some Satyrs trapped in stone.
+3-1] It's great to be free! Now there is only one Satyr left to rescue.
+3-2] Now that you have rescued all the Satyrs in Fracture Hills, you ought to go into the temple.
+3-3] Music can calm the savage beast...and bagpipe music can break solid rock!
+4-0] Thank you for releasing me. There are still some Satyrs trapped in stone.
+4-1] It's great to be free! Now there is only one Satyr left to rescue.
+4-2] Now that you have rescued all the Satyrs in Fracture Hills, you ought to go into the temple.
+4-3] Music can calm the savage beast...and bagpipe music can break solid rock!
+5-0] Thank you for releasing me. There are still some Satyrs trapped in stone.
+5-1] It's great to be free! Now there is only one Satyr left to rescue.
+5-2] Now that you have rescued all the Satyrs in Fracture Hills, you ought to go into the temple.
+5-3] Music can calm the savage beast...and bagpipe music can break solid rock!
+6-0] Thank you for releasing me. There are still some Satyrs trapped in stone.
+6-1] It's great to be free! Now there is only one Satyr left to rescue.
+6-2] Now that you have rescued all the Satyrs in Fracture Hills, you ought to go into the temple.
+6-3] Music can calm the savage beast...and bagpipe music can break solid rock!
+7-0] Thank you for releasing me. There are still some Satyrs trapped in stone.
+7-1] It's great to be free! Now there is only one Satyr left to rescue.
+7-2] Now that you have rescued all the Satyrs in Fracture Hills, you ought to go into the temple.
+7-3] Music can calm the savage beast...and bagpipe music can break solid rock!
+8-0] Well hello there, Mr. Dragon. Hmmm, you're pretty cute for a quadruped. I wish I could take you on a tour of our temple, but a bunch of lousy Earthshapers have encased it in stone.
+8-1] The Satyrs that live here could break the stone with their magical songs, but the Earthshapers have encased them in stone, too.
+9-0] Oh, thank goodness you broke that door down for me. I thought I'd be stuck in here forever. I found this fancy orb in here. Please take it.
+10-0] Oh, a dragon! Perhaps you can help. My friend is locked in this room and lost the key, and you know how hard it is to find a locksmith at this time of night. &[Break down the door on the building.
+10-1] Can you please help? Maybe if you hit that door really hard... &[Break down the door on the building.
+11-0] Oh, hi, dragon-boy. You're probably expecting me to be all, like, 'you're my hero, thanks for saving poor helpless little me, blah, blah, blah.' Sorry, short-stuff. I was only in here because I liked the peace and quiet. Anyway, um, the other fauns wanted me to give you this talisman.
+11-1] Umm, sorry if I sounded unfriendly. I didn't mean to.
