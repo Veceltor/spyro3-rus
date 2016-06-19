@@ -1,0 +1,45 @@
+0) Whiskers the Gemcutter
+1) Moneybags
+2) Twitchy the Gemcutter
+3) Zoe
+4) Bounsa the Gemcutter
+5) Zoe
+6) Pogo the Gemcutter
+7) Kanga the Gemcutter
+8) Roo the Gemcutter
+
+0-0] We Gemcutters are a bit too short to climb these ladders... looks like you are too. After you learn to climb, come back to Glimmer to see me.
+0-1] You'll learn to climb later on. Come back and see me then.
+0-2] Head on up the ladder!
+1-0] Ah, you must be the dragon everyone is talking about. Well, dragon or not, I'm afraid there is a small fee to open the bridge. It will cost you @4100@0 of your gems to cross. &Pay @4^^^@0 gems to open the bridge?&Yes&No
+1-1] Thank you, mister dragon... Spyro, was it? You can now use the bridge whenever you want, free of charge! I hope we meet again, when you have even more gems...
+1-2] You'll have to pay up sooner or later, it's the only way across. I have to look after my..err Avalar's financial well being. You know.
+1-3] Ahem... You can't use the bridge without paying, and you do not appear to have enough gems. &[100 gems needed to open bridge.
+1-4] Still here? Why don't you help the Gemcutters and they'll show you the way to Summer Forest.
+1-5] Back again eh? And with plenty of treasure I see. Would you like me to open the bridge? I won't even increase the price. &Pay 100 gems to open the bridge? &Open up!&Maybe later
+1-6] I'll need a few more gems than that to open this bridge. &[100 gems needed to open bridge.
+2-0] Spyro, thanks for helping us fight off the Lizards! Please take this talisman of Glimmer as a sign of our gratitude.
+2-1] This magic portal next to me will take you to Summer Forest, one of the home worlds of Avalar.
+2-2] Step through the portal next to me to go to Summer Forest.
+3-0] Hi, Spyro. I'm a friend of Elora's, and she's asked me to help you out. Whenever you find me, I'll remember your progress, like this...
+3-1] That zap means that if you get into trouble, I'll return you to this place. See you around!
+4-0] These little lizards have eaten my entire crop of gems! I've tried hitting them with rocks, but they're too fast for me. You can try using one of my rocks. If you have any questions, just ask me. &[Hit little lizards with rocks. &[Bounsa will give you hints.
+4-1] You can @4pick up@0 a rock in your mouth by just walking up to it. To @4spit@0 it out, press the { button. &[Hit little lizard with rock.
+4-2] To @4aim@0 a rock, press and hold the } button while you have a rock in your mouth. Press the { button to @4spit@0 the rock in the direction you are aiming. &[Hit little lizard with rock.
+4-3] Nice shooting! Follow me to the next lizard!
+4-4] Yay! You've saved my crop of gems from the lizards! Here, take this orb. Some girl with wings dropped it here yesterday.
+4-5] You can have as many rocks as you like.
+4-6] You can spit pretty far Spyro! See if you can spit all the way to that lizard!
+4-7] To hit that lizard up high, you'll have to @4aim@0. Press and hold the } button to @4aim@0, then press { to @4spit@0.
+5-0] To get a good @4look around@0, hold down the } button. Try using } to look around this cave.
+6-0] Hi Spyro, welcome to Glimmer! Unfortunately for us, a mob of lizards just showed up and started stealing all of our gems. Can you stop them?
+6-1] If you can find my friend Twitchy, he'll reward you for helping us out.
+7-0] Hmm, thanks for stopping by, dragon, but I'm afraid you're not much use to me until that magic @4powerup@0 is active.
+7-1] Great! The @4superfly powerup@0 is active and you can restart our gem lamps! Flame all the lamps quickly, and the big gem lamp will light. The powerup will give you enough magic to fly for a short time. &[Walk through pyramids for superfly powerup. &[Light gem lamps with flame. &[Light all lamps quickly!
+7-2] The big gem lamp will only light if all 6 small lamps are lit. &[Walk through pyramids for superfly powerup. &[Light gem lamps with flame. &[Light all lamps quickly!
+7-3] Thanks for helping me light the lamps, Spyro. A fairy gave me this orb, but I like gems better. You take it instead.
+7-4] You can help me out, but only after you've activated that @4superfly powerup@0. &[Defeat 10 enemies to activate superfly & powerup.
+8-0] We installed some gem lamps in this cave too, but they're even harder to keep going. You'll definitely need this superfly powerup to light the lamps.
+8-1] Hey great, you've got the superfly powerup active. Now you can light the gem lamps in this cave. &[Flame the gem lamps.
+8-2] If you can get all 6 gem lamps lit at the same time, they'll stay on. &[Flame the gem lamps. &[Light all the lamps quickly!
+8-3] Thanks for helping me light the lamps, Spyro. For a while I was afraid we were going to have to cancel tonight's baseball game. Here, somebody mixed this orb in with the baseballs.
