@@ -1,25 +1,14 @@
-print('##v181015##')
+print('##v010516##')
 
-path = input('Путь до основного WAD: ')
+path = input('Укажите путь до основного WAD: ')
+
+if (path[0] == '"') or (path[0] == "'"):
+	path = path[1:len(path)-1]
+
 wad = open(path, 'rb')
 trigger0 = False
 
-import configparser
 import os
-config = configparser.ConfigParser()
-config.read('WADunpacker.ini')
-config.read('configs/' + config['Settings']['Game'] + '_' + config['Settings']['Version'] + '.ini')
-
-game = config['Settings']['ShortName']
-sf_list = list()
-ssf_list = list()
-
-for x in range(len(config['LevelsList'])):
-    sf_list.append(int(config['LevelsList'][str(x)]))
-for x in range(len(config['LevelsList'])):
-    ssf_list.append(int(config['LevelsList'][str(x)]))
-sf_list.sort()
-ssf_list.sort()
 
 if not os.access('sf', os.F_OK, dir_fd=None, effective_ids=False, follow_symlinks=True):
      os.mkdir('sf', mode=0o777, dir_fd=None)

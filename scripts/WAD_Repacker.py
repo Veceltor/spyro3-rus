@@ -1,21 +1,21 @@
 import os
-import configparser
 
-config = configparser.ConfigParser()
-config.read('WADunpacker.ini')
-config.read('configs/' + config['Settings']['Game'] + '_' + config['Settings']['Version'] + '.ini')
-game = config['Settings']['ShortName']
+print('##v010516##')
 
-print('##v020215##')
+path = input('Укажите путь до папки с субфайлами: ')
+
+if (path[0] == '"') or (path[0] == "'"):
+	path = path[1:len(path)-1]
+
 workfolder = os.getcwd()
-path = '/sf'
-filelist = os.listdir(workfolder + path)
-wad = open('WAD.WAD', 'wb')
+##path = '/sf'
+filelist = os.listdir(path)
+wad = open('new_WAD.WAD', 'wb')
 offset = 2048
 counter0 = 0
 for x in range(len(filelist)):
     ##print(counter0)
-    subfile = open(workfolder + path + '/' + game + '_sf_' + str(x+1) + '.bin', 'rb')
+    subfile = open(path + '/' + 'wad_sf_' + str(x+1) + '.bin', 'rb')
 
     bytes0 = subfile.read()
     sfsize = len(bytes0)
