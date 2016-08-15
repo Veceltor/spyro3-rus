@@ -1,0 +1,48 @@
+1] Brother Arnie
+2] Brother Clive
+3] Brother Curtis
+4] Brother Ned
+5] Brother Kipp
+6] Professor
+7] Zoe
+8] Zoe
+9] Brother Harry
+10] Zoe
+
+1-1] By concentrating, I should be able to open this door for you...
+1-2] The door's open, leave me alone. I'm trying to meditate.
+2-1] Who needs a key when you know how to chant like this...
+2-2] How am I supposed to achieve enlightenment if you keep pestering me?
+3-1] Hey, look what I can do.
+3-2] How can you be sure I really exist?
+4-1] Even though I'm a vegetarian, I think you should torch that yeti. He's pretty tough though. In fact, I'm not sure you're up to it...
+4-2] I thought the yeti was tougher than that. I guess he was all bark. Anyway, I was just guarding our sacred talisman to make sure the yeti didn't eat it.
+5-1] Aaah Spyro, welcome. We have found that hockey is a peaceful and calming sport. Would you like to join in a match against our goal keeper? &Try a game against a goal keeper? &Yes please&No, it's way too cold
+5-2] You have ^ minutes to score ^ goals in the red goal.
+5-3] Maybe meditating for a while would provide you with the will to try.
+5-4] Are you ready to try your skill against a goal keeper? &Would you like to play?&Yes please&Not just yet
+5-5] Return when your mind is calm, Spyro.
+5-6] You can't score many goals talking to me. &Would you like me to restart the clock?&Yes&No
+5-7] You must focus your thoughts to succeed, Spyro. &Would you like to try again?&Yes please&No thanks
+5-8] Well done, have this.
+5-9] The first to score 5 goals wins. You are shooting at the red goal. Off you go. &[Score 5 goals before the red skater.
+5-10] Come back if you change your mind.
+5-11] Did I tell you I played semi-pro before I joined the monks? &Would you like me to restart the game?&Yes &No
+5-12] Aaah, have you come to play some one on one? &Would you like to play?&OK&Maybe later
+5-13] Well done, have this. If you stare at it long enough, you might not see anything.
+5-14] Too tough for you, eh? &Would you like to try again?&Yes please&No thanks
+5-15] You can keep practicing if you want, but you have to be off the ice by 6.
+5-16] Would you like to try a game of one on one? &Would you like to play?&OK&Maybe later
+5-17] You shouldn't waste time talking to me, Spyro.
+5-18] The other player will score while your back is turned.
+6-1] Thank goodness you scared that evil spirit away, but now it will hide in the statues. If you were to flame all 10 statues, I'm sure you would chase it away for good. &[Flame 10 green statues.
+6-2] Keep going Spyro, there are still some statues left to flame.
+6-3] Just one statue left Spyro.
+6-4] Well done Spyro, you've scared the evil spirit away! Why don't you take this. I borrowed it from the temple. They don't need it.
+6-5] I'm glad that evil spirit has gone, it was giving me the heebee geebees I can tell you.
+6-6] If you want to get rid of that evil spirit for good, you must flame all the statues. &[Flame 10 green statues.
+7-1] Enemies like those yaks are too big to be charged. Your @4flame attack@0 should easily take care of large enemies.
+8-1] Remember Hunter's advice... you will glide farthest if you press the < button at the very top of your jump.
+9-1] A yeti has been rampaging around our home, but we've managed to trap him by shutting all the doors. If you talk to the other brothers, they will open the gates, and guide you to him.
+9-2] To get the talisman for this level, you just have to make it safely to the exit.
+10-1] Each time you defeat an enemy, it will release a @4spirit particle@0. The spirit particles will activate the @4powerup@0 in that world. If a powerup is inactive, you need to defeat more enemies!

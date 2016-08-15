@@ -1,0 +1,48 @@
+1] Greta
+2] Bombo the Flagkeeper
+3] Bombo the Flagkeeper
+4] Bombo the Flagkeeper
+5] Hunter
+6] Handel
+7] Greta
+
+1-1] Hewwo Spywo. My bwother Handel and I have been sent here to bwow up this castle, but Handel got caught by these evil soldiers and I'm stuck out here.
+1-2] I think there's a switch in the tower that will open the door and raise the fwag giving the castle the 'all clear' sign.
+1-3] If you can open the doors that bwock the way, I can find Handel and we can compwete our super secwet spy mission.
+2-1] So, you want that flag, eh, dragon? Well two can play at this bombing game. Let's go! &[Avoid Flagkeeper's bombs. &[Return flag to Handel.
+2-2] Ha, you won't beat me, dragon! &Care to try again?&Bring it on!&Keep your silly flag.
+2-3] Alright then, let's go!
+2-4] I knew you couldn't beat me!
+2-5] Still after my flags, dragon? &[Avoid Flagkeeper's bombs. &[Return flag to Handel.
+2-6] You won't get my last flag so easily, purple beast!
+3-1] So, you want that flag, eh, dragon? Well two can play at this bombing game. Let's go! &[Avoid Flagkeeper's bombs. &[Return flag to Handel.
+3-2] Ha, you won't beat me, dragon! &Care to try again?&Bring it on!&Keep your silly flag.
+3-3] Alright then, let's go!
+3-4] I knew you couldn't beat me!
+3-5] Still after my flags, dragon? &[Avoid Flagkeeper's bombs. &[Return flag to Handel.
+3-6] You won't get my last flag so easily, purple beast!
+4-1] So, you want that flag, eh, dragon? Well two can play at this bombing game. Let's go! &[Avoid Flagkeeper's bombs. &[Return flag to Handel.
+4-2] Ha, you won't beat me, dragon! &Care to try again?&Bring it on!&Keep your silly flag.
+4-3] Alright then, let's go!
+4-4] I knew you couldn't beat me!
+4-5] Still after my flags, dragon? &[Avoid Flagkeeper's bombs. &[Return flag to Handel.
+4-6] You won't get my last flag so easily, purple beast!
+5-1] The monkeys have escaped from the Avalar Zoo, and I've been sent here to catch 'em... But they keep throwing coconuts at me, and it hurts! Can you help me out? &Do you want to give it a shot?&Sure&No way
+5-2] Great! Just charge the tree before I get hit. I'll be able to catch the monkeys as they fall. Follow me. &[Knock monkeys out of trees.
+5-3] Okay, I'll just wait until a more courageous purple dragon comes along.
+5-4] Oww! Looks like you could use another try at this. &Shall we try it again? &Yes&No
+5-5] Thanks for your help, Spyro. Please take this...one of the monkeys had it.
+5-6] Were those monkeys or apes?
+5-7] Back again? &Are you ready to help catch monkeys? &yes&no
+6-1] Hey Spyro, we need those flags to prove our secret mission was successful...but the Flagkeeper keeps stealing them! If you can knock the Flagkeeper down, you could bring the flags back!
+6-2] My secret decoder ring says that this powerup thing should help you. &[Shoot Flagkeeper off flagpole. &[Return to Handel with flags.
+6-3] My ugly sister was supposed to get the flags. I'm a much better secret agent. &[Shoot Flagkeeper off flagpole. &[Return to Handel with flags.
+6-4] Great! But there are still two flags out there...
+6-5] You're so close Spyro, just one more flag.
+6-6] Great job, Agent Spyro!! How can we repay you for your efforts? How about this orb that I found in the sand?
+6-7] My sister says you're a great secret agent, Spyro. Activate this powerup and we can do some spying together!
+6-8] Have you seen my sister Greta? She's ugly with pigtails...
+6-9] Great! But there are still two flags out there...
+6-10] You're so close Spyro, just one more flag.
+7-1] Spywo, you make a gweat secwet agent! Now Handel and I can compwete our mission. By the way, you can have this tawisman. I stole it when the soldiers weren't looking.
+7-2] Have you seen my bwother Handel? He's stupid and wearing an ugwy shirt.

@@ -1,0 +1,31 @@
+1] Shorty the Hippo
+2] Bruno the Hippo
+3] Grundy the Hippo
+
+1-1] Spyro, it's a good thing you're here. I've been trying to get a berry out of this magic berry bush, but I'm just not strong enough.
+1-2] If you charge or flame the bush, one of those yummy berries should drop!
+1-3] By eating the berries we become big and strong...
+1-4] I guess you'll have to glide across to this berry bush.
+1-5] Keep getting the berries for me and I'll take you to the Great Berry Bush!
+1-6] You'll have to go back to those steps you passed to reach this one.
+1-7] Hitting the bush with one of those lava rocks should work...
+1-8] I think I passed some lava rocks in the the last room.
+1-9] Thanks for helping me reach the Great Berry Bush. Now we can eat berries all the time! Here take this. It's a gift from all of us Hippos.
+1-10] Looking for something else to do? Talk to my friend over there.
+2-1] Spyro, three thieves have stolen our magical brass lamps. Please get the lamps before they take them away from Shady Oasis! &[Catch the wily thieves!
+2-2] Good job! Now there are two thieves left. Let me show you where they are...
+2-3] Excellent! Let me show you where the last thief is...
+2-4] Thanks for bringing back the three magic lamps. Here, take this orb. Some fairy left it with me, but it won't hold a proper shine.
+2-5] Thanks again for bringing back the three magic lamps. I don't have anything else to give you.
+2-6] I can show you where those cowardly thieves are hiding... watch closely...
+3-1] My 8 brothers have been trapped in rock, and will sink in the lava if you can't break them free! @4Headbash@0 the rocks by jumping then pressing }, and follow my lead. &Help the petrified Hippos? &Yes&No
+3-2] Thanks for freeing us. All I have to give you is this thingy I found...at least it's not a rock.
+3-3] I have a big family, but you've managed to save all of them! Take this thing too...I'm too tired to carry it anymore.
+3-4] Spyro, my brothers have been trapped in solid rock...I'm afraid you'll need to learn some kind of @4headbash@0 move before you can help us...
+3-5] It's great you've learned to headbash Spyro, but I'm afraid neither of us can cross this lava until that powerup is working...
+3-6] Almost successful, Spyro. &Are you ready to try again? &Yes&No
+3-7] Oh no! Now my 15 cousins have been petrified too! Can you save all 15? &Help out again? &Yes&No
+3-8] Follow me...and remember, jump and then press } to headbash. &[Follow Grundy and bash her relatives out of the rock.
+3-9] OK, Come back when you're ready.
+3-10] Follow me...and remember, jump and then press } to headbash. &[Follow Grundy and bash her relatives out of the rock.
+3-11] Almost successful, Spyro. &Try again? &Yes&No

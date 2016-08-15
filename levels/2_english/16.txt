@@ -1,0 +1,66 @@
+1] Zoe
+2] Zoe
+3] Moneybags
+4] Hunter
+5] Hunter
+6] Hunter
+7] Moneybags
+8] Elora
+9] Elora
+10] Elora
+11] Elora
+
+2-1] You're well on your way, Spyro. Keep collecting talismans to help us defeat Ripto before he can take over Avalar.
+2-2] Oh, and keep collecting those orbs too. The Professor thinks they will help you get back to the Dragon World.
+3-1] Say, Spyro, you see this wall here? I bet you're dying to know what's on the other side. If only I had a few more gems, I might be able to remember how to lower the wall... &Pay ^^^ gems to lower the wall?&alright&no way
+3-2] Hmmm... yes, the sparkling beauty of those gems seems to have jogged my memory.
+3-3] OK, but as far as you know, the portal to Dragon Shores could be just on the other side of this wall... and there's only one way to find out. Ta-ta!
+3-4] Well, well... good to see you Spyro! I used to remember how to lower this wall behind me, but I seem to have temporarily forgotten. If you had more money, it might jog my memory. &[Need ^^^ gems to lower wall.
+3-5] Ok, ok, ok... so it's not the portal to Dragon Shores. Aquaria Towers is still a lovely place. Why, I have a home there myself!
+4-1] Your @4game camera@0 is currently in @4'Passive'@0 mode. This mode requires you to control the camera yourself, and moves more slowly.
+4-2] OK, all done. The camera will move faster now. If you don't like it this way, come back and see me, or change it yourself by using the @4Options@0 Menu.
+4-3] OK, I won't change it. Remember, you can change the camera mode yourself by using the @4Options@0 Menu.
+4-4] Are you enjoying the @4'Active'@0 camera mode? If you don't like it, I can set it back to the @4'Passive'@0 mode. &Change game camera to 'Passive' mode?&Yes&No
+4-5] OK, all done. The camera is in @4'Passive'@0 mode now. If you want me to change it again, just ask.
+4-6] OK, I won't change it. Remember, you can change the camera mode yourself by using the @4Options@0 Menu.
+4-7] If you like, I can change the @4game camera@0 to use @4'Active'@0 mode. In @4'Active'@0 mode, the camera moves much faster. &Change game camera to 'Active' mode?&No&Yes
+5-1] Hi, Spyro. You look like you're pretty agile. Let's try putting it to a test. See if you can get up this first step. Press <, and hold it down to get more hang time.
+5-2] Remember, press and hold < to get the highest possible jump.
+5-3] OK, not bad. Now, to make this next jump, you'll have to @4glide@0. Press < to jump, then press < again at the top of your jump to get the maximum glide distance.
+5-4] Remember, press < to jump, then press < again @4at the top of your jump@0 to get the longest glide.
+5-5] Nice job. Now, try to do a @4hover@0. Press < to @4jump@0, then press < again to @4glide@0, then when you reach the end of your glide press } to @4hover@0. Hovering will give you extra height and distance.
+5-6] To @4hover@0, press } during your glide. Make sure to wait until you are near your target before you hover. Don't forget to @4press forward@0 on the D-pad or the analog stick when you hover!
+5-7] Very good! Now, for the hardest leap of all. You'll have to give this one everything you've got. Get a walking start, @4jump@0, @4glide@0, and @4hover@0 just before you get to the edge of the platform. Don't forget to press forward on the D-pad or analog stick when you hover.
+5-8] This one's tricky. Walk to the edge, press < to @4jump@0, press < again at the top of your jump, then press } when you get almost to the edge of the platform. Don't forget to @4press forward@0 on the D-pad or analog stick when you hover!
+5-9] Wow. You're a pretty good athlete. If I hadn't lost my running shoes, I'd take you on for real. For now here's an orb for your collection.
+5-10] I'm just taking a break right now.  I've got to rest for the next big race in Ocean Speedway...
+6-1] Hiya, Spyro! Ripto smashed this bridge, so I guess you'll have to @4glide@0 across it. Press < to @4jump@0, then press < again while you're still in the air to glide.
+6-2] Remember, press < once to @4jump@0, then press < again to @4glide@0.
+7-1] Hello there, Spyro. Would you like to learn to swim underwater? I suppose I could teach you, for... ahem... a small fee. &Pay ^^^ gems to learn how to swim underwater?&Yes Please&No Thanks
+7-2] Great! OK, when you jump in the water, you can use the D-pad to move around the surface. Use > to @4dive@0 underwater. When you are @4underwater@0, use < to @4paddle@0, and > to @4charge@0.
+7-3] OK, you don't have to learn to swim yet, but you won't get far in Avalar until you do...
+7-4] Sorry, Spyro, I'd love to teach you how to @4swim underwater@0, but not as much as I'd love to take your treasure. &[Underwater swimming costs ^^^ gems.
+7-5] Remember, to @4dive@0 underwater, press >. When you are underwater, press < to @4paddle@0, or > to @4charge@0.
+8-1] Spyro, this is the home world called Summer Forest. There are portals to many of the Avalar worlds around here. Unfortunately, Ripto has taken over the castle and we need your help. Start by retrieving the @4talismans@0 from each of the worlds you go to.
+8-2] Check your guidebook by pressing the @4START@0 button and choosing the @4Guidebook@0 option to see which talismans you have collected.
+8-3] Would you like me to take you to a world where you can find a new talisman? &Go to new portal?&Yes&No
+8-4] Great! I'll take you to a new portal!
+8-5] OK, come find me if you ever need help finding a world where you haven't got the talisman.
+9-1] Hi, Spyro! This Talisman Door will only open if you have @4all six@0 Summer Forest @4talismans@0. Once the door is open, Ripto and Crush will be waiting in the dungeon.
+9-2] Well done, Spyro. Now that you have six talismans, this door will open!
+9-3] OK, Spyro, jump through that hole in the floor to get down to Crush's Dungeon. I'll help you by tossing sheep through the hole if I can catch them. Good luck!
+9-4] Would you like me to take you to a world where you can find a new talisman? &Go to new portal?&Yes&No
+9-5] Great! I'll take you to a new portal!
+9-6] OK, come find me if you ever need help finding a world where you haven't got the talisman.
+10-1] Spyro, this is a high-powered portal. It will only work if you're carrying three or more orbs.
+10-2] Nice work, Spyro... The orbs you're carrying have activated this special portal. You won't find a talisman in the Ocean Speedway, but if you're fast, you'll get lots of treasure! Have fun!
+10-3] This is one of Hunter's favorite speedways.
+10-4] Would you like me to take you to a world where you can find a new talisman? &Go to new portal?&Yes&No
+10-5] Great! I'll take you to a new portal!
+10-6] OK, come find me if you ever need help finding a world where you haven't got the talisman.
+11-1] I saw something shiny at the top of this wall. You could probably get it, but you'll have to learn how to @4climb@0 first.
+11-2] There's something shiny at the top of this wall. Maybe you could climb up and get it?
+11-3] Once you can @4climb@0, this wall should be no problem.
+11-4] Would you like me to take you to a world where you can find a new talisman? &Go to new portal?&Yes&No
+11-5] Great! I'll take you to a new portal!
+11-6] OK, come find me if you ever need help finding a world where you haven't got the talisman.

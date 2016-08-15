@@ -1,9 +1,0 @@
-0) Mayor
-
-0-0] Welcome to the Metro Speedway. I'm busy right now with official city business, but if you come back after you have completed this course, I might have a job for you.
-0-1] We've been having a crime problem here in Metro Speedway, but I think you might be able to help. A band of cat burglars have been raiding my re-election funds by scaling the walls of the buildings. Would you be willing to help get rid of them? &Will you go after the burglars?&Yes&Maybe Later
-0-2] Great! The Hunter has been able to knock the scoundrels off of the buildings, but we need you to catch the loot before it lands in the canal and is lost. The Hunter is waiting for you outside. Good luck. &[Catch loot before it lands!
-0-3] I understand. I'm sure we'll find some other way of stopping these criminals, but you can always come back if you change your mind.
-0-4] It looks like you missed one, but there always seem to be more burglars trying to rob us blind. Are you ready to try again? &Are you ready to try again?&Yes&Maybe Later
-0-5] Well done! You really taught those crooks a lesson.
-0-6] Well done! You really taught those crooks a lesson.

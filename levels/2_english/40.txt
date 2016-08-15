@@ -1,0 +1,14 @@
+1] Beaky the Breezebuilder
+2] Squawk the Breezebuilder
+3] Fisher the Breezebuilder
+4] Gobble the Breezebuilder
+
+1-1] Please excuse our mess, Spyro... we are currently suffering from a Land Blubber infestation. First they put out the fires on our boilers, and now they've shut down our ship, too.
+1-2] If you could stoke up the fires under the boilers, I'm sure you could make your way to the ship. The steam from the boilers will activate our highly advanced machines.
+2-1] Thanks for getting our ship fired up, Spyro! Now we can proceed with our counter-attack on Zephyr. Please take this talisman as a token of our gratitude.
+3-1] How lucky for me that you came along. My machinery is broken, and the gears I need to repair it are scattered all over the tracks. Could you hop on that trolley up there and get them? &[Collect 50 gears with the trolley.
+3-2] Trouble with the trolley, eh? Well, just use the D-pad or analog stick to @4change@0 @4lanes@0, press the < button to @4jump@0, and press the { button to @4fire the cannon@0. &[Collect 50 gears. &[Use controls to change lanes, jump and shoot.
+3-3] That was great work, Spyro. Now I can start fixing my machines. Here, I don't have room in my toolbox for this thing anymore.
+3-4] I had the cannon installed to help me hit the @4switches@0. Try shooting the @4ringing switches@0 to see what I mean. &[Collect 50 gears. &[Try shooting arrow switches.
+4-1] Those Land Blubbers have littered these metal spike mines all over the Harbor. If you can clear them out, I'll give you this orb I found in a clam yesterday. &[Shoot down the floating mines.
+4-2] Thanks, Spyro. Here's that orb I promised. Sorry if it still has clam juice on it.

@@ -1,0 +1,10 @@
+1] Hunter
+
+1-1] Welcome to Canyon Speedway, Spyro. Right now I'm having a little engine trouble, but come back and talk to me when you've completed the course.
+1-2] Alright, Spyro! Are you ready to try out my plane? I just fixed it and I'm pretty sure it won't crash now. &Go for a ride?&Sure&No thanks
+1-3] OK Spyro, here's what you've gotta do. I've got the plane on remote control so all you have to do is hit the targets with your machine gun. Press { to fire the gun and use the D-Pad or analog stick to aim. &[Press @0{@4 to fire gun. &[Use directional button or analog stick to aim. &[Don't miss any targets.
+1-4] Okay, I understand. I'll be here if you change your mind.
+1-5] Hey, you missed a target! That's okay, it's pretty tough to hit them all. &Are you ready to try again?&Try again&No Thanks
+1-6] Great job, Spyro. I couldn't have done better myself. Well, I could have, but I'm modest you know...
+1-7] Hey, you nailed all of the targets! It must be because you had such a good pilot.
+1-8] Let's go!

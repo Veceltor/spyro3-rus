@@ -1,0 +1,25 @@
+1] Loonie the Faun
+2] Hunter
+3] Moneybags
+4] Chedda the Faun
+5] Bippo the Faun
+
+1-1] Hello, Spyro. I suppose you're here for the party. I'm afraid it's been cancelled because the stupid Earthshapers set off the volcano.
+2-1] Hey Spyro, check out this cool cave I found. Let's play a little game. Every so often, a piece of this crystal popcorn pops out of the ground. The first one to grab 10 of them wins. &Will you take the challenge?&Let's play&Maybe later
+2-2] I'm ready when you are. &[Grab ^^ crystals before Hunter.
+2-3] Alright. Come back whenever you think you are ready. I'll be right here waiting for you.
+2-4] You're pretty fast, but not as fast as me. What do you say, would you like to give it another shot? &Would you like to try again?&Let's play&Maybe later
+2-5] OK, you win. Here's an orb.
+2-6] Well, well. I see you're back for more. Are you ready? &Will you take the challenge?&Let's play&Maybe later
+2-7] You win again. I must be getting old.
+2-8] You're really good. I'm going to have to come up with some harder games. For now, take this orb. I guess you earned it.
+2-9] I'll give you another orb if you can beat me again. Let's play to 15 this time. What do you say? &Will you take the challenge?&Let's play&Maybe later
+3-1] Well, if it isn't my best customer. The elevator in the next room can take you to the volcano. You can have unlimited use of the elevator for a one-time fee of only a few gems. &Pay ^^^ gems for the elevator?&Yes Please&No Thanks
+3-2] It's a pleasure doing business with you. Simply step on the elevator, and it will take you to the bottom. When you want to come back up, just step on it again.
+3-3] OK. I'll be here if you change your mind.
+3-4] Sorry Spyro, it looks like you can't afford to use my elevator. Come back and see me when you have collected more treasure. &[Elevator access costs ^^^ gems.
+3-5] I've found that the elevator business is one of my most profitable...behind bridges of course.
+4-1] Here we are on the night of the big party, and we don't have anything to celebrate with. If you could fly, maybe you could do something about it.
+4-2] Thanks, Spyro. You've saved the party. Here, this got mixed in with the cheese-balls, and I almost chipped a tooth on it.
+4-3] Hey Spyro! You're just in time for the party. Well, you would be if those nasty Lava Monsters hadn't stolen our hats. It just won't be the same without party hats. &[Shoot down the lava monsters.
+5-1] Thanks for closing the lid on the volcano, Spyro. Things were getting a little too hot around here. By the way, here's a talisman I was saving for the party later... I think you deserve it more.

@@ -1,0 +1,23 @@
+1] Hydrar the WaterWizard
+2] Hydrar the WaterWizard
+3] Hydrar the WaterWizard
+4] Snoozle the WaterWizard
+5] Basil the Explorer
+6] Professor
+
+1-1] Things just aren't the same since our magic fountain shut off. It sure would help if you could find out what evil force is behind this disaster!
+2-1] Things just aren't the same since our magic fountain shut off. It sure would help if you could find out what evil force is behind this disaster!
+3-1] Things just aren't the same since our magic fountain shut off. It sure would help if you could find out what evil force is behind this disaster!
+4-1] Wha? Oh, um, I must have dozed off there. Golly, looks like I let the fountain switch off. Here, take this orb and, um, don't mention my little nap to Hydrar, OK?
+5-1] Ah, Spyro, a friendly face! A bunch of rotten thieves have stolen the spark plugs and I'm stuck here. Please get the four plugs back! &[Catch thieves to retrieve the spark plugs.
+5-2] This is useless without all four spark plugs I'm afraid. &[get all 4 spark plugs from the thieves
+5-3] Wahoo! I'm back in business! Here, young dragon friend, take this. It's museum quality, but you deserve it!
+5-4] Hmm...now I just need to figure out how to collect the ivory from those beasties before they disappear...
+6-1] Ahh Spyro, so glad you're here. I'm perfectly useless without my trusty pencil, and I seem to have lost it. I do have this extra egg...perhaps you can trade it for my pencil... &[Pick up the egg and trade it.
+6-2] Hmm, no, that won't help me Spyro. &[Keep trading to get the pencil.
+6-3] Does that look like a pencil? &[Keep trading to get the pencil.
+6-4] My do I need that pencil back. Would you like to start over with a new egg? &Would you like to start over?&Yes, please&Never mind
+6-5] Here's another egg. You won't be able to trade it directly for a pencil, you know... &[Pick up the egg and trade it.
+6-6] All right. I've got lots of eggs if you need one later.
+6-7] My pencil! Now I can begin calculating the age of the universe again! Here, take this orb...Elora says she thinks I'm going to lose it...
+6-8] Hmm, carry the 6...

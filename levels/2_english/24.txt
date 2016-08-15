@@ -1,0 +1,23 @@
+1] Amper the Electroll
+2] Spike the Electroll
+3] Brainy the Electroll
+4] Kosmo the Electroll
+5] Zapp the Electroll
+6] Watt the Electroll
+
+1-1] Arrgh! These Gear Grinder thieves keep taking our lightning stones! If you can replace them all and activate our generator, I'd be very grateful. &[Replace lightning stones. &[Catch thieves.
+1-2] Thank you, Spyro! I found this shiny thing mixed up with our lightning stones. Please, take it as a reward.
+1-3] Replacing the lightning stones will bring the thieves out so you can catch them. &[Catch all 10 thieves.
+1-4] Thanks for getting rid of the Gear Grinder thieves. Now all you have to do is replace all the lightning stones! &[Replace all lightning stones.
+2-1] Spyro, help! The switch to turn off the Gear Grinder factory is in that room, but, umm... it's awfully noisy in there...
+2-2] Thanks for shutting down the factory. Here, I found this stuck between the gears. You can have it if you want.
+3-1] Thank you, Spyro! You've deactivated all of the electric barriers! We've been guarding this talisman from the Gear Grinders. Please take it as a reward!
+3-2] You're always welcome to return to Hurricos, Spyro!
+4-1] Spyro, do you see that big building over there? The Gear Grinders are using it to steal our electricity! Please help us by shutting down the machinery inside. &[Glide over to the factory.
+4-2] In order to get to the building over there, you can first jump on the windmill, then jump to the near side of the building. &[Glide over to the factory.
+5-1] We've always had trouble with the Gear Grinders, but now they've set up force fields to separate us. If you can find diodes, you can use them to turn off the force fields.
+5-2] It's a little known fact that metal objects are impervious to fire. I suppose a tough guy like you could just charge them with your head, though.
+5-3] I think there's a diode around here somewhere, but my eyesight isn't what it used to be...
+6-1] Spyro, you've done well so far! You can have this little trinket for good luck. If you have any questions about shutting down the factory, just ask me.
+6-2] The next glides get tricky! You'll have to use your @4hover@0 maneuver to make them. Press the } button during a glide to hover and get extra height.
+6-3] Remember to press } when you are very close to the windmill, or you won't make it. &[Glide and hover across fan blades.

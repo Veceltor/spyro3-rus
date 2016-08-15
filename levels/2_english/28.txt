@@ -1,0 +1,23 @@
+1] Prince Tortiss
+2] Master Chef
+3] King Fromit
+4] Advisor Gromit
+5] Advisor Moppet
+
+1-1] Hi Spyro, it's a good thing you're here. If you can help shepherd those baby turtles over there to safety, I'll be mighty grateful.
+1-2] The baby turtles will lead the way, but there are some obstacles in the way that they can't pass. If you can clear the obstacles away, the turtles will be able to make it to safety.
+1-3] The gates around here will stay open if a switch is held down.
+1-4] If you flame the big box turtle over there, you can make him move onto the switch.
+2-1] Your turtle friends happen to make a very good soup...if I can catch them. You can try to save them if you like, but I'm feeling awfully hungry. &[Keep turtles out of cauldron.
+2-2] So you saved a few turtles...there are more where those came from. Here, take this orb and go away...
+2-3] Rats! You saved every turtle on the beach. Here take this. I was going to use it to buy potatoes, but now I don't need it.
+2-4] Oh sure, taunt a hungry chef...what I'm gonna serve my dinner guests for the first course?
+2-5] If you step a little closer to the pot, I'll start ringing my bell again. &[Keep turtles out of cauldron.
+2-6] Mmm, I love the smell of turtle soup in the morning... Heh heh... I suppose you can try one more time, but I doubt you'll do any better.
+3-1] Thank you, young dragon. The baby turtles will be safe up here. Please take this talisman as a token of our gratitude.
+4-1] The Water Workers have boxed up most of our baby turtles. The boxes are incredibly strong! With a more powerful flame breath, maybe you could break them open and release the turtles. &[Defeat 11 enemies to activate superflame & powerup. &[The powerup is the two pyramids on the round & platform.
+4-2] Impressive! Most impressive... Please take this sacred...errr...thingamajig as a token of our everlasting gratitude.
+4-3] The Water Workers have boxed up most of our baby turtles. The boxes are incredibly strong! With a more powerful flame breath, maybe you could break them open and release the turtles. &[Use superflame powerup to open boxes. &[Open all the boxes to free the baby turtles.
+5-1] There's a chef at the top of this ladder who wants to make soup out of our baby turtles. If you knew how to @4climb@0, you could get up there and stop him.
+5-2] Hello, young one. There's a chef up at the top of this ladder who wants to make soup out of our turtles. Maybe you could climb up there and stop him?
+5-3] You know, turtles and dragons have a lot in common. If you were much slower, couldn't fly or breath fire, and had a shell on your back, you'd be a turtle!

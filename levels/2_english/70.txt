@@ -1,0 +1,49 @@
+1] Gatekeeper Gniles
+2] Showman Gnick
+3] Showman Gnelson
+4] Showman Gnorm
+5] Showman Gnigel
+6] Showman Gned
+
+1-1] Welcome to Dragon Shores, Spyro. Sorry but I can't let you into our little park until you've found more of the gems and orbs in Avalar. Good luck! &[Collect ^^ orbs. &[Collect 8,000 gems.
+1-2] Well done, Spyro! Step right on into Dragon Shores Park!
+1-3] By the way, if you win ten tokens, you can visit our theatre!
+1-4] Try to win tokens at the attractions. If you win ten, you can visit the famous Dragon Shores Theatre!
+2-1] Step right up Spyro and take a look at what we've got for you today. Inside this here booth, you'll find some of the most vicious creatures you've ever seen. &Try dunking booth?&Yes&No
+2-2] Suit yourself kid. Come on back when you want to give these critters a dunking.
+2-3] Here's a baseball to spit, sport. Take aim, shoot at the target and watch as the terrifying creatures fall into the water below. But don't worry, you won't hurt 'em.
+2-4] Hey, that was pretty funny, wasn't it? Take this token for being such a good shot.
+2-5] This is pretty easy, isn't it? Have another one of these tokens.
+2-6] Wow, you really are a great shot. Take this, it's my last token.
+2-7] Good shot, but I'm clean out of tokens. Keep shooting if you want.
+2-8] Have another shot if you want, kid...
+3-1] Hiya Spyro. I hear you're a pretty good shot! How'd you like to try my shooting gallery? &Go for it?&Yes&Gno
+3-2] Okay, I'll set the timer for you.
+3-3] Okay, but remember, I still have tokens to give you if you want to come back and give it a try.
+3-4] Nice shootin'! Here's a token.
+3-5] Ready for the next round? &Start next round?&Yes&No
+3-6] Great! Here is my last token!
+3-7] Wanna try again? &Try again?&Yes&No
+3-8] Come on back any time, Spyro!
+3-9] Too bad, Spyro. If you want to try again I can reset the timer for you. Are you game? &Try again?&Yes&No
+3-10] Good shot, but I'm clean out of tokens. Keep shooting if you want.
+3-11] Too bad, Spyro. If you want to try again I can reset the timer for you. Are you game? &Try again?&Yes&No
+4-1] Free, Free, Free! You pay no money down, and make no monthly payments. In return, I'll give you one token. One is all I can give but you can ride as many times as you'd like. &Take a ride?&Yes&No
+4-2] Well, it's pretty dark in there. I understand. Come on back, anytime.
+4-3] Hop aboard my friend!
+4-4] As promised, here's your one token. When you have ten, try visiting the Dragon Shores Theatre.
+4-5] Just for kicks, eh Spyro? You've already got your token. Come back anytime though...
+4-6] Back to take a whirl on the boat ride? &Take a ride?&Why not?&Naw
+5-1] Welcome to the Dragon Shores Coaster. Here at the Shores we don't just ride though! If you can pop all the balloons on the track, a token is waiting for you. Ready to ride? &Jump on?&Yes&No
+5-2] Watch out for the other coasters out there. It's a crowded track today. &[Pop all balloons.
+5-3] You know, rollercoasters aren't for everyone. Come on back again sometime!
+5-4] Ow, that looked like it hurt. Care for another try at the Coaster? &Try again?&Sure&No
+5-5] Care for another try at the Coaster? &Try again?&Yes please&No way
+5-6] Good job, dragon. Here's a token for you.
+5-7] Alright, I'll flip this switch, and now you can ride more tracks! See if you can pop the balloons on these tracks too. &Keep going?&Yes&No
+5-8] Hey, not bad! Here's another token.
+5-9] There's one more run, and you're on a roll... There's a cannon installed on your car for this run, and you'll have to shoot balloons too. Are you gonna give it a try? &Do the third run?&You bet!&I'll quit now
+5-10] Wow, you're a natural...you've conquered the coaster! Here's my last token.
+5-11] Wanna ride the coaster just for fun? &Jump on?&Yes&No
+6-1] Hey there young fella! I'd sure like to let you into the Dragon Shores Theatre, but you just haven't won enough tokens. Try visiting the other attractions first. &[Win 10 tokens to enter theatre.
+6-2] Well Spyro, it's your lucky day! You've managed to win enough tokens to enter the famous Dragon Shores Theatre! Go on in and enjoy the show!

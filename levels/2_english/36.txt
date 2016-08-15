@@ -1,0 +1,19 @@
+1] Lumpy
+2] Ooga
+3] Gronk
+4] Glug
+
+1-1] Spyro, our village is being overrun by Lava Lizards. Can you get rid of them before they eat my little buddies? I'll lower the bridge for you so you can get over there. &[Cross the bridge. &[Save the villagers.
+1-2] Please protect my friends from the lizards who hatch out of those giant eggs. &[Save the villagers!
+1-3] Well done, grasshopper! Take this shiny uhh, thing we found, to aid your journey!
+1-4] Uh-oh...it looks like more lizard eggs are dropping down... Are you ready for another challenge? &[Save the villagers again!
+1-5] Please help us again, Spyro! Those lizards are really scary!
+1-6] Please help us again, Spyro! Those lizards are really scary!
+1-7] Thank you for helping us again, Spyro! You deserve another shiny thing. I was going to use it as a night-light.
+2-1] I'm so sad. Those pesky Lava Toads have stolen all my friend's bones. If you help me put him back together again, he'd sure be more fun. &[Get bones from Lava Toads
+2-2] Thank you, Spyro! Now I can put my friend back together! Please take this as a token of my appreciation. A fairy left it with me a little while ago.
+2-3] It's so good to see my friend looking healthy again! I think he wants to dance for you...
+3-1] Hey, dragon, I hear you're pretty tough. I bet my cousin Glug you wouldn't be able to make it through Badlands without getting singed.
+3-2] Oh, if you see any of my little buddies getting torched, do you mind helping them out?
+4-1] Excellent! You made it through the Badlands! I knew I'd win that bet...my cousin Gronk is a fool to bet against a dragon. Take this talisman for helping me out.
+4-2] If you don't know what to do with the talisman...maybe you could make a nice soup with it.

@@ -1,0 +1,25 @@
+1] Manager Droid
+2] Manager Droid
+3] Logistics Droid
+4] Manager Droid
+5] Inventor Droid
+6] Maintenance Droid
+
+1-1] This insurrection from the farms has got quite out of hand. We need someone to restore order! Find the Inventor Droid, she's been working on something big.
+2-1] This insurrection from the farms has got quite out of hand. We need someone to restore order! Find the Inventor Droid, she's been working on something big.
+3-1] As you can see, a vicious ox has taken over our armory. We thought that freezing the walkway would keep animals out...
+3-2] The ox is very tough. I advise using the bombs against it, and it'll probably take several bombs at that... &[Avoid exploding bombs. &[Use bombs against the ox.
+3-3] We'll never regain control of the armory without your help... &[Use bombs against the ox.
+3-4] Superb work, Dragon...the Ox looks out of commission. I'd like you to have this token of my appreciation for your assistance.
+3-5] Errrgh! That bleeping ox is tough! Looks like we'll need a little more help to regain control of our armory. &[use bombs against the ox
+3-6] Excellent work, Dragon. We can now defend our city properly. Take this visually pleasing reward.
+4-1] This insurrection from the farms has got quite out of hand. We need someone to restore order! Find the Inventor Droid, she's been working on something big.
+5-1] Ah, Spyro! I'd heard you were coming. Thank you for your efforts in thwarting this attempted coup. Please take this item, which living creatures seem to like.
+5-2] I've successfully developed a super powerup here Spyro... knock off just a few more enemies and you can be the first ever to use it!
+5-3] It's a first for Avalar! A combination powerup! Thank goodness you're here to test it out... these invading sheep in their spaceships must be stopped! &[Take down the sheep saucers.
+5-4] Keep after those saucers Spyro. Remember your training! &[All sheep saucers must go!
+5-5] Excellent work. You knocked those sheep right out of the sky! This orb device is proof of your skill.
+5-6] I knew it! Those first sheep sent out a distress call. The next wave of saucers is incoming! &[Shoot down the second wave.
+5-7] Nice flying, airman! You've proven the genius of my double powerup invention! Here, keep this to commemorate your victory.
+6-1] With all the budget cuts, these elevators need serious work. See, this one here is stuck. I expect it would start working if you could just give it a good whack though.
+6-2] I always say, there's no repair quite like just hitting something... &[Headbash the elevator to unstick it.

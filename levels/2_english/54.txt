@@ -1,0 +1,10 @@
+1] Hunter
+
+1-1] Hey Spyro, you found me! Come back and talk to me again when you've completed the entire course.
+1-2] Good job, Spyro! Looks like you're ready for a more serious challenge. How about a little paragliding? You're not afraid of heights are you? &Try paragliding?&Let's do it&No thanks
+1-3] Great! I'll tow you behind my snowmobile and you maneuver through the rings. Don't miss any or we'll have to start over. &[fly through rings
+1-4] Well, I can understand. Come back later when you're feeling adventurous.
+1-5] Hey, I heard you were good at this flying stuff... Oh well. Wanna go for it again? &Are you ready to try again?&Try again&No Thanks
+1-6] Great job, Spyro. You're getting pretty good at this!
+1-7] Way to go, Spyro! You're even better than I am.
+1-8] Let's go!
