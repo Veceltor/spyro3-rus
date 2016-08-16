@@ -1,0 +1,66 @@
+142: Charmed Ridge
+
+  (Alicia)
+[1090]	There's no time to lose! Prince Azrael and his cat armies are about to steal our poor princess!
+
+  (Eileen)
+[346]	Hurry, Spyro! If we don't get to the castle right away, the princess will be forced to marry that loser, Prince Azrael!
+
+  (Moneybags)
+[158]	Well, Spyro, today is your lucky day! The wizards and I have worked out a little deal. If you simply pay a small toll, they'll be happy to raise these steps and let you pass. &Pay ^^^ gems to raise the steps? &Yes. &No.
+[1009]	You have chosen wisely, Spyro. I'll tell the wizards to raise the steps immediately... And, err, best of luck rescuing that princess, or whatever it is you're up to...
+[194]	Suit yourself, Spyro... but every time I think of that poor, poor fairy princess being captured by those villainous wizards, I simply break down in tears.
+[178]	Say, Spyro, if you had a bit more money, I think I could make a deal with the wizards to raise these steps. I'm afraid that's the only way you'll be able to get to the castle. &[^^^ gems needed to use steps.
+[207]	You know, come to think of it, the wizards only agreed to raise the steps. They never said they wouldn't lower them again... heh heh... Those guys are pretty clever, aren't they?
+
+  (-)
+[0]	-
+[0]	-
+[0]	Step inside, old chum!    -Sgt. James Byrd
+
+  (Princess Ami)
+[48]	Ohh... hee hee... Hi, Spyro! Isn't Prince Azrael just the dreamiest? The other fairies and wizards won't let us get married, so we're going to elope! ... By the way, Azrael says you can have this egg if you don't tell anyone where we went!
+
+  (Molly)
+[401]	I just saw Prince Azrael run into the castle! We have to stop him before he reaches the princess!
+
+  (Liz)
+[164]	Spyro, we urgently need your help! The evil cat wizards of Felinia have stormed our castle and captured our princess! If we don't stop them right away, they'll force her to marry Prince Azrael!
+
+~~
+
+  (Sgt. Byrd)
+[51]	Good day, Spyro! I'd like to stay and chat, but I'm late for a... err... an engagement with a fairy friend of mine... err... she's just a friend, you understand... it's a strictly platonic relationship... it's certainly not a violation of military protocol whatsoever... What? What are you giving me that look for?
+
+  (Isabelle)
+[63]	Where have you been, James? We were supposed to meet in the temple an hour ago! And don't give me that old 'matters of national security' line again! ... I guess it doesn't matter, though... the whole temple is full of nasty cat witches, anyway. We'll just have to call off our date... that is, unless you want to battle the witches...
+[203]	So, I see those rocket launchers aren't just for show after all... Well, I just hope your accuracy is better than your punctuality, because there are still a lot more witches in the temple.
+[202]	I must admit, James, I am impressed... There are still a few witches left, though, and this time they mean business! They even turned the floor into deadly blue ooze. Oh, be careful, ok?
+[155]	You did it, James!!! I knew you weren't the leader of the Hummingbird Resistance Movement for nothing! Now we have the temple all to ourselves... but first, I have a present for you...
+
+~~
+
+  (Jack)
+[1050]	According to legends, there's a golden goose at the top of this here mountain. I want to be the first person to the top, so I can grab it!
+[1089]	By the way, if you can't figure out what to do next, we can always start over. &Start the puzzle over? &Yes. &No.
+[547]	OK, here are your seeds again.
+[1168]	Well, good luck. It's got me stumped.
+[185]	I just bought some insta-sprout-ultra-super-grow seeds from a bear with a bag of gems. He said they were magic, but I can't make them do anything. You can have a couple, if you like.
+
+  (Jack)
+[317]	At last! I've found the legendary golden goose! You can have another one of its eggs for a souvenir!
+[1151]	That's the ugliest goose I've ever seen!
+
+  (Jack)
+[1050]	According to legends, there's a golden goose at the top of this here mountain. I want to be the first person to the top, so I can grab it!
+[1089]	By the way, if you can't figure out what to do next, we can always start over. &Start the puzzle over? &Yes. &No.
+[547]	OK, here are your seeds again.
+[1168]	Well, good luck. It's got me stumped.
+[185]	I just bought some insta-sprout-ultra-super-grow seeds from a bear with a bag of gems. He said they were magic, but I can't make them do anything. You can have a couple, if you like.
+
+  (Jack)
+[233]	pant... pant... I found this egg on the way up here... I think it was laid by a golden goose! We'll have to keep going... We're almost to the top!
+[493]	You've been doing great so far, why don't you take two more seeds?
+[1150]	If you get stuck, we can always restart this section. &Restart this part of puzzle? &Yes. &No.
+[546]	OK, here are your seeds again.
+[286]	OK, best of luck! These here thinking puzzles are too tough for me. I prefer action gameplay.

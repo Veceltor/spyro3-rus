@@ -1,0 +1,71 @@
+100: Sunny Villa
+
+  (Zoe)
+[1099]	This rhynoc is too big to charge. You'll have to flame him using the { button.
+
+  (Zoe)
+[1132]	Hi Spyro! Each time a fairy zaps you, like this...
+[368]	That means your progress is saved. If you get into trouble you'll return to the last place you got zapped.
+
+  (Councillor George)
+[1053]	Oh my! Oh my! Can you help us? Hordes of ferocious rhynocs have overrun our town and kidnapped the mayor.
+[518]	Are you a dragon? I never believed you really existed.
+[524]	Would you like a chicken sandwich? They're very good.
+[468]	Those pesky rhynocs are back again, but I'm sure you'll soon sort them out.
+
+  (Citizen Paulus)
+[1153]	Let me catch my breath and I'll kick that other guy's butt.
+[296]	We showed those two bullies. If they hadn't outnumbered me two to one, I'd have finished them off ages ago.
+[1170]	Have you seen any giant chickens around here?
+
+  (Mayor Leo)
+[381]	Thank you for rescuing my town. As mayor I award you with one of our famous giant chicken eggs.
+[477]	I'm sorry, that was the ugliest chicken I've ever seen.
+[0]	-
+
+  (Citizen Horace)
+[531]	Whoo I'm dizzy.
+[497]	Thanks for the help, but I think I would have worn him down in a minute.
+[1094]	Have you seen any of our giant chickens? The rhynocs have been trying to eat them all.
+[495]	Look, a chicken turned up. I hope it's not the only one left.
+[0]	-
+
+  (-)
+[0]	To Whom it May Concern: Sheila the Kangaroo is currently otherwise detained -- by me. Please return in a few years.\      -The Sorceress
+[0]	Spyro, thanks for dropping by, but I'm currently busy in my home world. Come visit me there.\          -Sheila
+[0]	Come on in!\     -Sheila
+
+~~
+
+  (Rapunzel)
+[450]	What! Marco sent you here? I've got a restraining order against him.
+[540]	If you see Marco please tell him I've moved out.
+
+  (Sheila)
+[369]	Hey Spyro, there are rhynocs everywhere. Maybe I can find some peace and quiet at the top of the tower...
+
+  (Marco)
+[312]	Alas, I have lost my love, guarded by evil rhynocs at the top of yonder tower. Can you rescue her for me?
+
+~~
+
+  (-)
+[0]	Attention dragon: if you ever want to see your mangy cat friend again, you had better leave here at once!\     -The Sorceress
+
+  (Hunter)
+[236]	Hi Spyro. I found this gladiator training arena and it makes a pretty cool skate park! Care for a test of your boarding skills? &Start boarding challenge now? &Yes. &No.
+[1172]	Are you ready for a challenge now? &Start boarding challenge now? &Yes. &No.
+[262]	I bet you can't catch all fifteen of the lizards running around here... Just come back if you want some boarding tips from the master. &[Catch the lizards.
+[349]	Yeah, maybe you'd better practice a bit first... Just come back here when you're up for a challenge.
+[298]	Having trouble? If you use the < button to jump off the ramps you'll get extra height and distance.
+[1031]	Caught all the lizards yet? If you're having trouble catching them, don't be afraid to use your flame breath while on the skateboard.
+[361]	Hey that was great! And while you were boarding, I found this in a lizard burrow.
+[214]	Now that you've mastered the basics, let's see you do some stunts! Try using the < or } button to jump off ramps and turn in the air...
+[440]	This is the most fun I've had since we chased King Flippy on the manta ray.
+[161]	Alright, if you can catch all the lizards without wiping out and before time runs out, I  might be able to scrounge up another egg. It's not gonna be easy, though... &Start difficult boarding challenge now? &Yes. &No.
+[1124]	If you want to try to catch those lizards, I'll start the clock now. &Start difficult boarding challenge now? &Yes. &No.
+[534]	Go get 'em, Spyro!
+[535]	Well whenever you're ready, come and talk to me.
+[1125]	Awww, too bad... maybe you'll do better this time. &Try difficult boarding challenge again? &Yes. &No.
+[371]	Whoa, that was sweet! And look, there was another egg in the lizard burrow.
+[123]	You can go for the course record now, if you want. Whenever you hop on a skateboard, a timer will start. Score as many points as you can until the timer expires or you wipe out. Good luck!

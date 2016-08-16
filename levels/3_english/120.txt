@@ -1,0 +1,69 @@
+120: Enchanted Towers
+
+  (Pablo)
+[1008]	Those crummy rhynocs forced us to build a statue of the Sorceress. Then, after we built it, she complained it was too ugly! If you ask me, the statue is much prettier than she is.
+[307]	My friend Jasper has a plan to blow the statue to kingdom come, but we'll have to clear out these rhynocs first.
+[231]	Yup, that exploding Sorceress statue was Jasper's finest work since 'Rhynoc with TNT Barrel: Four Seconds of Terror'.
+
+  (-)
+[0]	Attention: This hut, and that measly penguin, are declared OFF LIMITS.\     -The Sorceress
+[0]	I appreciate you're stopping by, Spyro, but I'm still busy training hummingbirds. Meet me at my home base.     -Sgt. James Byrd
+[0]	Step inside, old chum!     -Sgt. James Byrd
+
+  (Ooga)
+[260]	Hello birdy, I was having a lovely vacation with my friend, but he's lost all his bones. Can you find them and put him together?
+[1069]	You're doing great, please find the rest of the bones so we can put my friend back together.
+[357]	Here have this. I was going to keep it as a souvenir, but I don't have room in my luggage.
+[302]	My friend is feeling much better now... Oh, no! He's started his bone dance again...
+[1026]	What did you have to come back for? Now he's going to do his whole routine again! Well, here we go...
+[310]	Have you found any of my friend's bones? We have to go back to Skelos Badlands, and we can't leave without them.
+[57]	Spyro! Are you on vacation too? I was having a lovely time with my friend until the lava toads stole all his bones again. I'd ask you to help, but some of the toads are hiding at the top of the tallest towers and I don't think you can fly that high.
+
+  (Jasper)
+[79]	I'm almost ready to reveal my latest piece of real-time, four-dimensional performance art! I call it 'Hideous Exploding Witch, Number 9'. Now, if you can just light the three rockets around here, my masterpiece shall be complete...
+[177]	The world breathlessly awaits my brilliant four-dimensional masterpiece... just light all the rockets and prepare to be amazed by my genius!
+[356]	Oooops, I forgot I hid this egg inside the statue. I hope the explosion didn't hard boil it...
+[176]	And now, for my latest experiment: 'Blast-Sculpting'! I shall attempt to carve an image of you with a single explosive detonation...
+[1107]	Not too bad, eh? Very post-neolithic, wouldn't you say?
+
+  (Sgt. Byrd)
+[1120]	I'm ready to patrol the towers and the perimeter of the islands whenever you want me to. &Go on patrol &Yes sir! &No, I'm off duty.
+[558]	It's good to be back in action.
+[557]	I'll be here when you need me.
+
+~~
+
+  (-)
+[0]	I've got your slow-witted furball friend in a cage, and you're going to be next!      -The Sorceress
+
+  (Hunter)
+[200]	Isn't this the wildest skateboard park you've ever seen? Once you've mastered a few tricks, you could score huge points in this place! What do you say I show you some moves? &Learn some tricks? &Of course! &Some other time...
+[444]	No problem, check the place out for yourself. Just meet me back here later!
+[1137]	Are you ready to learn some tricks and take on the next challenge? &Take the challenge? &Let's go! &No thanks.
+[1025]	Let's start with something easy. You can jump off the end of ramps by pressing the < button. I'll show you how to do it once, then it's your turn. &[Press < button at top of ramp to jump.
+[1027]	Just press the < button at the top of the ramp to jump off it. Try jumping as close to the top as possible to get the most hang time.
+[268]	OK, now try doing a roll. You can roll in midair by holding down the } button and steering left or right. &[Press < button at top of ramp to jump. &[Hold down } button and steer left or right to roll.
+[232]	This one's cake! Just press the < button to jump off the ramp, then hold down the } button and steer left or right to do a roll. &[Press < button at top of ramp to jump. &[Hold down } button and steer left or right to roll.
+[86]	Hey, nice roll! Now let's see you pull a flip. Flips are exactly like rolls, only you push up or down instead of left or right. Just jump off the ramp, hold down the } button, and push up or down on the directional pad. &[Press < button to jump off ramp. &[Hold down } button and push & up or down on the directional pad. &[Land on the next ramp.
+[160]	Flips are my signature move! Just jump off the ramp, hold down the } button, and push up or down on the directional pad. Try doing a flip and landing on the next ramp. &[Press < button to jump off ramp. &[Hold down } button and push & up or down on the directional pad. &[Land on the next ramp.
+[112]	Whoa, you must be a natural! Now let's see if you can pull off a half-pipe spin move. The blue ramps are half-pipes. You can do a spin move by jumping at the top of the blue ramp, then steering left or right in the air. &[Press < button at top of blue ramp to jump. &[Steer left or right in air to spin.
+[416]	Just jump at the top of any blue ramp and steer left or right in the air to spin! &[Press < button at top of blue ramp to jump. &[Steer left or right in air to spin.
+[1010]	Alright, you nailed it. Now let's see if you can do a 900! Get as much height as you can, spin two and a half revolutions in the air and land back on the ramp. &[Press < button at top of blue ramp. &[Steer left or right to do 3 spins. &[Land it.
+[247]	The 900 is a little tricky. You have to jump off the top of the blue ramp, do two and a half revolutions, and land again. &[Press < button at top of blue ramp. &[Steer left or right to do 3 spins. &[Land it, somehow.
+[82]	Now that was a 900! I have to admit, you've got some skills, Spyro. But before you get too cocky, let's see if you can score some real points on the giant ski ramp. Do whatever moves you want, and see how many points you can get. &[Score 500 points on the giant ski ramp. &[Jump on ramp to do half-pipe moves. &[Don't jump on ramp to do rolls and flips.
+[92]	This one's freestyle, Spyro! Do whatever tricks you want off the ramp. If you jump off the ramp, you can do half-pipe moves. If you don't jump off the ramp, you can do rolls and flips. The harder the trick, the more points you'll score. &[Score 500 points on the giant ski ramp &[Jump on ramp to do half-pipe moves. &[Don't jump on ramp to do rolls and flips.
+[41]	Wow, you learn really fast! Then again, you are being trained by a master boarder... Speaking of which, I was just practicing a nearly impossible new move that I call the 'Gnasty Gnorc'. I had almost pulled it off when I suddenly ran smack into this dragon egg and wiped out! OK, I made that up, but you can have this egg...
+[1154]	I think you're getting it, just try one more time.
+[0]	-
+[320]	I'm thinking you're ready to try some one-on-one competition. Want to try a freestyle competition for points? &Compete for points? &Let's go! &Later...
+[299]	Well, there's no shame in losing to the master... at least not much shame... Wanna try again? &Compete for points? &Let's go! &Later...
+[65]	I can't believe it! How did you get so good already? Who knows, someday you might even break my course record. Naw. Anyway, I guess I should give you this other egg I found. I was going to keep it for a pet, but I can't get it to hatch.
+[470]	Alright! Whoever scores the most points in the time limit, wins! &[Freestyle competition for two minutes.
+[499]	Just come find me when you're ready for a good thrashing!
+[138]	You can go for the course record now, if you want. Whenever you hop on a skateboard, a timer will start. Score as many points as you can until the timer expires or you wipe out. Good luck!
+
+~~
+
+  (Mowat)
+[46]	I was playing catch with my pet wolf, Farley, but I accidentally threw his ball down this hole and he went in after it. Now he's stuck down there. I feel so helpless... sitting up here... listening to his steadily softening whimpers... don't cry, wolf... never cry, wolf...
+[110]	Hey, you found Farley! How can I ever thank you? I mean, I could give you this old egg, but Farley's been chewing on it and it's kinda slimey... oh well, it's the thought that counts, right?

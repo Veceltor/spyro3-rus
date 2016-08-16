@@ -1,0 +1,24 @@
+144: Honey Speedway
+
+  (-)
+[0]	Attention dragon: if you ever want to see your mangy cat friend again, you had better leave here at once!\     -The Sorceress
+
+  (Sparx)
+[1190]	Which challenge would you like to play? &Choose a challenge: &Time Attack &Race the Bumblebees &Exit Level
+[61]	The easiest way to complete this time attack is to fly through all the honeycombs first, then pass through the bee-hives, then defeat the bees, and save the boat riding bears for last. Once you've solved it that way, you can always find ways to solve it faster.
+[193]	You're opponents are a gang of giant bumblebees this time! The red dots will mark the course. Make sure to fly through each of the green rings. &[Fly through all green rings &[Use the red dots to guide you.
+[436]	Are you done already? Too bad, I was having fun watching...
+[475]	Yippee! We won another egg for defeating the time trial!
+[1042]	We won an egg for first prize! Those dumblebees should have known better than to challenge a dragon to a flying race.
+[474]	Going for the speed record, huh? Good luck!
+[206]	Remember to go for every blue turbo star that you can, even if it means straying from the course. Just don't miss any rings, or you'll be disqualified. &[Use the blue turbo stars. &[Fly through all green rings
+[103]	Remember, you don't have to follow the red dots exactly. Try to take short cuts between rings when you can. Also, for the fastest speed, always try to fly as low as you can. &[Cut corners between the green rings. &[Flying lower gives you extra speed.
+[192]	Honeycomb Speedway is home to the fastest racing bees in the world. It's also one of the only speedways that operates at night!
+
+  (Hunter)
+[157]	Look out, Spyro, there's a really big sheep UFO around here, and it's trying to get me! I snatched up a dragon egg it was trying to abduct, and now it wants revenge!
+[1123]	You wait here, I'll lure the UFO down the river of honey! &Should Hunter go for it? &Go ahead, I'll cover you! &Nah, it's no big deal.
+[1169]	OK, here I go!
+[1092]	I don't know, Spyro, I've never seen a sheep UFO this mad before...
+[269]	Ha ha! Did you see that? Nobody outraces a cheetah! And look, I didn't even drop the egg!
+[0]	-

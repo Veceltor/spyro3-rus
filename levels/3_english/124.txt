@@ -1,0 +1,183 @@
+124: Bamboo Terrace
+
+  (Lei)
+[1148]	Please be careful those rockets are dangerous!
+[536]	Please would you be so kind as to step aside.
+[462]	Oh no, I think that water buffalo is going to trample me.
+[556]	Just let me catch my breath.
+[449]	If only there were three of us I'm sure we could reach that switch to open the drawbridge.
+[0]	-
+[0]	-
+[0]	-
+
+  (Chi Chi)
+[538]	Help, help!
+[1164]	Please would you be so kind as to step aside.
+[461]	If you could rescue Li we'd be able to push this boulder out of the way.
+[1067]	Pushing that boulder was hard work, but as soon as I've caught my breath I'll return to collecting bamboo.
+[448]	Wahey! Ahem, sorry the excitement got the better of me.
+
+  (Feng)
+[1070]	We would gladly pull the switch to open the drawbridge, if only there weren't all these nasty creatures chasing us.
+[1166]	Please would you be so kind as to step aside.
+[0]	-
+[0]	-
+[446]	If only there were three of us I'm sure we could reach that switch to open the drawbridge.
+[0]	-
+
+  (Li)
+[435]	Do you mind? I'm trying to avoid being trampled by a water buffalo.
+[1163]	Please would you be so kind as to step aside.
+[1116]	If you could rescue Chi Chi we'd be able to push this boulder out of the way.
+[1066]	Pushing that boulder was hard work, but as soon as I've caught my breath I'll return to collecting bamboo.
+[447]	Wahey! Ahem, sorry the excitment got the better of me.
+
+  (Tsai)
+[570]	Help!!
+[537]	Please would you be so kind as to step aside.
+[0]	-
+[1115]	I'll be with you momentarily, I just need to rest for a second.
+[1104]	If only there were three of us I'm sure we could reach that switch to open the drawbridge.
+
+  (-)
+[0]	To All Explorers: There is no yeti here, and there never was! He was just a myth. As far as you know.      -The Sorceress
+[0]	Dreadfully sorry to inconvenience you, Spyro, but I have been detained for the moment. Please come visit my outpost, if it suits you.        -Bentley
+[0]	Welcome, most esteemed dragon.        -Bentley
+
+  (Feng)
+[1070]	We would gladly pull the switch to open the drawbridge, if only there weren't all these nasty creatures chasing us.
+[1166]	Please would you be so kind as to step aside.
+[0]	-
+[0]	-
+[446]	If only there were three of us I'm sure we could reach that switch to open the drawbridge.
+[0]	-
+
+  (Ling Ling)
+[97]	Spyro! Rhynocs have been harassing us all day. The workers haven't been able to harvest the bamboo needed for the whirligig to take you to Evening Lake. We've tried asking them to leave, but there's no reasoning with them.
+[391]	If you could clear the way for Chi Chi and Li they'd most likely be able to push that boulder out of your way.
+[485]	Thank you ever so much for opening the emergency bridge, Spyro.
+[562]	Doobedoobedoo.
+
+  (Sing Sing)
+[434]	We would be honored if you would accept this as a token of our appreciation.
+[333]	Oh! The emergency escape bridge! Why didn't I think of it sooner? I shall open it right away.
+[1136]	Would you care for a cup of my medicinal herbal tea?
+
+~~
+
+  (Feng)
+[1070]	We would gladly pull the switch to open the drawbridge, if only there weren't all these nasty creatures chasing us.
+[1166]	Please would you be so kind as to step aside.
+[0]	-
+[0]	-
+[446]	If only there were three of us I'm sure we could reach that switch to open the drawbridge.
+
+  (Feng)
+[1070]	We would gladly pull the switch to open the drawbridge, if only there weren't all these nasty creatures chasing us.
+[1166]	Please would you be so kind as to step aside.
+[0]	-
+[0]	-
+[446]	If only there were three of us I'm sure we could reach that switch to open the drawbridge.
+
+  (Feng)
+[1070]	We would gladly pull the switch to open the drawbridge, if only there weren't all these nasty creatures chasing us.
+[1166]	Please would you be so kind as to step aside.
+[0]	-
+[0]	-
+[446]	If only there were three of us I'm sure we could reach that switch to open the drawbridge.
+
+  (Shui)
+[205]	Please help us Spyro! My friends are trying to go home after a long shift in the fields, but rotten rhynocs keep knocking them down. Can you save the panda workers? &Flame all rhynocs? &You bet!&Um, sounds too tough for me.
+[426]	Please, hop aboard. Make sure to toast the rhynocs, but not my friends!
+[355]	I'm sure you have many important things to do, but if you could find the time to help please come back.
+[523]	I'm sure you would succeed if you were to try again. &Flame all rhynocs? &Yes.&No.
+[507]	Please take this shiny egg, it will bring you good luck.
+[1135]	Would you like to try some of this bamboo, it tastes great.
+[293]	Thank you for offering to help Spyro, but surely even you wouldn't be able to defeat all those rhynocs until the power up is active.
+
+  (Feng)
+[1070]	We would gladly pull the switch to open the drawbridge, if only there weren't all these nasty creatures chasing us.
+[1166]	Please would you be so kind as to step aside.
+[0]	-
+[0]	-
+[446]	If only there were three of us I'm sure we could reach that switch to open the drawbridge.
+
+  (Feng)
+[1070]	We would gladly pull the switch to open the drawbridge, if only there weren't all these nasty creatures chasing us.
+[1166]	Please would you be so kind as to step aside.
+[0]	-
+[0]	-
+[446]	If only there were three of us I'm sure we could reach that switch to open the drawbridge.
+
+  (Feng)
+[1070]	We would gladly pull the switch to open the drawbridge, if only there weren't all these nasty creatures chasing us.
+[1166]	Please would you be so kind as to step aside.
+[0]	-
+[0]	-
+[446]	If only there were three of us I'm sure we could reach that switch to open the drawbridge.
+
+  (Feng)
+[1070]	We would gladly pull the switch to open the drawbridge, if only there weren't all these nasty creatures chasing us.
+[1166]	Please would you be so kind as to step aside.
+[0]	-
+[0]	-
+[446]	If only there were three of us I'm sure we could reach that switch to open the drawbridge.
+
+  (Feng)
+[1070]	We would gladly pull the switch to open the drawbridge, if only there weren't all these nasty creatures chasing us.
+[1166]	Please would you be so kind as to step aside.
+[0]	-
+[0]	-
+[446]	If only there were three of us I'm sure we could reach that switch to open the drawbridge.
+
+  (Feng)
+[1070]	We would gladly pull the switch to open the drawbridge, if only there weren't all these nasty creatures chasing us.
+[1166]	Please would you be so kind as to step aside.
+[0]	-
+[0]	-
+[446]	If only there were three of us I'm sure we could reach that switch to open the drawbridge.
+
+  (Feng)
+[1070]	We would gladly pull the switch to open the drawbridge, if only there weren't all these nasty creatures chasing us.
+[1166]	Please would you be so kind as to step aside.
+[0]	-
+[0]	-
+[446]	If only there were three of us I'm sure we could reach that switch to open the drawbridge.
+
+  (Feng)
+[1070]	We would gladly pull the switch to open the drawbridge, if only there weren't all these nasty creatures chasing us.
+[1166]	Please would you be so kind as to step aside.
+[0]	-
+[0]	-
+[446]	If only there were three of us I'm sure we could reach that switch to open the drawbridge.
+
+  (Feng)
+[1070]	We would gladly pull the switch to open the drawbridge, if only there weren't all these nasty creatures chasing us.
+[1166]	Please would you be so kind as to step aside.
+[0]	-
+[0]	-
+[446]	If only there were three of us I'm sure we could reach that switch to open the drawbridge.
+
+  (Feng)
+[1070]	We would gladly pull the switch to open the drawbridge, if only there weren't all these nasty creatures chasing us.
+[1166]	Please would you be so kind as to step aside.
+[0]	-
+[0]	-
+[446]	If only there were three of us I'm sure we could reach that switch to open the drawbridge.
+
+  (Feng)
+[1070]	We would gladly pull the switch to open the drawbridge, if only there weren't all these nasty creatures chasing us.
+[1166]	Please would you be so kind as to step aside.
+[0]	-
+[0]	-
+[446]	If only there were three of us I'm sure we could reach that switch to open the drawbridge.
+
+~~
+
+  (Bartholomew)
+[463]	Hey, I think I saw some rhynocs run up to the top of that hill with an egg!
+[390]	Heh, heh, that looked like it hurt. You should try using your spin move to deflect those barrels.
+[375]	We sure made short work of those rhynocs! Aren't you glad I was here to help you rescue that baby dragon?
+
+  (Bentley)
+[1035]	Ah, a fine day for a bit of a walk. I was just heading to the top of my favorite hill...

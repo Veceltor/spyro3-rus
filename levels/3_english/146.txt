@@ -1,0 +1,25 @@
+146: Bentley's Outpost
+
+  (Bentley)
+[169]	I will gladly help you on your quest, Spyro, but first I must attend to my young sibling. I'm afraid he may have gotten himself into trouble during my absence.
+[1131]	It's good to know that Bartholomew is out of harm's way. &Leave the level? &Yes. &No.
+[248]	I will sojourn amongst the worlds and if I find any eggs I'll do my utmost to recover them for you.
+[387]	Ah well, I must return to my humble abode, for the time being.
+[454]	I'm afraid I still have to attend to the safety of young Bartholomew. &Level not finished... &Do you really want to leave? &Yes. &No.
+[385]	Well I'd love to leave with you but I still have to look after Bartholomew.
+[1038]	I'm afraid my home is still infested with rhynocs, I'll return when they are dealt with.
+
+  (Bartholomew)
+[409]	Hey bro! It'd be really cool if you smashed that boulder. A swift smack should do the trick.
+[1049]	C'mon, c'mon just press the { button to swing your club. I wanna see it break into a million pieces.
+[1088]	I heard those big bullies calling you a wuss. You're not going to let them get away with that are you?
+[335]	If you use your spin move to deflect the snowball into the gong I bet we can make the roof cave in.
+[347]	We have to get the timing just right. Press the > button to spin your club when I throw a snowball.
+[411]	It took me forever to train those seals to throw snowballs. Now they've gone and turned on me!
+[466]	Oh no, another seal, and this one looks really mean.
+[410]	Another gong, great. I bet we can cause an avalanche with this one!
+[308]	A stinkin' rhynoc has blocked the way with this box. It shouldn't be any problem for you to push it out of the way though.
+[282]	Pushing that block is easy for a big guy like you. Just stand next to the block and push forward on the directional button.
+[1033]	Hey brainiac, you're supposed to be smart. Why don't you try pushing those blocks around to bridge that gap?
+[501]	Thanks bro! Here's a little something for your rock collection.
+[543]	Hey you're in the way. Move it!

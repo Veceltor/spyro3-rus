@@ -1,0 +1,53 @@
+154: Crystal Islands
+
+  (Moneybags)
+[73]	Spyro, did you know I happen to be a very talented amateur magician? My specialty is the, err... 'Amazing Extending Bridge' trick. I'd love to show you, but I need a small donation first... for my expenses, you understand... &Pay ^^^^ gems to cross the bridge? &Not again... Ok, fine... &I'm happy over here.
+[255]	Very good. Errr... let's see... 'Hocus Pocus, Zigglety Zen, Make This Bridge Get Long Again!'
+[280]	You shouldn't anger a magician, Spyro. I just might decide to turn you into a blue hedgehog or something.
+[47]	Hmph... These gnomes think they're so talented... I happen to know a pretty good magic trick, myself! It's called the... incredible... magical... err, extending bridge trick. However, you'll need a few more gems to make a donation... After all, I am just a poor, starving amateur magician... &[Crossing bridge costs ^^^^ gems.
+[1075]	I'm afraid the show's over, Spyro. Why don't you go play with the gnomes? I think they look lonely.
+
+  (-)
+[0]	-
+[0]	-
+[0]	Welcome, most esteemed dragon.\        -Bentley
+
+  (The Marvelous Magnifico)
+[115]	Shhh! Spyro, don't tell anyone but we've stolen some magic from the Sorceress. We're hiding here whilst we practice using it. Unfortunately we've had a bit of an accident and turned everything into crystal, and it seems to have aggravated the indiginous creatures.
+[1156]	I really think I'm beginning to get the hang of this magic malarkey.
+[279]	Acrabadabar...no...acrabadadoo...no, no, that isn't right. Just hold on a minute I'll get it.
+
+  (The Fantastic Frederico)
+[1018]	All this magic is just misdirection you know. Which is why I'm going to start that whirlwind over there... ABRACADABRA!
+[1016]	Ok, I'll show you again. If you watch carefully maybe you'll be able to see how it's done... ABRACADABRA!
+[431]	I'm working on a new trick now, but I've left the whirlwind going in case you need to use it.
+
+  (The Astounding Arturo)
+[1126]	I've been working on a great new magic trick, but this bear keeps spoiling it.
+[189]	Well, I suppose I could show you my new trick. As long as you promise not to tell the Great Zamboni, he steals all my best work... ALAKAZAM!
+[405]	Did you tell the Great Zamboni? That charlatan has been stealing my tricks again.
+
+  (The Magnificent Marvello)
+[1074]	Here, you can have this. I was going to use it in a trick, but my magic just keeps bouncing off.
+[0]	-
+
+  (The Great Zamboni)
+[95]	Would you like to see a magic trick? Watch carefully, as you can see there is nothing up my left sleeve, nothing up my right sleeve, but now with a wave of my hands and the magic word... ALAKAZAM!
+[1015]	You want to see the trick again? Well, alright but I want you to know this isn't as easy as it looks... ALAKAZAM!
+[421]	Hey, I finally seem to have got the hang of this, those crystals have stayed up for ages.
+
+~~
+
+  (Bentley)
+[1002]	Good evening Spyro. The Amazing Randini is about to put on a display of prestidigitation. I've heard that it's quite impressive so I'm going to watch the show.
+
+  (The Amazing Randini)
+[241]	I'm afraid my magic show seems to have over excited the moles. They need a good bonk on the head to calm them down, and you look like just the man to help. &Bash the moles? &Yes &No
+[406]	A light tap on the head should sort them out, but watch out for my friends, they're trying to burrow after them. &[Bash the moles with your club. &[Don't bash the gnomes.
+[460]	Well I hope the moles calm down soon, I've created a fantastic new trick I want to show them.
+[322]	The moles are still a little over excited and I can't start my next performance unitl they calm down, are you sure you can't help? &Bash the moles? &Yes &No
+[423]	I don't think you should be wasting time talking to me, those moles are still going crazy.
+[407]	Well that didn't do it. See they've got themselves all worked up into a tizzy. You'll have to try again. &Try to bash the moles again? &Yes &No
+[1082]	Well done, and look, one of my friends dug up this whilst chasing the moles.
+[1064]	I'm afraid I've had to cancel my next performance. One of the moles ate all my magic cards.
+[0]	-
