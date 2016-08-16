@@ -1,4 +1,0 @@
-function list(){var i=1;
-document.body.innerHTML='<ol start="0"><li><a href="home.htm">'+document.getElementsByTagName('xmp')[0].innerHTML.replace(/&/g,'&amp;').replace(/\</g,'&lt;').replace(/\>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&apos;').replace(/\*/g,'</a></li><li><a href="text/*.htm">').replace(/\*/g,function(){return i++})+'</a></li></ol>';}
-function page(p){
-document.body.innerHTML='<div><p>'+document.getElementsByTagName('xmp')[0].innerHTML.replace(/&/g,'&amp;').replace(/\</g,'&lt;').replace(/\>/g,'&gt;').replace(/"/g,'&quot;').replace(/(http:\/\/\S+?)(\s)/g,'<a target="_blank" href="$1">$1</a>$2').replace(/\x0A/g,'</p><p>').replace(/\x0D/g,'').replace(/\<p\>\<\/p\>/g,'</p><br /><p>')+'</p><p></p><br/></div>';}
