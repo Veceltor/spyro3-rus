@@ -1,4 +1,4 @@
-| Isabelle | "Egg by the stream" | Sunrise Spring Home
+ | Isabelle | "Egg by the stream" | Sunrise Spring Home
  | Coltrane | "Learn gliding" | Sunrise Spring Home
  | Ami | "Fly through the cave" | Sunrise Spring Home
  | Bruce | "Bottom of the lake" | Sunrise Spring Home
@@ -85,6 +85,7 @@
  | Ricco | "Box the yeti again!" | Frozen Altars
  | Jana | "Melt the snowmen" | Frozen Altars
  | Jasper | "Across the rooftops" | Frozen Altars
+ | Ba'ah | "Catch the ice cats" | Frozen Altars
  | Craig | "Find Crazy Ed's treasure" | Lost Fleet
  | Chad | "Swim through acid" | Lost Fleet
  | Ethel | "Sink the subs I" | Lost Fleet
@@ -133,7 +134,7 @@
  | TJ | "Tank blast II" | Haunted Tomb
  | Will | "Release the temple dweller" | Haunted Tomb
  | Roxy | "Clear the caves" | Haunted Tomb
- | Malcom | "Snake slide" | Haunted Tomb
+ | Malcolm | "Snake slide" | Haunted Tomb
  | Dan | "Leap of faith" | Dino Mines
  | Romey | "Swim through the wall" | Dino Mines
  | Kiki | "Jail break!" | Dino Mines
@@ -144,3 +145,6 @@
  | Jessie | "Race the blue footed boobies" | Harbor Speedway
  | Sara | "Hunter's Pursuit" | Harbor Speedway
  | George | "Defeat the Sorceress?" | Sorceress's Lair
+ | Al | "Egg for sale" | Midnight Mountain Home
+ | Anabelle | "Shut down the factory" | Bugbot Factory
+ | Yin Yang | "Woo, a secret egg" | Super Bonus Round
